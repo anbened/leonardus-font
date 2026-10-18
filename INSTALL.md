@@ -7,6 +7,7 @@ interna **1.270**. Il font è in formato TrueType.
 ## Windows
 
 1. Scarica il TTF. Se GitHub mostra la pagina del file, scegli **Download raw file**.
+   Se hai scaricato un archivio ZIP, estrailo prima di aprire il font.
 2. Apri il TTF e premi **Installa**, oppure usa **Installa** nel menu contestuale.
 3. Chiudi e riapri Word, PowerPoint o l'applicazione in cui vuoi usarlo.
 4. Seleziona **Leonardus** dall'elenco dei caratteri.

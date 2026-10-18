@@ -6,19 +6,22 @@ Leonardus Regular porta un lavoro di ricerca e disegno tipografico in un font
 leggibile da sinistra a destra. Puoi scaricarlo e usarlo nei tuoi documenti,
 oppure esplorarne i sorgenti e il percorso di realizzazione.
 
-**[Scarica il font 1.270](fonts/Leonardus-Regular-1.270.ttf)** ·
+**[Font TTF 1.270](fonts/Leonardus-Regular-1.270.ttf)** ·
 **[Installazione](INSTALL.md)** ·
 **[Campionario PDF](specimen/Leonardus-1270-Print-Specimen.pdf)**
 
 ![Leonardus Regular 1.270: parole, alfabeti e accenti](specimen/Leonardus-Preview.png)
 
-## Iniziare
+## Scaricare e installare
 
-1. Apri il collegamento al font e premi **Download raw file** nella pagina
+1. Apri [Font TTF 1.270](fonts/Leonardus-Regular-1.270.ttf) e premi
+   **Download raw file** nella pagina
    GitHub per salvare `Leonardus-Regular-1.270.ttf`.
 2. Su Windows apri il file e scegli **Installa**.
 3. Riapri l'applicazione e seleziona **Leonardus**, stile **Regular**.
 
+Per installare Leonardus basta questo **singolo TTF**. Gli altri font nella
+cartella `fonts/` sono checkpoint conservati per confronto.
 Il font non richiede Python o altri strumenti di sviluppo per essere usato.
 La [guida](INSTALL.md) comprende la prova locale nel browser e i problemi più
 comuni. Il PDF mostra il carattere a 12, 18, 36 e 72 punti.
@@ -54,6 +57,10 @@ La [guida al progetto](docs/PROJECT.md) spiega il metodo, il ruolo dell'AI e
 la distinzione tra evidenza storica e scelte di disegno.
 
 ## Dentro il repository
+
+Il comando GitHub **Code > Download ZIP** scarica l'intero progetto, con
+sorgenti, documentazione e prove. Serve a chi vuole esplorare o ricostruire
+il font; per installarlo basta il TTF indicato sopra.
 
 | Percorso | Contenuto |
 |---|---|
