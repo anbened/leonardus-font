@@ -1,0 +1,224 @@
+{
+  "version": "1.211",
+  "date": "2026-10-15",
+  "family": "Leonardus 1211",
+  "status": "pq_spacing_correction_candidate",
+  "font_sha256": "75e11eb8b0cfe807c37c17900b68726c4865e3d76e91d92656aa203d568d8482",
+  "human_design_selection_retained": {
+    "o": "B",
+    "p": "A",
+    "q": "B",
+    "r": "B"
+  },
+  "approval_scope": "Authorized p/q sidebearing correction and installation; no new human visual design, reading, boundary, authenticity or public release approval",
+  "tests": {
+    "passed": 153,
+    "skipped": 5,
+    "failed": 0,
+    "skip_reason": "Existing Windows symlink tests require unavailable privileges"
+  },
+  "reproducibility": {
+    "two_builds_identical": true,
+    "font_matches_included_ttf": true,
+    "word_proof_reproduced_in_clean_checkout": true,
+    "previous_fonts_1_000_1_100_1_200_1_210_unchanged": true,
+    "source_date_epoch": 0
+  },
+  "font": {
+    "mapped_codepoints": 119,
+    "glyphs": 121,
+    "horizontally_translated_glyphs": {
+      "p": 4,
+      "q": -54
+    },
+    "outline_shapes_preserved_point_for_point_up_to_translation": true,
+    "other_outlines_components_and_metrics_preserved": true,
+    "combining_anchors_tested": true,
+    "embedding_fsType": 0
+  },
+  "adjustments": {
+    "p": {
+      "before": {
+        "advance": 440,
+        "left": 51,
+        "right": 99
+      },
+      "after": {
+        "advance": 400,
+        "left": 55,
+        "right": 55
+      },
+      "translation_x": 4
+    },
+    "q": {
+      "before": {
+        "advance": 450,
+        "left": 114,
+        "right": 7
+      },
+      "after": {
+        "advance": 405,
+        "left": 60,
+        "right": 16
+      },
+      "translation_x": -54
+    }
+  },
+  "spacing": {
+    "pairs_per_size": 2704,
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "ink_threshold": 127,
+    "ink_collisions_per_size": 0,
+    "scope": "Unhinted grayscale raster test; word inspection supplements measurements without certifying optical uniformity in every application"
+  },
+  "pair_diagnostics": {
+    "before": {
+      "no": {
+        "outline_bbox_gap_units": 123,
+        "projected_body_gap_units": 128.88
+      },
+      "op": {
+        "outline_bbox_gap_units": 110,
+        "projected_body_gap_units": 140.12
+      },
+      "pq": {
+        "outline_bbox_gap_units": 213,
+        "projected_body_gap_units": 225.16
+      },
+      "qr": {
+        "outline_bbox_gap_units": 77,
+        "projected_body_gap_units": 133.59
+      },
+      "rs": {
+        "outline_bbox_gap_units": 132,
+        "projected_body_gap_units": 141.16
+      },
+      "po": {
+        "outline_bbox_gap_units": 167,
+        "projected_body_gap_units": 178.28
+      },
+      "pr": {
+        "outline_bbox_gap_units": 169,
+        "projected_body_gap_units": 178.28
+      },
+      "pp": {
+        "outline_bbox_gap_units": 150,
+        "projected_body_gap_units": 178.28
+      },
+      "qu": {
+        "outline_bbox_gap_units": 74,
+        "projected_body_gap_units": 137.5
+      },
+      "qp": {
+        "outline_bbox_gap_units": 58,
+        "projected_body_gap_units": 133.59
+      },
+      "aq": {
+        "outline_bbox_gap_units": 169,
+        "projected_body_gap_units": 178.28
+      },
+      "qq": {
+        "outline_bbox_gap_units": 121,
+        "projected_body_gap_units": 180.47
+      }
+    },
+    "after": {
+      "no": {
+        "outline_bbox_gap_units": 123,
+        "projected_body_gap_units": 128.88
+      },
+      "op": {
+        "outline_bbox_gap_units": 114,
+        "projected_body_gap_units": 144.03
+      },
+      "pq": {
+        "outline_bbox_gap_units": 115,
+        "projected_body_gap_units": 126.56
+      },
+      "qr": {
+        "outline_bbox_gap_units": 86,
+        "projected_body_gap_units": 143.28
+      },
+      "rs": {
+        "outline_bbox_gap_units": 132,
+        "projected_body_gap_units": 141.16
+      },
+      "po": {
+        "outline_bbox_gap_units": 123,
+        "projected_body_gap_units": 134.38
+      },
+      "pr": {
+        "outline_bbox_gap_units": 125,
+        "projected_body_gap_units": 134.38
+      },
+      "pp": {
+        "outline_bbox_gap_units": 110,
+        "projected_body_gap_units": 138.28
+      },
+      "qu": {
+        "outline_bbox_gap_units": 83,
+        "projected_body_gap_units": 147.19
+      },
+      "qp": {
+        "outline_bbox_gap_units": 71,
+        "projected_body_gap_units": 147.19
+      },
+      "aq": {
+        "outline_bbox_gap_units": 115,
+        "projected_body_gap_units": 123.59
+      },
+      "qq": {
+        "outline_bbox_gap_units": 76,
+        "projected_body_gap_units": 135.47
+      }
+    },
+    "scope": "BBox gaps are exact font units. Body projections use raster ink >127 at 256 ppem between baseline and y=400. These measurements accompany word inspection; they do not certify optical uniformity."
+  },
+  "proofs": {
+    "sizes_pt": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "renderer": "HarfBuzz and FreeType; compiled font without fallback",
+    "all_four_word_comparisons_visually_inspected": true,
+    "summary_comparison_visually_inspected": true,
+    "browser_both_versions_load_and_select": true,
+    "browser_restored_to_1_211": true
+  },
+  "windows": {
+    "installed_in_current_user_account": true,
+    "registered_family": "Leonardus 1211",
+    "gdi_font_bytes_match": true,
+    "previous_families_preserved": true,
+    "native_word_or_powerpoint_test_1_211": false
+  },
+  "historical_registry": {
+    "unchanged": true,
+    "samples": 144,
+    "reviewed": 101,
+    "candidates": 43,
+    "lowercase_with_reviewed_readings": 20,
+    "reasoned_completions": 6
+  },
+  "distribution": {
+    "privacy_findings": 0,
+    "context": "Isolated intended source tree; unrelated modified local PDFs excluded",
+    "inventory": "MANIFEST.json and CONTENTS.txt"
+  },
+  "not_claimed": {
+    "new_human_visual_design_approval": false,
+    "new_readings_or_boundary_approvals": false,
+    "physical_print_test": false,
+    "independent_paleographic_review": false,
+    "public_release_approved": false
+  }
+}

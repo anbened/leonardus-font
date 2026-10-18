@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-15",
+  "status": "unapproved_design_variants_for_comparison",
+  "base_font_version": "1.211",
+  "base_font_sha256": "75e11eb8b0cfe807c37c17900b68726c4865e3d76e91d92656aa203d568d8482",
+  "selected_letters": "aemnu",
+  "svg_proposals": 10,
+  "approved_for_integration": false,
+  "new_human_visual_approval": false,
+  "higher_detail_search": {
+    "existing_reviewed_localizations_reexamined": 27,
+    "new_higher_detail_target_samples_acquired": false,
+    "bne_pdf_adds_effective_detail": false,
+    "arundel_images_acquired_or_used": false,
+    "limitation": "The variants use existing BNE localizations and wider contexts; enlargement does not add source pixels."
+  },
+  "tests": {
+    "passed": 162,
+    "skipped": 5,
+    "failed": 0,
+    "skip_reason": "Existing Windows symlink tests require unavailable privileges"
+  },
+  "font_checks": {
+    "mapped_codepoints": 119,
+    "glyphs": 121,
+    "complete_series_two_builds_identical": true,
+    "isolated_letter_comparisons_preserve_other_glyphs": true,
+    "accent_dependencies": [
+      "à",
+      "è",
+      "é",
+      "ù"
+    ],
+    "combining_anchors_and_precomposed_alignment_tested": true,
+    "all_advances_preserved": true,
+    "other_release_fonts_unchanged": true,
+    "evidence_registry_unchanged": true
+  },
+  "pair_checks": {
+    "pairs_per_font_and_size": 2704,
+    "complete_series": [
+      "A",
+      "B"
+    ],
+    "complete_series_ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "isolated_fonts": 10,
+    "isolated_ppem": 128,
+    "threshold": 127,
+    "total_pair_conditions": 54080,
+    "ink_collisions": 0,
+    "scope": "Unhinted grayscale raster checks; no universal optical or reading certification"
+  },
+  "proofs": {
+    "renderer": "HarfBuzz and FreeType; compiled fonts without fallback",
+    "sizes_pt": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "summary_visually_inspected": true,
+    "all_four_sizes_visually_inspected": true,
+    "browser_all_13_fonts_loaded": true,
+    "browser_editable_text_updates_three_columns": true,
+    "browser_unsupported_character_warning_tested": true,
+    "browser_size_and_reset_tested": true,
+    "browser_historical_details_open": true
+  },
+  "distribution": {
+    "privacy_findings": 0,
+    "inventory": "MANIFEST.json and CONTENTS.txt",
+    "context": "Isolated intended source tree; unrelated modified local PDFs excluded",
+    "manuscript_images_in_git": false
+  },
+  "human_decision_pending": true,
+  "installed_font_unchanged": true,
+  "public_release_approved": false,
+  "fonts": [
+    {
+      "variant": "A",
+      "letters": "aemnu",
+      "sha256": "f831e263f21a12691bc1a811007507fe4dc79a8dbf9d20a60302c00c425839ea",
+      "family": "Leonardus AEMNU A"
+    },
+    {
+      "variant": "A",
+      "letters": "a",
+      "sha256": "7e42ea09e246a5f3e9b4f4d7072921207265206194ab7f0809f181c69a2f82a5",
+      "family": "Leonardus AEMNU A a"
+    },
+    {
+      "variant": "A",
+      "letters": "e",
+      "sha256": "7ec4eec4cb4741601fdcd9a77e5694be02c6464b1fb7a19906fdb2100cdd212d",
+      "family": "Leonardus AEMNU A e"
+    },
+    {
+      "variant": "A",
+      "letters": "m",
+      "sha256": "30da097f8567b63a8b327cd3cac930ccdf38f98ca6a9ffe168858baf7467d9d1",
+      "family": "Leonardus AEMNU A m"
+    },
+    {
+      "variant": "A",
+      "letters": "n",
+      "sha256": "e06c83fa5cf02d82745d9bd56765ecd6447118e23b530f6f7c7a347f857e8e8f",
+      "family": "Leonardus AEMNU A n"
+    },
+    {
+      "variant": "A",
+      "letters": "u",
+      "sha256": "06f3b592beeea6ca13460b62ceff5c7ca4abc32dbeb7aaf2aff0ada578bab8c2",
+      "family": "Leonardus AEMNU A u"
+    },
+    {
+      "variant": "B",
+      "letters": "aemnu",
+      "sha256": "7f4916d4b0bf63138d5a75cd37d409dbe2eb4d71835da494a4adb59eeabb9f3d",
+      "family": "Leonardus AEMNU B"
+    },
+    {
+      "variant": "B",
+      "letters": "a",
+      "sha256": "42d545b4951b10be9ca2239f3488313250c2e5af7a401a27d7ee631c73751428",
+      "family": "Leonardus AEMNU B a"
+    },
+    {
+      "variant": "B",
+      "letters": "e",
+      "sha256": "059fa4050c63bcb5fc0ac1a3e4307a0cdb57fb5fa4f28efc4d7c28889bb6c5a7",
+      "family": "Leonardus AEMNU B e"
+    },
+    {
+      "variant": "B",
+      "letters": "m",
+      "sha256": "4fa31f0d3f36bf86e5e01dcbf926012d10f03ccb3ec7a6ba7cd8111938d8a694",
+      "family": "Leonardus AEMNU B m"
+    },
+    {
+      "variant": "B",
+      "letters": "n",
+      "sha256": "c6543e8293f526d1c0d10f8a701205a5d2640eeab861295d22d1488fec323006",
+      "family": "Leonardus AEMNU B n"
+    },
+    {
+      "variant": "B",
+      "letters": "u",
+      "sha256": "d561dfdb305935f121366fbc9e058ff1ade79289f70dd650d627911c93380055",
+      "family": "Leonardus AEMNU B u"
+    }
+  ]
+}

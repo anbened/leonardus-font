@@ -1,0 +1,2795 @@
+{
+  "batch_id": "lowercase-search-2026-10-14",
+  "date": "2026-10-14",
+  "status": "candidate",
+  "human_review": false,
+  "scope": "Targeted search for h/j/k/v/w/x/y and reinforcement of b/c/i/z; no change to accepted font.",
+  "coordinate_system": "Raw original pixels x/y/w/h; horizontal reflection only. Viewer page IDs are stable locators; foliation statuses remain pending human review.",
+  "confidence_convention": "CSV0.0 means not estimated, not a calibrated probability or rejection.",
+  "baseline_evidence_count": 109,
+  "baseline_evidence_prefix_sha256": "4216719c9ff89e0b86c8fbfbf1d3c273ac5ad3b202856e49b041af8da338760e",
+  "source": {
+    "source_id": "BNE_MADRID_I",
+    "url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+    "viewer_url": "https://bnedigital.bne.es/bd/es/viewer?id=1354ee8e-5c8d-4f9c-bb4c-6963121b7a7e",
+    "attribution": "Imágenes procedentes de los fondos de la Biblioteca Nacional de España",
+    "rights_verified_on": "2026-10-14",
+    "rights": "Official JPEG download panel page22: public domain, CC BY4.0 or equivalent, attributionBNE, free use without prior authorization; source images and derived crops not distributed."
+  },
+  "images": [
+    {
+      "page": 15,
+      "folio": "1v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-015.jpg",
+      "download_name": "MSS-8937-TRATADO-1.jpg"
+    },
+    {
+      "page": 17,
+      "folio": "2v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-017.jpg",
+      "download_name": "MSS-8937-TRATADO-2.jpg"
+    },
+    {
+      "page": 19,
+      "folio": "3v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "e56dd47b-c6b2-4850-9783-e97d74f6e3b4",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "53b3580020de066a3023fd0c1ff4855e031ad01c78370e110d0cd3476e60b065",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-019.jpg",
+      "download_name": "MSS-8937-TRATADO-3.jpg"
+    },
+    {
+      "page": 21,
+      "folio": "4v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "9877dc51-807d-475d-9d3e-81e40fcce7d3",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-021.jpg",
+      "download_name": "MSS-8937-TRATADO-4.jpg"
+    },
+    {
+      "page": 22,
+      "folio": "5r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "36820103-6d7a-4f60-98da-d20a0172d227",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-022.jpg",
+      "download_name": "MSS-8937-TRATADO-5.jpg"
+    },
+    {
+      "page": 24,
+      "folio": "6r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "ca49e88a-95a9-483f-89bb-7ebd77b51755",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "e069f9222dc363e088155309ddff087dc908ed3973c20ab2cfb4510392c0d443",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-024.jpg",
+      "download_name": "MSS-8937-TRATADO-6.jpg"
+    },
+    {
+      "page": 26,
+      "folio": "7r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "2c080419-11b7-419b-bbc1-bae84d4e9ba2",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "c83c7077894edbb50c8b6276a770ed1c536f1d579bb7a753a0fe065924972c9d",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-026.jpg",
+      "download_name": "MSS-8937-TRATADO-7.jpg"
+    },
+    {
+      "page": 28,
+      "folio": "8r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "7b9d64e2-22b8-4aca-844b-5623f3d39f7a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "29552f3090e029d5134a8fda7114ca761233b55e83c44df6f95bfd36d688fffa",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-028.jpg",
+      "download_name": "MSS-8937-TRATADO-8.jpg"
+    },
+    {
+      "page": 30,
+      "folio": "9r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "785e3014-14bc-4285-927f-97ec764d3a71",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "cba3a2f0eaeefeb863895627c3481c6b8e8922c648a9790bf72e57ecf54f8d1c",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-030.jpg",
+      "download_name": "MSS-8937-TRATADO-9.jpg"
+    },
+    {
+      "page": 32,
+      "folio": "10r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "d3b4fa5f-5ac7-4019-baad-8520d5757299",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "2376993aa96f08f295fe86913362985832b100a66d8c54276ef0be658669bcf3",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-032.jpg",
+      "download_name": "MSS-8937-TRATADO-10.jpg"
+    },
+    {
+      "page": 34,
+      "folio": "11r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "c74e9c42-61a0-4f97-9159-33ddeff3d7fa",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "0900e4b5b3f34820f46e223c8970c37754cf6c1c4dee90290bdbc754dee05a6c",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-034.jpg",
+      "download_name": "MSS-8937-TRATADO-11.jpg"
+    },
+    {
+      "page": 36,
+      "folio": "12r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "64a576fb-9561-4b62-849c-91f5dc1e75af",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "b7e73178d51695e6a63e3be9c51b8eb96c669dfad003b76fb7c10aa7eba359ae",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-036.jpg",
+      "download_name": "MSS-8937-TRATADO-12.jpg"
+    },
+    {
+      "page": 67,
+      "folio": "27v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working viewer mapping; targeted using institutional e-Leo transcription for this folio; image/text concordance needs review.",
+      "source_image_id": "2d5ea8ff-fa8e-4699-a639-0b144025146b",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "91b89e664cc3e8cccf42b940037cd3b48046aefb7a146d18a080f48522d288e0",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-067.jpg",
+      "download_name": "MSS-8937-TRATADO-1.jpg"
+    },
+    {
+      "page": 319,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Arithmetic mapping rejected after comparison of diagrams; no folio-level candidate recorded from this page.",
+      "source_image_id": "162976ba-e20c-48cc-a2eb-ad43d7270c22",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "8041b19f5ca59581fe29b18abbba31bb667f15d563f2ca683ec62599af9e6d0c",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-319.jpg",
+      "download_name": "MSS-8937-TRATADO-2.jpg"
+    },
+    {
+      "page": 147,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Arithmetic mapping rejected after comparison of diagrams; no folio-level candidate recorded from this page.",
+      "source_image_id": "44508478-f1e0-44a7-a48f-30032234b6c7",
+      "identifier_basis": "Official displayed file UUID",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "607cb084e2e0afabda654e905105be8dc7b9e5efe9610592aa94e42acd565a18",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-147.jpg",
+      "download_name": "MSS-8937-TRATADO-1.jpg"
+    },
+    {
+      "page": 303,
+      "folio": "153v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "identifier_basis": "Official displayed file UUID",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-303.jpg",
+      "download_name": "MSS-8937-TRATADO-2.jpg"
+    },
+    {
+      "page": 305,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "d8abe080-7340-440f-841c-47797352a031",
+      "identifier_basis": "Official displayed file UUID",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "2d33f928b58afc64014f5619c6aeb6a844584ba7359801352558b79c5fe06e84",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-305.jpg",
+      "download_name": "MSS-8937-TRATADO-3.jpg"
+    },
+    {
+      "page": 307,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "de115f66-e1f5-4f44-a416-8f304ecf0193",
+      "identifier_basis": "Official displayed file UUID",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "f4d1a21dc993cc7293b3e78e07f33f05587a49d5d5f5837bab30ba41a2e3cd68",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-307.jpg",
+      "download_name": "MSS-8937-TRATADO-4.jpg"
+    },
+    {
+      "page": 309,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "85bdd627-4fbf-4fda-8003-86ea40cd5d97",
+      "identifier_basis": "Official displayed file UUID",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "6857e561adc450c83c68a4353297368e48190ddcb8079e096e1e34f384329e10",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-309.jpg",
+      "download_name": "MSS-8937-TRATADO-5.jpg"
+    },
+    {
+      "page": 311,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "8e25d9fa-3d3a-4bc1-8b6e-b350789335c7",
+      "identifier_basis": "Official displayed file UUID",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "dcc7f64fac2fd38d5e82c7b4252169b130d71a41c038d8502334dfd457d5e7d4",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-311.jpg",
+      "download_name": "MSS-8937-TRATADO-6.jpg"
+    },
+    {
+      "page": 313,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "a7be8a11-366f-4de4-a45a-aa52c95d9f9e",
+      "identifier_basis": "Official displayed file UUID",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "2afb1465adb6a3806705036d1416e3d4e7af704cf0914959fddb155e78d24f57",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-313.jpg",
+      "download_name": "MSS-8937-TRATADO-7.jpg"
+    },
+    {
+      "page": 315,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "BNE_MSS8937_viewer_page_315",
+      "identifier_basis": "Stable official viewer-page locator; file UUID not verified",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "9191ddfd8bd914acbf9ce14628d036ceeb20fa78513e98d0baab1ce1dcf31530",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-315.jpg",
+      "download_name": "MSS-8937-TRATADO-8.jpg"
+    },
+    {
+      "page": 317,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "BNE_MSS8937_viewer_page_317",
+      "identifier_basis": "Stable official viewer-page locator; file UUID not verified",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "bcf08adb13c8f7197f084d49c9b029710809c89257e59f41f900aa9797db7d40",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-317.jpg",
+      "download_name": "MSS-8937-TRATADO-9.jpg"
+    },
+    {
+      "page": 321,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "BNE_MSS8937_viewer_page_321",
+      "identifier_basis": "Stable official viewer-page locator; file UUID not verified",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "eb40b6fff7bb8719497ef19c73476e652e865fa9e09570386d27f2f9e28df54b",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-321.jpg",
+      "download_name": "MSS-8937-TRATADO-10.jpg"
+    },
+    {
+      "page": 323,
+      "folio": null,
+      "folio_status": "unresolved",
+      "folio_basis": "Viewer page is authoritative; physical foliation needs image/transcription concordance.",
+      "source_image_id": "BNE_MSS8937_viewer_page_323",
+      "identifier_basis": "Stable official viewer-page locator; file UUID not verified",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "8c5c0274adc9e9e437de96b9ea4f44b7679137d4022a3a04af7be5e48054f08e",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-323.jpg",
+      "download_name": "MSS-8937-TRATADO-11.jpg"
+    },
+    {
+      "page": 49,
+      "folio": "18v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-049.jpg",
+      "download_name": "MSS-8937-TRATADO.jpg"
+    }
+  ],
+  "coverage": {
+    "b": {
+      "candidates": 8,
+      "folios": [
+        "12r",
+        "1v",
+        "2v",
+        "3v",
+        "7r",
+        "9r"
+      ]
+    },
+    "c": {
+      "candidates": 1,
+      "folios": [
+        "9r"
+      ]
+    },
+    "h": {
+      "candidates": 13,
+      "folios": [
+        "10r",
+        "11r",
+        "12r",
+        "1v",
+        "2v",
+        "3v",
+        "4v",
+        "6r"
+      ]
+    },
+    "i": {
+      "candidates": 3,
+      "folios": [
+        "2v",
+        "4v",
+        "6r"
+      ]
+    },
+    "j": {
+      "candidates": 1,
+      "folios": [
+        "153v"
+      ]
+    },
+    "v": {
+      "candidates": 2,
+      "folios": [
+        "18v"
+      ]
+    },
+    "x": {
+      "candidates": 2,
+      "folios": [
+        "18v"
+      ]
+    },
+    "y": {
+      "candidates": 1,
+      "folios": [
+        "153v"
+      ]
+    },
+    "z": {
+      "candidates": 4,
+      "folios": [
+        "153v",
+        "4v"
+      ]
+    }
+  },
+  "research_sources": [
+    {
+      "institution": "Biblioteca Leonardiana, Comune di Vinci",
+      "url": "https://www.leonardodigitale.com/",
+      "scope": "Institutional critical transcription and facsimile index used as search aid only; no e-Leo images downloaded/distributed.",
+      "folio_links": [
+        "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-v",
+        "https://www.leonardodigitale.com/sfoglia/madrid-I/0003-r",
+        "https://www.leonardodigitale.com/sfoglia/madrid-I/0012-r",
+        "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v",
+        "https://www.leonardodigitale.com/sfoglia/madrid-I/0027-v",
+        "https://www.leonardodigitale.com/sfoglia/madrid-I/0067-v",
+        "https://www.leonardodigitale.com/sfoglia/madrid-I/0153-v"
+      ],
+      "index_results": {
+        "j": 1,
+        "k": 35,
+        "x": 37,
+        "y": 12,
+        "w": 0,
+        "v_exact_term": 33
+      },
+      "index_limit": "MadridI text index, no footnotes; index counts are not glyph counts or proof of absence. HTML residue justify can create j false matches; case and critical normalization need facsimile review."
+    }
+  ],
+  "folio_concordances": [
+    {
+      "viewer_page": 303,
+      "editorial_folio": "153v",
+      "status": "agent_visual_concordance_pending_human_review",
+      "basis": "Matching two pyramids, fan of6bars, fan of5circularweights and lower lever figures; visible manuscript number38 is a different numbering system."
+    },
+    {
+      "viewer_page": 49,
+      "editorial_folio": "18v",
+      "status": "agent_visual_concordance_pending_human_review",
+      "basis": "Two horizontal screws around wheel above, flintlock mechanisms below; references to spring v/x in critical transcription."
+    },
+    {
+      "viewer_page": 319,
+      "rejected_editorial_folio": "153v",
+      "status": "rejected_arithmetic_mapping",
+      "basis": "Different large circular weight diagram, not the indexed153v fan/pyramid page."
+    },
+    {
+      "viewer_page": 147,
+      "rejected_editorial_folio": "67v",
+      "status": "rejected_arithmetic_mapping",
+      "basis": "Levers/triangles instead of indexed67v stacked spinning-wheel apparatus;67v not yet located in BNE."
+    }
+  ],
+  "search_log": [
+    {
+      "page": 15,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "3 candidate selezionate. Nessuna j, v distinta da u, w, x o y sufficientemente sicura; forme di diagramma tenute separate dalla prosa. c cercata ma non prioritaria rispetto alle carenze indicate.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 17,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "4 candidate selezionate. Nessuna j, v distinta da u, w, x o y sufficientemente sicura; forme di diagramma tenute separate dalla prosa. c cercata ma non prioritaria rispetto alle carenze indicate.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 19,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "4 candidate selezionate. Nessuna j, v distinta da u, w, x o y sufficientemente sicura; forme di diagramma tenute separate dalla prosa. c cercata ma non prioritaria rispetto alle carenze indicate.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 21,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "5 candidate selezionate. Nessuna j, v distinta da u, w, x o y sufficientemente sicura; forme di diagramma tenute separate dalla prosa. c cercata ma non prioritaria rispetto alle carenze indicate.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 22,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "2 candidate selezionate. Nessuna j, v distinta da u, w, x o y sufficientemente sicura; forme di diagramma tenute separate dalla prosa. c cercata ma non prioritaria rispetto alle carenze indicate.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 24,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "2 candidate selezionate. Nessuna j, v distinta da u, w, x o y sufficientemente sicura; forme di diagramma tenute separate dalla prosa. c cercata ma non prioritaria rispetto alle carenze indicate.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 26,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "Prosa nelle due note inferiori: candidata b come riferimento a b. Nessuna nuova identificazione convincente per j k v w x y i z; assenza qui non prova assenza nel manoscritto.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 28,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "Note brevi attorno ai diagrammi: nessuna nuova candidata robusta per il gruppo cercato; le forme affini a v restano non separabili da u senza conferma lessicale.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 30,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "Rinforzo b da riferimento testuale e diagramma, c da sequenza testuale a b c d. Nessuna nuova h j k v w x y i z convincente.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 32,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "Candidata h nel gruppo letto hanno, ascendente ad occhiello. Nessuna identificazione convincente di j k v w x y; altre letture minute non promosse.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 34,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "Due candidate h nella nota inferiore. Le forme brevi simili a v/u non attribuite a v senza riscontro lessicale; nessuna nuova j k w x y convincente.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 36,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "outcome": "Candidate h/b nella prosa e b sul diagramma. K nel diagramma e testo ha aspetto capitale: esclusa come evidenza di k minuscola. X sopra la ruota è etichetta di caso non dimostrato: esclusa come x minuscola. Nessuna j w y convincente; forme v/u non assegnate a v.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 67,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "targeted_regions",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 319,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 147,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 303,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "targeted_regions",
+      "outcome": "Targeted samples selected where visual/context support exists; no exhaustive paleographic inventory.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 305,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 307,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 309,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 311,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 313,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 315,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 317,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 321,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 323,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "overview_for_folio_localization",
+      "outcome": "No sample selected; absence is not asserted.",
+      "review": "agent_visual_only"
+    },
+    {
+      "page": 49,
+      "targets": [
+        "h",
+        "j",
+        "k",
+        "v",
+        "w",
+        "x",
+        "y",
+        "b",
+        "c",
+        "i",
+        "z"
+      ],
+      "inspection": "targeted_regions",
+      "outcome": "Targeted samples selected where visual/context support exists; no exhaustive paleographic inventory.",
+      "review": "agent_visual_only"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "page": 19,
+      "character": "z",
+      "mirror_crop": [
+        457,
+        1341,
+        28,
+        40
+      ],
+      "mirror_context": [
+        400,
+        1305,
+        210,
+        105
+      ],
+      "token": "z (riferimento)",
+      "position": null,
+      "rationale": "Riferimento prima di ha e c; possibile z coordinata con i richiami del disegno.",
+      "doubts": "Ambiguità seria con numero2: mantenere campione ambiguo, non contare come copertura forte.",
+      "context_kind": "prose",
+      "observed_form": "Segno angoloso a forma di 2, senza coda inferiore.",
+      "alternatives": [
+        "2"
+      ],
+      "observed_label": "2 or z",
+      "status": "excluded_from_lowercase_evidence",
+      "exclusion_reason": "Numeral2 plausible; insufficient letter-level evidence.",
+      "source_image_id": "e56dd47b-c6b2-4850-9783-e97d74f6e3b4",
+      "image_sha256": "53b3580020de066a3023fd0c1ff4855e031ad01c78370e110d0cd3476e60b065",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-019.jpg",
+      "folio": "3v",
+      "folio_status": "working_mapping_pending_review"
+    },
+    {
+      "page": 17,
+      "character": "k",
+      "mirror_crop": [
+        921,
+        975,
+        51,
+        51
+      ],
+      "mirror_context": [
+        855,
+        935,
+        160,
+        135
+      ],
+      "token": "k (etichetta)",
+      "position": null,
+      "rationale": "Etichetta all estremo inferiore destro del diagramma.",
+      "doubts": "Forma prossima a K maiuscola: uso come indice non attesta una k minuscola di prosa.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta verticale alta con due bracci obliqui.",
+      "alternatives": [
+        "K"
+      ],
+      "observed_label": "K",
+      "status": "excluded_from_lowercase_evidence",
+      "exclusion_reason": "Capital K/case unresolved; no conversion to lowercase k.",
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-017.jpg",
+      "folio": "2v",
+      "folio_status": "working_mapping_pending_review"
+    },
+    {
+      "page": 22,
+      "character": "k",
+      "mirror_crop": [
+        879,
+        355,
+        41,
+        50
+      ],
+      "mirror_context": [
+        820,
+        320,
+        155,
+        145
+      ],
+      "token": "k (etichetta)",
+      "position": null,
+      "rationale": "Etichetta sopra la ruota superiore destra.",
+      "doubts": "Forma/caso da confermare; tratteggio del disegno sullo sfondo.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta verticale con biforcazione obliqua inferiore.",
+      "alternatives": [
+        "K"
+      ],
+      "observed_label": "K",
+      "status": "excluded_from_lowercase_evidence",
+      "exclusion_reason": "Capital K/case unresolved; no conversion to lowercase k.",
+      "source_image_id": "36820103-6d7a-4f60-98da-d20a0172d227",
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-022.jpg",
+      "folio": "5r",
+      "folio_status": "working_mapping_pending_review"
+    },
+    {
+      "page": 22,
+      "character": "k",
+      "mirror_crop": [
+        879,
+        861,
+        49,
+        48
+      ],
+      "mirror_context": [
+        820,
+        824,
+        180,
+        140
+      ],
+      "token": "k (etichetta)",
+      "position": null,
+      "rationale": "Etichetta nella replica inferiore del diagramma di ruote.",
+      "doubts": "Seconda configurazione dello stesso diagramma: campione distinto ma non una fonte indipendente; caso ambiguo.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta verticale con due bracci aperti obliqui.",
+      "alternatives": [
+        "K"
+      ],
+      "observed_label": "K",
+      "status": "excluded_from_lowercase_evidence",
+      "exclusion_reason": "Capital K/case unresolved; no conversion to lowercase k.",
+      "source_image_id": "36820103-6d7a-4f60-98da-d20a0172d227",
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-022.jpg",
+      "folio": "5r",
+      "folio_status": "working_mapping_pending_review"
+    }
+  ],
+  "remaining": {
+    "k": "Only capital K or unresolved isolated K observations selected; no lowercase assertion.",
+    "w": "No candidate selected in inspected regions; institutional text index returned0 under recorded filters, not proof of absence.",
+    "j_v_x_y": "New candidates require reading/case/form review and more occurrences; do not normalize automatically."
+  },
+  "samples": [
+    {
+      "page": 15,
+      "character": "b",
+      "mirror_crop": [
+        610,
+        419,
+        33,
+        48
+      ],
+      "mirror_context": [
+        568,
+        406,
+        164,
+        88
+      ],
+      "token": "bisogna",
+      "position": 1,
+      "rationale": "Inizio del token plausibile bisogna.",
+      "doubts": "Token da confermare; ascendente aperta superiormente.",
+      "context_kind": "prose",
+      "observed_form": "Ascendente con cappio superiore e piccola pancia inferiore.",
+      "alternatives": [],
+      "folio": "1v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-015.jpg",
+      "sample_id": "BNE_MI_SEARCH_015_B_01",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        935,
+        419,
+        33,
+        48
+      ],
+      "raw_context": [
+        846,
+        406,
+        164,
+        88
+      ]
+    },
+    {
+      "page": 17,
+      "character": "b",
+      "mirror_crop": [
+        509,
+        290,
+        28,
+        42
+      ],
+      "mirror_context": [
+        480,
+        251,
+        105,
+        110
+      ],
+      "token": "b (etichetta)",
+      "position": null,
+      "rationale": "Etichetta sul bordo superiore del disegno.",
+      "doubts": "Campione di etichetta, non prosa.",
+      "context_kind": "diagram_label",
+      "observed_form": "Ascendente con anello inferiore chiuso e inclinato.",
+      "alternatives": [],
+      "folio": "2v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-017.jpg",
+      "sample_id": "BNE_MI_SEARCH_017_B_02",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "unresolved_isolated_label",
+      "raw_crop": [
+        1041,
+        290,
+        28,
+        42
+      ],
+      "raw_context": [
+        993,
+        251,
+        105,
+        110
+      ]
+    },
+    {
+      "page": 19,
+      "character": "b",
+      "mirror_crop": [
+        426,
+        859,
+        36,
+        75
+      ],
+      "mirror_context": [
+        385,
+        819,
+        130,
+        124
+      ],
+      "token": "b (etichetta)",
+      "position": null,
+      "rationale": "Richiamo alla ruota inferiore sinistra.",
+      "doubts": "Il segmento del diagramma tocca la lettera; contorno parzialmente confuso con il segno tecnico.",
+      "context_kind": "diagram_label",
+      "observed_form": "Pancia ovale scura; ascendente sovrapposta alla linea verticale del diagramma.",
+      "alternatives": [],
+      "folio": "3v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "e56dd47b-c6b2-4850-9783-e97d74f6e3b4",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "53b3580020de066a3023fd0c1ff4855e031ad01c78370e110d0cd3476e60b065",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-019.jpg",
+      "sample_id": "BNE_MI_SEARCH_019_B_03",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "unresolved_isolated_label",
+      "raw_crop": [
+        1116,
+        859,
+        36,
+        75
+      ],
+      "raw_context": [
+        1063,
+        819,
+        130,
+        124
+      ]
+    },
+    {
+      "page": 26,
+      "character": "b",
+      "mirror_crop": [
+        580,
+        2048,
+        31,
+        42
+      ],
+      "mirror_context": [
+        510,
+        2025,
+        265,
+        80
+      ],
+      "token": "b",
+      "position": 1,
+      "rationale": "Riferimento b nel gruppo a b della prosa inferiore sinistra.",
+      "doubts": "Contesto a fine pagina denso; verificare che il crop isoli il segno senza il rigo sottostante.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente e occhiello basso a destra, distinta dalle forme capitale a due occhielli.",
+      "alternatives": [
+        "lettera di riferimento"
+      ],
+      "folio": "7r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "2c080419-11b7-419b-bbc1-bae84d4e9ba2",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "c83c7077894edbb50c8b6276a770ed1c536f1d579bb7a753a0fe065924972c9d",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-026.jpg",
+      "sample_id": "BNE_MI_SEARCH_026_B_04",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        967,
+        2048,
+        31,
+        42
+      ],
+      "raw_context": [
+        803,
+        2025,
+        265,
+        80
+      ]
+    },
+    {
+      "page": 30,
+      "character": "b",
+      "mirror_crop": [
+        357,
+        1305,
+        40,
+        56
+      ],
+      "mirror_context": [
+        285,
+        1260,
+        160,
+        170
+      ],
+      "token": "b",
+      "position": 1,
+      "rationale": "Etichetta b in basso a destra del meccanismo sinistro; confronto con la b nel riferimento testuale.",
+      "doubts": "Etichetta isolata; usare come supporto, non come unico campione per normalizzazione.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta ascendente e occhiello basso a destra, distinta dalle forme capitale a due occhielli.",
+      "alternatives": [
+        "etichetta diagrammatica"
+      ],
+      "folio": "9r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "785e3014-14bc-4285-927f-97ec764d3a71",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "cba3a2f0eaeefeb863895627c3481c6b8e8922c648a9790bf72e57ecf54f8d1c",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-030.jpg",
+      "sample_id": "BNE_MI_SEARCH_030_B_05",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "unresolved_isolated_label",
+      "raw_crop": [
+        1181,
+        1305,
+        40,
+        56
+      ],
+      "raw_context": [
+        1133,
+        1260,
+        160,
+        170
+      ]
+    },
+    {
+      "page": 30,
+      "character": "b",
+      "mirror_crop": [
+        306,
+        1621,
+        36,
+        55
+      ],
+      "mirror_context": [
+        120,
+        1600,
+        400,
+        100
+      ],
+      "token": "b",
+      "position": 1,
+      "rationale": "Riferimento b nella sequenza a b c d nel primo rigo della nota in basso a sinistra.",
+      "doubts": "È una lettera di riferimento in prosa tecnica, non un token lessicale.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente e occhiello basso a destra, distinta dalle forme capitale a due occhielli.",
+      "alternatives": [
+        "lettera di riferimento"
+      ],
+      "folio": "9r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "785e3014-14bc-4285-927f-97ec764d3a71",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "cba3a2f0eaeefeb863895627c3481c6b8e8922c648a9790bf72e57ecf54f8d1c",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-030.jpg",
+      "sample_id": "BNE_MI_SEARCH_030_B_06",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        1236,
+        1621,
+        36,
+        55
+      ],
+      "raw_context": [
+        1058,
+        1600,
+        400,
+        100
+      ]
+    },
+    {
+      "page": 36,
+      "character": "b",
+      "mirror_crop": [
+        944,
+        270,
+        34,
+        41
+      ],
+      "mirror_context": [
+        938,
+        260,
+        165,
+        95
+      ],
+      "token": "b",
+      "position": 1,
+      "rationale": "Riferimento b all’inizio del secondo rigo della prosa superiore, confrontabile con etichetta nel diagramma inferiore.",
+      "doubts": "Lettura del contesto provvisoria; riferimento isolato non token lessicale.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente e occhiello basso a destra, distinta dalle forme capitale a due occhielli.",
+      "alternatives": [
+        "lettera di riferimento"
+      ],
+      "folio": "12r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "64a576fb-9561-4b62-849c-91f5dc1e75af",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "b7e73178d51695e6a63e3be9c51b8eb96c669dfad003b76fb7c10aa7eba359ae",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-036.jpg",
+      "sample_id": "BNE_MI_SEARCH_036_B_07",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        600,
+        270,
+        34,
+        41
+      ],
+      "raw_context": [
+        475,
+        260,
+        165,
+        95
+      ]
+    },
+    {
+      "page": 36,
+      "character": "b",
+      "mirror_crop": [
+        1084,
+        1444,
+        27,
+        47
+      ],
+      "mirror_context": [
+        1045,
+        1410,
+        94,
+        94
+      ],
+      "token": "b",
+      "position": 1,
+      "rationale": "Etichetta b sulla massa sospesa nel diagramma inferiore; confronto con riferimento b nella prosa superiore.",
+      "doubts": "Etichetta isolata, contorno del disegno vicino; confermare identificazione e uso come supporto.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta ascendente e occhiello basso a destra, distinta dalle forme capitale a due occhielli.",
+      "alternatives": [
+        "etichetta diagrammatica"
+      ],
+      "folio": "12r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "64a576fb-9561-4b62-849c-91f5dc1e75af",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "b7e73178d51695e6a63e3be9c51b8eb96c669dfad003b76fb7c10aa7eba359ae",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-036.jpg",
+      "sample_id": "BNE_MI_SEARCH_036_B_08",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "unresolved_isolated_label",
+      "raw_crop": [
+        467,
+        1444,
+        27,
+        47
+      ],
+      "raw_context": [
+        439,
+        1410,
+        94,
+        94
+      ]
+    },
+    {
+      "page": 30,
+      "character": "c",
+      "mirror_crop": [
+        338,
+        1640,
+        24,
+        29
+      ],
+      "mirror_context": [
+        120,
+        1600,
+        400,
+        100
+      ],
+      "token": "c",
+      "position": 1,
+      "rationale": "Riferimento c nella sequenza a b c d della prosa inferiore sinistra.",
+      "doubts": "Segno breve, da confrontare con forme c lessicali; riferimento isolato.",
+      "context_kind": "prose",
+      "observed_form": "Arco aperto verso destra, attacco superiore esteso orizzontalmente.",
+      "alternatives": [
+        "lettera di riferimento"
+      ],
+      "folio": "9r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "785e3014-14bc-4285-927f-97ec764d3a71",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "cba3a2f0eaeefeb863895627c3481c6b8e8922c648a9790bf72e57ecf54f8d1c",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-030.jpg",
+      "sample_id": "BNE_MI_SEARCH_030_C_01",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        1216,
+        1640,
+        24,
+        29
+      ],
+      "raw_context": [
+        1058,
+        1600,
+        400,
+        100
+      ]
+    },
+    {
+      "page": 15,
+      "character": "h",
+      "mirror_crop": [
+        760,
+        290,
+        32,
+        50
+      ],
+      "mirror_context": [
+        645,
+        270,
+        178,
+        77
+      ],
+      "token": "ho",
+      "position": 1,
+      "rationale": "Nel token isolato leggibile come ho.",
+      "doubts": "Trascrizione diplomatica del contesto da confermare.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente con spalla e tratto finale discendente curvo.",
+      "alternatives": [],
+      "folio": "1v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-015.jpg",
+      "sample_id": "BNE_MI_SEARCH_015_H_01",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        786,
+        290,
+        32,
+        50
+      ],
+      "raw_context": [
+        755,
+        270,
+        178,
+        77
+      ]
+    },
+    {
+      "page": 15,
+      "character": "h",
+      "mirror_crop": [
+        568,
+        421,
+        28,
+        51
+      ],
+      "mirror_context": [
+        525,
+        386,
+        292,
+        105
+      ],
+      "token": "hi",
+      "position": 1,
+      "rationale": "Forma seguita da un segno breve nel contesto prima di bisogna.",
+      "doubts": "hi potrebbe essere una grafia storica o un riferimento; non interpretare semanticamente.",
+      "context_kind": "prose",
+      "observed_form": "Asta alta, spalla breve e uscita sotto la linea.",
+      "alternatives": [
+        "b"
+      ],
+      "folio": "1v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-015.jpg",
+      "sample_id": "BNE_MI_SEARCH_015_H_02",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        982,
+        421,
+        28,
+        51
+      ],
+      "raw_context": [
+        761,
+        386,
+        292,
+        105
+      ]
+    },
+    {
+      "page": 17,
+      "character": "h",
+      "mirror_crop": [
+        808,
+        980,
+        31,
+        55
+      ],
+      "mirror_context": [
+        740,
+        925,
+        275,
+        155
+      ],
+      "token": "h (etichetta)",
+      "position": null,
+      "rationale": "Etichetta al piede destro dell arco, accanto a i e k.",
+      "doubts": "La sequenza sostiene h; curva inferiore e sovrapposizione richiedono revisione.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta alta con spalla e coda discendente.",
+      "alternatives": [
+        "g"
+      ],
+      "folio": "2v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-017.jpg",
+      "sample_id": "BNE_MI_SEARCH_017_H_03",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "unresolved_isolated_label",
+      "raw_crop": [
+        739,
+        980,
+        31,
+        55
+      ],
+      "raw_context": [
+        563,
+        925,
+        275,
+        155
+      ]
+    },
+    {
+      "page": 19,
+      "character": "h",
+      "mirror_crop": [
+        589,
+        700,
+        35,
+        50
+      ],
+      "mirror_context": [
+        420,
+        555,
+        430,
+        450
+      ],
+      "token": "h (etichetta)",
+      "position": null,
+      "rationale": "Etichetta sul segmento obliquo sopra il meccanismo.",
+      "doubts": "Linea del diagramma attraversa il segno; distinguere da b.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta verticale alta e breve spalla alla base.",
+      "alternatives": [
+        "b"
+      ],
+      "folio": "3v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "e56dd47b-c6b2-4850-9783-e97d74f6e3b4",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "53b3580020de066a3023fd0c1ff4855e031ad01c78370e110d0cd3476e60b065",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-019.jpg",
+      "sample_id": "BNE_MI_SEARCH_019_H_04",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "unresolved_isolated_label",
+      "raw_crop": [
+        954,
+        700,
+        35,
+        50
+      ],
+      "raw_context": [
+        728,
+        555,
+        430,
+        450
+      ]
+    },
+    {
+      "page": 19,
+      "character": "h",
+      "mirror_crop": [
+        498,
+        1328,
+        43,
+        60
+      ],
+      "mirror_context": [
+        400,
+        1305,
+        400,
+        112
+      ],
+      "token": "ha",
+      "position": 1,
+      "rationale": "Token ha dopo il riferimento z/2.",
+      "doubts": "Riferimento precedente ambiguo; grafia di ha piuttosto leggibile.",
+      "context_kind": "prose",
+      "observed_form": "Ascendente verticale, spalla aperta e uscita curva.",
+      "alternatives": [],
+      "folio": "3v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "e56dd47b-c6b2-4850-9783-e97d74f6e3b4",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "53b3580020de066a3023fd0c1ff4855e031ad01c78370e110d0cd3476e60b065",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-019.jpg",
+      "sample_id": "BNE_MI_SEARCH_019_H_05",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        1037,
+        1328,
+        43,
+        60
+      ],
+      "raw_context": [
+        778,
+        1305,
+        400,
+        112
+      ]
+    },
+    {
+      "page": 21,
+      "character": "h",
+      "mirror_crop": [
+        390,
+        243,
+        30,
+        50
+      ],
+      "mirror_context": [
+        328,
+        225,
+        180,
+        90
+      ],
+      "token": "ho",
+      "position": 1,
+      "rationale": "Prima riga di prosa, secondo token ho.",
+      "doubts": "Contesto precedente interpretato io; da confermare.",
+      "context_kind": "prose",
+      "observed_form": "Ascendente semplice con spalla e coda inferiore.",
+      "alternatives": [],
+      "folio": "4v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "9877dc51-807d-475d-9d3e-81e40fcce7d3",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-021.jpg",
+      "sample_id": "BNE_MI_SEARCH_021_H_06",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        1158,
+        243,
+        30,
+        50
+      ],
+      "raw_context": [
+        1070,
+        225,
+        180,
+        90
+      ]
+    },
+    {
+      "page": 24,
+      "character": "h",
+      "mirror_crop": [
+        309,
+        1396,
+        30,
+        51
+      ],
+      "mirror_context": [
+        266,
+        1375,
+        230,
+        91
+      ],
+      "token": "h (riferimento nel testo)",
+      "position": null,
+      "rationale": "Tra n e il centro, lettura di riferimento h.",
+      "doubts": "È una lettera di richiamo inserita nella prosa, non un h all interno di parola.",
+      "context_kind": "prose",
+      "observed_form": "Asta alta, spalla aperta e coda ricurva.",
+      "alternatives": [],
+      "folio": "6r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "ca49e88a-95a9-483f-89bb-7ebd77b51755",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "e069f9222dc363e088155309ddff087dc908ed3973c20ab2cfb4510392c0d443",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-024.jpg",
+      "sample_id": "BNE_MI_SEARCH_024_H_07",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        1239,
+        1396,
+        30,
+        51
+      ],
+      "raw_context": [
+        1082,
+        1375,
+        230,
+        91
+      ]
+    },
+    {
+      "page": 32,
+      "character": "h",
+      "mirror_crop": [
+        721,
+        1147,
+        24,
+        46
+      ],
+      "mirror_context": [
+        590,
+        1115,
+        255,
+        100
+      ],
+      "token": "hanno",
+      "position": 1,
+      "rationale": "Ascendente ad occhiello e spalla bassa nel gruppo letto hanno, secondo rigo della nota centrale.",
+      "doubts": "Lettura complessiva provvisoria; legatura finale e rigo seguente da separare.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente, spalla bassa a destra e uscita ricurva discendente; in un campione ascendente ad occhiello.",
+      "alternatives": [
+        "lettura hanno da confermare"
+      ],
+      "folio": "10r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "d3b4fa5f-5ac7-4019-baad-8520d5757299",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "2376993aa96f08f295fe86913362985832b100a66d8c54276ef0be658669bcf3",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-032.jpg",
+      "sample_id": "BNE_MI_SEARCH_032_H_08",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        833,
+        1147,
+        24,
+        46
+      ],
+      "raw_context": [
+        733,
+        1115,
+        255,
+        100
+      ]
+    },
+    {
+      "page": 34,
+      "character": "h",
+      "mirror_crop": [
+        277,
+        1777,
+        30,
+        66
+      ],
+      "mirror_context": [
+        170,
+        1755,
+        420,
+        95
+      ],
+      "token": "h",
+      "position": 1,
+      "rationale": "Forma ascendente nel primo rigo della nota inferiore; confronto con ha nello stesso testo.",
+      "doubts": "Trascrizione del contesto e funzione del segno da confermare; possibile riferimento letterale isolato.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente, spalla bassa a destra e uscita ricurva discendente; in un campione ascendente ad occhiello.",
+      "alternatives": [
+        "lettera di riferimento",
+        "lettura del contesto da verificare"
+      ],
+      "folio": "11r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "c74e9c42-61a0-4f97-9159-33ddeff3d7fa",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "0900e4b5b3f34820f46e223c8970c37754cf6c1c4dee90290bdbc754dee05a6c",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-034.jpg",
+      "sample_id": "BNE_MI_SEARCH_034_H_09",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        1271,
+        1777,
+        30,
+        66
+      ],
+      "raw_context": [
+        988,
+        1755,
+        420,
+        95
+      ]
+    },
+    {
+      "page": 34,
+      "character": "h",
+      "mirror_crop": [
+        368,
+        1880,
+        24,
+        45
+      ],
+      "mirror_context": [
+        260,
+        1850,
+        235,
+        95
+      ],
+      "token": "ha",
+      "position": 1,
+      "rationale": "Forma ascendente all’inizio del gruppo letto ha nel terzo rigo della nota inferiore.",
+      "doubts": "Identificazione e segmentazione ha da confermare; inchiostro del rigo inferiore vicino.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente, spalla bassa a destra e uscita ricurva discendente; in un campione ascendente ad occhiello.",
+      "alternatives": [
+        "lettura ha da confermare"
+      ],
+      "folio": "11r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "c74e9c42-61a0-4f97-9159-33ddeff3d7fa",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "0900e4b5b3f34820f46e223c8970c37754cf6c1c4dee90290bdbc754dee05a6c",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-034.jpg",
+      "sample_id": "BNE_MI_SEARCH_034_H_10",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        1186,
+        1880,
+        24,
+        45
+      ],
+      "raw_context": [
+        1083,
+        1850,
+        235,
+        95
+      ]
+    },
+    {
+      "page": 36,
+      "character": "h",
+      "mirror_crop": [
+        1048,
+        270,
+        31,
+        69
+      ],
+      "mirror_context": [
+        940,
+        260,
+        360,
+        94
+      ],
+      "token": "h",
+      "position": 1,
+      "rationale": "Forma ascendente isolata nel gruppo b m h del secondo rigo; riferimento nel testo del diagramma.",
+      "doubts": "Minuscola proposta dalla forma; funzione come riferimento diagrammatico non prova uso lessicale.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente, spalla bassa a destra e uscita ricurva discendente; in un campione ascendente ad occhiello.",
+      "alternatives": [
+        "lettera di riferimento"
+      ],
+      "folio": "12r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "64a576fb-9561-4b62-849c-91f5dc1e75af",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "b7e73178d51695e6a63e3be9c51b8eb96c669dfad003b76fb7c10aa7eba359ae",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-036.jpg",
+      "sample_id": "BNE_MI_SEARCH_036_H_11",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        499,
+        270,
+        31,
+        69
+      ],
+      "raw_context": [
+        278,
+        260,
+        360,
+        94
+      ]
+    },
+    {
+      "page": 36,
+      "character": "h",
+      "mirror_crop": [
+        1133,
+        456,
+        30,
+        60
+      ],
+      "mirror_context": [
+        1060,
+        435,
+        380,
+        98
+      ],
+      "token": "h",
+      "position": 1,
+      "rationale": "Forma ascendente isolata dopo alla mola, confrontabile con h nel secondo rigo della stessa prosa.",
+      "doubts": "Lettura del riferimento e contesto da confermare.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente, spalla bassa a destra e uscita ricurva discendente; in un campione ascendente ad occhiello.",
+      "alternatives": [
+        "lettera di riferimento"
+      ],
+      "folio": "12r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "64a576fb-9561-4b62-849c-91f5dc1e75af",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "b7e73178d51695e6a63e3be9c51b8eb96c669dfad003b76fb7c10aa7eba359ae",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-036.jpg",
+      "sample_id": "BNE_MI_SEARCH_036_H_12",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        415,
+        456,
+        30,
+        60
+      ],
+      "raw_context": [
+        138,
+        435,
+        380,
+        98
+      ]
+    },
+    {
+      "page": 36,
+      "character": "h",
+      "mirror_crop": [
+        1110,
+        1200,
+        34,
+        77
+      ],
+      "mirror_context": [
+        925,
+        1195,
+        330,
+        110
+      ],
+      "token": "h",
+      "position": 1,
+      "rationale": "Forma ascendente dopo Questo moto nella nota del diagramma inferiore, confrontabile con riferimenti h nella prosa superiore.",
+      "doubts": "Funzione del segno e lettura del contesto non consolidate; verificare eventuale abbreviazione/lettura alternativa e.",
+      "context_kind": "prose",
+      "observed_form": "Asta ascendente, spalla bassa a destra e uscita ricurva discendente; in un campione ascendente ad occhiello.",
+      "alternatives": [
+        "abbreviazione",
+        "e"
+      ],
+      "folio": "12r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "64a576fb-9561-4b62-849c-91f5dc1e75af",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "b7e73178d51695e6a63e3be9c51b8eb96c669dfad003b76fb7c10aa7eba359ae",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-036.jpg",
+      "sample_id": "BNE_MI_SEARCH_036_H_13",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        434,
+        1200,
+        34,
+        77
+      ],
+      "raw_context": [
+        323,
+        1195,
+        330,
+        110
+      ]
+    },
+    {
+      "page": 17,
+      "character": "i",
+      "mirror_crop": [
+        839,
+        998,
+        15,
+        28
+      ],
+      "mirror_context": [
+        785,
+        968,
+        185,
+        95
+      ],
+      "token": "i (etichetta)",
+      "position": null,
+      "rationale": "Etichetta immediatamente dopo h e prima k.",
+      "doubts": "Identità inferita anche dalla sequenza; non un esempio utile del punto di i.",
+      "context_kind": "diagram_label",
+      "observed_form": "Breve tratto verticale senza punto distinto.",
+      "alternatives": [
+        "l"
+      ],
+      "folio": "2v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-017.jpg",
+      "sample_id": "BNE_MI_SEARCH_017_I_01",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "unresolved_isolated_label",
+      "raw_crop": [
+        724,
+        998,
+        15,
+        28
+      ],
+      "raw_context": [
+        608,
+        968,
+        185,
+        95
+      ]
+    },
+    {
+      "page": 21,
+      "character": "i",
+      "mirror_crop": [
+        674,
+        326,
+        14,
+        40
+      ],
+      "mirror_context": [
+        600,
+        315,
+        175,
+        65
+      ],
+      "token": "il",
+      "position": 1,
+      "rationale": "Nel token il, terza riga di prosa.",
+      "doubts": "Tratto della l seguente inclinato alto; diagramma tratteggiato sotto la riga.",
+      "context_kind": "prose",
+      "observed_form": "Minim con punto sopra, seguito da asta più alta.",
+      "alternatives": [],
+      "folio": "4v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "9877dc51-807d-475d-9d3e-81e40fcce7d3",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-021.jpg",
+      "sample_id": "BNE_MI_SEARCH_021_I_02",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        890,
+        326,
+        14,
+        40
+      ],
+      "raw_context": [
+        803,
+        315,
+        175,
+        65
+      ]
+    },
+    {
+      "page": 24,
+      "character": "i",
+      "mirror_crop": [
+        342,
+        1408,
+        16,
+        36
+      ],
+      "mirror_context": [
+        295,
+        1390,
+        170,
+        60
+      ],
+      "token": "il",
+      "position": 1,
+      "rationale": "Token il prima di centro nel testo inferiore.",
+      "doubts": "Tenere distinto dall h di richiamo precedente e dalla l seguente.",
+      "context_kind": "prose",
+      "observed_form": "Minim corto con punto separato sopra.",
+      "alternatives": [],
+      "folio": "6r",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "ca49e88a-95a9-483f-89bb-7ebd77b51755",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "e069f9222dc363e088155309ddff087dc908ed3973c20ab2cfb4510392c0d443",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-024.jpg",
+      "sample_id": "BNE_MI_SEARCH_024_I_03",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        1220,
+        1408,
+        16,
+        36
+      ],
+      "raw_context": [
+        1113,
+        1390,
+        170,
+        60
+      ]
+    },
+    {
+      "character": "j",
+      "page": 303,
+      "mirror_crop": [
+        1225,
+        1146,
+        22,
+        31
+      ],
+      "mirror_context": [
+        1195,
+        1120,
+        82,
+        82
+      ],
+      "token": "j (etichetta editoriale)",
+      "position": null,
+      "rationale": "Quarto peso circolare dall’alto nel ventaglio centrale; e-Leo 153v indica j in questa sequenza.",
+      "doubts": "Forma e caso da revisionare; non distinguere automaticamente j da i lunga. Il cerchio e il raggio non sono parte del contorno della lettera.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta breve con attacco e uscita curvi, all’interno di un cerchio.",
+      "alternatives": [
+        "i",
+        "segno tecnico"
+      ],
+      "case_status": "unresolved_isolated_label",
+      "editorial_reference": "https://www.leonardodigitale.com/sfoglia/madrid-I/0153-v",
+      "folio": "153v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-303.jpg",
+      "sample_id": "BNE_MI_SEARCH_303_J_01",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        331,
+        1146,
+        22,
+        31
+      ],
+      "raw_context": [
+        301,
+        1120,
+        82,
+        82
+      ]
+    },
+    {
+      "page": 49,
+      "character": "v",
+      "mirror_crop": [
+        748,
+        1850,
+        31,
+        28
+      ],
+      "mirror_context": [
+        700,
+        1810,
+        110,
+        100
+      ],
+      "token": "v (molla v x)",
+      "position": 1,
+      "rationale": "Etichetta sul tratto arcuato tra i due perni del grande accenditore inferiore. L'apparato editoriale e-Leo 18v identifica la molla con v e x; il bersaglio e distinto dalla forma L/h presso il perno destro.",
+      "doubts": "Associazione v sostenuta dal riferimento editoriale, ma forma curva con cappio simile a o/u; non confondere il segno con una parte meccanica o normalizzare automaticamente u/v.",
+      "context_kind": "diagram_label",
+      "observed_form": "Ingresso obliquo curvo e piccolo cappio a destra; forma non angolare.",
+      "alternatives": [
+        "u",
+        "o",
+        "segno del diagramma"
+      ],
+      "editorial_reference": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v",
+      "folio": "18v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-049.jpg",
+      "sample_id": "BNE_MI_SEARCH_049_V_01",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "unresolved_isolated_label",
+      "raw_crop": [
+        799,
+        1850,
+        31,
+        28
+      ],
+      "raw_context": [
+        768,
+        1810,
+        110,
+        100
+      ]
+    },
+    {
+      "page": 49,
+      "character": "v",
+      "mirror_crop": [
+        1431,
+        2065,
+        24,
+        24
+      ],
+      "mirror_context": [
+        1220,
+        2025,
+        295,
+        85
+      ],
+      "token": "molla v x",
+      "position": null,
+      "rationale": "Riferimento nel testo inferiore alla molla identificata con v e x; confermato come indizio nell'apparato editoriale e-Leo 18v. Occorrenza distinta dall'etichetta sulla molla.",
+      "doubts": "La forma rotonda puo essere letta o/u fuori contesto. Il testo richiede revisione dell'associazione u/v; la trascrizione editoriale non certifica la normalizzazione moderna.",
+      "context_kind": "prose",
+      "observed_form": "Segno breve rotondo con piccolo cappio e ingresso curvo.",
+      "alternatives": [
+        "u",
+        "o"
+      ],
+      "editorial_reference": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v",
+      "folio": "18v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-049.jpg",
+      "sample_id": "BNE_MI_SEARCH_049_V_02",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        123,
+        2065,
+        24,
+        24
+      ],
+      "raw_context": [
+        63,
+        2025,
+        295,
+        85
+      ]
+    },
+    {
+      "character": "x",
+      "page": 49,
+      "mirror_crop": [
+        995,
+        1862,
+        27,
+        25
+      ],
+      "mirror_context": [
+        964,
+        1844,
+        88,
+        62
+      ],
+      "token": "x (riferimento alla molla)",
+      "position": null,
+      "rationale": "Croce isolata sopra l’estremo destro della molla inferiore; la trascrizione 18v fa riferimento a v/x.",
+      "doubts": "Lettera x o croce tecnica da distinguere nel contesto; il caso non è certificato dall’etichetta isolata.",
+      "context_kind": "diagram_label",
+      "observed_form": "Due tratti obliqui incrociati.",
+      "alternatives": [
+        "croce tecnica",
+        "X"
+      ],
+      "case_status": "unresolved_isolated_label",
+      "editorial_reference": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v",
+      "folio": "18v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-049.jpg",
+      "sample_id": "BNE_MI_SEARCH_049_X_01",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        556,
+        1862,
+        27,
+        25
+      ],
+      "raw_context": [
+        526,
+        1844,
+        88,
+        62
+      ]
+    },
+    {
+      "page": 49,
+      "character": "x",
+      "mirror_crop": [
+        1460,
+        2061,
+        23,
+        32
+      ],
+      "mirror_context": [
+        1220,
+        2025,
+        295,
+        85
+      ],
+      "token": "molla v x",
+      "position": null,
+      "rationale": "Segno incrociato seguente il riferimento v nella frase sul sollevamento della molla; apparato editoriale e-Leo 18v riporta v x. Occorrenza distinta dalla x sull'estremita destra della molla nel diagramma.",
+      "doubts": "Il tratto scende sotto la riga; separare segno, uscita e tratto della riga successiva. Riferimento tecnico nel testo, non campione lessicale ordinario.",
+      "context_kind": "prose",
+      "observed_form": "Due tratti incrociati con uscita discendente e breve coda verso destra.",
+      "alternatives": [],
+      "editorial_reference": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v",
+      "folio": "18v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-049.jpg",
+      "sample_id": "BNE_MI_SEARCH_049_X_02",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        95,
+        2061,
+        23,
+        32
+      ],
+      "raw_context": [
+        63,
+        2025,
+        295,
+        85
+      ]
+    },
+    {
+      "character": "y",
+      "page": 303,
+      "mirror_crop": [
+        851,
+        500,
+        38,
+        48
+      ],
+      "mirror_context": [
+        829,
+        476,
+        92,
+        90
+      ],
+      "token": "y (etichetta editoriale)",
+      "position": null,
+      "rationale": "Etichetta all’estremo sinistro dell’arco del ventaglio superiore; confronto con y nella descrizione editoriale 153v.",
+      "doubts": "Associazione y/h e caso da confermare; la forma osservata non coincide automaticamente con la y del font. Separare la linea di base del diagramma.",
+      "context_kind": "diagram_label",
+      "observed_form": "Asta e ramo destro ricurvo con discesa lunga.",
+      "alternatives": [
+        "h",
+        "segno tecnico"
+      ],
+      "case_status": "unresolved_isolated_label",
+      "editorial_reference": "https://www.leonardodigitale.com/sfoglia/madrid-I/0153-v",
+      "folio": "153v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-303.jpg",
+      "sample_id": "BNE_MI_SEARCH_303_Y_01",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        689,
+        500,
+        38,
+        48
+      ],
+      "raw_context": [
+        657,
+        476,
+        92,
+        90
+      ]
+    },
+    {
+      "page": 21,
+      "character": "z",
+      "mirror_crop": [
+        699,
+        1327,
+        25,
+        50
+      ],
+      "mirror_context": [
+        645,
+        1310,
+        100,
+        90
+      ],
+      "token": "largheza",
+      "position": 7,
+      "rationale": "Finale za nel token plausibile largheza.",
+      "doubts": "Numero di lettere e trascrizione diplomatica del token da confermare; non normalizzare in larghezza.",
+      "context_kind": "prose",
+      "observed_form": "Segno sinuoso a due curve con coda inferiore.",
+      "alternatives": [],
+      "folio": "4v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "9877dc51-807d-475d-9d3e-81e40fcce7d3",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-021.jpg",
+      "sample_id": "BNE_MI_SEARCH_021_Z_01",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        854,
+        1327,
+        25,
+        50
+      ],
+      "raw_context": [
+        833,
+        1310,
+        100,
+        90
+      ]
+    },
+    {
+      "page": 21,
+      "character": "z",
+      "mirror_crop": [
+        587,
+        1329,
+        20,
+        46
+      ],
+      "mirror_context": [
+        510,
+        1310,
+        127,
+        90
+      ],
+      "token": "grosseza",
+      "position": 7,
+      "rationale": "Finale za nel token plausibile grosseza.",
+      "doubts": "Grafia con una o due s da confermare; posizione 7 è ipotesi.",
+      "context_kind": "prose",
+      "observed_form": "Doppia curva stretta con coda sotto la linea.",
+      "alternatives": [],
+      "folio": "4v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "9877dc51-807d-475d-9d3e-81e40fcce7d3",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-021.jpg",
+      "sample_id": "BNE_MI_SEARCH_021_Z_02",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        971,
+        1329,
+        20,
+        46
+      ],
+      "raw_context": [
+        941,
+        1310,
+        127,
+        90
+      ]
+    },
+    {
+      "page": 21,
+      "character": "z",
+      "mirror_crop": [
+        980,
+        1804,
+        28,
+        48
+      ],
+      "mirror_context": [
+        892,
+        1788,
+        145,
+        95
+      ],
+      "token": "lungheza",
+      "position": 7,
+      "rationale": "Finale za nel token plausibile lungheza.",
+      "doubts": "Trascrizione diplomatica da confermare; non normalizzare in lunghezza.",
+      "context_kind": "prose",
+      "observed_form": "Due curve e coda inferiore breve.",
+      "alternatives": [],
+      "folio": "4v",
+      "folio_status": "working_mapping_pending_review",
+      "folio_basis": "Working extension of confirmed14=1r through alternating recto/verso; not independently confirmed.",
+      "source_image_id": "9877dc51-807d-475d-9d3e-81e40fcce7d3",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-021.jpg",
+      "sample_id": "BNE_MI_SEARCH_021_Z_03",
+      "status": "candidate",
+      "human_review": false,
+      "case_status": "proposed_lowercase",
+      "raw_crop": [
+        570,
+        1804,
+        28,
+        48
+      ],
+      "raw_context": [
+        541,
+        1788,
+        145,
+        95
+      ]
+    },
+    {
+      "character": "z",
+      "page": 303,
+      "mirror_crop": [
+        347,
+        366,
+        47,
+        60
+      ],
+      "mirror_context": [
+        306,
+        345,
+        134,
+        86
+      ],
+      "token": "el mezo?",
+      "position": null,
+      "rationale": "Forma con andamento a zigzag nella parola candidata mezo, nella nota superiore sinistra.",
+      "doubts": "Grafia del token da confermare; non inferire la lettera dalla parola modernizzata. Confini con e e o da revisionare.",
+      "context_kind": "prose",
+      "observed_form": "Tratto superiore angolare e ritorno inferiore ricurvo.",
+      "alternatives": [
+        "segno abbreviativo"
+      ],
+      "case_status": "proposed_lowercase",
+      "editorial_reference": "https://www.leonardodigitale.com/sfoglia/madrid-I/0153-v",
+      "folio": "153v",
+      "folio_status": "agent_concordance_pending_review",
+      "folio_basis": "Agent visual correspondence between BNE facsimile and institutional e-Leo folio; human review pending.",
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_width": 1578,
+      "image_height": 2174,
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "source_local_path": "scans/expansion-2-2026-10-14/page-303.jpg",
+      "sample_id": "BNE_MI_SEARCH_303_Z_04",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1184,
+        366,
+        47,
+        60
+      ],
+      "raw_context": [
+        1138,
+        345,
+        134,
+        86
+      ]
+    }
+  ]
+}

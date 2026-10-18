@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "version": "1.100",
+  "base_version": "1.000",
+  "base_config_sha256": "d829681c54beedcbb8448b22d387cf2f60dd9e9019edfca24a082388897d37f1",
+  "design_manifest": "data/lowercase_design_2026-10-15.json",
+  "design_manifest_sha256": "7dc4d7461928123ba43b146bf429b8bb7c069a7838f80b5b66e378c41d4ca175",
+  "dotlessi": {
+    "file": "glyphs/regular/release-1.100/dotlessi.svg",
+    "sha256": "d5df709198d34ebfb1eae67658cfba61eb9560b1bd96c4e5a2d218cc36f0516a",
+    "derivation": "First contour of the approved i; advance inherited from i."
+  },
+  "license": "OFL-1.1",
+  "public_release_approved": false
+}

@@ -1,0 +1,29 @@
+{
+  "status": "human_segmentation_revision_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:34:46+00:00",
+  "quote": "Confermo p04 compatibile con riserve e p09 dubbia",
+  "question": "Nella nuova tavola p04/p09, confermi p04 compatibile con riserve e p09 dubbia per la delimitazione inferiore, da non usare come riferimento geometrico principale per il terminale? Per entrambe la regione mantenuta è invariata e soltanto traslata nel ritaglio ampliato; per p09 la zona arancione inferiore è ampliata. Le zone arancioni restano non confermate. La decisione riguarda solo questi nuovi confini, senza modifiche al font, alle letture o all’autenticità.",
+  "revision_path": "data/segmentation_revisions_2026-10-15_p.json",
+  "revision_sha256": "cb121043227a773bff61989d2fd764e7646d46311032484f780b46245beed40b",
+  "shown_sheet": "build/segmentation-consolidation/review-revisions-83807af2474f.png",
+  "shown_sheet_sha256": "83807af2474f05a133819914a2b5f59feacfe9e6a4bb0e0e762f6990fab239a9",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_016_P_04",
+      "annotation_sha256": "b2f9bc1af4f4b01adcb0137c9d85002bf8357064f0b19acca3392e19938caf41",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_P_09",
+      "annotation_sha256": "34cc7ef1b3712f2f016cd7c8120a001371bc7a575e1d852f8a1e3a7f95c9546a",
+      "decision": "uncertain",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

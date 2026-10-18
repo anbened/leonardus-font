@@ -1,0 +1,121 @@
+glyph,codepoint,classification,advance,file_or_components,reviewed_sample_ids,display_anchor,design_notes
+uni0061,U+0061,normalized,440,uni0061.svg,BNE_MI_014_A_03|BNE_MI_016_A_01|BNE_MI_016_A_02|BNE_MI_016_A_04|BNE_MI_018_A_05,BNE_MI_014_A_03,"Spalla angolare e controforma obliqua conservano il motivo a capanna come riferimento candidato. Corpo inferiore chiuso e asta destra aggiunti per distinguere a/n: sono scelte contemporanee non attestate dal crop. Ingresso, peso e spaziatura normalizzati."
+uni0064,U+0064,normalized,505,uni0064.svg,BNE-MI-016-d-02|BNE-MI-020-d-04|BNE-MI-020-d-05|BNE-MI-020-d-06|BNE-MI-018-d-07,BNE-MI-020-d-04,"Cappio alto piu largo della V1, in relazione al motivo V2. Corpo inferiore chiuso aggiunto per distinguere d/l; biforcazione resa come raccordo al corpo. Connessione d-i esclusa. Altezza, controforme, peso e spaziatura progettati, senza nuova lettura storica."
+uni0065,U+0065,normalized,412,uni0065.svg,BNE-MI-018-e-01|BNE-MI-018-e-02|BNE-MI-018-e-03|BNE-MI-018-e-04|BNE-MI-018-e-05|BNE-MI-020-e-06|BNE-MI-020-e-07,BNE-MI-018-e-03,"Componente superiore obliqua resa continua con il corpo per evitare frammentazione V2. Corpo leggermente piu stretto della V1, occhio continuo obliquo e apertura laterale: sono scelte progettate, non attribuite ai candidati discontinui. Collegamento t escluso."
+uni006C,U+006C,normalized,260,uni006C.svg,BNE-MI-014-l-01|BNE-MI-016-l-02|BNE-MI-016-l-03|BNE-MI-018-l-04|BNE-MI-020-l-05|BNE-MI-020-l-06,BNE-MI-014-l-01,Forma V1 conservata; traslazione orizzontale e advance corretti per spazi laterali bilanciati. Nessuna modifica del cappio o del piede; proporzioni e chiusura V1 restano normalizzazioni contemporanee.
+uni006E,U+006E,normalized,457,uni006E.svg,BNE_MI_016_N_02|BNE_MI_018_N_03|BNE_MI_018_N_04|BNE_MI_018_N_05|BNE_MI_018_N_06,BNE_MI_018_N_03,Forma V1 conservata; traslazione orizzontale e advance ridotti per ritmo delle doppie n. Arco e terminali V1 sono progettati; nessuna segmentazione storica promossa.
+uni006F,U+006F,normalized,437,uni006F.svg,BNE_MI_016_O_01|BNE_MI_016_O_02|BNE_MI_018_O_03|BNE_MI_018_O_04|BNE_MI_018_O_05|BNE_MI_018_O_06,BNE_MI_018_O_04,"Forma V1 conservata; origine e advance bilanciati dopo osservazione delle parole. Ovale, controforma e overshoot V1 sono scelte contemporanee, non misure storiche."
+uni0072,U+0072,normalized,356,uni0072.svg,BNE-MI-014-r-02|BNE-MI-014-r-03|BNE-MI-014-r-04|BNE-MI-016-r-01|BNE-MI-018-r-05|BNE-MI-020-r-06,BNE-MI-016-r-01,Forma V1 conservata; origine e advance bilanciati. Spalla breve/terminale V1 sono autonomi; il token r-04 irrisolto non determina il disegno.
+uni004C,U+004C,designed,445,uni004C.svg,,,Selected policy-A study; no historical attribution; full-alpha visual QA pending
+uni0041,U+0041,designed,570,uni0041.svg,,,Selected policy-A study; no historical attribution; full-alpha visual QA pending
+uni004D,U+004D,designed,760,uni004D.svg,,,Selected policy-A study; no historical attribution; full-alpha visual QA pending
+uni0063,U+0063,reviewed_design,420,glyphs/proposals/2026-10-15-lowercase/c.svg,BNE_MI_EXP_014_C_01|BNE_MI_EXP_014_C_02|BNE_MI_EXP_020_C_04|BNE_MI_SEARCH_030_C_01,,"Arco aperto confrontato con quattro letture revisionate. Apertura regolare, terminali e peso contemporanei, senza ricalco. Disegno approvato; segmentazione storica non certificata."
+uni0069,U+0069,reviewed_design,250,glyphs/proposals/2026-10-15-lowercase/i.svg,BNE_MI_EXP_016_I_01|BNE_MI_EXP_018_I_02|BNE_MI_SEARCH_021_I_02|BNE_MI_SEARCH_024_I_03,,Asta breve confrontata con quattro letture; appartenenza dei punti non sempre risolta. Punto moderno esplicitamente progettato per leggibilità; asta e terminale regolari. Disegno approvato; segmentazione storica non certificata.
+uni0075,U+0075,reviewed_design,450,glyphs/proposals/2026-10-15-lowercase/u.svg,BNE_MI_EXP_016_U_01|BNE_MI_EXP_018_U_04|BNE_MI_EXP_018_U_05|BNE_MI_EXP_020_U_08|BNE_MI_EXP_020_U_09,,"Due minimi e raccordo basso confrontati con cinque campioni. Valle, uscita, proporzioni e peso sono progettati. Disegno approvato; segmentazione storica non certificata."
+uni0042,U+0042,designed,550,uni0042.svg,,,Policy-A contemporary completion; no historical attribution
+uni0043,U+0043,designed,600,uni0043.svg,,,Policy-A contemporary completion; no historical attribution
+uni0044,U+0044,designed,610,uni0044.svg,,,Policy-A contemporary completion; no historical attribution
+uni0045,U+0045,designed,520,uni0045.svg,,,Policy-A contemporary completion; no historical attribution
+uni0046,U+0046,designed,505,uni0046.svg,,,Policy-A contemporary completion; no historical attribution
+uni0047,U+0047,designed,625,uni0047.svg,,,Policy-A contemporary completion; no historical attribution
+uni0048,U+0048,designed,610,uni0048.svg,,,Policy-A contemporary completion; no historical attribution
+uni0049,U+0049,designed,285,uni0049.svg,,,Policy-A contemporary completion; no historical attribution
+uni004A,U+004A,designed,430,uni004A.svg,,,Policy-A contemporary completion; no historical attribution
+uni004B,U+004B,designed,580,uni004B.svg,,,Policy-A contemporary completion; no historical attribution
+uni004E,U+004E,designed,610,uni004E.svg,,,Policy-A contemporary completion; no historical attribution
+uni004F,U+004F,designed,635,uni004F.svg,,,Policy-A contemporary completion; no historical attribution
+uni0050,U+0050,designed,545,uni0050.svg,,,Policy-A contemporary completion; no historical attribution
+uni0051,U+0051,designed,645,uni0051.svg,,,Policy-A contemporary completion; no historical attribution
+uni0052,U+0052,designed,585,uni0052.svg,,,Policy-A contemporary completion; no historical attribution
+uni0053,U+0053,designed,565,uni0053.svg,,,Policy-A contemporary completion; no historical attribution
+uni0054,U+0054,designed,550,uni0054.svg,,,Policy-A contemporary completion; no historical attribution
+uni0055,U+0055,designed,610,uni0055.svg,,,Policy-A contemporary completion; no historical attribution
+uni0056,U+0056,designed,565,uni0056.svg,,,Policy-A contemporary completion; no historical attribution
+uni0057,U+0057,designed,810,uni0057.svg,,,Policy-A contemporary completion; no historical attribution
+uni0058,U+0058,designed,570,uni0058.svg,,,Policy-A contemporary completion; no historical attribution
+uni0059,U+0059,designed,560,uni0059.svg,,,Policy-A contemporary completion; no historical attribution
+uni005A,U+005A,designed,565,uni005A.svg,,,Policy-A contemporary completion; no historical attribution
+uni0062,U+0062,reviewed_design,410,glyphs/proposals/2026-10-15-lowercase/b.svg,BNE_MI_EXP_014_B_01|BNE_MI_SEARCH_015_B_01|BNE_MI_SEARCH_017_B_02|BNE_MI_SEARCH_030_B_06|BNE_MI_SEARCH_036_B_07,,"Asta aperta e piccola pancia bassa ricorrono nei confronti; etichette, richiami e parole restano contesti distinti. Pancia abbassata e chiusa, inclinazione, peso e raccordi ridisegnati. Disegno approvato; segmentazione storica non certificata."
+uni0066,U+0066,reviewed_design,390,glyphs/proposals/2026-10-15-lowercase/f.svg,BNE_MI_EXP_014_F_01|BNE_MI_EXP_014_F_02|BNE_MI_EXP_018_F_03|BNE_MI_EXP_020_F_04,,"Forma lunga con uncino, traversa e discendente confrontata con quattro letture. Uncino, traversa propria e coda regolarizzati; raccordi esclusi dal corpo. Disegno approvato; segmentazione storica non certificata."
+uni0067,U+0067,reviewed_design,450,glyphs/proposals/2026-10-15-lowercase/g.svg,BNE_MI_EXP_016_G_01|BNE_MI_EXP_016_G_02|BNE_MI_EXP_016_G_03|BNE_MI_EXP_020_G_04|BNE_MI_EXP_020_G_05,,"Testa chiusa e cappio discendente confrontati con cinque campioni. Testa ampliata, orecchio destro e raccordo inferiore sono scelte contemporanee. Disegno approvato; segmentazione storica non certificata."
+uni0068,U+0068,reviewed_design,420,glyphs/proposals/2026-10-15-lowercase/h.svg,BNE_MI_SEARCH_015_H_01|BNE_MI_SEARCH_019_H_05|BNE_MI_SEARCH_021_H_06|BNE_MI_SEARCH_032_H_08|BNE_MI_SEARCH_034_H_10,,"Ascendente prevalentemente aperta, spalla e gamba discendente; h08 documenta un cappio alternativo. Ascendente aperta e coda accorciata sotto baseline; spalla e peso regolarizzati. Disegno approvato; segmentazione storica non certificata."
+uni006A,U+006A,designed,224,uni006A.svg,,,Policy-A contemporary completion; no historical attribution
+uni006B,U+006B,designed,430,uni006B.svg,,,Policy-A contemporary completion; no historical attribution
+uni006D,U+006D,reviewed_design,580,glyphs/proposals/2026-10-15-lowercase/m.svg,BNE_MI_EXP_014_M_01|BNE_MI_EXP_016_M_02|BNE_MI_EXP_018_M_04|BNE_MI_EXP_018_M_06|BNE_MI_EXP_020_M_08,,"Minimi compatti su quattro folii; attacchi e uscite sono connessi, soprattutto in m08. Tre minimi, spalle asimmetriche e uscita breve disegnati indipendentemente. Disegno approvato; segmentazione storica non certificata."
+uni0070,U+0070,reviewed_design,440,glyphs/proposals/2026-10-15-lowercase/p.svg,BNE_MI_EXP_014_P_02|BNE_MI_EXP_016_P_03|BNE_MI_EXP_016_P_04|BNE_MI_EXP_018_P_05|BNE_MI_EXP_020_P_09,,"Asta discendente e spalla confrontate con cinque campioni. Lobo chiuso, proporzioni, peso e raccordi sono progettati. Disegno approvato; segmentazione storica non certificata."
+uni0071,U+0071,reviewed_design,450,glyphs/proposals/2026-10-15-lowercase/q.svg,BNE_MI_EXP_014_Q_01|BNE_MI_EXP_014_Q_02|BNE_MI_EXP_018_Q_03|BNE_MI_EXP_018_Q_04|BNE_MI_EXP_020_Q_05,,Testa ripiegata e discendente destro confrontati con cinque campioni. Corpo chiuso e coda retta progettati; q02 non generalizzata come modello unico. Disegno approvato; segmentazione storica non certificata.
+uni0073,U+0073,reviewed_design,440,glyphs/proposals/2026-10-15-lowercase/s.svg,BNE_MI_EXP_014_S_01|BNE_MI_EXP_016_S_02|BNE_MI_EXP_018_S_04|BNE_MI_EXP_018_S_05|BNE_MI_EXP_020_S_06,,"S alta rivista con gamba curva inferiore ampia e terminale rientrante per rendere riconoscibile la lettera. Curva e proporzioni sono scelte contemporanee, non contorni attestati nei cinque campioni. Curva inferiore e terminale rientrante progettati; peso e raccordo centrale ridisegnati. Advance portato da 380 a 440; discendente ridotto da 167 a 87 unità nel contorno compilato. Disegno approvato; segmentazione storica non certificata."
+uni0074,U+0074,reviewed_design,380,glyphs/proposals/2026-10-15-lowercase/t.svg,BNE_MI_EXP_014_T_01|BNE_MI_EXP_016_T_03|BNE_MI_EXP_018_T_07|BNE_MI_EXP_018_T_08|BNE_MI_EXP_020_T_09,,"Asta media e traversa lunga, spesso continua nelle u/o vicine. Traversa propria delimitata, terminale contenuto e larghezza autonoma dai ponti. Disegno approvato; segmentazione storica non certificata."
+uni0076,U+0076,designed,425,uni0076.svg,,,Policy-A contemporary completion; no historical attribution
+uni0077,U+0077,designed,585,uni0077.svg,,,Policy-A contemporary completion; no historical attribution
+uni0078,U+0078,designed,413,uni0078.svg,,,Policy-A contemporary completion; no historical attribution
+uni0079,U+0079,designed,425,uni0079.svg,,,Policy-A contemporary completion; no historical attribution
+uni007A,U+007A,reviewed_design,385,glyphs/proposals/2026-10-15-lowercase/z.svg,BNE_MI_EXP_020_Z_01|BNE_MI_SEARCH_021_Z_01|BNE_MI_SEARCH_021_Z_02|BNE_MI_SEARCH_021_Z_03,,"Segno sinuoso confrontato con quattro letture su due folii vicini. Diagonale leggibile e coda sinuosa modernizzate, terminali progettati. Disegno approvato; segmentazione storica non certificata."
+uni0030,U+0030,designed,520,uni0030.svg,,,Policy-A contemporary completion; no historical attribution
+uni0031,U+0031,designed,520,uni0031.svg,,,Policy-A contemporary completion; no historical attribution
+uni0032,U+0032,designed,520,uni0032.svg,,,Policy-A contemporary completion; no historical attribution
+uni0033,U+0033,designed,520,uni0033.svg,,,Policy-A contemporary completion; no historical attribution
+uni0034,U+0034,designed,520,uni0034.svg,,,Policy-A contemporary completion; no historical attribution
+uni0035,U+0035,designed,520,uni0035.svg,,,Policy-A contemporary completion; no historical attribution
+uni0036,U+0036,designed,520,uni0036.svg,,,Policy-A contemporary completion; no historical attribution
+uni0037,U+0037,designed,520,uni0037.svg,,,Policy-A contemporary completion; no historical attribution
+uni0038,U+0038,designed,520,uni0038.svg,,,Policy-A contemporary completion; no historical attribution
+uni0039,U+0039,designed,520,uni0039.svg,,,Policy-A contemporary completion; no historical attribution
+uni0021,U+0021,designed,230,uni0021.svg,,,Policy-A contemporary completion; no historical attribution
+uni0022,U+0022,designed,320,uni0022.svg,,,Policy-A contemporary completion; no historical attribution
+uni0023,U+0023,designed,600,uni0023.svg,,,Policy-A contemporary completion; no historical attribution
+uni0024,U+0024,designed,555,uni0024.svg,,,Policy-A contemporary completion; no historical attribution
+uni0025,U+0025,designed,680,uni0025.svg,,,Policy-A contemporary completion; no historical attribution
+uni0026,U+0026,designed,610,uni0026.svg,,,Policy-A contemporary completion; no historical attribution
+uni0027,U+0027,designed,215,uni0027.svg,,,Policy-A contemporary completion; no historical attribution
+uni0028,U+0028,designed,300,uni0028.svg,,,Policy-A contemporary completion; no historical attribution
+uni0029,U+0029,designed,300,uni0029.svg,,,Policy-A contemporary completion; no historical attribution
+uni002A,U+002A,designed,360,uni002A.svg,,,Policy-A contemporary completion; no historical attribution
+uni002B,U+002B,designed,555,uni002B.svg,,,Policy-A contemporary completion; no historical attribution
+uni002C,U+002C,designed,215,uni002C.svg,,,Policy-A contemporary completion; no historical attribution
+uni002D,U+002D,designed,350,uni002D.svg,,,Policy-A contemporary completion; no historical attribution
+uni002E,U+002E,designed,215,uni002E.svg,,,Policy-A contemporary completion; no historical attribution
+uni002F,U+002F,designed,410,uni002F.svg,,,Policy-A contemporary completion; no historical attribution
+uni003A,U+003A,designed,230,uni003A.svg,,,Policy-A contemporary completion; no historical attribution
+uni003B,U+003B,designed,230,uni003B.svg,,,Policy-A contemporary completion; no historical attribution
+uni003C,U+003C,designed,535,uni003C.svg,,,Policy-A contemporary completion; no historical attribution
+uni003D,U+003D,designed,535,uni003D.svg,,,Policy-A contemporary completion; no historical attribution
+uni003E,U+003E,designed,535,uni003E.svg,,,Policy-A contemporary completion; no historical attribution
+uni003F,U+003F,designed,465,uni003F.svg,,,Policy-A contemporary completion; no historical attribution
+uni0040,U+0040,designed,805,uni0040.svg,,,Policy-A contemporary completion; no historical attribution
+uni005B,U+005B,designed,305,uni005B.svg,,,Policy-A contemporary completion; no historical attribution
+uni005C,U+005C,designed,410,uni005C.svg,,,Policy-A contemporary completion; no historical attribution
+uni005D,U+005D,designed,305,uni005D.svg,,,Policy-A contemporary completion; no historical attribution
+uni005E,U+005E,designed,450,uni005E.svg,,,Policy-A contemporary completion; no historical attribution
+uni005F,U+005F,designed,525,uni005F.svg,,,Policy-A contemporary completion; no historical attribution
+uni0060,U+0060,designed,265,uni0060.svg,,,Policy-A contemporary completion; no historical attribution
+uni007B,U+007B,designed,350,uni007B.svg,,,Policy-A contemporary completion; no historical attribution
+uni007C,U+007C,designed,230,uni007C.svg,,,Policy-A contemporary completion; no historical attribution
+uni007D,U+007D,designed,350,uni007D.svg,,,Policy-A contemporary completion; no historical attribution
+uni007E,U+007E,designed,530,uni007E.svg,,,Policy-A contemporary completion; no historical attribution
+uni00B0,U+00B0,designed,330,uni00B0.svg,,,Policy-A contemporary completion; no historical attribution
+uni20AC,U+20AC,designed,620,uni20AC.svg,,,Policy-A contemporary completion; no historical attribution
+uni2013,U+2013,designed,610,uni2013.svg,,,Policy-A contemporary completion; no historical attribution
+uni2014,U+2014,designed,850,uni2014.svg,,,Policy-A contemporary completion; no historical attribution
+uni2018,U+2018,designed,230,uni2018.svg,,,Policy-A contemporary completion; no historical attribution
+uni2019,U+2019,designed,230,uni2019.svg,,,Policy-A contemporary completion; no historical attribution
+uni201C,U+201C,designed,375,uni201C.svg,,,Policy-A contemporary completion; no historical attribution
+uni201D,U+201D,designed,375,uni201D.svg,,,Policy-A contemporary completion; no historical attribution
+uni2026,U+2026,designed,580,uni2026.svg,,,Policy-A contemporary completion; no historical attribution
+uni0300,U+0300,designed,0,uni0300.svg,,,"Combining grave: zero advance; GPOS mark anchor (0,0), base-specific placement"
+uni0301,U+0301,designed,0,uni0301.svg,,,"Combining acute: zero advance; GPOS mark anchor (0,0), base-specific placement"
+dotlessi,,designed,250,glyphs/regular/release-1.100/dotlessi.svg,,,"Primo contorno della i approvata, invariato; variante tecnica senza punto per ccmp."
+uni0020,U+0020,system,240,[],,,Technical empty spacing glyph; no historical attribution
+uni00A0,U+00A0,system,240,[],,,Technical empty spacing glyph; no historical attribution
+uni00E0,U+00E0,designed,440,"[{""glyph"": ""uni0061"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [258, 422]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00E8,U+00E8,designed,412,"[{""glyph"": ""uni0065"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [241, 421]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00E9,U+00E9,designed,412,"[{""glyph"": ""uni0065"", ""offset"": [0, 0]}, {""glyph"": ""uni0301"", ""offset"": [241, 421]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00EC,U+00EC,designed,250,"[{""glyph"": ""dotlessi"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [166, 415]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00F2,U+00F2,designed,437,"[{""glyph"": ""uni006F"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [254, 426]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00F9,U+00F9,designed,450,"[{""glyph"": ""uni0075"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [268, 420]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00C0,U+00C0,designed,570,"[{""glyph"": ""uni0041"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [292, 710]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00C8,U+00C8,designed,520,"[{""glyph"": ""uni0045"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [298, 710]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00C9,U+00C9,designed,520,"[{""glyph"": ""uni0045"", ""offset"": [0, 0]}, {""glyph"": ""uni0301"", ""offset"": [298, 710]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00CC,U+00CC,designed,285,"[{""glyph"": ""uni0049"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [151, 710]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00D2,U+00D2,designed,635,"[{""glyph"": ""uni004F"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [350, 723]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim
+uni00D9,U+00D9,designed,610,"[{""glyph"": ""uni0055"", ""offset"": [0, 0]}, {""glyph"": ""uni0300"", ""offset"": [345, 710]}]",,,Contemporary accent composite; base provenance inherited only through its component; no historical accent claim

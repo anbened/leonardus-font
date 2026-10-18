@@ -1,0 +1,69 @@
+{
+  "status": "human_design_selection_recorded",
+  "recorded_date": "2026-10-16",
+  "reviewer": "Human review",
+  "scope": "selection_of_shown_JKUVWXYZ_designs_for_integration",
+  "quote": "Adottiamo la combinazione che suggerisci: J B, K B, U B, V B, W B, X B, Y B e Z B. Integra le varianti, verifica la spaziatura nelle parole, aggiorna la documentazione e procediamo con altri caratteri maiuscoli se ne abbiamo.",
+  "selected_variants": {
+    "J": "B",
+    "K": "B",
+    "U": "B",
+    "V": "B",
+    "W": "B",
+    "X": "B",
+    "Y": "B",
+    "Z": "B"
+  },
+  "selection_source": "Explicit all-B per-letter selection. J B, W B, Y B and Z B override the earlier agent preferences J A, W A, Y A and Z A. Exact shown designs are integrated; no historical reading is promoted.",
+  "study_manifest": "data/jkuvwxyz_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "26bdf97c9993488cadcccc023d00a596e3bc59cfe7d4bd25ab1d15fecc7f1dd2",
+  "shown_word_proof": "specimen/JKUVWXYZ-Study-Words-2026-10-16.png",
+  "shown_word_proof_sha256": "ac042ee1882ef2de0d13e5336ff57ff6a2e30d13b2c974980f9761e55f2310c0",
+  "reading_changes": false,
+  "segmentation_changes": false,
+  "authenticity_claim": false,
+  "approval_of_other_characters": false,
+  "public_release_approved": false,
+  "glyphs": {
+    "J": {
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni004A-B.svg",
+      "sha256": "46233edb22191a5998b2eefa95dfab59c57e60c28dcdd9cfe2726e008021b77e",
+      "advance": 430
+    },
+    "K": {
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni004B-B.svg",
+      "sha256": "d595e422cd69cb72c42b8264d26e6f01283b5093faae874b75c4b653c1c1993c",
+      "advance": 580
+    },
+    "U": {
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0055-B.svg",
+      "sha256": "53f42b2b1f3f3a21328ec1f35aa86a41a81379ebd0edc8b4dffdcdcc7dcba39d",
+      "advance": 610
+    },
+    "V": {
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0056-B.svg",
+      "sha256": "d0037f41b9779edf5a49a04cfe0ac5f719f48683c4a0a0fe2504eab8d7e3a162",
+      "advance": 565
+    },
+    "W": {
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0057-B.svg",
+      "sha256": "97e149d9a68c9d708868b3b0a969a535288d53320e347a2f9469b92940ffcbe4",
+      "advance": 810
+    },
+    "X": {
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0058-B.svg",
+      "sha256": "eedbaa7e5c3afd6ebf1a598cc4162753717ef8a910527ca7e66259bff9a2408f",
+      "advance": 570
+    },
+    "Y": {
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0059-B.svg",
+      "sha256": "6d3041e3669785652610e6c335cfc2607d44a98d0358a6b47513212cbc9f6555",
+      "advance": 560
+    },
+    "Z": {
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni005A-B.svg",
+      "sha256": "1096ba40ef08d551134dca8a59c253fc9c1658c0d292293bec599b43958ef605",
+      "advance": 565
+    }
+  }
+}

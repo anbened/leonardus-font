@@ -1,0 +1,456 @@
+{
+  "date": "2026-10-15",
+  "scope": "Thirteen approved contemporary lowercase designs integrated; historical segmentations remain hypotheses; Regular 1.000 checkpoint preserved",
+  "accepted_font_sha256": "1f65d26ece4c8a0fe9c275fcdedfa037fab88a9687b0cd89a941d131eb899632",
+  "rebuild_matches_accepted_font": true,
+  "codepoints": 119,
+  "glyphs": 121,
+  "coverage_complete": true,
+  "vertical_bounds_contained": true,
+  "tests": {
+    "passed": 113,
+    "skipped": 5,
+    "skip_reason": "Windows symlink creation requires privileges; all five tests run on Linux CI."
+  },
+  "spacing": {
+    "ppem": 128,
+    "threshold": 127,
+    "tested_pairs": 2704,
+    "ink_collisions": [],
+    "scope": "Actual unhinted grayscale ink >127 at 128px/em; no claim of optical spacing quality, all sizes, or kerning necessity"
+  },
+  "specimen": {
+    "generated_from": "fonts/Leonardus-Regular.ttf",
+    "pdf_pages": 4,
+    "pdf_author": "Leonardus Lab",
+    "pdf_encrypted": false,
+    "pdf_classification_metadata_present": false,
+    "all_four_pdf_pages_rendered_and_inspected": true,
+    "same_environment_repeatable": true,
+    "source_date_epoch": 0
+  },
+  "privacy_scan": {
+    "findings": 0,
+    "documents_and_assets_decoded": true,
+    "excludes_ignored_local_files": true,
+    "files_checked": 230
+  },
+  "dependency_screening": {
+    "database": "OSV",
+    "date": "2026-10-15",
+    "packages": [
+      {
+        "name": "fonttools",
+        "version": "4.66.1",
+        "advisories": []
+      },
+      {
+        "name": "Pillow",
+        "version": "12.3.0",
+        "advisories": []
+      },
+      {
+        "name": "pytest",
+        "version": "9.1.1",
+        "advisories": []
+      },
+      {
+        "name": "uharfbuzz",
+        "version": "0.56.2",
+        "advisories": []
+      },
+      {
+        "name": "freetype-py",
+        "version": "2.5.1",
+        "advisories": []
+      },
+      {
+        "name": "reportlab",
+        "version": "4.4.9",
+        "advisories": []
+      },
+      {
+        "name": "pypdf",
+        "version": "6.19.0",
+        "advisories": []
+      }
+    ],
+    "transitive_dependencies_and_native_libraries_checked": false
+  },
+  "new_git_history": true,
+  "source_images_distributed": false,
+  "native_office_repeated": true,
+  "public_release_approved": false,
+  "credential_scan": {
+    "tool": "Gitleaks 8.30.1",
+    "distributable_files_findings": 0,
+    "local_scan_performed": true,
+    "history_scan_in_ci": true,
+    "raw_reports_distributed": false,
+    "scan_scope": "Gitleaks on all reachable history, final distributable export and acquired Actions logs; decoded privacy checks on distributable files and historical blobs; raw reports remain ignored"
+  },
+  "git_export_matches_loose_files_and_inventory": true,
+  "local_markdown_links_checked": 135,
+  "corpus_expansion": {
+    "candidate_samples_added": 65,
+    "new_lowercase_letters": 12,
+    "total_samples": 109,
+    "existing_reviewed_samples": 40,
+    "new_human_reviews": 0,
+    "original_images_reacquired": 4,
+    "sha256_matches_existing_sources": true,
+    "new_samples_checked_against_images": 65,
+    "raw_and_mirrored_coordinates_checked": true,
+    "contexts_and_duplicate_crops_checked": true,
+    "initial_44_records_byte_identical": true,
+    "rendered_target_and_context_images": 130,
+    "visual_dossier_generated_locally": true,
+    "manuscript_images_distributed": false,
+    "font_outlines_changed": false,
+    "browser_review": {
+      "cards": 65,
+      "images": 130,
+      "loaded_images": 130,
+      "letter_index_and_sample_rendering_inspected": true
+    },
+    "checkpoint_date": "2026-10-14"
+  },
+  "corpus_search": {
+    "candidate_samples_added": 35,
+    "total_samples": 144,
+    "existing_reviewed_samples": 40,
+    "new_human_reviews": 0,
+    "pages_acquired_for_local_study": 26,
+    "images_used_by_candidates": 12,
+    "new_samples_checked_against_original_images": 35,
+    "excluded_K_observations": 3,
+    "excluded_possible_numeral": 1,
+    "prior_109_records_byte_identical": true,
+    "raw_mirror_coordinates_contexts_duplicates_and_registry_checked": true,
+    "folio_statuses": "Pending human review on all35newcandidates; arithmetic mappings147/319rejected",
+    "browser_review": {
+      "cards": 35,
+      "images": 70,
+      "loaded_images": 70,
+      "folio_warnings": 35
+    },
+    "font_outlines_changed": false,
+    "source_images_distributed": false,
+    "checkpoint_date": "2026-10-14"
+  },
+  "guided_review": {
+    "review_id": "guided-review-2026-10-14",
+    "selected_candidate_samples": 61,
+    "groups": 7,
+    "maximum_group_size": 10,
+    "all_100_batch_candidates_and_registry_checked": true,
+    "original_hashes_and_dimensions_checked": true,
+    "browser_review": {
+      "cards": 61,
+      "images": 183,
+      "loaded_images": 183,
+      "navigation_and_boundary_buttons_checked": true,
+      "uncertainty_counted_as_completion_not_approval": true,
+      "partial_synthetic_test_draft_exported_and_validated": true,
+      "empty_draft_exported_and_validated": true,
+      "initial_group": "group-01",
+      "recorded_decisions_prepopulated": 61,
+      "locked_controls": 244,
+      "exported_recorded_and_blank_decisions_validated": true,
+      "editable_controls": 0,
+      "completed_message_visible": true,
+      "exported_all_recorded_decisions_validated": true,
+      "all_recorded_decisions_complete": true
+    },
+    "drafts_do_not_import_evidence": true,
+    "new_human_reviews": 61,
+    "source_images_and_decision_drafts_distributed": false,
+    "updated_on": "2026-10-15",
+    "source_registry_byte_identical": true,
+    "evidence_change_scope": "Only review_status, reviewer, review_notes and reviewed_at in 51 group-02 through group-07 records changed in the final registration; other 93 records, previous m/t receipt and all source metadata unchanged",
+    "pending_selected_samples": 0,
+    "recorded_groups": [
+      "group-01",
+      "group-02",
+      "group-03",
+      "group-04",
+      "group-05",
+      "group-06",
+      "group-07"
+    ],
+    "completed": true,
+    "last_registration_samples": 51
+  },
+  "research_followup": {
+    "new_candidate_samples": 0,
+    "editorial_67v_bne_page": 131,
+    "concordance_status": "agent_visual_concordance_pending_human_review",
+    "new_y_lead_folios": [
+      "72r",
+      "89r"
+    ],
+    "bne_mapping_for_new_y_leads_pending": true,
+    "source_reproductions_distributed": false
+  },
+  "current_corpus_status": {
+    "samples": 144,
+    "reviewed": 101,
+    "candidate": 43,
+    "guided_reviewed": 61,
+    "additional_candidates_outside_guided_review": 39,
+    "initial_unresolved_candidates": 4
+  },
+  "segmentation_design": {
+    "status": "approved_designs_integrated_historical_segmentation_pending",
+    "samples": 61,
+    "letters": 13,
+    "svg_designs_including_short_s": 15,
+    "limited_support_letters": [
+      "c",
+      "f",
+      "i",
+      "z"
+    ],
+    "source_reading_reviews_changed": false,
+    "annotations_bounded_and_hashes_checked": true,
+    "retained_regions_all_contain_visible_ink": true,
+    "manuscript_images_distributed": false,
+    "study_fonts_distributed": false,
+    "study_font_families_distinct": true,
+    "study_build_repeatable": true,
+    "raster_proposals_and_context_words_inspected": true,
+    "browser_review": {
+      "cards": 61,
+      "images": 244,
+      "loaded_images": 244,
+      "svg_previews": 15,
+      "approved_design_headings": 13,
+      "study_font_files_linked": 2,
+      "s_heading_approved": true
+    },
+    "primary_study_spacing": {
+      "ppem": 128,
+      "threshold": 127,
+      "tested_pairs": 2704,
+      "ink_collisions": [],
+      "scope": "Actual unhinted grayscale ink >127 at 128px/em; no claim of optical spacing quality, all sizes, or kerning necessity"
+    },
+    "public_vector_comparison": "specimen/Lowercase-Proposals-2026-10-15.svg",
+    "svg_count_scope": "13 current designs, one superseded long s, one unselected short s",
+    "approved_designs": [
+      "b",
+      "c",
+      "f",
+      "g",
+      "h",
+      "i",
+      "m",
+      "p",
+      "q",
+      "s",
+      "t",
+      "u",
+      "z"
+    ],
+    "pending_designs": [],
+    "segmentation_approved": false,
+    "design_receipt": "data/human_lowercase_integration_review_2026-10-15.json",
+    "approved_design_bytes_and_advances_preserved": true,
+    "s_revision_comparison": "specimen/S-Revision-2026-10-15.svg",
+    "font_integration_approved": true,
+    "source_checkpoints_and_previous_regular_changed": false
+  },
+  "version": "1.100",
+  "font_integration": {
+    "version": "1.100",
+    "base_font": "fonts/previous/Leonardus-Regular-1.000.ttf",
+    "base_font_sha256": "92e3c7d22bcd34652b502b643e1efed61aedf83fac3659c29c73593d028a3d94",
+    "approved_designs": [
+      "b",
+      "c",
+      "f",
+      "g",
+      "h",
+      "i",
+      "m",
+      "p",
+      "q",
+      "s",
+      "t",
+      "u",
+      "z"
+    ],
+    "approved_svg_bytes_preserved": true,
+    "changed_glyphs": 16,
+    "unchanged_contours_and_metrics": 105,
+    "technical_dependencies": [
+      "dotlessi",
+      "uni00EC",
+      "uni00F9"
+    ],
+    "dotless_i_matches_approved_stem": true,
+    "italian_nfc_nfd_equal": true,
+    "new_base_accent_cases_checked": 26,
+    "gpos_gsub_gdef_rebuilt": true,
+    "vertical_metrics": [
+      916,
+      -254
+    ],
+    "repeated_builds_match_shipped_font": true,
+    "old_release_rebuild_matches_checkpoint": true,
+    "native_office_repeated": true,
+    "historical_segmentation_approved": false,
+    "public_release_approved": false,
+    "derivation_table_matches_compiled_font": true
+  },
+  "windows_office_1100": {
+    "date": "2026-10-15",
+    "status": "native_word_and_powerpoint_verified_for_documented_samples",
+    "windows_gdi": {
+      "requested_family": "Leonardus",
+      "selected_family": "Leonardus",
+      "selected_version": "Version 1.100; contemporary LTR Regular",
+      "selected_font_sha256": "1f65d26ece4c8a0fe9c275fcdedfa037fab88a9687b0cd89a941d131eb899632",
+      "expected_font_sha256": "1f65d26ece4c8a0fe9c275fcdedfa037fab88a9687b0cd89a941d131eb899632",
+      "font_bytes_match": true,
+      "scope": "Windows GDI selection only; does not certify Word or PowerPoint rendering"
+    },
+    "previous_installed_font_file_preserved": true,
+    "old_version_negative_control_rejected": true,
+    "word": {
+      "application_version": "16.0.20527.20054",
+      "native_font_rendering": "verified_for_documented_samples",
+      "save_and_reopen": "passed",
+      "all_pages_inspected": true,
+      "pages_or_slides": 4,
+      "point_sizes": [
+        12,
+        18,
+        36,
+        72
+      ],
+      "native_pdf_pages": 4,
+      "native_pdf_pages_rendered_and_inspected": true,
+      "ooxml_family_sizes_and_expected_text_preserved": true,
+      "nfc_nfd_samples_checked": true,
+      "observed_clipping_or_accent_collisions": false,
+      "embedded_pdf_font": {
+        "version": "Version 1.100; contemporary LTR Regular",
+        "subset_sha256": "535829dc8420ea65cc447f30de96f37c35c354f9dfdce06ad2b2a905bef5c649",
+        "nonempty_glyphs_compared": 88,
+        "outline_mismatches": [],
+        "revised_1100_glyphs_matching": 16,
+        "comparison": "Office-preserved glyph indices; fontTools decomposed contours"
+      }
+    },
+    "powerpoint": {
+      "application_version": "16.0.20527.20054",
+      "native_font_rendering": "verified_for_documented_samples",
+      "save_and_reopen": "passed",
+      "all_slides_inspected": true,
+      "pages_or_slides": 4,
+      "point_sizes": [
+        12,
+        18,
+        36,
+        72
+      ],
+      "native_pdf_pages": 4,
+      "native_pdf_pages_rendered_and_inspected": true,
+      "ooxml_family_sizes_and_expected_text_preserved": true,
+      "nfc_nfd_samples_checked": true,
+      "observed_clipping_or_accent_collisions": false,
+      "embedded_pdf_font": {
+        "version": "Version 1.100; contemporary LTR Regular",
+        "subset_sha256": "535829dc8420ea65cc447f30de96f37c35c354f9dfdce06ad2b2a905bef5c649",
+        "nonempty_glyphs_compared": 88,
+        "outline_mismatches": [],
+        "revised_1100_glyphs_matching": 16,
+        "comparison": "Office-preserved glyph indices; fontTools decomposed contours"
+      }
+    },
+    "preexisting_documents_modified": false,
+    "office_files_screenshots_and_raw_logs_distributed": false,
+    "font_or_outline_changes": false,
+    "protocol": "docs/OFFICE_1_100.md",
+    "physical_printing_verified": false,
+    "office_document_font_embedding_verified": false,
+    "all_119_codepoints_verified_in_native_office": false,
+    "scope": "Documented samples in the stated Windows Office versions; no universal compatibility claim"
+  },
+  "prepublication_review": {
+    "date": "2026-10-15",
+    "baseline_commit": "9a960bff05cad52374c2b21c132e600ad3a50530",
+    "history": {
+      "commits_checked": 12,
+      "distinct_reachable_blobs_checked": 373,
+      "decoded_privacy_findings": 0,
+      "gitleaks_findings": 0,
+      "project_commit_identities_only": true,
+      "noreply_commit_emails_only": true
+    },
+    "actions_logs": {
+      "runs_checked": 12,
+      "all_attempts_retrieved": true,
+      "bytes_checked": 1607098,
+      "privacy_findings": 0,
+      "gitleaks_findings": 0,
+      "includes_initial_failed_run": true
+    },
+    "github_surfaces": {
+      "branches": [
+        "main"
+      ],
+      "tags": 0,
+      "pull_request_refs": 0,
+      "issues": 0,
+      "pull_requests": 0,
+      "releases": 0,
+      "actions_artifacts": 0,
+      "webhooks": 0,
+      "deploy_keys": 0,
+      "environments": 0,
+      "wiki_enabled": false,
+      "pages_enabled": false,
+      "collaborators_other_than_owner": 0
+    },
+    "github_security": {
+      "workflow_default_permissions": "read",
+      "workflow_pr_approval_allowed": false,
+      "allowed_actions": "selected",
+      "github_owned_actions_allowed": true,
+      "other_verified_creators_allowed": false,
+      "additional_patterns": [],
+      "full_length_action_sha_required": true,
+      "dependency_alerts_enabled": true,
+      "dependency_alerts_observed": 0,
+      "branch_protection": "unavailable_http_403",
+      "rulesets": "unavailable_http_403",
+      "fork_contributor_approval": "unavailable_http_422",
+      "managed_secret_scanning": "not_confirmed",
+      "managed_push_protection": "not_confirmed"
+    },
+    "ip_screening": {
+      "font_version": "1.100",
+      "external_font_families_observed": 3,
+      "new_lowercase_letters_compared": 13,
+      "tmview_contains_results_read": 8,
+      "tmview_fuzzy_unfiltered_results": 227,
+      "tmview_fuzzy_class_9_or_42_results_read": 28,
+      "active_or_pending_results_goods_services_checked": 6,
+      "designview_typefaces_results": 1582,
+      "designview_filtered_results": 614,
+      "designview_gallery_thumbnails_observed": 20,
+      "all_design_views_examined": false,
+      "name_availability_certified": false,
+      "legal_clearance_obtained": false,
+      "report": "docs/COMPARISON.md"
+    },
+    "font_bytes_changed": false,
+    "research_archive_modified": false,
+    "visibility_changed": false,
+    "public_release_approved": false,
+    "report": "docs/PREPUBLICATION_REVIEW.md",
+    "scope": "Baseline history/log snapshot plus documentation revision; the subsequent commit has its own CI and final local checks. No universal privacy, security or IP clearance claim."
+  }
+}

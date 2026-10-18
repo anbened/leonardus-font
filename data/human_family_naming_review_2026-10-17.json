@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-17",
+  "reviewer": "Human review",
+  "status": "human_family_naming_selected",
+  "scope": "font_naming_only",
+  "quote": "**Facciamo questo: Leonardus** come famiglia, **Regular** come stile, **1.270** come versione interna.",
+  "base_font": "fonts/Leonardus-1270-Regular.ttf",
+  "base_font_sha256": "3e1e7e6ac2416f6f321b302b46fb1b598ac04015663d731324224ce0221c240d",
+  "family": "Leonardus",
+  "style": "Regular",
+  "version": "1.270",
+  "postscript_name": "Leonardus-Regular",
+  "outline_changes": false,
+  "metric_changes": false,
+  "historical_evidence_changes": false,
+  "public_release_approved": false
+}

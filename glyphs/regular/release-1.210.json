@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "status": "selected_opqr_designs_for_integration",
+  "version": "1.210",
+  "family": "Leonardus 1210",
+  "postscript": "Leonardus-1210-Regular",
+  "base_version": "1.200",
+  "base_font": "fonts/Leonardus-1200-Regular.ttf",
+  "base_font_sha256": "5186db19d2c3def93bd8346aa512ad1de8ebf71b5171ac8444e034f0785f6bba",
+  "study_manifest": "data/opqr_variant_study_2026-10-15.json",
+  "study_manifest_sha256": "13788504e0c9dd182335f17822a3163b56f3149a8ccb1597efc07456aa9aa6fa",
+  "design_review_receipt": "data/human_opqr_integration_review_2026-10-15.json",
+  "design_review_receipt_sha256": "3d4290a1fe56502d659cf14780e86ae37dd8fa62e22311ff87bb91d42bc87346",
+  "license": "OFL-1.1",
+  "public_release_approved": false,
+  "glyphs": {
+    "o": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-15-opqr/o-B.svg",
+      "sha256": "c2f67e6334ec124b3b9190c1ab662e1769fa19619e538813bcbd36643d9d206f",
+      "advance": 437,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE_MI_016_O_01",
+        "BNE_MI_016_O_02",
+        "BNE_MI_018_O_04",
+        "BNE_MI_018_O_06"
+      ],
+      "design_notes": "Vertice e cambio di direzione superiore più marcati; corpo più stretto e angoloso. Non si deducono pressione, ordine dei tratti o misure esatte da crop di 15-26 pixel. Chiusura, peso e dimensioni sono progettati."
+    },
+    "p": {
+      "variant": "A",
+      "file": "glyphs/proposals/2026-10-15-opqr/p-A.svg",
+      "sha256": "2b95b8848775f4691125b40e3d6b4788ddb6c8c004b8961036209c85e4753c5f",
+      "advance": 440,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE_MI_EXP_014_P_02",
+        "BNE_MI_EXP_016_P_03",
+        "BNE_MI_EXP_016_P_04"
+      ],
+      "design_notes": "Testa chiusa più piccola e alta, con discendente relativamente più lunga; mantiene una lettura moderna di p. P05 e p09 esclusi dalle ancore geometriche principali; non si copia il piede inferiore incerto. La discendente è contenuta nelle metriche del font, anziché riprodurne integralmente la lunghezza storica."
+    },
+    "q": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-15-opqr/q-B.svg",
+      "sha256": "c552d43fe9d147ad4c03b516180021c30603e7903185ea5694d0026e3704dbfa",
+      "advance": 450,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE_MI_EXP_014_Q_01",
+        "BNE_MI_EXP_014_Q_02"
+      ],
+      "design_notes": "Testa chiusa alta e coda curva a destra, come interpretazione separata di q02; non proposta come forma storica generale. Q03/q04/q05 restano dubbi per confini ed estremi e non guidano la geometria principale. Il ponte orizzontale verso il vicino non diventa una traversa della q. Apertura e coda sono disegnate, senza ricalco."
+    },
+    "r": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-15-opqr/r-B.svg",
+      "sha256": "65664348961345d50b32a2e3d7bfeff31b0e8013d40fbf5c6db1da388423470c",
+      "advance": 356,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE-MI-016-r-01",
+        "BNE-MI-014-r-02",
+        "BNE-MI-014-r-03",
+        "BNE-MI-018-r-05",
+        "BNE-MI-020-r-06"
+      ],
+      "design_notes": "Ramo sinistro più alto e biforcazione più profonda; gesto più evidente ma maggiore rischio di ambiguità nella lettura. R04 non guida il disegno principale: il token è irrisolto. Nessuna ricostruzione del ductus, nessuna nuova approvazione delle connessioni."
+    }
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "status": "all_61_segmentation_originals_verified",
+  "date": "2026-10-15",
+  "method": "Previously acquired official BNE JPEG files recovered locally by exact SHA256 matching; no new download or manuscript image distribution.",
+  "images": [
+    {
+      "viewer_pages": [
+        14
+      ],
+      "sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        15
+      ],
+      "sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        16
+      ],
+      "sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        17
+      ],
+      "sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        18
+      ],
+      "sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        19
+      ],
+      "sha256": "53b3580020de066a3023fd0c1ff4855e031ad01c78370e110d0cd3476e60b065",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        20
+      ],
+      "sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        21
+      ],
+      "sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        22
+      ],
+      "sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        24
+      ],
+      "sha256": "e069f9222dc363e088155309ddff087dc908ed3973c20ab2cfb4510392c0d443",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        26
+      ],
+      "sha256": "c83c7077894edbb50c8b6276a770ed1c536f1d579bb7a753a0fe065924972c9d",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        28
+      ],
+      "sha256": "29552f3090e029d5134a8fda7114ca761233b55e83c44df6f95bfd36d688fffa",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        30
+      ],
+      "sha256": "cba3a2f0eaeefeb863895627c3481c6b8e8922c648a9790bf72e57ecf54f8d1c",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        32
+      ],
+      "sha256": "2376993aa96f08f295fe86913362985832b100a66d8c54276ef0be658669bcf3",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        34
+      ],
+      "sha256": "0900e4b5b3f34820f46e223c8970c37754cf6c1c4dee90290bdbc754dee05a6c",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        36
+      ],
+      "sha256": "b7e73178d51695e6a63e3be9c51b8eb96c669dfad003b76fb7c10aa7eba359ae",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        49
+      ],
+      "sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        67
+      ],
+      "sha256": "91b89e664cc3e8cccf42b940037cd3b48046aefb7a146d18a080f48522d288e0",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        147
+      ],
+      "sha256": "607cb084e2e0afabda654e905105be8dc7b9e5efe9610592aa94e42acd565a18",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        303
+      ],
+      "sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        305
+      ],
+      "sha256": "2d33f928b58afc64014f5619c6aeb6a844584ba7359801352558b79c5fe06e84",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        307
+      ],
+      "sha256": "f4d1a21dc993cc7293b3e78e07f33f05587a49d5d5f5837bab30ba41a2e3cd68",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        309
+      ],
+      "sha256": "6857e561adc450c83c68a4353297368e48190ddcb8079e096e1e34f384329e10",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        311
+      ],
+      "sha256": "dcc7f64fac2fd38d5e82c7b4252169b130d71a41c038d8502334dfd457d5e7d4",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        313
+      ],
+      "sha256": "2afb1465adb6a3806705036d1416e3d4e7af704cf0914959fddb155e78d24f57",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        315
+      ],
+      "sha256": "9191ddfd8bd914acbf9ce14628d036ceeb20fa78513e98d0baab1ce1dcf31530",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        317
+      ],
+      "sha256": "bcf08adb13c8f7197f084d49c9b029710809c89257e59f41f900aa9797db7d40",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        319
+      ],
+      "sha256": "8041b19f5ca59581fe29b18abbba31bb667f15d563f2ca683ec62599af9e6d0c",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        321
+      ],
+      "sha256": "eb40b6fff7bb8719497ef19c73476e652e865fa9e09570386d27f2f9e28df54b",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    },
+    {
+      "viewer_pages": [
+        323
+      ],
+      "sha256": "8c5c0274adc9e9e437de96b9ea4f44b7679137d4022a3a04af7be5e48054f08e",
+      "dimensions": [
+        1578,
+        2174
+      ]
+    }
+  ],
+  "segmented_samples_verified": 61,
+  "source_batch_sha256": {
+    "data/lowercase_expansion_2026-10-14.json": "84a481a4553fac2e52aeeeeee77cefc0764d080a6db0265d7a3276c412f9ce9f",
+    "data/lowercase_search_2026-10-14.json": "853c7255a6e9e7b32bef968a399626c21a87fe134b5c10c468077a82ac0cbd55"
+  }
+}

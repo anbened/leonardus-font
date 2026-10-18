@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-17",
+  "reviewer": "project_owner",
+  "version": "1.270",
+  "font_sha256": "3e1e7e6ac2416f6f321b302b46fb1b598ac04015663d731324224ce0221c240d",
+  "artifact": "Leonardus-1270-PowerPoint-saved.pdf",
+  "decision": "pdf_content_confirmed_by_user",
+  "quote": "Ho controllato io il contenuto pdf: peretto.",
+  "scope": "Human confirmation of the exported PDF content; exact page count and inspection procedure not specified. No agent inspection or embedded-outline comparison of the protected PowerPoint PDF is claimed.",
+  "physical_print_confirmed": false,
+  "historical_authentication_claimed": false
+}

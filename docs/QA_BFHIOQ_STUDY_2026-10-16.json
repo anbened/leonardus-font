@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-16",
+  "status": "unapproved_study",
+  "base_version": "1.250",
+  "base_font_sha256": "6e383ce0792149a50023ac73e5d7f33105534db07004bd88bceac491cc6d2ffb",
+  "manifest_sha256": "c669d712c31b0c793ed514446fee8cc82e43f838457811c0b91bf737ab05abba",
+  "study_font_sha256": {
+    "A": "8db6435f3b9196954b1579593af44373d4ddd13c97ffc70baa425ad74d53eb6e",
+    "B": "1aeb58569438cebbf23b736c7ab80281101299da89ac40b35906ce3c05d6fd92"
+  },
+  "source_contexts_verified": 16,
+  "formal_observations_not_reviewed": 4,
+  "existing_reviewed_lowercase_comparisons": 12,
+  "new_reviewed_capital_readings": 0,
+  "new_images_acquired": false,
+  "changed_base_characters": "BFHIOQ",
+  "changed_dependencies": "ÌÒ",
+  "lowercase_outlines_unchanged": true,
+  "all_advances_unchanged": true,
+  "study_tests": {
+    "passed": 10
+  },
+  "full_suite": {
+    "passed": 228,
+    "skipped": 5,
+    "platform": "Windows",
+    "skip_reason": "Existing symlink privilege/platform checks",
+    "isolated_checkout": true
+  },
+  "spacing": {
+    "tested_pairs_per_series_and_size": 2704,
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "series": [
+      "A",
+      "B"
+    ],
+    "threshold": 127,
+    "ink_collisions": 0,
+    "optical_certificate": false
+  },
+  "proofs": {
+    "points": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "renderer": "HarfBuzz + FreeType",
+    "words_sha256": "877ccf4ccb04bb0e19716cc25ec6d8a68c490bb5fb6fe5ff64e1538883508108",
+    "metadata": "PNG no ancillary metadata"
+  },
+  "audits": {
+    "A": {
+      "codepoints": 119,
+      "glyphs": 121,
+      "coverage_complete": true,
+      "bounds_within_vertical_metrics": true
+    },
+    "B": {
+      "codepoints": 119,
+      "glyphs": 121,
+      "coverage_complete": true,
+      "bounds_within_vertical_metrics": true
+    }
+  },
+  "browser": {
+    "all_15_faces_loaded": true,
+    "mixed_suggestion_verified": true,
+    "Igrave_Ograve_and_combining_mark_family_verified": true,
+    "unsupported_character_warning_verified": true,
+    "source_sheet_opened": true
+  },
+  "integration_approved": false,
+  "installed": false,
+  "office_tested": false,
+  "physical_print_tested": false,
+  "public_release_approved": false,
+  "privacy_check_passed": true,
+  "inventory_check_passed": true,
+  "previous_12_selected_capitals_outlines_unchanged": true,
+  "current_font_rebuild_byte_identical": true,
+  "legacy_demo_build": "Unavailable: glyphs/demo is intentionally absent from this source tree. Regular build-release 1.250 and the study builder are verified."
+}

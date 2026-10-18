@@ -1,0 +1,26 @@
+{
+  "status": "human_decisions_recorded",
+  "recorded_at": "2026-10-12T18:33:00+00:00",
+  "foliation": {
+    "quote": "Confermo la mappatura dei quattro folii",
+    "mapping": {
+      "14": "1r",
+      "16": "2r",
+      "18": "3r",
+      "20": "4r"
+    },
+    "scope": "Working mapping of displayed numbers and documented sequence; not authentication"
+  },
+  "M2": {
+    "quote": "Approvo il pacchetto M2 con politica A",
+    "policy": "A",
+    "scope": "l/n/o/r and spacing V3; revised links to confirmed letters with d04 anchor; closures/connections designed; 119 codepoint repertoire; contemporary completions policy; a/d/e V3 earlier choices preserved; future glyphs require visual QA"
+  },
+  "remaining_human_doubts": [
+    "BNE_MI_018_A_06",
+    "BNE-MI-016-d-01",
+    "BNE-MI-020-d-03",
+    "BNE_MI_016_N_01"
+  ],
+  "export_note": "Public extract of recorded decisions; not a new approval"
+}

@@ -1,0 +1,57 @@
+{
+  "status": "human_design_selection_recorded",
+  "recorded_date": "2026-10-16",
+  "reviewer": "Human review",
+  "scope": "selection_of_shown_jkvwxy_designs_for_integration",
+  "quote": "Adottiamo la combinazione che suggerisci: j A, k B, v B, w B, x B e y B. Integra le varianti, verifica la spaziatura nelle parole, aggiorna la documentazione e installa il font aggiornato.",
+  "selected_variants": {
+    "j": "A",
+    "k": "B",
+    "v": "B",
+    "w": "B",
+    "x": "B",
+    "y": "B"
+  },
+  "selection_source": "Explicit per-letter list in the human instruction; v B overrides the earlier agent preference v A.",
+  "study_manifest": "data/jkvwxy_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "6b929e2b3fc715b4af4aa5b2054c5b573f963f57149d07b0593c75a306502dc8",
+  "shown_word_proof": "specimen/JKVWXY-Study-Words-2026-10-16.png",
+  "shown_word_proof_sha256": "33f7dd4161e876a110e6c0cc8be31e4fe77d3de2f7ccdbbdd390546eed708f28",
+  "reading_changes": false,
+  "segmentation_changes": false,
+  "authenticity_claim": false,
+  "approval_of_other_20_lowercase": false,
+  "public_release_approved": false,
+  "glyphs": {
+    "j": {
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/j-A.svg",
+      "sha256": "658eb7bec64213d3d362ec5930593d13087bf3f50790d0649d92d762191dac04",
+      "advance": 240
+    },
+    "k": {
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/k-B.svg",
+      "sha256": "02ee76de14e8b0568fca5a1f7dee2bbdd507d0b2f60d58171115d50e0ff95f16",
+      "advance": 430
+    },
+    "v": {
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/v-B.svg",
+      "sha256": "ca9125ea7d94c3222318677e9038de4ab33e63a6a855aa16f55396f5d68c4b26",
+      "advance": 430
+    },
+    "w": {
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/w-B.svg",
+      "sha256": "051eec87fce8178d5097e2ecfdbfacd05bebd1e1a4a041efe7228748ddd6381e",
+      "advance": 570
+    },
+    "x": {
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/x-B.svg",
+      "sha256": "922fa01771a5e255fdb2ff642787ff62a55d04a6d1e5dd0a0b61b9558cd1d433",
+      "advance": 415
+    },
+    "y": {
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/y-B.svg",
+      "sha256": "1909a5a70e8cdac7ece8c7f8d81d83fc72f239f16d8ef018b8f39f4679033df0",
+      "advance": 410
+    }
+  }
+}

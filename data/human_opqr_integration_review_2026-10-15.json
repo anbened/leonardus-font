@@ -1,0 +1,44 @@
+{
+  "status": "human_design_selection_recorded",
+  "recorded_at": "2026-10-15T18:57:36.268260+00:00",
+  "reviewer": "Human review",
+  "scope": "selection_of_shown_opqr_designs_for_integration",
+  "quote": "Io dico di utilizzare le varianti esplorative (B esplorativa) per tutti i caratteri tranne che per la \"p\" per la quale io suggerirei la versione A equilibrio di lettura",
+  "selected_variants": {
+    "o": "B",
+    "p": "A",
+    "q": "B",
+    "r": "B"
+  },
+  "study_manifest": "data/opqr_variant_study_2026-10-15.json",
+  "study_manifest_sha256": "13788504e0c9dd182335f17822a3163b56f3149a8ccb1597efc07456aa9aa6fa",
+  "shown_word_proof": "specimen/OPQR-Study-Words-2026-10-15.png",
+  "shown_word_proof_sha256": "e63e16ef7cbd0d98df823852d07dfbcb3ae647ed666ae6f8005b443e130bbcc1",
+  "reading_changes": false,
+  "segmentation_changes": false,
+  "authenticity_claim": false,
+  "approval_of_other_22_lowercase": false,
+  "public_release_approved": false,
+  "glyphs": {
+    "o": {
+      "file": "glyphs/proposals/2026-10-15-opqr/o-B.svg",
+      "sha256": "c2f67e6334ec124b3b9190c1ab662e1769fa19619e538813bcbd36643d9d206f",
+      "advance": 437
+    },
+    "p": {
+      "file": "glyphs/proposals/2026-10-15-opqr/p-A.svg",
+      "sha256": "2b95b8848775f4691125b40e3d6b4788ddb6c8c004b8961036209c85e4753c5f",
+      "advance": 440
+    },
+    "q": {
+      "file": "glyphs/proposals/2026-10-15-opqr/q-B.svg",
+      "sha256": "c552d43fe9d147ad4c03b516180021c30603e7903185ea5694d0026e3704dbfa",
+      "advance": 450
+    },
+    "r": {
+      "file": "glyphs/proposals/2026-10-15-opqr/r-B.svg",
+      "sha256": "65664348961345d50b32a2e3d7bfeff31b0e8013d40fbf5c6db1da388423470c",
+      "advance": 356
+    }
+  }
+}

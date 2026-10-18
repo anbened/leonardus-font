@@ -1,0 +1,47 @@
+{
+  "review_id": "segmentation-consolidation-2026-10-15",
+  "status": "human_segmentation_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:31:53+00:00",
+  "quote": "Confermo gli esiti proposti per le cinque p",
+  "question": "Per le cinque p mostrate, confermi p02 e p03 compatibili con riserve; p04 da riesaminare con più margine inferiore; p09 con più margine inferiore e sinistro; p05 dubbia e non utilizzabile come riferimento geometrico principale per l’intersezione? Le zone arancioni restano non confermate. La decisione riguarda solo la segmentazione, senza modifiche al font o nuove approvazioni delle letture e dell’autenticità. Puoi correggere gli esiti indicando il singolo ID.",
+  "plan_sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+  "shown_sheet": "build/segmentation-consolidation/review-p-0693acd9a6ca.png",
+  "shown_sheet_sha256": "0693acd9a6caeeb26d39145a5655947645ec106aa631f801eb302dc85b13074b",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_P_02",
+      "annotation_sha256": "102b1ce21c0049b82ba48bfc2a10920ec3169fe823127853d4006cc6456a76ab",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_P_03",
+      "annotation_sha256": "07ba97cd85f8f6b897dc14e7fc4fd03828fa661ba1f287e51760b9c22d3cae44",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_P_04",
+      "annotation_sha256": "4a236ab09f24d0df624e90495cedbafc40b1119f008c06c877da6facf9b45c84",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_P_05",
+      "annotation_sha256": "e595e5a7525019131a23714d5a86b93f00bd25d9743fefb6b246005e7435a989",
+      "decision": "uncertain",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_P_09",
+      "annotation_sha256": "49df745df8d1cab37cf54ebdc056e102ac987d98df2f2a117428c900ee4e65fc",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

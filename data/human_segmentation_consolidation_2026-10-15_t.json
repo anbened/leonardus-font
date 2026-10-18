@@ -1,0 +1,47 @@
+{
+  "review_id": "segmentation-consolidation-2026-10-15",
+  "status": "human_segmentation_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:18:33+00:00",
+  "quote": "Confermo gli esiti proposti per le cinque t",
+  "question": "Per le cinque t nella tavola, confermi t01, t03, t07 e t09 come compatibili mantenendo incerte le zone arancioni e i raccordi, e t08 da riesaminare con più margine inferiore? Puoi correggere gli esiti per singolo ID; si revisionano soltanto i confini, senza nuove approvazioni del disegno o autenticità.",
+  "plan_sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+  "shown_sheet": "build/segmentation-consolidation/review-t-1d5f4c87713b.png",
+  "shown_sheet_sha256": "1d5f4c87713bd904f2adaf150697ba4567ab93082fc28a5f243343f872e40ef5",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_T_01",
+      "annotation_sha256": "77dec62476ed64ede61dc1b5ff5f75e740e14364bcbce41c2325ea3a9611a941",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_T_03",
+      "annotation_sha256": "a3b93ce580c6fb4dc051a83625c3edb206cb98772981046bc80366cb679c1736",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_T_07",
+      "annotation_sha256": "ba885b2e964413c43a9c330a18408034c2287849db1609d56d85052a9420693e",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_T_08",
+      "annotation_sha256": "d79138e0e349fe6b2a5d7e307d735512f86ebbcd6e7fd2c76e45fb9ad75f61a9",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_T_09",
+      "annotation_sha256": "907ff54615ab3d1c1d0afbc62ec304b46bdb30dd28ff0d316dc723f8fc009c07",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

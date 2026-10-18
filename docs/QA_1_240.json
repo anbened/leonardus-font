@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-16",
+  "version": "1.240",
+  "font_sha256": "e6f340ff1f83fc37ecfa036b2180b621411e13ed8bd02b2aad93dd335d650d47",
+  "family": "Leonardus 1240",
+  "selection": {
+    "L": "B",
+    "A": "B",
+    "M": "B",
+    "N": "A",
+    "R": "B",
+    "S": "B"
+  },
+  "glyphs": 121,
+  "codepoints": 119,
+  "new_reviewed_capital_readings": 0,
+  "evidence_unchanged": true,
+  "lowercase_outlines_unchanged": true,
+  "all_advances_unchanged": true,
+  "changed_dependency": "À",
+  "historical_capital_classification": "designed",
+  "metrics": {
+    "L": {
+      "advance": 445,
+      "lsb": 70,
+      "rsb": 43
+    },
+    "A": {
+      "advance": 570,
+      "lsb": 53,
+      "rsb": 60
+    },
+    "M": {
+      "advance": 760,
+      "lsb": 55,
+      "rsb": 79
+    },
+    "N": {
+      "advance": 610,
+      "lsb": 60,
+      "rsb": 31
+    },
+    "R": {
+      "advance": 585,
+      "lsb": 61,
+      "rsb": 52
+    },
+    "S": {
+      "advance": 565,
+      "lsb": 70,
+      "rsb": 39
+    }
+  },
+  "spacing": {
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "tested_pairs_per_size": 2704,
+    "ink_collisions": 0,
+    "threshold": 127,
+    "optical_certificate": false
+  },
+  "proofs": {
+    "points": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "words_sha256": "8cd225fa6b95ef94e79388de13c98825cd6bc43d44ab56fe516333d79752e1b9",
+    "renderer": "HarfBuzz + FreeType"
+  },
+  "integration_tests_passed": 7,
+  "full_suite": {
+    "passed": 211,
+    "skipped": 5,
+    "platform": "Windows",
+    "skip_reason": "Existing symlink privilege/platform checks",
+    "isolated_checkout": true
+  },
+  "installed_current_user": true,
+  "fresh_process_gdi_bytes_match": true,
+  "previous_family_1230_file_and_registration_unchanged": true,
+  "office_tested": false,
+  "physical_print_tested": false,
+  "public_release_approved": false,
+  "browser": {
+    "current_and_previous_font_loaded": true,
+    "version_selector_verified": true,
+    "word_button_verified": true
+  },
+  "privacy_check_passed": true,
+  "inventory_check_passed": true,
+  "current_and_previous_font_rebuilds_byte_identical": true
+}

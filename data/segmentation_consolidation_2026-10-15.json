@@ -1,0 +1,627 @@
+{
+  "review_id": "segmentation-consolidation-2026-10-15",
+  "status": "pending_human_review",
+  "scope": "Segmentation boundaries only; existing reading/design approvals and Regular 1.100 preserved",
+  "source_sha256": {
+    "data/guided_review_2026-10-14.json": "41c1f9b543ffa829c3f2ec2bc59477ebbeb7eb90ef4c7b42be2565342a0e9436",
+    "data/lowercase_design_2026-10-15.json": "7dc4d7461928123ba43b146bf429b8bb7c069a7838f80b5b66e378c41d4ca175",
+    "data/segmentation/bhmt-2026-10-15.json": "b44764bab2bc0af31441ec201d8096ddeb5c82b95a2060f88c40114251d6aa46",
+    "data/segmentation/gpqsu-2026-10-15.json": "a14f20f2af9dbd4f32d3d8ed3f4a1ab3ecb54deb0f7169770e0afad8872ba287",
+    "data/segmentation/cfiz-2026-10-15.json": "98b8154e442b2b3062ee435a1dad82ffb0bf918a9eb4313f1d034f208ceff5d3"
+  },
+  "groups": [
+    {
+      "id": "group-01",
+      "letters": [
+        "m",
+        "t"
+      ],
+      "sample_ids": [
+        "BNE_MI_EXP_014_M_01",
+        "BNE_MI_EXP_016_M_02",
+        "BNE_MI_EXP_018_M_04",
+        "BNE_MI_EXP_018_M_06",
+        "BNE_MI_EXP_020_M_08",
+        "BNE_MI_EXP_014_T_01",
+        "BNE_MI_EXP_016_T_03",
+        "BNE_MI_EXP_018_T_07",
+        "BNE_MI_EXP_018_T_08",
+        "BNE_MI_EXP_020_T_09"
+      ]
+    },
+    {
+      "id": "group-02",
+      "letters": [
+        "b",
+        "h"
+      ],
+      "sample_ids": [
+        "BNE_MI_EXP_014_B_01",
+        "BNE_MI_SEARCH_015_B_01",
+        "BNE_MI_SEARCH_017_B_02",
+        "BNE_MI_SEARCH_030_B_06",
+        "BNE_MI_SEARCH_036_B_07",
+        "BNE_MI_SEARCH_015_H_01",
+        "BNE_MI_SEARCH_019_H_05",
+        "BNE_MI_SEARCH_021_H_06",
+        "BNE_MI_SEARCH_032_H_08",
+        "BNE_MI_SEARCH_034_H_10"
+      ]
+    },
+    {
+      "id": "group-03",
+      "letters": [
+        "p",
+        "g"
+      ],
+      "sample_ids": [
+        "BNE_MI_EXP_014_P_02",
+        "BNE_MI_EXP_016_P_03",
+        "BNE_MI_EXP_016_P_04",
+        "BNE_MI_EXP_018_P_05",
+        "BNE_MI_EXP_020_P_09",
+        "BNE_MI_EXP_016_G_01",
+        "BNE_MI_EXP_016_G_02",
+        "BNE_MI_EXP_016_G_03",
+        "BNE_MI_EXP_020_G_04",
+        "BNE_MI_EXP_020_G_05"
+      ]
+    },
+    {
+      "id": "group-04",
+      "letters": [
+        "s",
+        "f"
+      ],
+      "sample_ids": [
+        "BNE_MI_EXP_014_S_01",
+        "BNE_MI_EXP_016_S_02",
+        "BNE_MI_EXP_018_S_04",
+        "BNE_MI_EXP_018_S_05",
+        "BNE_MI_EXP_020_S_06",
+        "BNE_MI_EXP_014_F_01",
+        "BNE_MI_EXP_014_F_02",
+        "BNE_MI_EXP_018_F_03",
+        "BNE_MI_EXP_020_F_04"
+      ]
+    },
+    {
+      "id": "group-05",
+      "letters": [
+        "c",
+        "i"
+      ],
+      "sample_ids": [
+        "BNE_MI_EXP_014_C_01",
+        "BNE_MI_EXP_014_C_02",
+        "BNE_MI_EXP_020_C_04",
+        "BNE_MI_SEARCH_030_C_01",
+        "BNE_MI_EXP_016_I_01",
+        "BNE_MI_EXP_018_I_02",
+        "BNE_MI_SEARCH_021_I_02",
+        "BNE_MI_SEARCH_024_I_03"
+      ]
+    },
+    {
+      "id": "group-06",
+      "letters": [
+        "q",
+        "u"
+      ],
+      "sample_ids": [
+        "BNE_MI_EXP_014_Q_01",
+        "BNE_MI_EXP_014_Q_02",
+        "BNE_MI_EXP_018_Q_03",
+        "BNE_MI_EXP_018_Q_04",
+        "BNE_MI_EXP_020_Q_05",
+        "BNE_MI_EXP_016_U_01",
+        "BNE_MI_EXP_018_U_04",
+        "BNE_MI_EXP_018_U_05",
+        "BNE_MI_EXP_020_U_08",
+        "BNE_MI_EXP_020_U_09"
+      ]
+    },
+    {
+      "id": "group-07",
+      "letters": [
+        "z"
+      ],
+      "sample_ids": [
+        "BNE_MI_EXP_020_Z_01",
+        "BNE_MI_SEARCH_021_Z_01",
+        "BNE_MI_SEARCH_021_Z_02",
+        "BNE_MI_SEARCH_021_Z_03"
+      ]
+    }
+  ],
+  "samples": [
+    {
+      "sample_id": "BNE_MI_EXP_014_B_01",
+      "character": "b",
+      "annotation_sha256": "b4f66c66d17316cd7825bdc206ddbe6b84543ea93cebf8e8ddab5c2f6f922e93",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_015_B_01",
+      "character": "b",
+      "annotation_sha256": "aa41560560dae0136fa5db9acc1eaa284be83cb95886b6ad930bb3e09b810331",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_017_B_02",
+      "character": "b",
+      "annotation_sha256": "bfef764698ea56f20df378ae2a3f7d3033f95430996555e73c8bd8f7e06c44bf",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_030_B_06",
+      "character": "b",
+      "annotation_sha256": "3afb73c4b15c936f892a2405dd5732153933e27cadc24e25d7a70d504f115e9d",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_036_B_07",
+      "character": "b",
+      "annotation_sha256": "b2c1e5e89dd2800ea899b1880a9d771f8fd61e3e62116c11c4b6d5ed9d2eb3b2",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_015_H_01",
+      "character": "h",
+      "annotation_sha256": "ad3a95b204cf1dd54afa1bb7b209eab6a139fc05fd8e78e08c1f09892b62b73f",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_019_H_05",
+      "character": "h",
+      "annotation_sha256": "d8f4e7b68e099fb0cfc805e553886890272a35c8660439d6e3495de9ea9468a9",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_H_06",
+      "character": "h",
+      "annotation_sha256": "e6e198db632ed4aa3797e1882a44332fe4e49651c9239f9a36e49741e27b09ee",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_032_H_08",
+      "character": "h",
+      "annotation_sha256": "c252c3c965a600b5cb0db3e76f9327485231d138ee96f90f9892e682147fb1d7",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_034_H_10",
+      "character": "h",
+      "annotation_sha256": "37922a6d139fd413add97c99bb90f209205b1bfa519427f18831cfbd69d9fd3b",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_M_01",
+      "character": "m",
+      "annotation_sha256": "00f9cdfc4b26355d04f69abe02897f10c4f6342559b8539af25e2c2649b9acbf",
+      "agent_proposal": "wider_context_needed",
+      "agent_reason": "Margine sinistro vicino al crop: riesaminare attacco e connessione nel contesto ampliato.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_M_02",
+      "character": "m",
+      "annotation_sha256": "a8c2812d7008580d928c45776db8436805543643a538e26f058ae09917e09116",
+      "agent_proposal": "compatible_with_reservations_proposed",
+      "agent_reason": "Nucleo centrale candidato compatibile; mantenere incerti confine i/m e raccordo seguente.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_M_04",
+      "character": "m",
+      "annotation_sha256": "40047ba6d61f617055e9206049bea50cb791d478e29292886a001cf747c260a4",
+      "agent_proposal": "compatible_with_reservations_proposed",
+      "agent_reason": "Gruppo centrale candidato compatibile; mantenere incerti ingresso e uscita.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_M_06",
+      "character": "m",
+      "annotation_sha256": "3fee29f59af6f955bf7940314aeab18111da5c2cae7496d17dde67583884a966",
+      "agent_proposal": "wider_context_needed",
+      "agent_reason": "Estremi inferiori al bordo del crop: riesaminare con margine inferiore maggiore.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_M_08",
+      "character": "m",
+      "annotation_sha256": "b07f58ae138768a399707dc0a70820cb450231e3b1293eb9a9877b5bf63d1316",
+      "agent_proposal": "uncertain_proposed",
+      "agent_reason": "Confine sinistro condiviso e gruppo simile a n isolato; non proporre come ancora geometrica principale.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_T_01",
+      "character": "t",
+      "annotation_sha256": "77dec62476ed64ede61dc1b5ff5f75e740e14364bcbce41c2325ea3a9611a941",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_T_03",
+      "character": "t",
+      "annotation_sha256": "a3b93ce580c6fb4dc051a83625c3edb206cb98772981046bc80366cb679c1736",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_T_07",
+      "character": "t",
+      "annotation_sha256": "ba885b2e964413c43a9c330a18408034c2287849db1609d56d85052a9420693e",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_T_08",
+      "character": "t",
+      "annotation_sha256": "d79138e0e349fe6b2a5d7e307d735512f86ebbcd6e7fd2c76e45fb9ad75f61a9",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_T_09",
+      "character": "t",
+      "annotation_sha256": "907ff54615ab3d1c1d0afbc62ec304b46bdb30dd28ff0d316dc723f8fc009c07",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_G_01",
+      "character": "g",
+      "annotation_sha256": "c265e80ff519cb2b424b1156af1d784fd4ca1f5788509bd3786ec0569f67ac6c",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_G_02",
+      "character": "g",
+      "annotation_sha256": "6de3fe7c989478cf92b33c907b11d770dbdf72935c72ca5388b97ad369827436",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_G_03",
+      "character": "g",
+      "annotation_sha256": "11cd75e348f61abe664fbe9e082b2a414eab6ac8ab0c84390ace4fef349021c1",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_G_04",
+      "character": "g",
+      "annotation_sha256": "c225d2e5c1a6108381d58b70bd9de03c51130bf51a1246c8e3e175e38aeb8060",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_G_05",
+      "character": "g",
+      "annotation_sha256": "30cce4516a17105228979097a1d51e376abc9f3d8bea837578e823e94c46cdb4",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_P_02",
+      "character": "p",
+      "annotation_sha256": "102b1ce21c0049b82ba48bfc2a10920ec3169fe823127853d4006cc6456a76ab",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_P_03",
+      "character": "p",
+      "annotation_sha256": "07ba97cd85f8f6b897dc14e7fc4fd03828fa661ba1f287e51760b9c22d3cae44",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_P_04",
+      "character": "p",
+      "annotation_sha256": "4a236ab09f24d0df624e90495cedbafc40b1119f008c06c877da6facf9b45c84",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_P_05",
+      "character": "p",
+      "annotation_sha256": "e595e5a7525019131a23714d5a86b93f00bd25d9743fefb6b246005e7435a989",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_P_09",
+      "character": "p",
+      "annotation_sha256": "49df745df8d1cab37cf54ebdc056e102ac987d98df2f2a117428c900ee4e65fc",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_Q_01",
+      "character": "q",
+      "annotation_sha256": "b0bb23ca1af8f5576818ffa7dade882467b06d8ee98522e46379cdd07854946c",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_Q_02",
+      "character": "q",
+      "annotation_sha256": "8b9dbb8c3705b176970595cb693e9a214af0d7143e833adddd8713b791159b14",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_Q_03",
+      "character": "q",
+      "annotation_sha256": "6a5d845412990ca585ab17b98c477b7d6abae69571cce4314783cdc8f73cf848",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_Q_04",
+      "character": "q",
+      "annotation_sha256": "5c259665074a6dd5f3e4df9f79e4b91ab2eaacf8b1f9ef6fb798c5548dda5860",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_Q_05",
+      "character": "q",
+      "annotation_sha256": "c73a6eceac249066122a9024dd26c03205c951b002f5cf2d8c664e052caaa8e8",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_S_01",
+      "character": "s",
+      "annotation_sha256": "1d448fe60ec0e9e89905e34c90cc62ae75ec9ce68e2ffda54df09ea81b4b5e1b",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_S_02",
+      "character": "s",
+      "annotation_sha256": "750829d20fae1c3f106a52671b03d621bf266f0c7f3e5a64f18ddb6ed76d6356",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_S_04",
+      "character": "s",
+      "annotation_sha256": "ee1f463d0e07b5bf0fe043375471161067b7b13955896101f409d25cd9580050",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_S_05",
+      "character": "s",
+      "annotation_sha256": "d43506017cbca76c0c25144d8773df0779cba843c55203347cf21b8952b74e7c",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_S_06",
+      "character": "s",
+      "annotation_sha256": "1243f676a771b84b384e842e233f564b5119723c7ea2315c76ff957b20847f43",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_U_01",
+      "character": "u",
+      "annotation_sha256": "bd2237494089a178f6f383e8b7c034cf34956aca09d830df9b42af9811eb8cf1",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_U_04",
+      "character": "u",
+      "annotation_sha256": "6048dcb7e979b7ae0dcb5c02632cac594417c66f3d95bb6cc0a0c2ef85bd112a",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_U_05",
+      "character": "u",
+      "annotation_sha256": "889911eae90b2f640250ebacdae916373048ae3b105e45c5ca770ec9bf34107f",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_U_08",
+      "character": "u",
+      "annotation_sha256": "d708b5cc47699779bd7ff5a51a6ad041aa59ccac334386cf46defae8ca958842",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_U_09",
+      "character": "u",
+      "annotation_sha256": "dcd9876f60c8022e850b154f7b267414773dab906d7df157263bc5aea37724a9",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_C_01",
+      "character": "c",
+      "annotation_sha256": "a3cbd7aa927e654efefdc1c8562bab678c611d1ff48adf8759677ae84631bada",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_C_02",
+      "character": "c",
+      "annotation_sha256": "fa31079d59bc9df954170ac9a9e1a1c7a1e3fc2449c2e3627634537510a1204f",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_C_04",
+      "character": "c",
+      "annotation_sha256": "2f1ac685b1a0b5b696b21127a07141914844c13c18c6e623c8cc8ccce119c0e9",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_030_C_01",
+      "character": "c",
+      "annotation_sha256": "d188898b057a21b72446ee68c68ecb8161fb6f173dd80e9e075e96ccd02db0bc",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_F_01",
+      "character": "f",
+      "annotation_sha256": "72668f41f827c5f5fab38e9d2fc52a98ec14c97183d098329dc4258523f17363",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_F_02",
+      "character": "f",
+      "annotation_sha256": "e025dc6bb5512bed2b8b65d0771a5c7b8754ac228e62f309a05f2268af5bdb98",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_F_03",
+      "character": "f",
+      "annotation_sha256": "efb58bd23fff3277b8e5f726906afc81ada165427cd45a03c856c5413d4ba312",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_F_04",
+      "character": "f",
+      "annotation_sha256": "c7605818bb820602545971e0390d3c010ee73835f646ec8d9338dfa1cecc8566",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_I_01",
+      "character": "i",
+      "annotation_sha256": "3402372342c4074cd37fc432f01e422b735b9c5720d693faabdbef043c6e537a",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_I_02",
+      "character": "i",
+      "annotation_sha256": "a25596f43495dcddf44285e7783198598a6aac4e48c3ce959dced8c61eb3f53e",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_I_02",
+      "character": "i",
+      "annotation_sha256": "8ea049beb09d197c2b6053bc1d466bae952c68cba73f3d14728d59801316ba15",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_024_I_03",
+      "character": "i",
+      "annotation_sha256": "5d7c1e6e08eb28a9a38542ff40f2c526b5218598cf5601d8b870dce3d2ce29b7",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_Z_01",
+      "character": "z",
+      "annotation_sha256": "e6324b3f28355b8a0db0e7ff463c4fac7c648fb992c85b1bbd3ee81b47c7e17a",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_Z_01",
+      "character": "z",
+      "annotation_sha256": "b799efba67f9c459a0afa317d527c75b7a3bd32043545136efbeb82c20b5d7f0",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_Z_02",
+      "character": "z",
+      "annotation_sha256": "55232ae955283357d6d9c17be57040ecce0a41b6c6896716d6992d214dc4ea57",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_Z_03",
+      "character": "z",
+      "annotation_sha256": "4f55760915eee9ac4f9373bf24cbe0427fa75d9fee63d9e1ae08c88a4b2b554d",
+      "agent_proposal": "not_assessed",
+      "agent_reason": "Awaiting visual consolidation.",
+      "human_decision": null
+    }
+  ]
+}

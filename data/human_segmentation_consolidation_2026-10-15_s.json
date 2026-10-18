@@ -1,0 +1,47 @@
+{
+  "review_id": "segmentation-consolidation-2026-10-15",
+  "status": "human_segmentation_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:48:02+00:00",
+  "quote": "Confermo gli esiti sui cinque campioni storici",
+  "question": "Tenendo ferma la s già corretta e approvata nella Regular 1.100, confermi questi esiti sui soli confini dei cinque campioni storici nella tavola: s02 compatibile con riserve; s01 da riesaminare con più margine inferiore; s04 con più margine superiore e inferiore; s05 e s06 dubbie e non utilizzabili come riferimenti geometrici principali? Le zone arancioni restano non confermate. Non è una nuova approvazione del disegno della s, delle letture o dell’autenticità.",
+  "plan_sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+  "shown_sheet": "build/segmentation-consolidation/review-s-edc67044ce86.png",
+  "shown_sheet_sha256": "edc67044ce869d56a4e398b20503d6eaa9a2fcffdb14346062f89afd1378bfc6",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_S_01",
+      "annotation_sha256": "1d448fe60ec0e9e89905e34c90cc62ae75ec9ce68e2ffda54df09ea81b4b5e1b",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_S_02",
+      "annotation_sha256": "750829d20fae1c3f106a52671b03d621bf266f0c7f3e5a64f18ddb6ed76d6356",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_S_04",
+      "annotation_sha256": "ee1f463d0e07b5bf0fe043375471161067b7b13955896101f409d25cd9580050",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_S_05",
+      "annotation_sha256": "d43506017cbca76c0c25144d8773df0779cba843c55203347cf21b8952b74e7c",
+      "decision": "uncertain",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_S_06",
+      "annotation_sha256": "1243f676a771b84b384e842e233f564b5119723c7ea2315c76ff957b20847f43",
+      "decision": "uncertain",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

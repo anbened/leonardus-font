@@ -1,0 +1,1926 @@
+{
+  "status": "candidate",
+  "human_review": false,
+  "coordinate_system": "raw original pixels for raw_*; mirror_* only after horizontal reflection; no rotation, EXIF, contrast or reconstruction",
+  "line_convention": "Count down from top within the explicitly named block; visible positions never imply letters expanded from abbreviations.",
+  "samples": [
+    {
+      "sample_id": "BNE_MI_014_A_03",
+      "character": "a",
+      "viewer_page": 14,
+      "folio": "1r",
+      "mirror_crop": [
+        486,
+        123,
+        23,
+        29
+      ],
+      "context_crop": [
+        463,
+        81,
+        56,
+        75
+      ],
+      "block_line": "B1 L1",
+      "word": "la",
+      "character_position": 2,
+      "confidence": 0.92,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: la, posizione 2; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        1069,
+        123,
+        23,
+        29
+      ],
+      "raw_context_crop": [
+        1059,
+        81,
+        56,
+        75
+      ],
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a"
+    },
+    {
+      "sample_id": "BNE_MI_016_A_01",
+      "character": "a",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        722,
+        108,
+        15,
+        19
+      ],
+      "context_crop": [
+        645,
+        70,
+        260,
+        85
+      ],
+      "block_line": "B1 L1",
+      "word": "dimanda",
+      "character_position": 4,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: dimanda, posizione 4; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        841,
+        108,
+        15,
+        19
+      ],
+      "raw_context_crop": [
+        673,
+        70,
+        260,
+        85
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE_MI_016_A_02",
+      "character": "a",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        774,
+        106,
+        15,
+        27
+      ],
+      "context_crop": [
+        645,
+        70,
+        260,
+        85
+      ],
+      "block_line": "B1 L1",
+      "word": "dimanda",
+      "character_position": 7,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: dimanda, posizione 7; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        789,
+        106,
+        15,
+        27
+      ],
+      "raw_context_crop": [
+        673,
+        70,
+        260,
+        85
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE_MI_016_A_04",
+      "character": "a",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        873,
+        106,
+        16,
+        21
+      ],
+      "context_crop": [
+        645,
+        70,
+        260,
+        85
+      ],
+      "block_line": "B1 L1",
+      "word": "sua",
+      "character_position": 3,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: sua, posizione 3; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        689,
+        106,
+        16,
+        21
+      ],
+      "raw_context_crop": [
+        673,
+        70,
+        260,
+        85
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE_MI_018_A_05",
+      "character": "a",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        1206,
+        221,
+        15,
+        24
+      ],
+      "context_crop": [
+        1180,
+        195,
+        145,
+        65
+      ],
+      "block_line": "B1 L1",
+      "word": "saranno",
+      "character_position": 2,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: saranno, posizione 2; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        357,
+        221,
+        15,
+        24
+      ],
+      "raw_context_crop": [
+        253,
+        195,
+        145,
+        65
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE_MI_018_A_06",
+      "character": "a",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        1230,
+        222,
+        18,
+        23
+      ],
+      "context_crop": [
+        1180,
+        195,
+        145,
+        65
+      ],
+      "block_line": "B1 L1",
+      "word": "saranno",
+      "character_position": 4,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: saranno, posizione 4; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        330,
+        222,
+        18,
+        23
+      ],
+      "raw_context_crop": [
+        253,
+        195,
+        145,
+        65
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-016-d-01",
+      "character": "d",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        659,
+        91,
+        35,
+        67
+      ],
+      "context_crop": [
+        654,
+        85,
+        145,
+        77
+      ],
+      "block": "testo superiore",
+      "line": 1,
+      "word": "dimanda",
+      "character_position": 1,
+      "confidence": 0.94,
+      "rationale": "Occhio superiore chiuso e asta obliqua; lettura sostenuta dal corpo di parola dimanda.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto. Crop contiene uscita lunga compatibile con i legata: non un contorno autonomo della sola d.",
+      "raw_crop": [
+        884,
+        91,
+        35,
+        67
+      ],
+      "raw_context_crop": [
+        779,
+        85,
+        145,
+        77
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 1",
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE-MI-016-d-02",
+      "character": "d",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        499,
+        156,
+        42,
+        62
+      ],
+      "context_crop": [
+        491,
+        148,
+        152,
+        87
+      ],
+      "block": "testo superiore",
+      "line": 2,
+      "word": "dimanda",
+      "character_position": 1,
+      "confidence": 0.89,
+      "rationale": "Stesso attacco con occhio superiore e uscita verso i; secondo token della parola dimanda.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto. Crop contiene uscita lunga compatibile con i legata: non un contorno autonomo della sola d.",
+      "raw_crop": [
+        1037,
+        156,
+        42,
+        62
+      ],
+      "raw_context_crop": [
+        935,
+        148,
+        152,
+        87
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 2",
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE-MI-020-d-03",
+      "character": "d",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        722,
+        1600,
+        30,
+        38
+      ],
+      "context_crop": [
+        718,
+        1590,
+        80,
+        67
+      ],
+      "block": "testo inferiore",
+      "line": 3,
+      "word": "della",
+      "character_position": 1,
+      "confidence": 0.9,
+      "rationale": "Occhio chiuso sopra il corpo e asta con uscita verso e; parola della prima della locuzione prima meza volta.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto.",
+      "raw_crop": [
+        826,
+        1600,
+        30,
+        38
+      ],
+      "raw_context_crop": [
+        780,
+        1590,
+        80,
+        67
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 3",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    },
+    {
+      "sample_id": "BNE-MI-020-d-04",
+      "character": "d",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        800,
+        1718,
+        30,
+        41
+      ],
+      "context_crop": [
+        797,
+        1707,
+        175,
+        72
+      ],
+      "block": "testo inferiore",
+      "line": 5,
+      "word": "digradando",
+      "character_position": 1,
+      "confidence": 0.9,
+      "rationale": "Occhio superiore e asta inclinata nella sequenza e cosi va digradando infino; variante inclinata.",
+      "doubts": "Lettura candidata digradando; i iniziale legata alla d, segmentazione e posizioni 1/6/9 da confermare. Tre d nello stesso token: limitata varianza interfolio. Nessuna revisione umana.",
+      "raw_crop": [
+        748,
+        1718,
+        30,
+        41
+      ],
+      "raw_context_crop": [
+        606,
+        1707,
+        175,
+        72
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 5",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    },
+    {
+      "sample_id": "BNE-MI-020-d-05",
+      "character": "d",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        874,
+        1714,
+        27,
+        44
+      ],
+      "context_crop": [
+        797,
+        1707,
+        175,
+        72
+      ],
+      "block": "testo inferiore",
+      "line": 5,
+      "word": "digradando",
+      "character_position": 6,
+      "confidence": 0.87,
+      "rationale": "Seconda d visibile nello stesso token: occhio superiore, asta corta e collegamento alla a seguente.",
+      "doubts": "Lettura candidata digradando; i iniziale legata alla d, segmentazione e posizioni 1/6/9 da confermare. Tre d nello stesso token: limitata varianza interfolio. Nessuna revisione umana.",
+      "raw_crop": [
+        677,
+        1714,
+        27,
+        44
+      ],
+      "raw_context_crop": [
+        606,
+        1707,
+        175,
+        72
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 5",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    },
+    {
+      "sample_id": "BNE-MI-020-d-06",
+      "character": "d",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        926,
+        1713,
+        30,
+        45
+      ],
+      "context_crop": [
+        797,
+        1707,
+        175,
+        72
+      ],
+      "block": "testo inferiore",
+      "line": 5,
+      "word": "digradando",
+      "character_position": 9,
+      "confidence": 0.9,
+      "rationale": "Terza d visibile nello stesso token, prima della o finale, con occhio superiore e corpo piu verticale.",
+      "doubts": "Lettura candidata digradando; i iniziale legata alla d, segmentazione e posizioni 1/6/9 da confermare. Tre d nello stesso token: limitata varianza interfolio. Nessuna revisione umana.",
+      "raw_crop": [
+        622,
+        1713,
+        30,
+        45
+      ],
+      "raw_context_crop": [
+        606,
+        1707,
+        175,
+        72
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 5",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    },
+    {
+      "sample_id": "BNE-MI-018-e-01",
+      "character": "e",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        915,
+        220,
+        24,
+        27
+      ],
+      "context_crop": [
+        835,
+        198,
+        105,
+        59
+      ],
+      "block": "testo superiore, primo blocco",
+      "line": 1,
+      "word": "rote",
+      "character_position": 4,
+      "confidence": 0.84,
+      "rationale": "Terminale dopo r-o-t nel contesto le rote dette; elemento superiore minuto e uscita inferiore curva attaccata alla traversa del t. Lettura sostenuta anche dalla seconda occorrenza rote nello stesso folio.",
+      "doubts": "La e e fortemente connessa al t: il bordo sinistro del crop contiene il collegamento e non separa un contorno autonomo. Lettura e segmentazione candidate, da confermare umanamente.",
+      "raw_crop": [
+        639,
+        220,
+        24,
+        27
+      ],
+      "raw_context_crop": [
+        638,
+        198,
+        105,
+        59
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore, primo blocco / riga 1",
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-018-e-02",
+      "character": "e",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        1015,
+        220,
+        22,
+        25
+      ],
+      "context_crop": [
+        938,
+        209,
+        104,
+        53
+      ],
+      "block": "testo superiore, primo blocco",
+      "line": 1,
+      "word": "dette",
+      "character_position": 5,
+      "confidence": 0.85,
+      "rationale": "Finale della parola candidata dette immediatamente dopo rote; piccolo elemento superiore e curva di uscita al termine del secondo t. Il gruppo d-e-t-t e visibile nel contesto senza espandere la barra superiore.",
+      "doubts": "La barra sopra la parola va interpretata nella revisione paleografica; non e usata per inventare lettere. Connessione col secondo t inclusa nel bordo sinistro. Lettura contestuale candidate.",
+      "raw_crop": [
+        541,
+        220,
+        22,
+        25
+      ],
+      "raw_context_crop": [
+        536,
+        209,
+        104,
+        53
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore, primo blocco / riga 1",
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-018-e-03",
+      "character": "e",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        832,
+        410,
+        21,
+        30
+      ],
+      "context_crop": [
+        766,
+        397,
+        91,
+        49
+      ],
+      "block": "testo superiore, secondo blocco",
+      "line": 1,
+      "word": "tutte",
+      "character_position": 5,
+      "confidence": 0.88,
+      "rationale": "Terminale del gruppo t-u-t-t nella frase candidata tutte le rote; lobo superiore piccolo e uscita curva sotto, connessa al secondo t. Concordanza visuale con il tutte di 4r.",
+      "doubts": "Il crop comprende una porzione della connessione dal t; non rappresenta un glifo isolato. Lettura e confidenza dell'agente, nessuna revisione umana.",
+      "raw_crop": [
+        725,
+        410,
+        21,
+        30
+      ],
+      "raw_context_crop": [
+        721,
+        397,
+        91,
+        49
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore, secondo blocco / riga 1",
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-018-e-04",
+      "character": "e",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        871,
+        412,
+        19,
+        27
+      ],
+      "context_crop": [
+        848,
+        373,
+        47,
+        72
+      ],
+      "block": "testo superiore, secondo blocco",
+      "line": 1,
+      "word": "le",
+      "character_position": 2,
+      "confidence": 0.78,
+      "rationale": "Elemento minuto dopo la l ascendente fra tutte e rote; due porzioni d'inchiostro separate, superiore a losanga e inferiore ricurva. La lettura le e sostenuta dal contesto e dal token parallelo di 4r.",
+      "doubts": "Forma piccola e discontinua che, isolata, potrebbe essere scambiata per i o segni di separazione; il contesto e essenziale. Richiede conferma umana prima di trarre un modello di e.",
+      "raw_crop": [
+        688,
+        412,
+        19,
+        27
+      ],
+      "raw_context_crop": [
+        683,
+        373,
+        47,
+        72
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore, secondo blocco / riga 1",
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-018-e-05",
+      "character": "e",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        939,
+        411,
+        20,
+        31
+      ],
+      "context_crop": [
+        889,
+        404,
+        78,
+        45
+      ],
+      "block": "testo superiore, secondo blocco",
+      "line": 1,
+      "word": "rote",
+      "character_position": 4,
+      "confidence": 0.88,
+      "rationale": "Secondo token rote dopo tutte le; terminale con componente superiore distinta e uscita inferiore curva dal t. R-o-t riconoscibili nel contesto; variante parallela a e-01.",
+      "doubts": "Il tratto inferiore e condiviso con l'uscita del t e la segmentazione di un futuro contorno richiede interpretazione progettuale. Lettura candidate.",
+      "raw_crop": [
+        619,
+        411,
+        20,
+        31
+      ],
+      "raw_context_crop": [
+        611,
+        404,
+        78,
+        45
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore, secondo blocco / riga 1",
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-020-e-06",
+      "character": "e",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        402,
+        1517,
+        19,
+        28
+      ],
+      "context_crop": [
+        348,
+        1505,
+        75,
+        49
+      ],
+      "block": "testo inferiore",
+      "line": 1,
+      "word": "tutte",
+      "character_position": 5,
+      "confidence": 0.88,
+      "rationale": "Terminale della prima parola nella riga tutte le ...; piccolo lobo superiore e curva inferiore uscente dal secondo t. Confronto diretto con tutte di 3r, altro folio.",
+      "doubts": "Il bordo sinistro contiene connessione dal secondo t. Il contesto piu ampio non autorizza a fissare la lettura dell'intera riga. Nessuna revisione umana.",
+      "raw_crop": [
+        1157,
+        1517,
+        19,
+        28
+      ],
+      "raw_context_crop": [
+        1155,
+        1505,
+        75,
+        49
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 1",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    },
+    {
+      "sample_id": "BNE-MI-020-e-07",
+      "character": "e",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        436,
+        1517,
+        18,
+        27
+      ],
+      "context_crop": [
+        419,
+        1482,
+        37,
+        64
+      ],
+      "block": "testo inferiore",
+      "line": 1,
+      "word": "le",
+      "character_position": 2,
+      "confidence": 0.78,
+      "rationale": "Token dopo tutte: grande l e lettera minuta formata da due componenti separate. Il parallelismo con tutte le rote di 3r sostiene la lettura le, senza aggiungere tratti non visibili.",
+      "doubts": "La minuta forma puo sembrare i isolata; lettura e fondata sul contesto, non sull'aspetto da solo. Conferma umana necessaria; il token seguente molle non e stato usato per aggiungere una e non chiaramente segmentabile.",
+      "raw_crop": [
+        1124,
+        1517,
+        18,
+        27
+      ],
+      "raw_context_crop": [
+        1122,
+        1482,
+        37,
+        64
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 1",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    },
+    {
+      "sample_id": "BNE-MI-014-l-01",
+      "character": "l",
+      "viewer_page": 14,
+      "folio": "1r",
+      "mirror_crop": [
+        465,
+        84,
+        29,
+        67
+      ],
+      "context_crop": [
+        463,
+        81,
+        53,
+        72
+      ],
+      "block": "testo superiore",
+      "line": 1,
+      "word": "la",
+      "character_position": 1,
+      "confidence": 0.94,
+      "rationale": "Ascendente con cappio aperto in alto e tratto discendente quasi verticale, prima della a.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto.",
+      "raw_crop": [
+        1084,
+        84,
+        29,
+        67
+      ],
+      "raw_context_crop": [
+        1062,
+        81,
+        53,
+        72
+      ],
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 1",
+      "source_image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a"
+    },
+    {
+      "sample_id": "BNE-MI-016-l-02",
+      "character": "l",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        807,
+        66,
+        33,
+        60
+      ],
+      "context_crop": [
+        805,
+        65,
+        49,
+        84
+      ],
+      "block": "testo superiore",
+      "line": 1,
+      "word": "l[e?]",
+      "character_position": 1,
+      "confidence": 0.92,
+      "rationale": "Ascendente a cappio della l visibile prima del token sua; lettera successiva minuta a due componenti.",
+      "doubts": "Lettera successiva candidata e, possibile articolo le anziche la; lettura completa non risolta. Solo l conteggiata.",
+      "raw_crop": [
+        738,
+        66,
+        33,
+        60
+      ],
+      "raw_context_crop": [
+        724,
+        65,
+        49,
+        84
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 1",
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE-MI-016-l-03",
+      "character": "l",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        967,
+        190,
+        28,
+        53
+      ],
+      "context_crop": [
+        965,
+        188,
+        46,
+        62
+      ],
+      "block": "testo superiore",
+      "line": 3,
+      "word": "l[e?]",
+      "character_position": 1,
+      "confidence": 0.9,
+      "rationale": "Ascendente a cappio della l visibile prima del token sua; lettera successiva minuta a due componenti.",
+      "doubts": "Lettera successiva candidata e, possibile articolo le anziche la; lettura completa non risolta. Solo l conteggiata.",
+      "raw_crop": [
+        583,
+        190,
+        28,
+        53
+      ],
+      "raw_context_crop": [
+        567,
+        188,
+        46,
+        62
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 3",
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE-MI-018-l-04",
+      "character": "l",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        838,
+        195,
+        40,
+        61
+      ],
+      "context_crop": [
+        838,
+        190,
+        45,
+        68
+      ],
+      "block": "testo superiore",
+      "line": 1,
+      "word": "le",
+      "character_position": 1,
+      "confidence": 0.95,
+      "rationale": "Grande cappio ascendente con asta verticale; articolo le immediatamente prima di rote.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto.",
+      "raw_crop": [
+        700,
+        195,
+        40,
+        61
+      ],
+      "raw_context_crop": [
+        695,
+        190,
+        45,
+        68
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 1",
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-020-l-05",
+      "character": "l",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        350,
+        1552,
+        34,
+        49
+      ],
+      "context_crop": [
+        347,
+        1546,
+        89,
+        64
+      ],
+      "block": "testo inferiore",
+      "line": 2,
+      "word": "loro",
+      "character_position": 1,
+      "confidence": 0.94,
+      "rationale": "Attacco a cappio alto, asta e uscita al corpo tondo della o; parola loro a inizio riga.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto.",
+      "raw_crop": [
+        1194,
+        1552,
+        34,
+        49
+      ],
+      "raw_context_crop": [
+        1142,
+        1546,
+        89,
+        64
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 2",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    },
+    {
+      "sample_id": "BNE-MI-020-l-06",
+      "character": "l",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        871,
+        1470,
+        25,
+        52
+      ],
+      "context_crop": [
+        824,
+        1470,
+        85,
+        76
+      ],
+      "block": "testo inferiore",
+      "line": 1,
+      "word": "quale",
+      "character_position": 4,
+      "confidence": 0.89,
+      "rationale": "Cappio ascendente della l interna prima di e nella parola quale.",
+      "doubts": "Lettura della parola quale candidate; non confondere il tratto della l con l ascendente o della parola seguente.",
+      "raw_crop": [
+        682,
+        1470,
+        25,
+        52
+      ],
+      "raw_context_crop": [
+        669,
+        1470,
+        85,
+        76
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 1",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    },
+    {
+      "sample_id": "BNE_MI_016_N_01",
+      "character": "n",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        736,
+        109,
+        14,
+        19
+      ],
+      "context_crop": [
+        645,
+        70,
+        260,
+        85
+      ],
+      "block_line": "B1 L1",
+      "word": "dimanda",
+      "character_position": 5,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: dimanda, posizione 5; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        828,
+        109,
+        14,
+        19
+      ],
+      "raw_context_crop": [
+        673,
+        70,
+        260,
+        85
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE_MI_016_N_02",
+      "character": "n",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        691,
+        222,
+        23,
+        27
+      ],
+      "context_crop": [
+        665,
+        217,
+        127,
+        48
+      ],
+      "block_line": "B1 L3",
+      "word": "ancora (?)",
+      "character_position": 2,
+      "confidence": 0.74,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: ancora (?), posizione 2; lettura candidata.",
+      "doubts": "Confidenza riferita al candidato n visibile; la parola potrebbe leggere ancora oppure andare e richiede revisione umana. Nessuna lettera espansa.",
+      "raw_crop": [
+        864,
+        222,
+        23,
+        27
+      ],
+      "raw_context_crop": [
+        786,
+        217,
+        127,
+        48
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE_MI_018_N_03",
+      "character": "n",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        1247,
+        222,
+        17,
+        24
+      ],
+      "context_crop": [
+        1180,
+        195,
+        145,
+        65
+      ],
+      "block_line": "B1 L1",
+      "word": "saranno",
+      "character_position": 5,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: saranno, posizione 5; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        314,
+        222,
+        17,
+        24
+      ],
+      "raw_context_crop": [
+        253,
+        195,
+        145,
+        65
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE_MI_018_N_04",
+      "character": "n",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        1266,
+        223,
+        17,
+        23
+      ],
+      "context_crop": [
+        1180,
+        195,
+        145,
+        65
+      ],
+      "block_line": "B1 L1",
+      "word": "saranno",
+      "character_position": 6,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: saranno, posizione 6; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        295,
+        223,
+        17,
+        23
+      ],
+      "raw_context_crop": [
+        253,
+        195,
+        145,
+        65
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE_MI_018_N_05",
+      "character": "n",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        899,
+        272,
+        17,
+        23
+      ],
+      "context_crop": [
+        765,
+        250,
+        194,
+        67
+      ],
+      "block_line": "B1 L2",
+      "word": "sidoleranno",
+      "character_position": 9,
+      "confidence": 0.75,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: sidoleranno, posizione 9; lettura candidata.",
+      "doubts": "Grafia connessa; trascrizione della parola sidoleranno ipotetica.",
+      "raw_crop": [
+        662,
+        272,
+        17,
+        23
+      ],
+      "raw_context_crop": [
+        619,
+        250,
+        194,
+        67
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE_MI_018_N_06",
+      "character": "n",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        916,
+        272,
+        16,
+        23
+      ],
+      "context_crop": [
+        765,
+        250,
+        194,
+        67
+      ],
+      "block_line": "B1 L2",
+      "word": "sidoleranno",
+      "character_position": 10,
+      "confidence": 0.75,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: sidoleranno, posizione 10; lettura candidata.",
+      "doubts": "Grafia connessa; trascrizione della parola sidoleranno ipotetica.",
+      "raw_crop": [
+        646,
+        272,
+        16,
+        23
+      ],
+      "raw_context_crop": [
+        619,
+        250,
+        194,
+        67
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE_MI_016_O_01",
+      "character": "o",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        551,
+        112,
+        17,
+        22
+      ],
+      "context_crop": [
+        511,
+        100,
+        125,
+        54
+      ],
+      "block_line": "B1 L1",
+      "word": "corpo",
+      "character_position": 2,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: corpo, posizione 2; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        1010,
+        112,
+        17,
+        22
+      ],
+      "raw_context_crop": [
+        942,
+        100,
+        125,
+        54
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE_MI_016_O_02",
+      "character": "o",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        620,
+        111,
+        17,
+        23
+      ],
+      "context_crop": [
+        511,
+        100,
+        128,
+        54
+      ],
+      "block_line": "B1 L1",
+      "word": "corpo",
+      "character_position": 5,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: corpo, posizione 5; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        941,
+        111,
+        17,
+        23
+      ],
+      "raw_context_crop": [
+        939,
+        100,
+        128,
+        54
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE_MI_018_O_03",
+      "character": "o",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        1089,
+        268,
+        22,
+        24
+      ],
+      "context_crop": [
+        1027,
+        259,
+        88,
+        49
+      ],
+      "block_line": "B1 L2",
+      "word": "moto",
+      "character_position": 4,
+      "confidence": 0.88,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: moto, posizione 4; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        467,
+        268,
+        22,
+        24
+      ],
+      "raw_context_crop": [
+        463,
+        259,
+        88,
+        49
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE_MI_018_O_04",
+      "character": "o",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        894,
+        224,
+        19,
+        26
+      ],
+      "context_crop": [
+        873,
+        214,
+        78,
+        45
+      ],
+      "block_line": "B1 L1",
+      "word": "rote",
+      "character_position": 2,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: rote, posizione 2; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        665,
+        224,
+        19,
+        26
+      ],
+      "raw_context_crop": [
+        627,
+        214,
+        78,
+        45
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE_MI_018_O_05",
+      "character": "o",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        1280,
+        222,
+        19,
+        25
+      ],
+      "context_crop": [
+        1180,
+        195,
+        145,
+        65
+      ],
+      "block_line": "B1 L1",
+      "word": "saranno",
+      "character_position": 7,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: saranno, posizione 7; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        279,
+        222,
+        19,
+        25
+      ],
+      "raw_context_crop": [
+        253,
+        195,
+        145,
+        65
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE_MI_018_O_06",
+      "character": "o",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        1058,
+        272,
+        18,
+        23
+      ],
+      "context_crop": [
+        1027,
+        259,
+        88,
+        49
+      ],
+      "block_line": "B1 L2",
+      "word": "moto",
+      "character_position": 2,
+      "confidence": 0.83,
+      "rationale": "Lettera visibile localizzata con griglia e confronto del contesto specchiato: moto, posizione 2; lettura candidata.",
+      "doubts": "Ispezione visiva dell agente; segmentazione delle connessioni e lettura da confermare con revisione umana.",
+      "raw_crop": [
+        502,
+        272,
+        18,
+        23
+      ],
+      "raw_context_crop": [
+        463,
+        259,
+        88,
+        49
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-014-r-02",
+      "character": "r",
+      "viewer_page": 14,
+      "folio": "1r",
+      "mirror_crop": [
+        734,
+        124,
+        23,
+        25
+      ],
+      "context_crop": [
+        689,
+        100,
+        149,
+        61
+      ],
+      "block": "testo superiore",
+      "line": 1,
+      "word": "torna [segno abbreviativo finale]",
+      "character_position": 3,
+      "confidence": 0.86,
+      "rationale": "Spalla breve dopo la prima o nel token torna, seguito da un segno abbreviativo; non sono conteggiate lettere espanse.",
+      "doubts": "Trascrizione del token candidate; il segno finale potrebbe abbreviare una desinenza. Non espanso e non contato come r o e.",
+      "raw_crop": [
+        821,
+        124,
+        23,
+        25
+      ],
+      "raw_context_crop": [
+        740,
+        100,
+        149,
+        61
+      ],
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 1",
+      "source_image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a"
+    },
+    {
+      "sample_id": "BNE-MI-014-r-03",
+      "character": "r",
+      "viewer_page": 14,
+      "folio": "1r",
+      "mirror_crop": [
+        1162,
+        115,
+        24,
+        31
+      ],
+      "context_crop": [
+        1105,
+        103,
+        240,
+        62
+      ],
+      "block": "testo superiore",
+      "line": 1,
+      "word": "piramidata (?)",
+      "character_position": 3,
+      "confidence": 0.85,
+      "rationale": "Spalla breve tra i e a nel token piramidata candidate; crop della r realmente visibile.",
+      "doubts": "Lettura completa del token piramidata da confermare, soprattutto finale; non sono espansi segni abbreviativi.",
+      "raw_crop": [
+        392,
+        115,
+        24,
+        31
+      ],
+      "raw_context_crop": [
+        233,
+        103,
+        240,
+        62
+      ],
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 1",
+      "source_image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a"
+    },
+    {
+      "sample_id": "BNE-MI-014-r-04",
+      "character": "r",
+      "viewer_page": 14,
+      "folio": "1r",
+      "mirror_crop": [
+        600,
+        180,
+        26,
+        29
+      ],
+      "context_crop": [
+        572,
+        162,
+        83,
+        78
+      ],
+      "block": "testo superiore",
+      "line": 2,
+      "word": "[token dopo acqua: lettura non risolta]",
+      "character_position": "3? (segmentazione ipotetica)",
+      "confidence": 0.76,
+      "rationale": "Spalla breve visibile nel token dopo acqua, tra una lunga lettera iniziale e un elemento finale minuto; r candidata, token non trascritto integralmente.",
+      "doubts": "La lettura per inizialmente proposta e stata ritirata dopo QA indipendente: parola e posizione non risolte, r visibile. Richiede revisione umana.",
+      "raw_crop": [
+        952,
+        180,
+        26,
+        29
+      ],
+      "raw_context_crop": [
+        923,
+        162,
+        83,
+        78
+      ],
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 2",
+      "source_image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a"
+    },
+    {
+      "sample_id": "BNE-MI-016-r-01",
+      "character": "r",
+      "viewer_page": 16,
+      "folio": "2r",
+      "mirror_crop": [
+        568,
+        104,
+        27,
+        36
+      ],
+      "context_crop": [
+        517,
+        102,
+        119,
+        62
+      ],
+      "block": "testo superiore",
+      "line": 1,
+      "word": "corpo",
+      "character_position": 3,
+      "confidence": 0.94,
+      "rationale": "Tratto breve con spalla angolare tra o e p nella parola corpo.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto.",
+      "raw_crop": [
+        983,
+        104,
+        27,
+        36
+      ],
+      "raw_context_crop": [
+        942,
+        102,
+        119,
+        62
+      ],
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 1",
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "sample_id": "BNE-MI-018-r-05",
+      "character": "r",
+      "viewer_page": 18,
+      "folio": "3r",
+      "mirror_crop": [
+        873,
+        228,
+        23,
+        24
+      ],
+      "context_crop": [
+        873,
+        217,
+        73,
+        38
+      ],
+      "block": "testo superiore",
+      "line": 1,
+      "word": "rote",
+      "character_position": 1,
+      "confidence": 0.93,
+      "rationale": "Attacco breve e spalla della r iniziale prima di o t e nella parola rote.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto.",
+      "raw_crop": [
+        682,
+        228,
+        23,
+        24
+      ],
+      "raw_context_crop": [
+        632,
+        217,
+        73,
+        38
+      ],
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo superiore / riga 1",
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    },
+    {
+      "sample_id": "BNE-MI-020-r-06",
+      "character": "r",
+      "viewer_page": 20,
+      "folio": "4r",
+      "mirror_crop": [
+        373,
+        1577,
+        19,
+        22
+      ],
+      "context_crop": [
+        347,
+        1546,
+        89,
+        64
+      ],
+      "block": "testo inferiore",
+      "line": 2,
+      "word": "loro",
+      "character_position": 3,
+      "confidence": 0.91,
+      "rationale": "Spalla breve tra due o nella parola loro, contrastabile con le chiusure tonde vicine.",
+      "doubts": "Contorno e lettura da confermare con revisione umana; connessioni con lettere vicine incluse nel contesto.",
+      "raw_crop": [
+        1186,
+        1577,
+        19,
+        22
+      ],
+      "raw_context_crop": [
+        1142,
+        1546,
+        89,
+        64
+      ],
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_id": "BNE_MADRID_I",
+      "status": "candidate",
+      "human_review": false,
+      "block_line": "testo inferiore / riga 2",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "viewer_page": 20,
+      "folio": "4r",
+      "context_crop": [
+        452,
+        1480,
+        84,
+        75
+      ],
+      "word": "molle?",
+      "reason": "Il finale non e separabile con sufficiente chiarezza dall'ultimo tratto lungo; non conteggiato come e. La lettura molle proposta dal contesto non basta a inventare il quinto glifo.",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "source_image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "human_review": false
+    },
+    {
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "viewer_page": 16,
+      "folio": "2r",
+      "raw_crop": [
+        732,
+        110,
+        14,
+        25
+      ],
+      "mirror_crop": [
+        832,
+        110,
+        14,
+        25
+      ],
+      "reason": "Supposta a in la tagliava l/elemento successivo; lettura la ritirata in favore di l[e?].",
+      "agent_decision": "excluded_annotation_attempt",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "viewer_page": 16,
+      "folio": "2r",
+      "raw_crop": [
+        903,
+        222,
+        26,
+        27
+      ],
+      "mirror_crop": [
+        649,
+        222,
+        26,
+        27
+      ],
+      "reason": "Supposta n in ancora includeva cancellatura; sostituita con regione x691 della n visibile.",
+      "agent_decision": "excluded_annotation_attempt",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "viewer_page": 16,
+      "folio": "2r",
+      "raw_crop": [
+        859,
+        221,
+        27,
+        25
+      ],
+      "mirror_crop": [
+        692,
+        221,
+        27,
+        25
+      ],
+      "reason": "Supposta o in ancora era n; sostituita con o finale di moto3r.",
+      "agent_decision": "excluded_annotation_attempt",
+      "human_review": false,
+      "source_image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62"
+    },
+    {
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "viewer_page": 18,
+      "folio": "3r",
+      "raw_crop": [
+        259,
+        220,
+        24,
+        31
+      ],
+      "mirror_crop": [
+        1295,
+        220,
+        24,
+        31
+      ],
+      "reason": "Supposta o di saranno spostata: gran parte bianca; corretta sul corpo visibile.",
+      "agent_decision": "excluded_annotation_attempt",
+      "human_review": false,
+      "source_image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e"
+    }
+  ]
+}

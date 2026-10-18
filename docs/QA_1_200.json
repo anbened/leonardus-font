@@ -1,0 +1,98 @@
+{
+  "version": "1.200",
+  "date": "2026-10-15",
+  "status": "verified_candidate_for_user_trial",
+  "family": "Leonardus 1200",
+  "font_sha256": "5186db19d2c3def93bd8346aa512ad1de8ebf71b5171ac8444e034f0785f6bba",
+  "scope": "26 basic lowercase; other agreed Regular characters preserved",
+  "tests": {
+    "passed": 137,
+    "skipped": 5,
+    "skip_reason": "Windows filesystem symlink creation unavailable; existing symlink protection tests only",
+    "failed": 0
+  },
+  "reproducibility": {
+    "two_candidate_builds_identical": true,
+    "candidate_matches_distributed_ttf": true,
+    "regular_1_100_unchanged": true,
+    "regular_1_000_unchanged": true,
+    "pdf_1_100_unchanged": true,
+    "pdf_1_200_reproduced": true,
+    "comparison_svg_reproduced": true,
+    "source_date_epoch": 0
+  },
+  "font": {
+    "mapped_codepoints": 119,
+    "glyphs": 121,
+    "missing_agreed_codepoints": 0,
+    "changed_base_outlines_and_advances": [
+      "j",
+      "k",
+      "v",
+      "w",
+      "x",
+      "y"
+    ],
+    "other_outlines_and_advances_preserved": true,
+    "combining_mark_anchors_tested": true,
+    "fsType": 0
+  },
+  "spacing": {
+    "pairs": 2704,
+    "ppem": 128,
+    "ink_threshold": 127,
+    "ink_collisions": 0,
+    "scope": "Unhinted grayscale raster ink only; not universal optical spacing certification"
+  },
+  "segmentation": {
+    "samples": 61,
+    "compatible_with_reservations": 43,
+    "uncertain": 18,
+    "individual_human_decisions": 29,
+    "delegated_agent_assessments": 32,
+    "confirmed_geometric_revisions": 11,
+    "originals_verified_locally_by_sha256_and_dimensions": 61,
+    "originals_distributed": false
+  },
+  "corpus": {
+    "records": 144,
+    "human_reviewed_readings": 101,
+    "candidates": 43,
+    "historical_csv_unchanged": true,
+    "lowercase_with_human_reviewed_readings": 20,
+    "reasoned_contemporary_completions": 6
+  },
+  "proofs": {
+    "raster_sizes_pt": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "pdf_pages": 4,
+    "pdf_sizes_pt": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "all_pdf_pages_rendered_and_visually_inspected": true,
+    "pdf_sha256": "32fa74ea9897cc3c767bac7bc6f6f7a042c9fdc210dfd02fb8650dc06550e9ed",
+    "pdf_metadata_check": "No findings in isolated distributable checkout; newly generated from font contours, without reading protected Office assets",
+    "browser_font_load_and_sample_controls_checked": true,
+    "browser_both_versions_selected_and_candidate_restored": true
+  },
+  "distribution": {
+    "privacy_findings": 0,
+    "verification_context": "Isolated checkout with intended changes only; unrelated modified local PDF excluded",
+    "inventory": "MANIFEST.json and CONTENTS.txt; independently checked after final documentation"
+  },
+  "not_claimed": {
+    "human_visual_approval_of_1_200": false,
+    "independent_paleographic_review": false,
+    "physical_print_test": false,
+    "native_office_1_200_test": false,
+    "all_26_lowercase_historically_attested": false,
+    "public_release_approved": false
+  }
+}

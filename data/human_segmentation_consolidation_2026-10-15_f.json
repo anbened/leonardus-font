@@ -1,0 +1,41 @@
+{
+  "review_id": "segmentation-consolidation-2026-10-15",
+  "status": "human_segmentation_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:42:25+00:00",
+  "quote": "Confermo gli esiti proposti per le quattro f",
+  "question": "Per le quattro f mostrate, confermi f01 compatibile con riserve; f02 da riesaminare con più margine destro; f04 con più margine superiore; f03 dubbia e non utilizzabile come riferimento geometrico principale per la traversa condivisa? Le zone arancioni restano non confermate. La decisione riguarda solo i confini delle proposte mostrate, senza modificare il font, riapprovare le letture o attestare autenticità. Puoi correggere gli esiti indicando il singolo ID.",
+  "plan_sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+  "shown_sheet": "build/segmentation-consolidation/review-f-7d9ea30f0689.png",
+  "shown_sheet_sha256": "7d9ea30f06897488f1db9b3bbe0582ee9a73e7e95db2e90a34971ce887684b65",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_F_01",
+      "annotation_sha256": "72668f41f827c5f5fab38e9d2fc52a98ec14c97183d098329dc4258523f17363",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_F_02",
+      "annotation_sha256": "e025dc6bb5512bed2b8b65d0771a5c7b8754ac228e62f309a05f2268af5bdb98",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_F_03",
+      "annotation_sha256": "efb58bd23fff3277b8e5f726906afc81ada165427cd45a03c856c5413d4ba312",
+      "decision": "uncertain",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_F_04",
+      "annotation_sha256": "c7605818bb820602545971e0390d3c010ee73835f646ec8d9338dfa1cecc8566",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

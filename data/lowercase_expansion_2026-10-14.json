@@ -1,0 +1,2807 @@
+{
+  "batch_id": "lowercase-expansion-2026-10-14",
+  "date": "2026-10-14",
+  "status": "candidate",
+  "human_review": false,
+  "scope": "First expansion batch; localization crops, not certified contour segmentation; no font changes",
+  "coordinate_system": "Original 1578x2174 pixels; raw x/y/w/h. mirror = horizontal reflection only; positions 1-based when proposed.",
+  "confidence_convention": "CSV 0.0 for new candidates means not estimated; no calibrated probabilities are asserted.",
+  "baseline_evidence_count": 44,
+  "baseline_evidence_prefix_sha256": "42778e5673e9ed00978443c577b5eb645b143e18ded52998ebfe7af95248ef39",
+  "baseline_evidence_rows_sha256": "e574d3712458e1bf13f44700b166ea8ff4fdfb815d5834e48de3cfbae0da974a",
+  "source": {
+    "source_id": "BNE_MADRID_I",
+    "url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+    "viewer_url": "https://bnedigital.bne.es/bd/es/viewer?id=1354ee8e-5c8d-4f9c-bb4c-6963121b7a7e",
+    "attribution": "Imágenes procedentes de los fondos de la Biblioteca Nacional de España",
+    "rights_verified_on": "2026-10-14",
+    "rights": "Record and JPEG download panel: public domain; CC BY 4.0 or equivalent; attribution BNE; free use without prior authorization. Images are acquired only for ignored local study and not distributed.",
+    "acquisition": "Official JPEG download UI, pages14,16,18,20. Download filenames1–4 correspond to selected pages, not folio numbers. SHA256 matches previously registered originals.",
+    "folio_mapping": "Retained working mapping:14=1r;16=2r;18=3r;20=4r; no new independent paleographic certification."
+  },
+  "coverage": {
+    "b": {
+      "candidates": 1,
+      "folios": [
+        "1r"
+      ]
+    },
+    "c": {
+      "candidates": 4,
+      "folios": [
+        "1r",
+        "4r"
+      ]
+    },
+    "f": {
+      "candidates": 5,
+      "folios": [
+        "1r",
+        "3r",
+        "4r"
+      ]
+    },
+    "g": {
+      "candidates": 5,
+      "folios": [
+        "2r",
+        "4r"
+      ]
+    },
+    "i": {
+      "candidates": 2,
+      "folios": [
+        "2r",
+        "3r"
+      ]
+    },
+    "m": {
+      "candidates": 8,
+      "folios": [
+        "1r",
+        "2r",
+        "3r",
+        "4r"
+      ]
+    },
+    "p": {
+      "candidates": 9,
+      "folios": [
+        "1r",
+        "2r",
+        "3r",
+        "4r"
+      ]
+    },
+    "q": {
+      "candidates": 5,
+      "folios": [
+        "1r",
+        "3r",
+        "4r"
+      ]
+    },
+    "s": {
+      "candidates": 6,
+      "folios": [
+        "1r",
+        "2r",
+        "3r",
+        "4r"
+      ]
+    },
+    "t": {
+      "candidates": 10,
+      "folios": [
+        "1r",
+        "2r",
+        "3r",
+        "4r"
+      ]
+    },
+    "u": {
+      "candidates": 9,
+      "folios": [
+        "2r",
+        "3r",
+        "4r"
+      ]
+    },
+    "z": {
+      "candidates": 1,
+      "folios": [
+        "4r"
+      ]
+    }
+  },
+  "priorities": {
+    "first": [
+      "c",
+      "i",
+      "u",
+      "m",
+      "s",
+      "t",
+      "p",
+      "q"
+    ],
+    "additional": [
+      "f",
+      "g",
+      "b",
+      "z"
+    ],
+    "deferred": {
+      "h": "Nessuna occorrenza sufficientemente isolabile selezionata nel batch; proseguire su altri contesti.",
+      "v": "Separazione moderna u/v da trattare come decisione di normalizzazione, senza inferirla automaticamente dalla forma.",
+      "j k w x y": "Ricerca mirata ancora da svolgere; nessuna assenza dal manoscritto viene affermata."
+    }
+  },
+  "samples": [
+    {
+      "character": "b",
+      "page": 14,
+      "mirror_crop": [
+        455,
+        1671,
+        22,
+        44
+      ],
+      "mirror_context": [
+        377,
+        1653,
+        132,
+        90
+      ],
+      "token": "impossibile (?)",
+      "rationale": "Asta ascendente breve con occhiello/spalla a destra prima della l a cappio.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Token impossibile candidato; distinzione b/legatura e confini con i da controllare.",
+      "sample_id": "BNE_MI_EXP_014_B_01",
+      "folio": "1r",
+      "position": null,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1101,
+        1671,
+        22,
+        44
+      ],
+      "raw_context": [
+        1069,
+        1653,
+        132,
+        90
+      ]
+    },
+    {
+      "character": "c",
+      "page": 14,
+      "mirror_crop": [
+        1317,
+        370,
+        24,
+        26
+      ],
+      "mirror_context": [
+        1309,
+        346,
+        145,
+        60
+      ],
+      "token": "con[?]",
+      "rationale": "Corpo basso aperto a destra nel primo gruppo del margine destro.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Non estendere la lettura alla parola completa.",
+      "sample_id": "BNE_MI_EXP_014_C_01",
+      "folio": "1r",
+      "position": 1,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        237,
+        370,
+        24,
+        26
+      ],
+      "raw_context": [
+        124,
+        346,
+        145,
+        60
+      ]
+    },
+    {
+      "character": "c",
+      "page": 14,
+      "mirror_crop": [
+        189,
+        1017,
+        22,
+        22
+      ],
+      "mirror_context": [
+        117,
+        1008,
+        102,
+        42
+      ],
+      "token": "manco (?)",
+      "rationale": "Corpo aperto a destra fra i minimi iniziali e un occhiello finale.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Apertura c/o e token da confermare.",
+      "sample_id": "BNE_MI_EXP_014_C_02",
+      "folio": "1r",
+      "position": null,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1367,
+        1017,
+        22,
+        22
+      ],
+      "raw_context": [
+        1359,
+        1008,
+        102,
+        42
+      ]
+    },
+    {
+      "character": "c",
+      "page": 20,
+      "mirror_crop": [
+        791,
+        1503,
+        34,
+        31
+      ],
+      "mirror_context": [
+        784,
+        1490,
+        86,
+        71
+      ],
+      "token": "c quale?",
+      "rationale": "Forma aperta, apparentemente separata prima della parola candidata quale.",
+      "doubts": "Potrebbe essere elemento abbreviativo o congiunzione; non classificare come lettera confermata.",
+      "sample_id": "BNE_MI_EXP_020_C_03",
+      "folio": "4r",
+      "position": 1,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        753,
+        1503,
+        34,
+        31
+      ],
+      "raw_context": [
+        708,
+        1490,
+        86,
+        71
+      ]
+    },
+    {
+      "character": "c",
+      "page": 20,
+      "mirror_crop": [
+        510,
+        1675,
+        23,
+        24
+      ],
+      "mirror_context": [
+        441,
+        1655,
+        146,
+        62
+      ],
+      "token": "sin…?",
+      "rationale": "Piccolo arco aperto che precede una ascendente con cappio.",
+      "doubts": "Token sin… solo orientativo; possibile raccordo da una lettera precedente.",
+      "sample_id": "BNE_MI_EXP_020_C_04",
+      "folio": "4r",
+      "position": null,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1045,
+        1675,
+        23,
+        24
+      ],
+      "raw_context": [
+        991,
+        1655,
+        146,
+        62
+      ]
+    },
+    {
+      "character": "f",
+      "page": 14,
+      "mirror_crop": [
+        509,
+        103,
+        33,
+        69
+      ],
+      "mirror_context": [
+        501,
+        86,
+        149,
+        91
+      ],
+      "token": "fiamma (?)",
+      "rationale": "Asta con testa arcuata, traversa e discendente nella prima riga superiore.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Token candidato; l uscita destra si collega al minimo successivo.",
+      "sample_id": "BNE_MI_EXP_014_F_01",
+      "folio": "1r",
+      "position": 1,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1036,
+        103,
+        33,
+        69
+      ],
+      "raw_context": [
+        928,
+        86,
+        149,
+        91
+      ]
+    },
+    {
+      "character": "f",
+      "page": 14,
+      "mirror_crop": [
+        131,
+        904,
+        24,
+        55
+      ],
+      "mirror_context": [
+        121,
+        896,
+        108,
+        68
+      ],
+      "token": "ferro (?)",
+      "rationale": "Testa arcuata, traversa marcata e asta lunga all inizio del gruppo nel margine sinistro.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Confrontare con s lunga; token ferro non confermato.",
+      "sample_id": "BNE_MI_EXP_014_F_02",
+      "folio": "1r",
+      "position": 1,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1423,
+        904,
+        24,
+        55
+      ],
+      "raw_context": [
+        1349,
+        896,
+        108,
+        68
+      ]
+    },
+    {
+      "character": "f",
+      "page": 18,
+      "mirror_crop": [
+        1189,
+        497,
+        30,
+        68
+      ],
+      "mirror_context": [
+        1177,
+        492,
+        156,
+        80
+      ],
+      "token": "finito?",
+      "rationale": "Asta alta con traversa evidente nella parola candidata finito.",
+      "doubts": "Lettura f e confine con i vicina da confermare; nessuna ricostruzione della connessione.",
+      "sample_id": "BNE_MI_EXP_018_F_03",
+      "folio": "3r",
+      "position": 1,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        359,
+        497,
+        30,
+        68
+      ],
+      "raw_context": [
+        245,
+        492,
+        156,
+        80
+      ]
+    },
+    {
+      "character": "f",
+      "page": 20,
+      "mirror_crop": [
+        1055,
+        1647,
+        34,
+        83
+      ],
+      "mirror_context": [
+        1026,
+        1637,
+        133,
+        103
+      ],
+      "token": "in fra…?",
+      "rationale": "Traversa evidente su asta alta nel gruppo candidato in fra….",
+      "doubts": "Il contesto non certifica spazi o parola completa; distinguere f da s lunga.",
+      "sample_id": "BNE_MI_EXP_020_F_04",
+      "folio": "4r",
+      "position": null,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        489,
+        1647,
+        34,
+        83
+      ],
+      "raw_context": [
+        419,
+        1637,
+        133,
+        103
+      ]
+    },
+    {
+      "character": "f",
+      "page": 20,
+      "mirror_crop": [
+        540,
+        1719,
+        27,
+        81
+      ],
+      "mirror_context": [
+        517,
+        1707,
+        74,
+        96
+      ],
+      "token": "f",
+      "rationale": "Segno isolato con ascendente e traversa, possibile etichetta f.",
+      "doubts": "Uso come etichetta tecnica, non parola corrente; controllare che sia lettera e non simbolo.",
+      "sample_id": "BNE_MI_EXP_020_F_05",
+      "folio": "4r",
+      "position": 1,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1011,
+        1719,
+        27,
+        81
+      ],
+      "raw_context": [
+        987,
+        1707,
+        74,
+        96
+      ]
+    },
+    {
+      "character": "g",
+      "page": 16,
+      "mirror_crop": [
+        444,
+        96,
+        28,
+        76
+      ],
+      "mirror_context": [
+        409,
+        85,
+        94,
+        91
+      ],
+      "token": "Ogni",
+      "rationale": "Occhiello superiore e discendente a cappio ampio nel gruppo iniziale Ogni.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Il punto sopra il gruppo non stabilisce da solo i confini fra g e lettere vicine.",
+      "sample_id": "BNE_MI_EXP_016_G_01",
+      "folio": "2r",
+      "position": 2,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1106,
+        96,
+        28,
+        76
+      ],
+      "raw_context": [
+        1075,
+        85,
+        94,
+        91
+      ]
+    },
+    {
+      "character": "g",
+      "page": 16,
+      "mirror_crop": [
+        1090,
+        102,
+        27,
+        59
+      ],
+      "mirror_context": [
+        1015,
+        54,
+        150,
+        108
+      ],
+      "token": "bisogni (?)",
+      "rationale": "Occhiello superiore e discendente a cappio fra il corpo o e il gruppo finale.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Token finale da confermare; il discendente sfiora la riga successiva.",
+      "sample_id": "BNE_MI_EXP_016_G_02",
+      "folio": "2r",
+      "position": null,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        461,
+        102,
+        27,
+        59
+      ],
+      "raw_context": [
+        413,
+        54,
+        150,
+        108
+      ]
+    },
+    {
+      "character": "g",
+      "page": 16,
+      "mirror_crop": [
+        951,
+        1877,
+        36,
+        53
+      ],
+      "mirror_context": [
+        888,
+        1828,
+        172,
+        111
+      ],
+      "token": "[?]g[?]",
+      "rationale": "Occhiello compatto sopra un cappio inferiore ampio nella nota inferiore.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Trascrizione del token non stabilita; lettura g proposta sulla forma, da distinguere da altre lettere con discendente.",
+      "sample_id": "BNE_MI_EXP_016_G_03",
+      "folio": "2r",
+      "position": null,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        591,
+        1877,
+        36,
+        53
+      ],
+      "raw_context": [
+        518,
+        1828,
+        172,
+        111
+      ]
+    },
+    {
+      "character": "g",
+      "page": 20,
+      "mirror_crop": [
+        650,
+        1673,
+        30,
+        64
+      ],
+      "mirror_context": [
+        597,
+        1657,
+        166,
+        91
+      ],
+      "token": "magior…?",
+      "rationale": "Ovale superiore e cappio discendente visibile nella parola candidata magior….",
+      "doubts": "Grafia del token non modernizzata; confini dei tratti con i vicina da verificare.",
+      "sample_id": "BNE_MI_EXP_020_G_04",
+      "folio": "4r",
+      "position": 3,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        898,
+        1673,
+        30,
+        64
+      ],
+      "raw_context": [
+        815,
+        1657,
+        166,
+        91
+      ]
+    },
+    {
+      "character": "g",
+      "page": 20,
+      "mirror_crop": [
+        826,
+        1729,
+        36,
+        64
+      ],
+      "mirror_context": [
+        780,
+        1711,
+        204,
+        91
+      ],
+      "token": "degradando?",
+      "rationale": "Cappio inferiore in posizione interna del token candidato degradando.",
+      "doubts": "Token non confermato; potrebbe essere diversa sequenza verbale.",
+      "sample_id": "BNE_MI_EXP_020_G_05",
+      "folio": "4r",
+      "position": 3,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        716,
+        1729,
+        36,
+        64
+      ],
+      "raw_context": [
+        594,
+        1711,
+        204,
+        91
+      ]
+    },
+    {
+      "character": "i",
+      "page": 16,
+      "mirror_crop": [
+        488,
+        109,
+        12,
+        41
+      ],
+      "mirror_context": [
+        409,
+        85,
+        94,
+        91
+      ],
+      "token": "Ogni",
+      "rationale": "Minimo finale sottile e prolungato dopo il gruppo n.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Nessun punto chiaramente associato: i finale/j e connessione n/i da revisionare.",
+      "sample_id": "BNE_MI_EXP_016_I_01",
+      "folio": "2r",
+      "position": 4,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1078,
+        109,
+        12,
+        41
+      ],
+      "raw_context": [
+        1075,
+        85,
+        94,
+        91
+      ]
+    },
+    {
+      "character": "i",
+      "page": 18,
+      "mirror_crop": [
+        1280,
+        267,
+        16,
+        33
+      ],
+      "mirror_context": [
+        1206,
+        255,
+        134,
+        85
+      ],
+      "token": "qui?",
+      "rationale": "Asta bassa separata con segno superiore, alla fine del token candidato.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_I_02",
+      "folio": "3r",
+      "position": 3,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        282,
+        267,
+        16,
+        33
+      ],
+      "raw_context": [
+        238,
+        255,
+        134,
+        85
+      ]
+    },
+    {
+      "character": "m",
+      "page": 14,
+      "mirror_crop": [
+        125,
+        1018,
+        29,
+        21
+      ],
+      "mirror_context": [
+        117,
+        1008,
+        102,
+        42
+      ],
+      "token": "manco (?)",
+      "rationale": "Tre minimi bassi nel gruppo iniziale della nota marginale.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Token manco candidato; il margine sinistro del primo minimo è vicino al limite del crop.",
+      "sample_id": "BNE_MI_EXP_014_M_01",
+      "folio": "1r",
+      "position": 1,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1424,
+        1018,
+        29,
+        21
+      ],
+      "raw_context": [
+        1359,
+        1008,
+        102,
+        42
+      ]
+    },
+    {
+      "character": "m",
+      "page": 16,
+      "mirror_crop": [
+        692,
+        105,
+        31,
+        27
+      ],
+      "mirror_context": [
+        651,
+        87,
+        146,
+        76
+      ],
+      "token": "dimanda",
+      "rationale": "Sequenza di minimi con doppia spalla fra l uscita di d/i e la prima a di dimanda.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Confini i/m legati; confronto con seconda occorrenza. Il gruppo stretto può includere parte della i precedente o della a successiva; il contesto resta necessario.",
+      "sample_id": "BNE_MI_EXP_016_M_02",
+      "folio": "2r",
+      "position": null,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        855,
+        105,
+        31,
+        27
+      ],
+      "raw_context": [
+        781,
+        87,
+        146,
+        76
+      ]
+    },
+    {
+      "character": "m",
+      "page": 16,
+      "mirror_crop": [
+        539,
+        172,
+        32,
+        25
+      ],
+      "mirror_context": [
+        495,
+        149,
+        145,
+        68
+      ],
+      "token": "dimanda",
+      "rationale": "Due spalle basse dopo l uscita d/i nella seconda dimanda della pagina.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Minimi connessi: identificazione m e confine i/m da controllare. Il gruppo stretto può includere parte della i precedente o della a successiva; il contesto resta necessario.",
+      "sample_id": "BNE_MI_EXP_016_M_03",
+      "folio": "2r",
+      "position": null,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1007,
+        172,
+        32,
+        25
+      ],
+      "raw_context": [
+        938,
+        149,
+        145,
+        68
+      ]
+    },
+    {
+      "character": "m",
+      "page": 18,
+      "mirror_crop": [
+        1130,
+        220,
+        33,
+        27
+      ],
+      "mirror_context": [
+        1041,
+        195,
+        148,
+        69
+      ],
+      "token": "…sima?",
+      "rationale": "Sequenza di aste basse e archi nella terminazione della parola.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_M_04",
+      "folio": "3r",
+      "position": null,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        415,
+        220,
+        33,
+        27
+      ],
+      "raw_context": [
+        389,
+        195,
+        148,
+        69
+      ]
+    },
+    {
+      "character": "m",
+      "page": 18,
+      "mirror_crop": [
+        1090,
+        411,
+        31,
+        24
+      ],
+      "mirror_context": [
+        1064,
+        401,
+        86,
+        43
+      ],
+      "token": "…numero?",
+      "rationale": "Tre archi bassi consecutivi; proposta m da confrontare con le altre sequenze di minimi.",
+      "doubts": "m/n/u possono confondersi nella sequenza; token completo non confermato.",
+      "sample_id": "BNE_MI_EXP_018_M_05",
+      "folio": "3r",
+      "position": null,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        457,
+        411,
+        31,
+        24
+      ],
+      "raw_context": [
+        428,
+        401,
+        86,
+        43
+      ]
+    },
+    {
+      "character": "m",
+      "page": 18,
+      "mirror_crop": [
+        1016,
+        463,
+        32,
+        24
+      ],
+      "mirror_context": [
+        1008,
+        454,
+        91,
+        43
+      ],
+      "token": "moto",
+      "rationale": "Prima lettera del token moto nel secondo blocco, sequenza di minimi bassa.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_M_06",
+      "folio": "3r",
+      "position": 1,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        530,
+        463,
+        32,
+        24
+      ],
+      "raw_context": [
+        479,
+        454,
+        91,
+        43
+      ]
+    },
+    {
+      "character": "m",
+      "page": 18,
+      "mirror_crop": [
+        975,
+        526,
+        32,
+        28
+      ],
+      "mirror_context": [
+        965,
+        515,
+        134,
+        50
+      ],
+      "token": "moto?",
+      "rationale": "Gruppo basso di minimi che precede l’ovale e la traversa.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_M_07",
+      "folio": "3r",
+      "position": 1,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        571,
+        526,
+        32,
+        28
+      ],
+      "raw_context": [
+        479,
+        515,
+        134,
+        50
+      ]
+    },
+    {
+      "character": "m",
+      "page": 20,
+      "mirror_crop": [
+        780,
+        1675,
+        32,
+        25
+      ],
+      "mirror_context": [
+        738,
+        1662,
+        129,
+        48
+      ],
+      "token": "numero?",
+      "rationale": "Tre minimi consecutivi nella parola candidata numero.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_020_M_08",
+      "folio": "4r",
+      "position": 3,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        766,
+        1675,
+        32,
+        25
+      ],
+      "raw_context": [
+        711,
+        1662,
+        129,
+        48
+      ]
+    },
+    {
+      "character": "p",
+      "page": 14,
+      "mirror_crop": [
+        245,
+        876,
+        23,
+        32
+      ],
+      "mirror_context": [
+        228,
+        865,
+        99,
+        47
+      ],
+      "token": "ap[?]",
+      "rationale": "Asta inferiore e spalla corta dopo un corpo basso simile ad a.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Trascrizione limitata ad ap[?]; connessione a/p inclusa nel target.",
+      "sample_id": "BNE_MI_EXP_014_P_01",
+      "folio": "1r",
+      "position": null,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1310,
+        876,
+        23,
+        32
+      ],
+      "raw_context": [
+        1251,
+        865,
+        99,
+        47
+      ]
+    },
+    {
+      "character": "p",
+      "page": 14,
+      "mirror_crop": [
+        227,
+        1017,
+        24,
+        36
+      ],
+      "mirror_context": [
+        220,
+        1005,
+        124,
+        60
+      ],
+      "token": "prima (?)",
+      "rationale": "Asta discendente con occhiello piccolo nel primo gruppo a destra di manco.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Token prima solo candidato; i minimi successivi non sono trascritti come confermati.",
+      "sample_id": "BNE_MI_EXP_014_P_02",
+      "folio": "1r",
+      "position": 1,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1327,
+        1017,
+        24,
+        36
+      ],
+      "raw_context": [
+        1234,
+        1005,
+        124,
+        60
+      ]
+    },
+    {
+      "character": "p",
+      "page": 16,
+      "mirror_crop": [
+        593,
+        108,
+        29,
+        54
+      ],
+      "mirror_context": [
+        516,
+        98,
+        127,
+        66
+      ],
+      "token": "corpo",
+      "rationale": "Asta inferiore lunga con occhiello/spalla a destra fra r e o.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. La spalla si avvicina alla o finale.",
+      "sample_id": "BNE_MI_EXP_016_P_03",
+      "folio": "2r",
+      "position": 4,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        956,
+        108,
+        29,
+        54
+      ],
+      "raw_context": [
+        935,
+        98,
+        127,
+        66
+      ]
+    },
+    {
+      "character": "p",
+      "page": 16,
+      "mirror_crop": [
+        1060,
+        213,
+        27,
+        54
+      ],
+      "mirror_context": [
+        1054,
+        205,
+        98,
+        68
+      ],
+      "token": "parti (?)",
+      "rationale": "Asta discendente con arco superiore aperto nel gruppo finale della terza riga.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Token parti candidato; non confermare automaticamente la parola.",
+      "sample_id": "BNE_MI_EXP_016_P_04",
+      "folio": "2r",
+      "position": 1,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        491,
+        213,
+        27,
+        54
+      ],
+      "raw_context": [
+        426,
+        205,
+        98,
+        68
+      ]
+    },
+    {
+      "character": "p",
+      "page": 18,
+      "mirror_crop": [
+        968,
+        270,
+        30,
+        49
+      ],
+      "mirror_context": [
+        956,
+        262,
+        80,
+        67
+      ],
+      "token": "polo?",
+      "rationale": "Asta discendente con lobo superiore, in posizione iniziale del token candidato.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_P_05",
+      "folio": "3r",
+      "position": 1,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        580,
+        270,
+        30,
+        49
+      ],
+      "raw_context": [
+        542,
+        262,
+        80,
+        67
+      ]
+    },
+    {
+      "character": "p",
+      "page": 18,
+      "mirror_crop": [
+        1018,
+        411,
+        28,
+        48
+      ],
+      "mirror_context": [
+        982,
+        398,
+        80,
+        68
+      ],
+      "token": "che p…?",
+      "rationale": "Discendente lungo con lobo che precede una sequenza di minimi.",
+      "doubts": "Token non trascritto per intero; connessione inferiore può appartenere alla lettera precedente.",
+      "sample_id": "BNE_MI_EXP_018_P_06",
+      "folio": "3r",
+      "position": null,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        532,
+        411,
+        28,
+        48
+      ],
+      "raw_context": [
+        516,
+        398,
+        80,
+        68
+      ]
+    },
+    {
+      "character": "p",
+      "page": 20,
+      "mirror_crop": [
+        638,
+        1556,
+        27,
+        65
+      ],
+      "mirror_context": [
+        599,
+        1546,
+        99,
+        81
+      ],
+      "token": "un po?",
+      "rationale": "Lobo superiore e asta discendente in un breve token dopo volta.",
+      "doubts": "Spazi fra un e po non certificati; posizione della lettera non fissata.",
+      "sample_id": "BNE_MI_EXP_020_P_07",
+      "folio": "4r",
+      "position": null,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        913,
+        1556,
+        27,
+        65
+      ],
+      "raw_context": [
+        880,
+        1546,
+        99,
+        81
+      ]
+    },
+    {
+      "character": "p",
+      "page": 20,
+      "mirror_crop": [
+        702,
+        1776,
+        32,
+        60
+      ],
+      "mirror_context": [
+        696,
+        1762,
+        110,
+        82
+      ],
+      "token": "parti?",
+      "rationale": "Prima asta discendente con lobo nella parola candidata parti.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_020_P_08",
+      "folio": "4r",
+      "position": 1,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        844,
+        1776,
+        32,
+        60
+      ],
+      "raw_context": [
+        772,
+        1762,
+        110,
+        82
+      ]
+    },
+    {
+      "character": "p",
+      "page": 20,
+      "mirror_crop": [
+        931,
+        1880,
+        33,
+        61
+      ],
+      "mirror_context": [
+        926,
+        1869,
+        168,
+        81
+      ],
+      "token": "poten…?",
+      "rationale": "Discendente iniziale del token candidato poten….",
+      "doubts": "Token completo non fissato; presenza di tratto d’uscita condiviso.",
+      "sample_id": "BNE_MI_EXP_020_P_09",
+      "folio": "4r",
+      "position": 1,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        614,
+        1880,
+        33,
+        61
+      ],
+      "raw_context": [
+        484,
+        1869,
+        168,
+        81
+      ]
+    },
+    {
+      "character": "q",
+      "page": 14,
+      "mirror_crop": [
+        477,
+        182,
+        31,
+        51
+      ],
+      "mirror_context": [
+        448,
+        169,
+        116,
+        71
+      ],
+      "token": "acqua (?)",
+      "rationale": "Occhiello alto con asta discendente nell insieme acqua candidato.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Forma candidata q: la trascrizione acqua e la distinzione da p/g richiedono verifica.",
+      "sample_id": "BNE_MI_EXP_014_Q_01",
+      "folio": "1r",
+      "position": null,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1070,
+        182,
+        31,
+        51
+      ],
+      "raw_context": [
+        1014,
+        169,
+        116,
+        71
+      ]
+    },
+    {
+      "character": "q",
+      "page": 14,
+      "mirror_crop": [
+        511,
+        1745,
+        39,
+        39
+      ],
+      "mirror_context": [
+        507,
+        1734,
+        96,
+        53
+      ],
+      "token": "que[?]",
+      "rationale": "Occhiello e discendente ricurvo nel gruppo inferiore.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. La coda può contribuire alla distinzione q/g; non espandere il token oltre que[?].",
+      "sample_id": "BNE_MI_EXP_014_Q_02",
+      "folio": "1r",
+      "position": null,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1028,
+        1745,
+        39,
+        39
+      ],
+      "raw_context": [
+        975,
+        1734,
+        96,
+        53
+      ]
+    },
+    {
+      "character": "q",
+      "page": 18,
+      "mirror_crop": [
+        1248,
+        272,
+        18,
+        60
+      ],
+      "mirror_context": [
+        1206,
+        255,
+        134,
+        85
+      ],
+      "token": "qui?",
+      "rationale": "Lobo basso e lunga discesa, nella parola candidata qui.",
+      "doubts": "La lettura qui e la distinzione q/p vanno confermate nel contesto; il segno vicino non è interpretato.",
+      "sample_id": "BNE_MI_EXP_018_Q_03",
+      "folio": "3r",
+      "position": 1,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        312,
+        272,
+        18,
+        60
+      ],
+      "raw_context": [
+        238,
+        255,
+        134,
+        85
+      ]
+    },
+    {
+      "character": "q",
+      "page": 18,
+      "mirror_crop": [
+        771,
+        463,
+        30,
+        63
+      ],
+      "mirror_context": [
+        765,
+        445,
+        99,
+        89
+      ],
+      "token": "questa?",
+      "rationale": "Ovale superiore basso e asta discendente all’inizio del token candidato questa.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_Q_04",
+      "folio": "3r",
+      "position": 1,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        777,
+        463,
+        30,
+        63
+      ],
+      "raw_context": [
+        714,
+        445,
+        99,
+        89
+      ]
+    },
+    {
+      "character": "q",
+      "page": 20,
+      "mirror_crop": [
+        822,
+        1496,
+        25,
+        73
+      ],
+      "mirror_context": [
+        814,
+        1487,
+        104,
+        94
+      ],
+      "token": "quale?",
+      "rationale": "Ovale alto relativo e asta discendente prima della sequenza u-a-l-e proposta.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_020_Q_05",
+      "folio": "4r",
+      "position": 1,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        731,
+        1496,
+        25,
+        73
+      ],
+      "raw_context": [
+        660,
+        1487,
+        104,
+        94
+      ]
+    },
+    {
+      "character": "s",
+      "page": 14,
+      "mirror_crop": [
+        1361,
+        353,
+        28,
+        48
+      ],
+      "mirror_context": [
+        1309,
+        346,
+        145,
+        60
+      ],
+      "token": "con[?]",
+      "rationale": "Testa arcuata e asta lunga subito dopo il gruppo con nel margine destro.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Distinzione s/f e token completo non risolti.",
+      "sample_id": "BNE_MI_EXP_014_S_01",
+      "folio": "1r",
+      "position": null,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        189,
+        353,
+        28,
+        48
+      ],
+      "raw_context": [
+        124,
+        346,
+        145,
+        60
+      ]
+    },
+    {
+      "character": "s",
+      "page": 16,
+      "mirror_crop": [
+        839,
+        80,
+        29,
+        74
+      ],
+      "mirror_context": [
+        802,
+        62,
+        95,
+        98
+      ],
+      "token": "sua",
+      "rationale": "Asta lunga con testa arcuata all inizio del gruppo sua.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Forma lunga: controllare distinzione s/f e connessione alla u.",
+      "sample_id": "BNE_MI_EXP_016_S_02",
+      "folio": "2r",
+      "position": 1,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        710,
+        80,
+        29,
+        74
+      ],
+      "raw_context": [
+        681,
+        62,
+        95,
+        98
+      ]
+    },
+    {
+      "character": "s",
+      "page": 16,
+      "mirror_crop": [
+        995,
+        198,
+        25,
+        71
+      ],
+      "mirror_context": [
+        966,
+        187,
+        96,
+        86
+      ],
+      "token": "sua",
+      "rationale": "Seconda testa arcuata e asta lunga prima della u nella terza riga.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Il crop comprende un tratto dell uscita della l precedente.",
+      "sample_id": "BNE_MI_EXP_016_S_03",
+      "folio": "2r",
+      "position": 1,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        558,
+        198,
+        25,
+        71
+      ],
+      "raw_context": [
+        516,
+        187,
+        96,
+        86
+      ]
+    },
+    {
+      "character": "s",
+      "page": 18,
+      "mirror_crop": [
+        1104,
+        204,
+        24,
+        54
+      ],
+      "mirror_context": [
+        1041,
+        195,
+        148,
+        69
+      ],
+      "token": "…sima?",
+      "rationale": "Asta lunga con testa ripiegata; proposta s lunga.",
+      "doubts": "Distinzione s lunga/f da revisionare; token completo non fissato.",
+      "sample_id": "BNE_MI_EXP_018_S_04",
+      "folio": "3r",
+      "position": null,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        450,
+        204,
+        24,
+        54
+      ],
+      "raw_context": [
+        389,
+        195,
+        148,
+        69
+      ]
+    },
+    {
+      "character": "s",
+      "page": 18,
+      "mirror_crop": [
+        827,
+        449,
+        26,
+        51
+      ],
+      "mirror_context": [
+        765,
+        445,
+        99,
+        89
+      ],
+      "token": "questa?",
+      "rationale": "Asta lunga con cappio superiore in posizione interna.",
+      "doubts": "Proposta s lunga; distinzione da f e confini con la t vicina da revisionare.",
+      "sample_id": "BNE_MI_EXP_018_S_05",
+      "folio": "3r",
+      "position": 4,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        725,
+        449,
+        26,
+        51
+      ],
+      "raw_context": [
+        714,
+        445,
+        99,
+        89
+      ]
+    },
+    {
+      "character": "s",
+      "page": 20,
+      "mirror_crop": [
+        743,
+        1539,
+        28,
+        62
+      ],
+      "mirror_context": [
+        718,
+        1527,
+        132,
+        82
+      ],
+      "token": "…s…?",
+      "rationale": "Asta alta ripiegata nella riga inferiore.",
+      "doubts": "Distinzione s lunga/f da revisionare; token completo non trascritto.",
+      "sample_id": "BNE_MI_EXP_020_S_06",
+      "folio": "4r",
+      "position": null,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        807,
+        1539,
+        28,
+        62
+      ],
+      "raw_context": [
+        728,
+        1527,
+        132,
+        82
+      ]
+    },
+    {
+      "character": "t",
+      "page": 14,
+      "mirror_crop": [
+        303,
+        801,
+        18,
+        30
+      ],
+      "mirror_context": [
+        298,
+        794,
+        68,
+        43
+      ],
+      "token": "tutti (?)",
+      "rationale": "Traversa e asta breve nel primo minimo del gruppo tutti candidato.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Connessioni con u e lettere vicine da delimitare.",
+      "sample_id": "BNE_MI_EXP_014_T_01",
+      "folio": "1r",
+      "position": 1,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1257,
+        801,
+        18,
+        30
+      ],
+      "raw_context": [
+        1212,
+        794,
+        68,
+        43
+      ]
+    },
+    {
+      "character": "t",
+      "page": 14,
+      "mirror_crop": [
+        331,
+        804,
+        17,
+        30
+      ],
+      "mirror_context": [
+        298,
+        794,
+        68,
+        43
+      ],
+      "token": "tutti (?)",
+      "rationale": "Seconda traversa visibile nel gruppo finale della terza riga marginale.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Minimi adiacenti; posizione esatta nel token tutti da confermare. Il rettangolo include porzioni delle due t legate.",
+      "sample_id": "BNE_MI_EXP_014_T_02",
+      "folio": "1r",
+      "position": null,
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-014.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1230,
+        804,
+        17,
+        30
+      ],
+      "raw_context": [
+        1212,
+        794,
+        68,
+        43
+      ]
+    },
+    {
+      "character": "t",
+      "page": 16,
+      "mirror_crop": [
+        1115,
+        212,
+        21,
+        32
+      ],
+      "mirror_context": [
+        1054,
+        205,
+        98,
+        68
+      ],
+      "token": "parti (?)",
+      "rationale": "Asta breve con traversa orizzontale e collegamento a destra nel gruppo finale.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Distinguere traversa propria e collegamento alla lettera successiva.",
+      "sample_id": "BNE_MI_EXP_016_T_03",
+      "folio": "2r",
+      "position": null,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        442,
+        212,
+        21,
+        32
+      ],
+      "raw_context": [
+        426,
+        205,
+        98,
+        68
+      ]
+    },
+    {
+      "character": "t",
+      "page": 18,
+      "mirror_crop": [
+        812,
+        220,
+        26,
+        29
+      ],
+      "mirror_context": [
+        766,
+        210,
+        86,
+        46
+      ],
+      "token": "tutte?",
+      "rationale": "Asta breve con traversa nella parola candidata tutte; non usare come contorno isolato.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_T_04",
+      "folio": "3r",
+      "position": 3,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        740,
+        220,
+        26,
+        29
+      ],
+      "raw_context": [
+        726,
+        210,
+        86,
+        46
+      ]
+    },
+    {
+      "character": "t",
+      "page": 18,
+      "mirror_crop": [
+        1067,
+        272,
+        35,
+        24
+      ],
+      "mirror_context": [
+        1039,
+        260,
+        83,
+        45
+      ],
+      "token": "moto?",
+      "rationale": "Traversa evidente nella terza posizione proposta del token moto.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_T_05",
+      "folio": "3r",
+      "position": 3,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        476,
+        272,
+        35,
+        24
+      ],
+      "raw_context": [
+        456,
+        260,
+        83,
+        45
+      ]
+    },
+    {
+      "character": "t",
+      "page": 18,
+      "mirror_crop": [
+        814,
+        406,
+        21,
+        33
+      ],
+      "mirror_context": [
+        766,
+        399,
+        82,
+        42
+      ],
+      "token": "tutte",
+      "rationale": "Asta con traversa in posizione interna nella seconda occorrenza di tutte.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_T_06",
+      "folio": "3r",
+      "position": 3,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        743,
+        406,
+        21,
+        33
+      ],
+      "raw_context": [
+        730,
+        399,
+        82,
+        42
+      ]
+    },
+    {
+      "character": "t",
+      "page": 18,
+      "mirror_crop": [
+        771,
+        407,
+        28,
+        33
+      ],
+      "mirror_context": [
+        766,
+        399,
+        82,
+        42
+      ],
+      "token": "tutte",
+      "rationale": "Prima asta con traversa nella parola che introduce il secondo blocco superiore.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_T_07",
+      "folio": "3r",
+      "position": 1,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        779,
+        407,
+        28,
+        33
+      ],
+      "raw_context": [
+        730,
+        399,
+        82,
+        42
+      ]
+    },
+    {
+      "character": "t",
+      "page": 18,
+      "mirror_crop": [
+        1067,
+        459,
+        31,
+        28
+      ],
+      "mirror_context": [
+        1008,
+        454,
+        91,
+        43
+      ],
+      "token": "moto",
+      "rationale": "Traversa corta evidente tra i due ovali del token moto.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_T_08",
+      "folio": "3r",
+      "position": 3,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        480,
+        459,
+        31,
+        28
+      ],
+      "raw_context": [
+        479,
+        454,
+        91,
+        43
+      ]
+    },
+    {
+      "character": "t",
+      "page": 20,
+      "mirror_crop": [
+        353,
+        1504,
+        36,
+        43
+      ],
+      "mirror_context": [
+        347,
+        1491,
+        90,
+        57
+      ],
+      "token": "tutte",
+      "rationale": "Traversa ampia all’inizio della riga tutte le… del paragrafo inferiore.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_020_T_09",
+      "folio": "4r",
+      "position": 1,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1189,
+        1504,
+        36,
+        43
+      ],
+      "raw_context": [
+        1141,
+        1491,
+        90,
+        57
+      ]
+    },
+    {
+      "character": "t",
+      "page": 20,
+      "mirror_crop": [
+        873,
+        1718,
+        32,
+        44
+      ],
+      "mirror_context": [
+        780,
+        1711,
+        204,
+        91
+      ],
+      "token": "…?",
+      "rationale": "Asta con traversa interna a un token della quinta riga.",
+      "doubts": "Il token e la posizione non vengono fissati; connessione con i minimi adiacenti.",
+      "sample_id": "BNE_MI_EXP_020_T_10",
+      "folio": "4r",
+      "position": null,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        673,
+        1718,
+        32,
+        44
+      ],
+      "raw_context": [
+        594,
+        1711,
+        204,
+        91
+      ]
+    },
+    {
+      "character": "u",
+      "page": 16,
+      "mirror_crop": [
+        852,
+        104,
+        23,
+        23
+      ],
+      "mirror_context": [
+        802,
+        62,
+        95,
+        98
+      ],
+      "token": "sua",
+      "rationale": "Due minimi legati con incavo basso fra s lunga e a.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Una parte dell attacco si sovrappone all uscita della s.",
+      "sample_id": "BNE_MI_EXP_016_U_01",
+      "folio": "2r",
+      "position": 2,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        703,
+        104,
+        23,
+        23
+      ],
+      "raw_context": [
+        681,
+        62,
+        95,
+        98
+      ]
+    },
+    {
+      "character": "u",
+      "page": 16,
+      "mirror_crop": [
+        1017,
+        216,
+        18,
+        28
+      ],
+      "mirror_context": [
+        966,
+        187,
+        96,
+        86
+      ],
+      "token": "sua",
+      "rationale": "Coppia di minimi collegati prima della a nella seconda sua.",
+      "doubts": "Identificazione visiva dell agente; nessuna conferma umana. Crop di localizzazione, non segmentazione di un contorno autonomo. Le uscite connesse possono rendere incerti i confini.",
+      "sample_id": "BNE_MI_EXP_016_U_02",
+      "folio": "2r",
+      "position": 2,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-016.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        543,
+        216,
+        18,
+        28
+      ],
+      "raw_context": [
+        516,
+        187,
+        96,
+        86
+      ]
+    },
+    {
+      "character": "u",
+      "page": 18,
+      "mirror_crop": [
+        772,
+        228,
+        23,
+        25
+      ],
+      "mirror_context": [
+        766,
+        210,
+        86,
+        46
+      ],
+      "token": "tutte?",
+      "rationale": "Due aste basse raccordate nella prima parola; confronto con la seconda occorrenza di tutte.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_U_03",
+      "folio": "3r",
+      "position": 2,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        783,
+        228,
+        23,
+        25
+      ],
+      "raw_context": [
+        726,
+        210,
+        86,
+        46
+      ]
+    },
+    {
+      "character": "u",
+      "page": 18,
+      "mirror_crop": [
+        1264,
+        273,
+        16,
+        29
+      ],
+      "mirror_context": [
+        1206,
+        255,
+        134,
+        85
+      ],
+      "token": "qui?",
+      "rationale": "Forma bassa aperta, successiva alla candidata q.",
+      "doubts": "La classificazione moderna u/v resta da decidere; non inferire il valore dal solo token.",
+      "sample_id": "BNE_MI_EXP_018_U_04",
+      "folio": "3r",
+      "position": 2,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        298,
+        273,
+        16,
+        29
+      ],
+      "raw_context": [
+        238,
+        255,
+        134,
+        85
+      ]
+    },
+    {
+      "character": "u",
+      "page": 18,
+      "mirror_crop": [
+        794,
+        415,
+        23,
+        23
+      ],
+      "mirror_context": [
+        766,
+        399,
+        82,
+        42
+      ],
+      "token": "tutte",
+      "rationale": "Due minimi uniti, tra la prima e la seconda traversa della parola tutte.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_U_05",
+      "folio": "3r",
+      "position": 2,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        761,
+        415,
+        23,
+        23
+      ],
+      "raw_context": [
+        730,
+        399,
+        82,
+        42
+      ]
+    },
+    {
+      "character": "u",
+      "page": 18,
+      "mirror_crop": [
+        798,
+        470,
+        22,
+        26
+      ],
+      "mirror_context": [
+        765,
+        445,
+        99,
+        89
+      ],
+      "token": "questa?",
+      "rationale": "Forma bassa tra q candidata e il gruppo finale del token.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_018_U_06",
+      "folio": "3r",
+      "position": 2,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        758,
+        470,
+        22,
+        26
+      ],
+      "raw_context": [
+        714,
+        445,
+        99,
+        89
+      ]
+    },
+    {
+      "character": "u",
+      "page": 18,
+      "mirror_crop": [
+        1098,
+        527,
+        33,
+        28
+      ],
+      "mirror_context": [
+        1091,
+        510,
+        92,
+        62
+      ],
+      "token": "quel?",
+      "rationale": "Forma bassa aperta fra candidata q e l finale.",
+      "doubts": "Associazione moderna u/v provvisoria; token quel da confermare.",
+      "sample_id": "BNE_MI_EXP_018_U_07",
+      "folio": "3r",
+      "position": 2,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-018.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        447,
+        527,
+        33,
+        28
+      ],
+      "raw_context": [
+        395,
+        510,
+        92,
+        62
+      ]
+    },
+    {
+      "character": "u",
+      "page": 20,
+      "mirror_crop": [
+        847,
+        1499,
+        27,
+        25
+      ],
+      "mirror_context": [
+        814,
+        1487,
+        104,
+        94
+      ],
+      "token": "quale?",
+      "rationale": "Due minimi bassi dopo la q candidata nella prima riga inferiore.",
+      "doubts": "Attribuzione moderna u/v provvisoria; confermare nel contesto.",
+      "sample_id": "BNE_MI_EXP_020_U_08",
+      "folio": "4r",
+      "position": 2,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        704,
+        1499,
+        27,
+        25
+      ],
+      "raw_context": [
+        660,
+        1487,
+        104,
+        94
+      ]
+    },
+    {
+      "character": "u",
+      "page": 20,
+      "mirror_crop": [
+        372,
+        1518,
+        19,
+        24
+      ],
+      "mirror_context": [
+        347,
+        1491,
+        90,
+        57
+      ],
+      "token": "tutte",
+      "rationale": "Minimi bassi raccordati fra le traverse della parola tutte.",
+      "doubts": "Identificazione proposta dall’agente; contorno connesso alle lettere vicine, non segmentazione certificata.",
+      "sample_id": "BNE_MI_EXP_020_U_09",
+      "folio": "4r",
+      "position": 2,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1187,
+        1518,
+        19,
+        24
+      ],
+      "raw_context": [
+        1141,
+        1491,
+        90,
+        57
+      ]
+    },
+    {
+      "character": "z",
+      "page": 20,
+      "mirror_crop": [
+        465,
+        1567,
+        21,
+        38
+      ],
+      "mirror_context": [
+        425,
+        1554,
+        76,
+        54
+      ],
+      "token": "meza?",
+      "rationale": "Forma angolare con discesa nella parola candidata meza.",
+      "doubts": "Proposta z, grafia del token non normalizzata; confronto con e/segno abbreviativo da revisionare.",
+      "sample_id": "BNE_MI_EXP_020_Z_01",
+      "folio": "4r",
+      "position": 3,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "source_local_path": "scans/expansion-2026-10-14/page-020.jpg",
+      "status": "candidate",
+      "human_review": false,
+      "raw_crop": [
+        1092,
+        1567,
+        21,
+        38
+      ],
+      "raw_context": [
+        1077,
+        1554,
+        76,
+        54
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "version": "1.000",
+  "family": "Leonardus",
+  "postscript": "LeonardusLab-Regular",
+  "source_directory": "glyphs/regular/alpha-0.200",
+  "source_manifest_sha256": "96060e736d82b7442c446f9499be5893f3134c4b204766714acb30bcb4c08cb0",
+  "human_release_receipt": "data/human_regular_release_review_2026-10-13.json",
+  "human_release_receipt_sha256": "58c242055cc4ca6c5a059ac3c68a85e42e31d37e4d176c1b5db03871e4162eab",
+  "license_file": "glyphs/regular/OFL.txt",
+  "license_sha256": "e3a42bb38406c93e68774afcbced10096b179f5a72d03408d53c14aaf1477740",
+  "license": "OFL-1.1",
+  "reserved_font_names": [],
+  "outline_changes_from_approved_alpha": false,
+  "metadata_changes": [
+    "family and version",
+    "OFL license and fsType=0",
+    "Latin-1 functional code-page bit from validated 0.201"
+  ],
+  "copyright": "Copyright (c) 2026, Leonardus Lab contributors."
+}

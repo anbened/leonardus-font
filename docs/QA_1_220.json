@@ -1,0 +1,123 @@
+{
+  "version": "1.220",
+  "date": "2026-10-15",
+  "family": "Leonardus 1220",
+  "status": "selected_aemnu_integration_candidate",
+  "font_sha256": "57d0a07912297b0d52f2eb0ecbc6ee0b70bbc55d10e9db0ed85f74c275c06783",
+  "human_design_selection": {
+    "a": "A",
+    "e": "A",
+    "m": "B",
+    "n": "B",
+    "u": "B"
+  },
+  "retained_opqr_selection": {
+    "o": "B",
+    "p": "A",
+    "q": "B",
+    "r": "B"
+  },
+  "approval_scope": "Five shown designs and integration/installation; no new historical readings, boundaries, other 21 lowercase approvals or public release",
+  "tests": {
+    "passed": 167,
+    "skipped": 5,
+    "failed": 0,
+    "skip_reason": "Existing Windows symlink tests require unavailable privileges"
+  },
+  "reproducibility": {
+    "two_builds_identical": true,
+    "font_matches_included_ttf": true,
+    "word_proof_reproduced_in_clean_checkout": true,
+    "previous_fonts_1_000_1_100_1_200_1_210_1_211_unchanged": true,
+    "source_date_epoch": 0
+  },
+  "font": {
+    "mapped_codepoints": 119,
+    "glyphs": 121,
+    "changed_simple_bases": [
+      "a",
+      "e",
+      "m",
+      "n",
+      "u"
+    ],
+    "dependent_composites": [
+      "à",
+      "è",
+      "é",
+      "ù"
+    ],
+    "selected_svg_contours_exact": true,
+    "other_outlines_and_metrics_preserved": true,
+    "all_advances_preserved": true,
+    "previous_pq_spacing_preserved": true,
+    "pq_bbox_gap_units": 115,
+    "combining_anchors_and_nfc_nfd_tested": true,
+    "embedding_fsType": 0
+  },
+  "spacing": {
+    "pairs_per_size": 2704,
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "ink_threshold": 127,
+    "ink_collisions": 0,
+    "scope": "Unhinted grayscale raster test; does not certify universal optical spacing or reading performance"
+  },
+  "proofs": {
+    "sizes_pt": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "renderer": "HarfBuzz and FreeType; compiled font without fallback",
+    "selected_word_proof_visually_inspected": true,
+    "charset_atlas_visually_inspected": true,
+    "general_proofs_visually_inspected_pt": [
+      12,
+      72
+    ],
+    "browser_both_versions_load_and_select": true,
+    "browser_word_button_tested": true,
+    "browser_restored_to_1_220": true
+  },
+  "windows": {
+    "installed_in_current_user_account": true,
+    "registered_family": "Leonardus 1220",
+    "gdi_font_bytes_match": true,
+    "previous_families_preserved": true,
+    "native_word_or_powerpoint_test_1_220": false
+  },
+  "historical_registry": {
+    "unchanged": true,
+    "samples": 144,
+    "reviewed": 101,
+    "candidates": 43,
+    "lowercase_with_reviewed_readings": 20,
+    "reasoned_completions": 6,
+    "current_classifications": {
+      "normalized": 2,
+      "reviewed_design": 18,
+      "reasoned_completion": 6
+    },
+    "new_higher_detail_targets_acquired": false
+  },
+  "distribution": {
+    "privacy_findings": 0,
+    "context": "Isolated intended source tree; unrelated modified local PDFs excluded",
+    "inventory": "MANIFEST.json and CONTENTS.txt"
+  },
+  "not_claimed": {
+    "new_approval_of_all_26_designs": false,
+    "new_readings_or_boundary_approvals": false,
+    "physical_print_test": false,
+    "independent_paleographic_review": false,
+    "public_release_approved": false
+  }
+}

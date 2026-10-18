@@ -1,0 +1,786 @@
+{
+  "schema_version": 1,
+  "scope": "JKUVWXYZ_only",
+  "status": "unapproved_contemporary_capital_studies",
+  "date": "2026-10-16",
+  "base_font": "fonts/Leonardus-1260-Regular.ttf",
+  "base_font_sha256": "f0c1ed6faeb76e66ab88a54cff7ca52c6c30fd33884c72b74cc915b5030e70bf",
+  "evidence": "data/glyph_evidence.csv",
+  "evidence_sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+  "prior_study": "data/jkvwxy_variant_study_2026-10-16.json",
+  "prior_study_sha256": "6b929e2b3fc715b4af4aa5b2054c5b573f963f57149d07b0593c75a306502dc8",
+  "human_visual_design_approval": false,
+  "integration_approved": false,
+  "authenticity_claim": false,
+  "evidence_registry_changed": false,
+  "new_images_acquired": false,
+  "new_reviewed_capital_readings": 0,
+  "source_contexts": [
+    {
+      "id": "BNE_MI_SEARCH_303_J_01",
+      "character": "J",
+      "source_id": "BNE_MADRID_I",
+      "folio": "153v",
+      "viewer_page": 303,
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "raw_crop": [
+        331,
+        1146,
+        22,
+        31
+      ],
+      "mirror_crop": [
+        1225,
+        1146,
+        22,
+        31
+      ],
+      "mirror_context": [
+        1135,
+        1116,
+        202,
+        96
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_lowercase_comparison_not_capital_evidence",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0153-v/",
+      "description": "Segno tecnico nel peso circolare: candidato j/i lunga/indice, non modello J capitale; cerchio e raggio esclusi dalla geometria primaria."
+    },
+    {
+      "id": "BNE_MI_SEARCH_049_V_01",
+      "character": "V",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        799,
+        1850,
+        31,
+        28
+      ],
+      "mirror_crop": [
+        748,
+        1850,
+        31,
+        28
+      ],
+      "mirror_context": [
+        658,
+        1820,
+        211,
+        93
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_lowercase_comparison_not_capital_evidence",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v/",
+      "description": "Richiamo tecnico candidato v/u/o: discesa obliqua e piccolo ritorno ovale; nessuna V capitale confermata."
+    },
+    {
+      "id": "BNE_MI_SEARCH_049_V_02",
+      "character": "V",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        123,
+        2065,
+        24,
+        24
+      ],
+      "mirror_crop": [
+        1431,
+        2065,
+        24,
+        24
+      ],
+      "mirror_context": [
+        1341,
+        2035,
+        204,
+        89
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_lowercase_comparison_not_capital_evidence",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v/",
+      "description": "Richiamo tecnico candidato v/u/o: discesa obliqua e piccolo ritorno ovale; nessuna V capitale confermata."
+    },
+    {
+      "id": "BNE_MI_SEARCH_049_X_01",
+      "character": "X",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        556,
+        1862,
+        27,
+        25
+      ],
+      "mirror_crop": [
+        995,
+        1862,
+        27,
+        25
+      ],
+      "mirror_context": [
+        905,
+        1832,
+        207,
+        90
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_lowercase_comparison_not_capital_evidence",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v/",
+      "description": "Incrocio tecnico candidato X/x: direzioni diseguali e uscita più lunga, senza conferma del caso."
+    },
+    {
+      "id": "BNE_MI_SEARCH_049_X_02",
+      "character": "X",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        95,
+        2061,
+        23,
+        32
+      ],
+      "mirror_crop": [
+        1460,
+        2061,
+        23,
+        32
+      ],
+      "mirror_context": [
+        1370,
+        2031,
+        203,
+        97
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_lowercase_comparison_not_capital_evidence",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v/",
+      "description": "Incrocio tecnico candidato X/x: direzioni diseguali e uscita più lunga, senza conferma del caso."
+    },
+    {
+      "id": "BNE_MI_SEARCH_303_Y_01",
+      "character": "Y",
+      "source_id": "BNE_MADRID_I",
+      "folio": "153v",
+      "viewer_page": 303,
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "raw_crop": [
+        689,
+        500,
+        38,
+        48
+      ],
+      "mirror_crop": [
+        851,
+        500,
+        38,
+        48
+      ],
+      "mirror_context": [
+        761,
+        470,
+        218,
+        113
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_lowercase_comparison_not_capital_evidence",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0153-v/",
+      "description": "Candidata y simile a h con discesa: lettura e caso incerti; la forcella capitale è una scelta moderna."
+    },
+    {
+      "id": "K_CONTEXT_01",
+      "character": "K",
+      "source_id": "BNE_MADRID_I",
+      "folio": "2v",
+      "viewer_page": 17,
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "mirror_crop": [
+        921,
+        975,
+        51,
+        51
+      ],
+      "mirror_context": [
+        831,
+        945,
+        231,
+        116
+      ],
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "raw_crop": [
+        606,
+        975,
+        51,
+        51
+      ],
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-v/",
+      "description": "Etichetta tecnica K già osservata: asta, braccio breve e gamba curva, con linee adiacenti del meccanismo. Caso e confini non revisionati."
+    },
+    {
+      "id": "K_CONTEXT_02",
+      "character": "K",
+      "source_id": "BNE_MADRID_I",
+      "folio": "5r",
+      "viewer_page": 22,
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "mirror_crop": [
+        879,
+        355,
+        41,
+        50
+      ],
+      "mirror_context": [
+        789,
+        325,
+        221,
+        115
+      ],
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "source_image_id": "36820103-6d7a-4f60-98da-d20a0172d227",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "raw_crop": [
+        658,
+        355,
+        41,
+        50
+      ],
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0005-r/",
+      "description": "Etichetta tecnica K già osservata: asta, braccio breve e gamba curva, con linee adiacenti del meccanismo. Caso e confini non revisionati."
+    },
+    {
+      "id": "K_CONTEXT_03",
+      "character": "K",
+      "source_id": "BNE_MADRID_I",
+      "folio": "5r",
+      "viewer_page": 22,
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "mirror_crop": [
+        879,
+        861,
+        49,
+        48
+      ],
+      "mirror_context": [
+        789,
+        831,
+        229,
+        113
+      ],
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "source_image_id": "36820103-6d7a-4f60-98da-d20a0172d227",
+      "image_width": 1578,
+      "image_height": 2174,
+      "folio_status": "existing_candidate_or_working_mapping_not_new_review",
+      "raw_crop": [
+        650,
+        861,
+        49,
+        48
+      ],
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0005-r/",
+      "description": "Etichetta tecnica K già osservata: asta, braccio breve e gamba curva, con linee adiacenti del meccanismo. Caso e confini non revisionati."
+    },
+    {
+      "id": "BNE_MI_EXP_016_U_01",
+      "character": "U",
+      "source_id": "BNE_MADRID_I",
+      "folio": "2r",
+      "folio_status": "existing_registry",
+      "viewer_page": 16,
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "raw_crop": [
+        703,
+        104,
+        23,
+        23
+      ],
+      "mirror_crop": [
+        852,
+        104,
+        23,
+        23
+      ],
+      "mirror_context": [
+        787,
+        64,
+        153,
+        103
+      ],
+      "review_status": "reviewed",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "description": "Confronto con u minuscola già revisionata: ritmo, curva e raccordo; non attesta il caso maiuscolo. Confini registrati conservati.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_018_U_04",
+      "character": "U",
+      "source_id": "BNE_MADRID_I",
+      "folio": "3r",
+      "folio_status": "existing_registry",
+      "viewer_page": 18,
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "raw_crop": [
+        298,
+        273,
+        16,
+        29
+      ],
+      "mirror_crop": [
+        1264,
+        273,
+        16,
+        29
+      ],
+      "mirror_context": [
+        1199,
+        233,
+        146,
+        109
+      ],
+      "review_status": "reviewed",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "description": "Confronto con u minuscola già revisionata: ritmo, curva e raccordo; non attesta il caso maiuscolo. Confini registrati conservati.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0003-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_020_Z_01",
+      "character": "Z",
+      "source_id": "BNE_MADRID_I",
+      "folio": "4r",
+      "folio_status": "existing_registry",
+      "viewer_page": 20,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "raw_crop": [
+        1092,
+        1567,
+        21,
+        38
+      ],
+      "mirror_crop": [
+        465,
+        1567,
+        21,
+        38
+      ],
+      "mirror_context": [
+        400,
+        1527,
+        151,
+        118
+      ],
+      "review_status": "reviewed",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "description": "Confronto con z minuscola già revisionata: ritmo, curva e raccordo; non attesta il caso maiuscolo. Confini registrati conservati.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0004-r/"
+    },
+    {
+      "id": "BNE_MI_SEARCH_021_Z_01",
+      "character": "Z",
+      "source_id": "BNE_MADRID_I",
+      "folio": "4v",
+      "folio_status": "existing_registry",
+      "viewer_page": 21,
+      "source_image_id": "9877dc51-807d-475d-9d3e-81e40fcce7d3",
+      "image_sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "image_width": 1578,
+      "image_height": 2174,
+      "raw_crop": [
+        854,
+        1327,
+        25,
+        50
+      ],
+      "mirror_crop": [
+        699,
+        1327,
+        25,
+        50
+      ],
+      "mirror_context": [
+        634,
+        1287,
+        155,
+        130
+      ],
+      "review_status": "reviewed",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "description": "Confronto con z minuscola già revisionata: ritmo, curva e raccordo; non attesta il caso maiuscolo. Confini registrati conservati.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0004-v/"
+    }
+  ],
+  "observations": {
+    "J": {
+      "basis": "I A scelta nella 1.260 e confronto tecnico J_01 candidato, non utilizzato come geometria primaria.",
+      "observed": "Il segno di 153v resta j/i lunga/indice irrisolto; cerchio e raggio del peso non appartengono al disegno. La J alfabetica è un completamento moderno.",
+      "A": "Testa curva coordinata con I A e uncino inferiore ampio, senza punto.",
+      "B": "Asola superiore piccola e uncino inferiore più gestuale; da distinguere da cifra 3 e g."
+    },
+    "K": {
+      "basis": "Tre etichette tecniche K di 2v e 5r, di caso irrisolto, conservate dal precedente studio.",
+      "observed": "Asta, braccio alto breve e gamba ricurva; le linee del meccanismo sono contesto e non contorni della lettera.",
+      "A": "Struttura capitale leggibile, bracci lievemente curvi e innesto aperto.",
+      "B": "Asola nell’asta, braccio alto compatto e gamba arcuata, coordinati con H B; ampliamento capitale progettato."
+    },
+    "U": {
+      "basis": "Due u minuscole revisionate, 2r e 3r; non attestano una U capitale autonoma.",
+      "observed": "Ritmo obliquo, raccordo inferiore e minimi diseguali. Le proporzioni capitali e la separazione moderna U/V sono progettate.",
+      "A": "Curva inferiore continua e corpo aperto, più sobrio.",
+      "B": "Asola iniziale e fondo più angoloso ma ancora curvo, coerente con H B e u B."
+    },
+    "V": {
+      "basis": "Due etichette candidate v/u/o del 18v, senza una V capitale revisionata.",
+      "observed": "Piccolo ritorno ovale e diagonale: l’identità del richiamo e il caso restano candidati. Posizione dell’asola e valle capitale sono progettate.",
+      "A": "Due diagonali appena curve e valle netta, distinta dalla U.",
+      "B": "Asola alta sul braccio destro e valle netta, coerenti con la v minuscola già scelta."
+    },
+    "W": {
+      "basis": "Sintesi contemporanea da U/V e dalla w già scelta; nessun campione diretto W selezionato.",
+      "observed": "Non viene presentata una W manoscritta: la doppia struttura e il ritorno sono un progetto di repertorio. Le assenze nella selezione non dimostrano assenza in tutti i manoscritti.",
+      "A": "Doppia valle ampia e raccordi morbidi, senza asola.",
+      "B": "Doppio ritmo diseguale e asola sul braccio destro, coordinati con V B; verificare la densità nelle parole."
+    },
+    "X": {
+      "basis": "Due incroci tecnici candidati X/x del 18v; lettura e caso non promossi.",
+      "observed": "Due direzioni diseguali e terminali differenti, con confini incerti. Non si deduce la sequenza dei tratti.",
+      "A": "Incrocio centrale chiaro e diagonali morbide.",
+      "B": "Incrocio più alto, direzioni curve e uscita inferiore più lunga; struttura leggibile progettata."
+    },
+    "Y": {
+      "basis": "Candidata Y_01 del 153v, ambigua con h, e confronto della famiglia U/V.",
+      "observed": "La candidata non certifica una Y a forcella. La biforcazione capitale, il peso e il piede restano costruzioni contemporanee.",
+      "A": "Forcella aperta, asta semplice e contrasto chiaro con V.",
+      "B": "Forcella asimmetrica e ritorno al piede; più gestuale ma con rischio di enfasi nel terminale."
+    },
+    "Z": {
+      "basis": "Due z minuscole revisionate, 4r e 4v, senza capitale completa confermata.",
+      "observed": "Cambi di direzione, breve raccordo centrale e ritorno inferiore; non si assume che una z minuscola ingrandita sia una capitale storica.",
+      "A": "Diagonale chiara e terminali lievemente curvi, struttura Z immediata.",
+      "B": "Terminali ondulati, ritorno inferiore e breve traversa moderna aggiunta per distinguere la forma dalla cifra 2."
+    }
+  },
+  "recommendation": {
+    "J": "A",
+    "K": "B",
+    "U": "B",
+    "V": "B",
+    "W": "A",
+    "X": "B",
+    "Y": "A",
+    "Z": "A"
+  },
+  "variants": {
+    "A": {
+      "family": "Leonardus JKUVWXYZ A",
+      "postscript": "Leonardus-JKUVWXYZ-A-Regular",
+      "glyphs": {
+        "J": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni004A-A.svg",
+          "sha256": "2de58d2f3aeae3bf263765ddcde10f3de37e014bb35a93a0dded95257057fccd",
+          "advance": 430,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_303_J_01"
+          ],
+          "parent_motifs": [
+            "I A 1.260",
+            "designed modern J hook"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Testa curva coordinata con I A e uncino inferiore ampio, senza punto."
+        },
+        "K": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni004B-A.svg",
+          "sha256": "7996b4e0969c5860c3eee9e2a6aa70f111f1a46827029e4e725d11cf53477a9a",
+          "advance": 580,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "K_CONTEXT_01",
+            "K_CONTEXT_02",
+            "K_CONTEXT_03"
+          ],
+          "parent_motifs": [
+            "H B 1.260",
+            "case-unresolved K labels"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Struttura capitale leggibile, bracci lievemente curvi e innesto aperto."
+        },
+        "U": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0055-A.svg",
+          "sha256": "07a22fb295b52954552c22771e104637a1382b27b3eddd962fc008c01e00c27a",
+          "advance": 610,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_EXP_016_U_01",
+            "BNE_MI_EXP_018_U_04"
+          ],
+          "parent_motifs": [
+            "u B 1.220",
+            "H B 1.260"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Curva inferiore continua e corpo aperto, più sobrio."
+        },
+        "V": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0056-A.svg",
+          "sha256": "90285e791214da6957e6a759aeb91d62ec0cb816b9f772ee1ad1140e90fefb39",
+          "advance": 565,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_049_V_01",
+            "BNE_MI_SEARCH_049_V_02"
+          ],
+          "parent_motifs": [
+            "v B 1.230",
+            "modern capital V valley"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Due diagonali appena curve e valle netta, distinta dalla U."
+        },
+        "W": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0057-A.svg",
+          "sha256": "0a74ddf405c25abdf3e57b182f888f3e7a00e337a2fb6ea062e09a3527d186f4",
+          "advance": 810,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [],
+          "parent_motifs": [
+            "designed U/V rhythm",
+            "w B 1.230; no direct W sample"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Doppia valle ampia e raccordi morbidi, senza asola."
+        },
+        "X": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0058-A.svg",
+          "sha256": "72ed6070975a2001379f497a7777b87bd192ee9af2eb303071ad1ad91aacf6f7",
+          "advance": 570,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_049_X_01",
+            "BNE_MI_SEARCH_049_X_02"
+          ],
+          "parent_motifs": [
+            "candidate technical X/x",
+            "modern capital proportions"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Incrocio centrale chiaro e diagonali morbide."
+        },
+        "Y": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0059-A.svg",
+          "sha256": "8513af12f3a3022e10e7b16d9f26853be9786088c0b596200162565cbe395791",
+          "advance": 560,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_303_Y_01"
+          ],
+          "parent_motifs": [
+            "U/V family",
+            "designed capital fork; candidate Y/h unresolved"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Forcella aperta, asta semplice e contrasto chiaro con V."
+        },
+        "Z": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni005A-A.svg",
+          "sha256": "b81a80e22ad995e3d0093cad4b863b40b4b350370ace0df0a6ce8437e45ee9a6",
+          "advance": 565,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_EXP_020_Z_01",
+            "BNE_MI_SEARCH_021_Z_01"
+          ],
+          "parent_motifs": [
+            "reviewed lowercase z",
+            "modern capital diagonal and optional crossbar"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Diagonale chiara e terminali lievemente curvi, struttura Z immediata."
+        }
+      }
+    },
+    "B": {
+      "family": "Leonardus JKUVWXYZ B",
+      "postscript": "Leonardus-JKUVWXYZ-B-Regular",
+      "glyphs": {
+        "J": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni004A-B.svg",
+          "sha256": "46233edb22191a5998b2eefa95dfab59c57e60c28dcdd9cfe2726e008021b77e",
+          "advance": 430,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_303_J_01"
+          ],
+          "parent_motifs": [
+            "I A 1.260",
+            "designed modern J hook"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Asola superiore piccola e uncino inferiore più gestuale; da distinguere da cifra 3 e g."
+        },
+        "K": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni004B-B.svg",
+          "sha256": "d595e422cd69cb72c42b8264d26e6f01283b5093faae874b75c4b653c1c1993c",
+          "advance": 580,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "K_CONTEXT_01",
+            "K_CONTEXT_02",
+            "K_CONTEXT_03"
+          ],
+          "parent_motifs": [
+            "H B 1.260",
+            "case-unresolved K labels"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Asola nell’asta, braccio alto compatto e gamba arcuata, coordinati con H B; ampliamento capitale progettato."
+        },
+        "U": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0055-B.svg",
+          "sha256": "53f42b2b1f3f3a21328ec1f35aa86a41a81379ebd0edc8b4dffdcdcc7dcba39d",
+          "advance": 610,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_EXP_016_U_01",
+            "BNE_MI_EXP_018_U_04"
+          ],
+          "parent_motifs": [
+            "u B 1.220",
+            "H B 1.260"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Asola iniziale e fondo più angoloso ma ancora curvo, coerente con H B e u B."
+        },
+        "V": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0056-B.svg",
+          "sha256": "d0037f41b9779edf5a49a04cfe0ac5f719f48683c4a0a0fe2504eab8d7e3a162",
+          "advance": 565,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_049_V_01",
+            "BNE_MI_SEARCH_049_V_02"
+          ],
+          "parent_motifs": [
+            "v B 1.230",
+            "modern capital V valley"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Asola alta sul braccio destro e valle netta, coerenti con la v minuscola già scelta."
+        },
+        "W": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0057-B.svg",
+          "sha256": "97e149d9a68c9d708868b3b0a969a535288d53320e347a2f9469b92940ffcbe4",
+          "advance": 810,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [],
+          "parent_motifs": [
+            "designed U/V rhythm",
+            "w B 1.230; no direct W sample"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Doppio ritmo diseguale e asola sul braccio destro, coordinati con V B; verificare la densità nelle parole."
+        },
+        "X": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0058-B.svg",
+          "sha256": "eedbaa7e5c3afd6ebf1a598cc4162753717ef8a910527ca7e66259bff9a2408f",
+          "advance": 570,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_049_X_01",
+            "BNE_MI_SEARCH_049_X_02"
+          ],
+          "parent_motifs": [
+            "candidate technical X/x",
+            "modern capital proportions"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Incrocio più alto, direzioni curve e uscita inferiore più lunga; struttura leggibile progettata."
+        },
+        "Y": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0059-B.svg",
+          "sha256": "6d3041e3669785652610e6c335cfc2607d44a98d0358a6b47513212cbc9f6555",
+          "advance": 560,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_303_Y_01"
+          ],
+          "parent_motifs": [
+            "U/V family",
+            "designed capital fork; candidate Y/h unresolved"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Forcella asimmetrica e ritorno al piede; più gestuale ma con rischio di enfasi nel terminale."
+        },
+        "Z": {
+          "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni005A-B.svg",
+          "sha256": "1096ba40ef08d551134dca8a59c253fc9c1658c0d292293bec599b43958ef605",
+          "advance": 565,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_EXP_020_Z_01",
+            "BNE_MI_SEARCH_021_Z_01"
+          ],
+          "parent_motifs": [
+            "reviewed lowercase z",
+            "modern capital diagonal and optional crossbar"
+          ],
+          "historical_capital_attestation": false,
+          "design_choice": "Terminali ondulati, ritorno inferiore e breve traversa moderna aggiunta per distinguere la forma dalla cifra 2."
+        }
+      }
+    }
+  },
+  "research_scope": "Targeted re-examination of eight existing Madrid I images, viewer pages 16,17,18,20,21,22,49,303, with no new acquisition; online contextual checks on 2v,5r,18v. No exhaustive search or new capital attestation.",
+  "rights": "Imágenes procedentes de los fondos de la Biblioteca Nacional de España. Local crop, mirroring and enlargement; no source image distributed or new acquisition. e-Leo consultation only; no endorsement."
+}

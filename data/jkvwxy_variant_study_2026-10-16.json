@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "recorded_date": "2026-10-16",
+  "scope": "jkvwxy_only",
+  "status": "unapproved_reasoned_completion_variants",
+  "instruction_quote": "Proviamo a lavorare con j, k, v, w, x, y",
+  "human_visual_design_approval": false,
+  "integration_approved": false,
+  "authenticity_claim": false,
+  "evidence_registry_changed": false,
+  "base_font": "fonts/Leonardus-1220-Regular.ttf",
+  "base_font_sha256": "57d0a07912297b0d52f2eb0ecbc6ee0b70bbc55d10e9db0ed85f74c275c06783",
+  "evidence": "data/glyph_evidence.csv",
+  "evidence_sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+  "prior_research": "data/research_assessment_2026-10-15.json",
+  "prior_research_sha256": "c473d09bc726416dda40d638a841ae3dcd377277ce52d9e5bdb341a993335528",
+  "source_contexts": [
+    {
+      "id": "BNE_MI_SEARCH_303_J_01",
+      "character": "j",
+      "source_id": "BNE_MADRID_I",
+      "folio": "153v",
+      "viewer_page": 303,
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "raw_crop": [
+        331,
+        1146,
+        22,
+        31
+      ],
+      "mirror_crop": [
+        1225,
+        1146,
+        22,
+        31
+      ],
+      "mirror_context": [
+        1135,
+        1116,
+        202,
+        96
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_localization"
+    },
+    {
+      "id": "BNE_MI_SEARCH_049_V_01",
+      "character": "v",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        799,
+        1850,
+        31,
+        28
+      ],
+      "mirror_crop": [
+        748,
+        1850,
+        31,
+        28
+      ],
+      "mirror_context": [
+        658,
+        1820,
+        211,
+        93
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_localization"
+    },
+    {
+      "id": "BNE_MI_SEARCH_049_V_02",
+      "character": "v",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        123,
+        2065,
+        24,
+        24
+      ],
+      "mirror_crop": [
+        1431,
+        2065,
+        24,
+        24
+      ],
+      "mirror_context": [
+        1341,
+        2035,
+        204,
+        89
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_localization"
+    },
+    {
+      "id": "BNE_MI_SEARCH_049_X_01",
+      "character": "x",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        556,
+        1862,
+        27,
+        25
+      ],
+      "mirror_crop": [
+        995,
+        1862,
+        27,
+        25
+      ],
+      "mirror_context": [
+        905,
+        1832,
+        207,
+        90
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_localization"
+    },
+    {
+      "id": "BNE_MI_SEARCH_049_X_02",
+      "character": "x",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        95,
+        2061,
+        23,
+        32
+      ],
+      "mirror_crop": [
+        1460,
+        2061,
+        23,
+        32
+      ],
+      "mirror_context": [
+        1370,
+        2031,
+        203,
+        97
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_localization"
+    },
+    {
+      "id": "BNE_MI_SEARCH_303_Y_01",
+      "character": "y",
+      "source_id": "BNE_MADRID_I",
+      "folio": "153v",
+      "viewer_page": 303,
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "raw_crop": [
+        689,
+        500,
+        38,
+        48
+      ],
+      "mirror_crop": [
+        851,
+        500,
+        38,
+        48
+      ],
+      "mirror_context": [
+        761,
+        470,
+        218,
+        113
+      ],
+      "review_status": "candidate",
+      "kind": "candidate_localization"
+    },
+    {
+      "id": "K_CONTEXT_01",
+      "character": "k",
+      "source_id": "BNE_MADRID_I",
+      "folio": "2v",
+      "viewer_page": 17,
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "mirror_crop": [
+        921,
+        975,
+        51,
+        51
+      ],
+      "mirror_context": [
+        831,
+        945,
+        231,
+        116
+      ],
+      "kind": "capital_or_case_unresolved_not_lowercase_evidence",
+      "review_status": "not_lowercase_evidence"
+    },
+    {
+      "id": "K_CONTEXT_02",
+      "character": "k",
+      "source_id": "BNE_MADRID_I",
+      "folio": "5r",
+      "viewer_page": 22,
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "mirror_crop": [
+        879,
+        355,
+        41,
+        50
+      ],
+      "mirror_context": [
+        789,
+        325,
+        221,
+        115
+      ],
+      "kind": "capital_or_case_unresolved_not_lowercase_evidence",
+      "review_status": "not_lowercase_evidence"
+    },
+    {
+      "id": "K_CONTEXT_03",
+      "character": "k",
+      "source_id": "BNE_MADRID_I",
+      "folio": "5r",
+      "viewer_page": 22,
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "mirror_crop": [
+        879,
+        861,
+        49,
+        48
+      ],
+      "mirror_context": [
+        789,
+        831,
+        229,
+        113
+      ],
+      "kind": "capital_or_case_unresolved_not_lowercase_evidence",
+      "review_status": "not_lowercase_evidence"
+    }
+  ],
+  "observations": {
+    "j": {
+      "observed": "Nel peso circolare di 153v si vede un segno breve curvo, ma il contesto non distingue j, i lunga e indice. Cerchio e raggio non sono tratti della lettera.",
+      "A": "Coda più continua e aperta, con punto e asta della i conservati.",
+      "B": "Discesa più verticale e uncino basso più raccolto; una j moderna progettata, non un ricalco.",
+      "basis": "i della 1.220 e confronto ambiguo J_01; nessuna j minuscola attestata."
+    },
+    "k": {
+      "observed": "Tre etichette di 2v e 5r mostrano asta, braccio breve e gamba ricurva. Caso e statuto di minuscola restano irrisolti; linee del meccanismo escluse.",
+      "A": "Raccordo dei bracci più fluido, con la struttura leggibile della k attuale.",
+      "B": "Braccio superiore compatto e gamba che nasce da una spalla curva, confrontata con le etichette K.",
+      "basis": "Ascendente di h e tre osservazioni K già documentate; k minuscola progettata."
+    },
+    "v": {
+      "observed": "I due richiami di 18v hanno discesa obliqua e piccolo ritorno ovale a destra. Non sono una V angolare; l’associazione v/u/o resta candidata.",
+      "A": "Valle aperta e ritorno superiore breve per mantenere distinta la v dalla u.",
+      "B": "Piccolo ritorno ovale sul braccio destro, rialzato per conservare la valle di v. La posizione è una scelta moderna; verificare la distinzione da u e b.",
+      "basis": "V_01 e V_02, entrambe candidate; proporzioni e controforma progettate."
+    },
+    "w": {
+      "observed": "Nessuna w selezionata nel corpus. La nuova ricerca esatta in Arundel, Atlantico e Madrid II ha restituito zero documenti nel filtro; non dimostra assenza generale.",
+      "A": "Doppia valle arrotondata e più regolare.",
+      "B": "Doppio ritmo spezzato, coordinato con m B, n B e u B della 1.220.",
+      "basis": "Sintesi contemporanea da u B e dal principio della v; nessun campione diretto di w."
+    },
+    "x": {
+      "observed": "I due richiami di 18v hanno incrocio diseguale e un’uscita più lunga. Sono riferimenti tecnici, con caso X/x non risolto.",
+      "A": "Incrocio aperto e raccordi più morbidi, vicini alla x moderna.",
+      "B": "Due direzioni curve, incrocio più alto e uscita inferiore più gestuale.",
+      "basis": "X_01 e X_02 candidate; peso e raccordi moderni, senza dedurre ordine o pressione dei tratti."
+    },
+    "y": {
+      "observed": "La candidata di 153v somiglia a una h con lunga discesa. I fogli 72r e 89r offrono ulteriori etichette editoriali y, ma senza nuove localizzazioni BNE verificate.",
+      "A": "Corpo a due minimi coordinato con u B e coda leggibile della y attuale.",
+      "B": "Forcella curva e più alta, con lunga discesa obliqua aperta. La forcella è una scelta moderna.",
+      "basis": "Y_01 candidata e famiglia u/h. Le nuove piste online non sono geometrie primarie."
+    }
+  },
+  "additional_research": {
+    "institution": "Biblioteca Leonardiana, Comune di Vinci, e-Leo",
+    "search_url": "https://www.leonardodigitale.com/ricerca-nel-testo/",
+    "exact_term": true,
+    "footnotes": false,
+    "selected_sources": [
+      "Codice Arundel",
+      "Codice Atlantico",
+      "Codice Madrid II"
+    ],
+    "indexed_documents": {
+      "w": 0,
+      "j": 8,
+      "k": 191
+    },
+    "counts_are_glyph_counts": false,
+    "j_first_page_folios": [
+      "0265r",
+      "0347v",
+      "0361v",
+      "0832v",
+      "0848v",
+      "0852r",
+      "0880v",
+      "1039v"
+    ],
+    "k_first_page_folios_madrid_ii": [
+      "0024v",
+      "0040r",
+      "0057r",
+      "0062r",
+      "0066r",
+      "0071r",
+      "0072r",
+      "0073v",
+      "0074r",
+      "0080v"
+    ],
+    "facsimiles_consulted": [
+      {
+        "url": "https://www.leonardodigitale.com/sfoglia/codice-atlantico/0265-r/",
+        "outcome": "Accounting context with terminal j in numerical notation. Not accepted as a lowercase j model or evidence of Leonardo autograph hand."
+      },
+      {
+        "url": "https://www.leonardodigitale.com/sfoglia/madrid-II/0024-v/",
+        "outcome": "Diagram and adjacent prose with editorial K references. No verified lowercase k localization."
+      },
+      {
+        "url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0072-r/",
+        "outcome": "Central lever diagram and adjacent prose contain editorial y; reflected facsimile inspected, no BNE mapping or new quantified segmentation."
+      },
+      {
+        "url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0089-r/",
+        "outcome": "Central fan of ropes and weights contains editorial y; reflected zoom consulted, no BNE mapping or new quantified segmentation."
+      }
+    ],
+    "used_for_primary_geometry": false,
+    "new_images_acquired": false,
+    "new_reviewed_readings": 0,
+    "rights": "Online consultation only for e-Leo. Existing BNE originals reused locally under the recorded source-rights review; no facsimiles or crops committed."
+  },
+  "variants": {
+    "A": {
+      "family": "Leonardus JKVWXY A",
+      "postscript": "Leonardus-JKVWXY-A-Regular",
+      "glyphs": {
+        "j": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/j-A.svg",
+          "sha256": "658eb7bec64213d3d362ec5930593d13087bf3f50790d0649d92d762191dac04",
+          "advance": 240,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_303_J_01"
+          ],
+          "parent_motifs": [
+            "i"
+          ],
+          "design_choice": "Coda più continua e aperta, con punto e asta della i conservati."
+        },
+        "k": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/k-A.svg",
+          "sha256": "c4e51e721771a3021caba15dc7aa4a7dc6baf9e5e690cfb7d664ef70d0c38bf3",
+          "advance": 430,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "K_CONTEXT_01",
+            "K_CONTEXT_02",
+            "K_CONTEXT_03"
+          ],
+          "parent_motifs": [
+            "h"
+          ],
+          "design_choice": "Raccordo dei bracci più fluido, con la struttura leggibile della k attuale."
+        },
+        "v": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/v-A.svg",
+          "sha256": "0adc730aa31d22669509776501965a9969da5321e41a901c37a731cfa340c448",
+          "advance": 430,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_049_V_01",
+            "BNE_MI_SEARCH_049_V_02"
+          ],
+          "parent_motifs": [
+            "u"
+          ],
+          "design_choice": "Valle aperta e ritorno superiore breve per mantenere distinta la v dalla u."
+        },
+        "w": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/w-A.svg",
+          "sha256": "24c80ed4641fa2f88f11600a464896ca63926a78a0e0a093a5e4651731e096a4",
+          "advance": 570,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [],
+          "parent_motifs": [
+            "u",
+            "v"
+          ],
+          "design_choice": "Doppia valle arrotondata e più regolare."
+        },
+        "x": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/x-A.svg",
+          "sha256": "17c0337b955b27a335bfd26589b9c783b8c3da0f7ba19a33d8f316f861f53581",
+          "advance": 415,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_049_X_01",
+            "BNE_MI_SEARCH_049_X_02"
+          ],
+          "parent_motifs": [
+            "x"
+          ],
+          "design_choice": "Incrocio aperto e raccordi più morbidi, vicini alla x moderna."
+        },
+        "y": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/y-A.svg",
+          "sha256": "77acd5e50ad6779f3a2ea08c054391908586549296803265355d11bcaa80b6df",
+          "advance": 410,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_303_Y_01"
+          ],
+          "parent_motifs": [
+            "u",
+            "h"
+          ],
+          "design_choice": "Corpo a due minimi coordinato con u B e coda leggibile della y attuale."
+        }
+      }
+    },
+    "B": {
+      "family": "Leonardus JKVWXY B",
+      "postscript": "Leonardus-JKVWXY-B-Regular",
+      "glyphs": {
+        "j": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/j-B.svg",
+          "sha256": "a6074cf13c8e70982c3b31cdcc25a03cfb0ecd7d574786d40eea151d590a15f1",
+          "advance": 240,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_303_J_01"
+          ],
+          "parent_motifs": [
+            "i"
+          ],
+          "design_choice": "Discesa più verticale e uncino basso più raccolto; una j moderna progettata, non un ricalco."
+        },
+        "k": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/k-B.svg",
+          "sha256": "02ee76de14e8b0568fca5a1f7dee2bbdd507d0b2f60d58171115d50e0ff95f16",
+          "advance": 430,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "K_CONTEXT_01",
+            "K_CONTEXT_02",
+            "K_CONTEXT_03"
+          ],
+          "parent_motifs": [
+            "h"
+          ],
+          "design_choice": "Braccio superiore compatto e gamba che nasce da una spalla curva, confrontata con le etichette K."
+        },
+        "v": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/v-B.svg",
+          "sha256": "ca9125ea7d94c3222318677e9038de4ab33e63a6a855aa16f55396f5d68c4b26",
+          "advance": 430,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_049_V_01",
+            "BNE_MI_SEARCH_049_V_02"
+          ],
+          "parent_motifs": [
+            "u"
+          ],
+          "design_choice": "Piccolo ritorno ovale sul braccio destro, rialzato per conservare la valle di v. La posizione è una scelta moderna; verificare la distinzione da u e b."
+        },
+        "w": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/w-B.svg",
+          "sha256": "051eec87fce8178d5097e2ecfdbfacd05bebd1e1a4a041efe7228748ddd6381e",
+          "advance": 570,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [],
+          "parent_motifs": [
+            "u",
+            "v"
+          ],
+          "design_choice": "Doppio ritmo spezzato, coordinato con m B, n B e u B della 1.220."
+        },
+        "x": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/x-B.svg",
+          "sha256": "922fa01771a5e255fdb2ff642787ff62a55d04a6d1e5dd0a0b61b9558cd1d433",
+          "advance": 415,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_049_X_01",
+            "BNE_MI_SEARCH_049_X_02"
+          ],
+          "parent_motifs": [
+            "x"
+          ],
+          "design_choice": "Due direzioni curve, incrocio più alto e uscita inferiore più gestuale."
+        },
+        "y": {
+          "file": "glyphs/proposals/2026-10-16-jkvwxy/y-B.svg",
+          "sha256": "1909a5a70e8cdac7ece8c7f8d81d83fc72f239f16d8ef018b8f39f4679033df0",
+          "advance": 410,
+          "classification": "unapproved_reasoned_completion",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_303_Y_01"
+          ],
+          "parent_motifs": [
+            "u",
+            "h"
+          ],
+          "design_choice": "Forcella curva e più alta, con lunga discesa obliqua aperta. La forcella è una scelta moderna."
+        }
+      }
+    }
+  },
+  "agent_design_recommendation": {
+    "j": "A",
+    "k": "B",
+    "v": "A",
+    "w": "B",
+    "x": "B",
+    "y": "B"
+  }
+}

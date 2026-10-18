@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-14",
+  "status": "research_leads_not_reviewed_glyph_evidence",
+  "scope": "Institutional e-Leo and BNE viewer comparison and index search. Research leads only; no new corpus rows or image reproductions included.",
+  "folio_concordance": {
+    "editorial_folio": "67v",
+    "editorial_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0067-v/",
+    "bne_viewer_page": 131,
+    "bne_viewer_url": "https://bnedigital.bne.es/bd/es/viewer?id=1354ee8e-5c8d-4f9c-bb4c-6963121b7a7e&page=131",
+    "status": "agent_visual_concordance_pending_human_review",
+    "comparison": "Same large spinning apparatus in the upper half: three horizontal circular wheels, vertical oval counterweight above the right upright, handle at left, crossbar below; matching placement and distribution of handwriting above and at the sides. BNE thumbnail and enlarged viewer image both inspected against e-Leo facsimile.",
+    "case_limit": "e-Leo transcribes Y and K capitals on this folio. These must not automatically become lowercase y or k candidates.",
+    "mapping_limit": "This correspondence does not validate a general arithmetic mapping of BNE pages to editorial folios."
+  },
+  "leads": [
+    {
+      "character": "y",
+      "editorial_folio": "72r",
+      "url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0072-r/",
+      "status": "institutional_transcription_and_facsimile_inspected_bne_mapping_pending",
+      "priority": "first",
+      "basis": "Lowercase y occurs in the editorial label sequence of the central diagram and repeatedly in adjacent explanatory text. The page shows three diagram groups: upper rays from a pivot, central rays over a rectangle, lower lever balance. Multiple contexts may support independent occurrences after BNE localization and visual reading review.",
+      "limit": "Editorial transcription identifies targets, not a paleographic approval; no coordinate or corpus row added."
+    },
+    {
+      "character": "y",
+      "editorial_folio": "89r",
+      "url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0089-r/",
+      "status": "institutional_transcription_and_facsimile_inspected_bne_mapping_pending",
+      "priority": "second",
+      "basis": "Editorial y label in the central lever-and-weight diagram. Page shows a long upper beam with suspended weight, a central fan of ropes and numbered circular weights, and lower beam with several weights. Diagram label requires case and shape review.",
+      "limit": "A label is not a lexical handwriting occurrence; no coordinate or corpus row added."
+    }
+  ],
+  "index_search": {
+    "institution": "Biblioteca Leonardiana, Comune di Vinci",
+    "url": "https://www.leonardodigitale.com/ricerca-nel-testo/",
+    "source_filter": "Codice Madrid I only",
+    "j": {
+      "exact_term": false,
+      "include_footnotes": true,
+      "result_documents": 1,
+      "folios": [
+        "153v"
+      ],
+      "interpretation": "No additional j lead in this filter beyond the existing 153v candidate; absence elsewhere is not established."
+    },
+    "y": {
+      "exact_term": false,
+      "include_footnotes": false,
+      "result_documents": 12,
+      "first_result_page_folios": [
+        "27v",
+        "67v",
+        "72r",
+        "89r",
+        "141r",
+        "142v",
+        "147r",
+        "147v",
+        "153v",
+        "160r"
+      ],
+      "interpretation": "72r and 89r newly inspected as leads. Counts are indexed documents, not glyph counts."
+    }
+  }
+}

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="it">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Prova Leonardus Regular 1.270</title>
+<style>
+@font-face{font-family:Leonardus1270;src:url('../fonts/Leonardus-Regular-1.270.ttf') format('truetype');font-display:block}
+@font-face{font-family:Leonardus1260;src:url('../fonts/Leonardus-1260-Regular.ttf') format('truetype');font-display:block}
+*{box-sizing:border-box}body{margin:0;background:#f7f4ec;color:#26312f;font:16px/1.5 system-ui,sans-serif}
+main{max-width:1210px;margin:50px auto;padding:0 28px}header{border-bottom:1px solid #c9ccc2;padding-bottom:24px}
+.eyebrow{color:#667368;font-size:13px;letter-spacing:.12em;text-transform:uppercase}h1{font-size:38px;line-height:1.15;margin:10px 0}
+p{max-width:780px}nav,.controls{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin:22px 0}
+button,select,a.download{font:inherit;color:inherit;border:1px solid #b8c0b3;background:#fffdf7;border-radius:6px;padding:9px 14px}
+button{cursor:pointer}button:hover,a.download:hover{background:#e7ecdf}label{display:flex;align-items:center;gap:9px}a{color:#345e49}
+textarea{width:100%;min-height:430px;resize:vertical;border:1px solid #bac5b7;border-radius:9px;background:#fffdf7;color:#202925;padding:26px;font:36pt/1.5 Leonardus1270;overflow:hidden}
+#status{color:#4c6853;font-size:14px}#unsupported{color:#8f4627;min-height:1.5em}details{margin:26px 0;color:#586257}footer{font-size:14px;color:#687165;margin:35px 0}
+@media(max-width:600px){main{margin:24px auto;padding:0 16px}h1{font-size:30px}textarea{padding:16px}}
+@media print{body{background:white}main{margin:0;padding:0;max-width:none}nav,.controls,details,#status,#unsupported,footer{display:none}header{padding-bottom:10px}header p{display:none}h1{font-size:16pt}textarea{border:0;padding:15px 0;width:100%;height:auto!important;overflow:visible}}
+</style>
+<main>
+<header><div class="eyebrow">Leonardus · Regular 1.270</div><h1>Scrivi e prova il font</h1>
+<p>La 1.270 integra J B, K B, U B, V B, W B, X B, Y B e Z B. J/W/Y/Z B prevalgono sui precedenti suggerimenti A. Il ciclo di confronto e scelta delle 26 maiuscole A–Z è completato: 23 varianti B, E/I/N A. Minuscole, diciotto maiuscole precedenti e spazi p/q sono conservati. Restano reinterpretazioni contemporanee documentate, senza nuove capitali storiche attestate.</p></header>
+<nav><a class="download" href="../fonts/Leonardus-Regular-1.270.ttf" download>Scarica Leonardus Regular 1.270</a><a href="JKUVWXYZ-Integration-1.270.png">Confronto nelle parole</a><a href="../docs/REGULAR_1_270.md">Documentazione</a></nav>
+<div class="controls">
+<label>Versione <select id="version"><option value="1270">1.270 — J/K/U/V/W/X/Y/Z B</option><option value="1260">1.260 — confronto precedente</option></select></label>
+<label>Corpo <input id="size" type="range" min="12" max="72" value="36"><output id="sizeLabel">36 pt</output></label>
+<button id="alphabet">Alfabeto</button><button id="words">Parole di prova</button><button id="print">Stampa</button>
+</div>
+<p id="status" role="status">Caricamento del font…</p>
+<textarea id="sample" aria-label="Scrivi il tuo testo con Leonardus" spellcheck="false">ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+Jazz Junior — Kilo Karate
+Uomo Universo — Vinci Volo
+Weekend Whisky — Xilofono Xenon
+Yogurt Yoga — Zefiro Zaino
+
+I J j; U V W; X Y Z 2.
+U Ù Ù.
+VINCI STUDIA IL VOLO.</textarea>
+<p id="unsupported" role="status"></p>
+<details><summary>Come leggere questa prova</summary><p>Le otto B coincidono con i contorni mostrati nello studio. J/W/Y/Z B sono scelte esplicite diverse dai suggerimenti iniziali A. Ù e le ancore combinanti seguono U B. Tutti gli avanzamenti e le forme precedenti restano invariati. Tutte le 26 maiuscole hanno una scelta di disegno registrata, senza nuove conferme di letture, segmentazioni o autenticità. J e W restano completamenti moderni dichiarati. Famiglia installabile Leonardus, stile Regular, versione interna 1.270. Il collaudo Office e la conferma umana del PDF sono documentati; la stampa fisica resta da eseguire.</p></details>
+<footer>Contorni originali Leonardus · SIL OFL 1.1. La pagina funziona localmente e non invia il testo digitato.</footer>
+</main>
+<script>
+const sample=document.querySelector('#sample'),version=document.querySelector('#version'),size=document.querySelector('#size');
+const known=new Set([...Array.from({length:95},(_,i)=>i+32),160,176,192,200,201,204,210,217,224,232,233,236,242,249,768,769,8211,8212,8216,8217,8220,8221,8230,8364]);
+function update(){sample.style.fontFamily='Leonardus'+version.value;sample.style.fontSize=size.value+'pt';document.querySelector('#sizeLabel').textContent=size.value+' pt';const unknown=[...new Set([...sample.value].filter(c=>!known.has(c.codePointAt(0))&&!['\n','\r','\t'].includes(c)))];document.querySelector('#unsupported').textContent=unknown.length?'Caratteri non coperti dal repertorio concordato: '+unknown.join(' '):'';sample.style.height='auto';sample.style.height=Math.max(430,sample.scrollHeight+4)+'px';}
+sample.addEventListener('input',update);size.addEventListener('input',update);version.addEventListener('change',update);
+document.querySelector('#alphabet').onclick=()=>{sample.value='ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n\nà è é ì ò ù  À È É Ì Ò Ù\n0123456789  € 1.234,56\n\nJJ KK UU VV WW XX YY ZZ\nJa Ju  Ki Ka  Uo Un  Vi Vo  We Wh  Xi Xe  Yo Ya  Ze Za';update();};
+document.querySelector('#words').onclick=()=>{sample.value="Jazz Junior\nKilo Karate\nUomo Universo\nVinci Volo\nWeekend Whisky\nXilofono Xenon\nYogurt Yoga\nZefiro Zaino\n\nVINCI STUDIA IL VOLO.\n\nI J j; U V W; X Y Z 2. U Ù Ù.";update();};
+document.querySelector('#print').onclick=()=>window.print();
+Promise.all([document.fonts.load('36px Leonardus1270'),document.fonts.load('36px Leonardus1260')]).then(r=>{if(r.some(fonts=>fonts.length===0))throw Error('Font non disponibile');document.querySelector('#status').textContent='Font caricati. Scrivi nel riquadro o scegli un testo di prova.';update();}).catch(()=>{document.querySelector('#status').textContent='Font non caricato: apri questa pagina dalla cartella completa del progetto o tramite il server locale indicato nella documentazione.';});
+update();
+</script>
+</html>

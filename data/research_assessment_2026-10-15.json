@@ -1,0 +1,296 @@
+{
+  "status": "agent_research_assessments_recorded",
+  "recorded_at": "2026-10-15T15:08:15.253195+00:00",
+  "reviewer": "Agent under user delegation",
+  "human_visual_review": false,
+  "evidence_registry_unchanged": true,
+  "authorization_sha256": "b6c1f9f4d4055bd781efc913d43f4a2f59e149de8306c5bdf44469a20a784c05",
+  "source_batch_sha256": {
+    "data/lowercase_expansion_2026-10-14.json": "84a481a4553fac2e52aeeeeee77cefc0764d080a6db0265d7a3276c412f9ce9f",
+    "data/lowercase_search_2026-10-14.json": "853c7255a6e9e7b32bef968a399626c21a87fe134b5c10c468077a82ac0cbd55"
+  },
+  "observations": [
+    {
+      "sample_id": "BNE_MI_EXP_020_C_03",
+      "character": "c",
+      "source_id": "BNE_MADRID_I",
+      "folio": "4r",
+      "viewer_page": 20,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        753,
+        1503,
+        34,
+        31
+      ],
+      "mirror_crop": [
+        791,
+        1503,
+        34,
+        31
+      ],
+      "outcome": "ambiguous",
+      "reason": "Forma bassa aperta con tratto superiore prolungato, compatibile anche con altra forma o raccordo. Non aggiunta come quinta lettura certa di c.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_F_05",
+      "character": "f",
+      "source_id": "BNE_MADRID_I",
+      "folio": "4r",
+      "viewer_page": 20,
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        1011,
+        1719,
+        27,
+        81
+      ],
+      "mirror_crop": [
+        540,
+        1719,
+        27,
+        81
+      ],
+      "outcome": "compatible_formal_reference",
+      "reason": "Asta, uncino e traversa isolati nel contesto, distinti dal rigo inferiore. Utile confronto supplementare per f, come etichetta tecnica; non nuova revisione umana.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_017_I_01",
+      "character": "i",
+      "source_id": "BNE_MADRID_I",
+      "folio": "2v",
+      "viewer_page": 17,
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "raw_crop": [
+        724,
+        998,
+        15,
+        28
+      ],
+      "mirror_crop": [
+        839,
+        998,
+        15,
+        28
+      ],
+      "outcome": "compatible_formal_reference",
+      "reason": "Minimo breve isolato fra h e K nel diagramma, senza punto stabile. Sostiene il corpo di i; il caso e la funzione di etichetta non sono equiparati alla prosa.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_303_Z_04",
+      "character": "z",
+      "source_id": "BNE_MADRID_I",
+      "folio": "153v",
+      "viewer_page": 303,
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "raw_crop": [
+        1184,
+        366,
+        47,
+        60
+      ],
+      "mirror_crop": [
+        347,
+        366,
+        47,
+        60
+      ],
+      "outcome": "compatible_contextual_reference",
+      "reason": "Forma sinuosa con ritorno inferiore ampio nel token candidato mezo. Confronto su pagina diversa dalle tre z del 4v; folio editoriale 153v resta concordanza di lavoro, non attestazione paleografica indipendente.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_303_J_01",
+      "character": "j",
+      "source_id": "BNE_MADRID_I",
+      "folio": "153v",
+      "viewer_page": 303,
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "raw_crop": [
+        331,
+        1146,
+        22,
+        31
+      ],
+      "mirror_crop": [
+        1225,
+        1146,
+        22,
+        31
+      ],
+      "outcome": "ambiguous",
+      "reason": "Asta curva entro un cerchio con linee del diagramma adiacenti. Non distingue j da i lunga o indice. Il cerchio e i raggi sono esclusi dal motivo considerato.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_049_V_01",
+      "character": "v",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        799,
+        1850,
+        31,
+        28
+      ],
+      "mirror_crop": [
+        748,
+        1850,
+        31,
+        28
+      ],
+      "outcome": "ambiguous",
+      "reason": "Segno rotondo a piccolo cappio sulla molla. Fuori contesto resta compatibile con u/o o elemento tecnico; non giustifica una V angolare storica.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_049_V_02",
+      "character": "v",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        123,
+        2065,
+        24,
+        24
+      ],
+      "mirror_crop": [
+        1431,
+        2065,
+        24,
+        24
+      ],
+      "outcome": "contextual_association_only",
+      "reason": "Piccolo segno rotondo nel richiamo alla molla, distinto dalla x seguente. L associazione editoriale v e un indizio; forma u/o non risolta e nessuna normalizzazione automatica.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_049_X_01",
+      "character": "x",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        556,
+        1862,
+        27,
+        25
+      ],
+      "mirror_crop": [
+        995,
+        1862,
+        27,
+        25
+      ],
+      "outcome": "technical_reference",
+      "reason": "Due tratti incrociati distinti dalla linea della molla. Funzione di riferimento tecnico; caso X/x non determinabile dal segno isolato.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_049_X_02",
+      "character": "x",
+      "source_id": "BNE_MADRID_I",
+      "folio": "18v",
+      "viewer_page": 49,
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "raw_crop": [
+        95,
+        2061,
+        23,
+        32
+      ],
+      "mirror_crop": [
+        1460,
+        2061,
+        23,
+        32
+      ],
+      "outcome": "technical_reference",
+      "reason": "Due tratti incrociati con uscita discendente nel testo tecnico accanto al richiamo v. Il segno e distinto dal rigo sottostante; non viene trattato come normale occorrenza lessicale.",
+      "registry_promotion": false
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_303_Y_01",
+      "character": "y",
+      "source_id": "BNE_MADRID_I",
+      "folio": "153v",
+      "viewer_page": 303,
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "raw_crop": [
+        689,
+        500,
+        38,
+        48
+      ],
+      "mirror_crop": [
+        851,
+        500,
+        38,
+        48
+      ],
+      "outcome": "ambiguous",
+      "reason": "Asta e spalla ricurva con lunga discesa; la forma e vicina alla famiglia h. La lettera editoriale y non rende certa l associazione Unicode ne una forcella moderna a due minimi.",
+      "registry_promotion": false
+    }
+  ],
+  "k_observations": [
+    {
+      "page": 17,
+      "folio": "2v",
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "mirror_crop": [
+        921,
+        975,
+        51,
+        51
+      ],
+      "outcome": "capital_or_case_unresolved_not_lowercase_evidence",
+      "reason": "Asta con due bracci osservabile; i tratti tecnici sullo sfondo restano separati. Riferimento contestuale di tipo K, non attestazione di k minuscola."
+    },
+    {
+      "page": 22,
+      "folio": "5r",
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "mirror_crop": [
+        879,
+        355,
+        41,
+        50
+      ],
+      "outcome": "capital_or_case_unresolved_not_lowercase_evidence",
+      "reason": "Asta con due bracci osservabile; i tratti tecnici sullo sfondo restano separati. Riferimento contestuale di tipo K, non attestazione di k minuscola."
+    },
+    {
+      "page": 22,
+      "folio": "5r",
+      "image_sha256": "9b9858b37fb21bb023dcee879e0e6604fd7a2ce56efbb8de2046faa001c8e5f2",
+      "mirror_crop": [
+        879,
+        861,
+        49,
+        48
+      ],
+      "outcome": "capital_or_case_unresolved_not_lowercase_evidence",
+      "reason": "Asta con due bracci osservabile; i tratti tecnici sullo sfondo restano separati. Riferimento contestuale di tipo K, non attestazione di k minuscola."
+    }
+  ],
+  "w_policy": "No lowercase w sample in the selected corpus. Construct a declared contemporary double rhythm from u minima and the designed v; no assertion of absence in all Leonardo manuscripts."
+}

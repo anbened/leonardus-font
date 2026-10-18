@@ -1,0 +1,50 @@
+{
+  "status": "human_design_selection_recorded",
+  "recorded_at": "2026-10-15T20:01:11.485715+00:00",
+  "reviewer": "Human review",
+  "scope": "selection_of_shown_aemnu_designs_for_integration",
+  "quote": "Adottiamo a A, e A, m B, n B e u B. Integra le varianti scelte, aggiorna la documentazione e installa il font aggiornato.",
+  "selected_variants": {
+    "a": "A",
+    "e": "A",
+    "m": "B",
+    "n": "B",
+    "u": "B"
+  },
+  "study_manifest": "data/aemnu_variant_study_2026-10-15.json",
+  "study_manifest_sha256": "80e4a01198c2d6c4f38a2443c0e8d2a72eaaf0e0be654a4e47d73bb6b1628c92",
+  "shown_word_proof": "specimen/AEMNU-Study-Words-2026-10-15.png",
+  "shown_word_proof_sha256": "aae920848cf0016a75e4a707a4e7345d18f901511e033fe5bc8642cf03305593",
+  "reading_changes": false,
+  "segmentation_changes": false,
+  "authenticity_claim": false,
+  "approval_of_other_21_lowercase": false,
+  "public_release_approved": false,
+  "glyphs": {
+    "a": {
+      "file": "glyphs/proposals/2026-10-15-aemnu/a-A.svg",
+      "sha256": "ef26948c18409ec39b9f1206ca36f8a68b2573c85d0fdfe490769b315f92bd02",
+      "advance": 440
+    },
+    "e": {
+      "file": "glyphs/proposals/2026-10-15-aemnu/e-A.svg",
+      "sha256": "ac53ae0ca4fd556b6f54e8c0c3376a09b97142c344827c427513b9612c111595",
+      "advance": 412
+    },
+    "m": {
+      "file": "glyphs/proposals/2026-10-15-aemnu/m-B.svg",
+      "sha256": "3e5b8f4c99024ab5a12bd6b2911bebfcaf6ce365ce770576bdc4173b6f2fd731",
+      "advance": 580
+    },
+    "n": {
+      "file": "glyphs/proposals/2026-10-15-aemnu/n-B.svg",
+      "sha256": "fb9f0156ed8b2b8ceb8eeb17c598fc49bb647bca81bd188db10d4e3a0d01b1a4",
+      "advance": 457
+    },
+    "u": {
+      "file": "glyphs/proposals/2026-10-15-aemnu/u-B.svg",
+      "sha256": "88e3b9ea9be5fb67a25c57e47d67f568f63a6cdf0b1ea268a55c97ae2da3bcc8",
+      "advance": 450
+    }
+  }
+}

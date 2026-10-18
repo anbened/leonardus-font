@@ -1,0 +1,787 @@
+{
+  "schema_version": 1,
+  "scope": "BFHIOQ_only",
+  "status": "unapproved_contemporary_capital_studies",
+  "date": "2026-10-16",
+  "base_font": "fonts/Leonardus-1250-Regular.ttf",
+  "base_font_sha256": "6e383ce0792149a50023ac73e5d7f33105534db07004bd88bceac491cc6d2ffb",
+  "evidence": "data/glyph_evidence.csv",
+  "evidence_sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+  "human_visual_design_approval": false,
+  "integration_approved": false,
+  "authenticity_claim": false,
+  "evidence_registry_changed": false,
+  "new_reviewed_capital_readings": 0,
+  "new_images_acquired": false,
+  "source_contexts": [
+    {
+      "id": "BFHIOQ_Q_INITIAL_1R",
+      "character": "Q",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "1r",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 14,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        721,
+        40,
+        91,
+        80
+      ],
+      "raw_crop": [
+        766,
+        40,
+        91,
+        80
+      ],
+      "mirror_context": [
+        650,
+        0,
+        370,
+        150
+      ],
+      "description": "Iniziale del titolo Quisiti: piccolo occhiello e ritorno curvo sotto la parola. Il prolungamento incontra altri tratti: non è isolato come contorno completo. Caso e confini non revisionati.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-r/"
+    },
+    {
+      "id": "BFHIOQ_F_INITIAL_1V",
+      "character": "F",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "1v",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 15,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        967,
+        1118,
+        58,
+        89
+      ],
+      "raw_crop": [
+        553,
+        1118,
+        58,
+        89
+      ],
+      "mirror_context": [
+        920,
+        1100,
+        590,
+        190
+      ],
+      "description": "Iniziale del passo Fa lle tue piastre: asta con uncino superiore e traversa breve. Dimensioni e struttura non attestano una F capitale moderna; caso e confini non revisionati.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-v/"
+    },
+    {
+      "id": "BFHIOQ_O_INITIAL_2R",
+      "character": "O",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "2r",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 16,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        409,
+        102,
+        38,
+        35
+      ],
+      "raw_crop": [
+        1131,
+        102,
+        38,
+        35
+      ],
+      "mirror_context": [
+        380,
+        70,
+        270,
+        115
+      ],
+      "description": "Iniziale di Ogni: anello ampio con chiusura irregolare nella zona alta. Non si deduce una forma capitale autonoma dalla trascrizione editoriale; caso e confini non revisionati.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    },
+    {
+      "id": "BFHIOQ_I_INITIAL_4R",
+      "character": "I",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "4r",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 20,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        301,
+        120,
+        95,
+        130
+      ],
+      "raw_crop": [
+        1182,
+        120,
+        95,
+        130
+      ],
+      "mirror_context": [
+        280,
+        80,
+        350,
+        180
+      ],
+      "description": "Iniziale del passo Il peso: tratto curvo ampio con terminazioni separate; l e p adiacenti restano nel contesto. Il confronto riguarda il gesto curvo, non un contorno capitale isolato o una T. Caso e confini non revisionati.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0004-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_014_B_01",
+      "character": "B",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "1r",
+      "folio_status": "existing_registry",
+      "viewer_page": 14,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        455,
+        1671,
+        22,
+        44
+      ],
+      "raw_crop": [
+        1101,
+        1671,
+        22,
+        44
+      ],
+      "mirror_context": [
+        405,
+        1631,
+        122,
+        124
+      ],
+      "description": "Confronto con b minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-r/"
+    },
+    {
+      "id": "BNE_MI_SEARCH_015_B_01",
+      "character": "B",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "1v",
+      "folio_status": "existing_registry",
+      "viewer_page": 15,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        610,
+        419,
+        33,
+        48
+      ],
+      "raw_crop": [
+        935,
+        419,
+        33,
+        48
+      ],
+      "mirror_context": [
+        560,
+        379,
+        133,
+        128
+      ],
+      "description": "Confronto con b minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-v/"
+    },
+    {
+      "id": "BNE_MI_EXP_014_F_01",
+      "character": "F",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "1r",
+      "folio_status": "existing_registry",
+      "viewer_page": 14,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        509,
+        103,
+        33,
+        69
+      ],
+      "raw_crop": [
+        1036,
+        103,
+        33,
+        69
+      ],
+      "mirror_context": [
+        459,
+        63,
+        133,
+        149
+      ],
+      "description": "Confronto con f minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_018_F_03",
+      "character": "F",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "3r",
+      "folio_status": "existing_registry",
+      "viewer_page": 18,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        1189,
+        497,
+        30,
+        68
+      ],
+      "raw_crop": [
+        359,
+        497,
+        30,
+        68
+      ],
+      "mirror_context": [
+        1139,
+        457,
+        130,
+        148
+      ],
+      "description": "Confronto con f minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0003-r/"
+    },
+    {
+      "id": "BNE_MI_SEARCH_015_H_01",
+      "character": "H",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "1v",
+      "folio_status": "existing_registry",
+      "viewer_page": 15,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        760,
+        290,
+        32,
+        50
+      ],
+      "raw_crop": [
+        786,
+        290,
+        32,
+        50
+      ],
+      "mirror_context": [
+        710,
+        250,
+        132,
+        130
+      ],
+      "description": "Confronto con h minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-v/"
+    },
+    {
+      "id": "BNE_MI_SEARCH_021_H_06",
+      "character": "H",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "4v",
+      "folio_status": "existing_registry",
+      "viewer_page": 21,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "9877dc51-807d-475d-9d3e-81e40fcce7d3",
+      "image_sha256": "db721b8a312d282c908dae009f61b39813133b5162c7e01dbb704e80ac1ace05",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        390,
+        243,
+        30,
+        50
+      ],
+      "raw_crop": [
+        1158,
+        243,
+        30,
+        50
+      ],
+      "mirror_context": [
+        340,
+        203,
+        130,
+        130
+      ],
+      "description": "Confronto con h minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0004-v/"
+    },
+    {
+      "id": "BNE_MI_EXP_016_I_01",
+      "character": "I",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "2r",
+      "folio_status": "existing_registry",
+      "viewer_page": 16,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        488,
+        109,
+        12,
+        41
+      ],
+      "raw_crop": [
+        1078,
+        109,
+        12,
+        41
+      ],
+      "mirror_context": [
+        438,
+        69,
+        112,
+        121
+      ],
+      "description": "Confronto con i minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_018_I_02",
+      "character": "I",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "3r",
+      "folio_status": "existing_registry",
+      "viewer_page": 18,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        1280,
+        267,
+        16,
+        33
+      ],
+      "raw_crop": [
+        282,
+        267,
+        16,
+        33
+      ],
+      "mirror_context": [
+        1230,
+        227,
+        116,
+        113
+      ],
+      "description": "Confronto con i minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0003-r/"
+    },
+    {
+      "id": "BNE_MI_016_O_01",
+      "character": "O",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "2r",
+      "folio_status": "existing_registry",
+      "viewer_page": 16,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        551,
+        112,
+        17,
+        22
+      ],
+      "raw_crop": [
+        1010,
+        112,
+        17,
+        22
+      ],
+      "mirror_context": [
+        501,
+        72,
+        117,
+        102
+      ],
+      "description": "Confronto con o minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    },
+    {
+      "id": "BNE_MI_016_O_02",
+      "character": "O",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "2r",
+      "folio_status": "existing_registry",
+      "viewer_page": 16,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        620,
+        111,
+        17,
+        23
+      ],
+      "raw_crop": [
+        941,
+        111,
+        17,
+        23
+      ],
+      "mirror_context": [
+        570,
+        71,
+        117,
+        103
+      ],
+      "description": "Confronto con o minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_014_Q_01",
+      "character": "Q",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "1r",
+      "folio_status": "existing_registry",
+      "viewer_page": 14,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        477,
+        182,
+        31,
+        51
+      ],
+      "raw_crop": [
+        1070,
+        182,
+        31,
+        51
+      ],
+      "mirror_context": [
+        427,
+        142,
+        131,
+        131
+      ],
+      "description": "Confronto con q minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_018_Q_03",
+      "character": "Q",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "folio": "3r",
+      "folio_status": "existing_registry",
+      "viewer_page": 18,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        1248,
+        272,
+        18,
+        60
+      ],
+      "raw_crop": [
+        312,
+        272,
+        18,
+        60
+      ],
+      "mirror_context": [
+        1198,
+        232,
+        118,
+        140
+      ],
+      "description": "Confronto con q minuscola già revisionata: asta, occhiello o raccordo; non attesta la corrispondente maiuscola. Il ritaglio conserva i confini registrati, senza nuova approvazione della segmentazione.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0003-r/"
+    }
+  ],
+  "observations": {
+    "B": {
+      "basis": "Due b minuscole revisionate (1r, 1v); nessuna B capitale autonoma selezionata.",
+      "observed": "Asta inclinata, occhiello diseguale e raccordo non geometrico; il raddoppio degli occhielli è una costruzione moderna, coerente con la P già scelta.",
+      "A": "Due occhielli chiari, inferiore più ampio, asta lievemente curva.",
+      "B": "Occhielli obliqui, strozzatura più alta e fondo arrotondato; ritmo più gestuale senza perdere il doppio corpo."
+    },
+    "F": {
+      "basis": "Iniziale del passo Fa lle tue piastre (1v), caso irrisolto, e due f revisionate (1r, 3r).",
+      "observed": "Uncino alto e traversa corta; non sono documentate qui le proporzioni di una F capitale completa.",
+      "A": "Testa ondulata e traversa leggibile, con asta continua.",
+      "B": "Piccola asola superiore, testa arcuata e traversa in risalita; struttura capitale progettata."
+    },
+    "H": {
+      "basis": "Due h minuscole revisionate (1v, 4v); nessun modello H capitale completo confermato.",
+      "observed": "Aste lievemente incurvate e raccordi morbidi; la doppia asta capitale e la traversa sono una sintesi contemporanea.",
+      "A": "Due aste appena curve e traversa morbida; silhouette inequivocabilmente capitale.",
+      "B": "Asola iniziale nell’asta sinistra e ritorno al piede destro; maggiore carattere, con rischio di enfasi nelle sigle."
+    },
+    "I": {
+      "basis": "Iniziale di Il peso (4r), caso irrisolto, e due i minuscole revisionate (2r, 3r).",
+      "observed": "L’iniziale presenta un ampio tratto curvo; il contesto esclude l’interpretazione come T. Nessuna deduzione sull’ordine dei tratti.",
+      "A": "Attacco curvo breve e piede distinto: priorità alla separazione da l minuscola e cifra 1.",
+      "B": "Attacco raccolto ad asola e ritorno più curvo al piede; evocazione progettata del gesto, senza copiarne l’intera ampiezza."
+    },
+    "O": {
+      "basis": "Iniziale di Ogni (2r), caso irrisolto, e due o minuscole dello stesso folio già revisionate.",
+      "observed": "Anello poco regolare e chiusura alta diseguale; ingrandire il corpo non fornisce dettagli aggiuntivi né certifica il caso.",
+      "A": "Ovale obliquo continuo, con peso e controforma leggermente asimmetrici.",
+      "B": "Corpo più rotondo, controforma obliqua e piccolo ritorno interno presso la chiusura; coerente con o B già scelta."
+    },
+    "Q": {
+      "basis": "Iniziale Quisiti (1r), caso irrisolto, e due q minuscole revisionate (1r, 3r).",
+      "observed": "Occhiello compatto e ritorno inferiore curvo sotto la parola; i contatti con altri tratti impediscono una delimitazione certa del prolungamento.",
+      "A": "Corpo di O A e coda diagonale breve: lettura convenzionale con maggiore morbidezza.",
+      "B": "Corpo di O B e coda arcuata sotto il corpo, contenuta nell’avanzamento: una reinterpretazione moderna del ritorno visibile."
+    }
+  },
+  "recommendation": {
+    "B": "B",
+    "F": "B",
+    "H": "A",
+    "I": "A",
+    "O": "B",
+    "Q": "B"
+  },
+  "variants": {
+    "A": {
+      "family": "Leonardus BFHIOQ A",
+      "postscript": "Leonardus-BFHIOQ-A-Regular",
+      "glyphs": {
+        "B": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0042-A.svg",
+          "sha256": "6c917d1166c501c9b03ec3f6339b38027abe213bde8829c6e5329e635ef14318",
+          "advance": 550,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_EXP_014_B_01",
+            "BNE_MI_SEARCH_015_B_01"
+          ],
+          "design_choice": "Due occhielli chiari, inferiore più ampio, asta lievemente curva.",
+          "historical_capital_attestation": false
+        },
+        "F": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0046-A.svg",
+          "sha256": "7a636fa0d8703892a97559a3d3df6fb38c14c46c61f4d7648613a133992b2a75",
+          "advance": 505,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BFHIOQ_F_INITIAL_1V",
+            "BNE_MI_EXP_014_F_01",
+            "BNE_MI_EXP_018_F_03"
+          ],
+          "design_choice": "Testa ondulata e traversa leggibile, con asta continua.",
+          "historical_capital_attestation": false
+        },
+        "H": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0048-A.svg",
+          "sha256": "4a79f238226805ac929dae0f68e522caa7c970e2f71cdf2e2282bc84c54cf5ea",
+          "advance": 610,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_015_H_01",
+            "BNE_MI_SEARCH_021_H_06"
+          ],
+          "design_choice": "Due aste appena curve e traversa morbida; silhouette inequivocabilmente capitale.",
+          "historical_capital_attestation": false
+        },
+        "I": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0049-A.svg",
+          "sha256": "50faf623c5010405fe962f1819ae6f0c431a8a7bf0b41052d10e378931988cd5",
+          "advance": 285,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BFHIOQ_I_INITIAL_4R",
+            "BNE_MI_EXP_016_I_01",
+            "BNE_MI_EXP_018_I_02"
+          ],
+          "design_choice": "Attacco curvo breve e piede distinto: priorità alla separazione da l minuscola e cifra 1.",
+          "historical_capital_attestation": false
+        },
+        "O": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni004F-A.svg",
+          "sha256": "e6a58cdea2f13254aeb962c275080846087158e5ffe236d817173edd55a99ffc",
+          "advance": 635,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BFHIOQ_O_INITIAL_2R",
+            "BNE_MI_016_O_01",
+            "BNE_MI_016_O_02"
+          ],
+          "design_choice": "Ovale obliquo continuo, con peso e controforma leggermente asimmetrici.",
+          "historical_capital_attestation": false
+        },
+        "Q": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0051-A.svg",
+          "sha256": "57512a2f1997273a81ab7212260607fc5ac45b6f87b617245d00b1883e7c864b",
+          "advance": 645,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BFHIOQ_Q_INITIAL_1R",
+            "BNE_MI_EXP_014_Q_01",
+            "BNE_MI_EXP_018_Q_03"
+          ],
+          "design_choice": "Corpo di O A e coda diagonale breve: lettura convenzionale con maggiore morbidezza.",
+          "historical_capital_attestation": false
+        }
+      }
+    },
+    "B": {
+      "family": "Leonardus BFHIOQ B",
+      "postscript": "Leonardus-BFHIOQ-B-Regular",
+      "glyphs": {
+        "B": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0042-B.svg",
+          "sha256": "ed00e318509abb50e26a57d9c9ead542adaeed9dc8d4bd3cfe1852d634bc2f16",
+          "advance": 550,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_EXP_014_B_01",
+            "BNE_MI_SEARCH_015_B_01"
+          ],
+          "design_choice": "Occhielli obliqui, strozzatura più alta e fondo arrotondato; ritmo più gestuale senza perdere il doppio corpo.",
+          "historical_capital_attestation": false
+        },
+        "F": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0046-B.svg",
+          "sha256": "2281d790c737aa383552c2250aec9885aeaa5f462af6ccb0d05808f1ae2641f3",
+          "advance": 505,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BFHIOQ_F_INITIAL_1V",
+            "BNE_MI_EXP_014_F_01",
+            "BNE_MI_EXP_018_F_03"
+          ],
+          "design_choice": "Piccola asola superiore, testa arcuata e traversa in risalita; struttura capitale progettata.",
+          "historical_capital_attestation": false
+        },
+        "H": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0048-B.svg",
+          "sha256": "fce7b08e2067d5de5d13df39d9aab40e6fae7e8c9be81872eed95690103455d6",
+          "advance": 610,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_SEARCH_015_H_01",
+            "BNE_MI_SEARCH_021_H_06"
+          ],
+          "design_choice": "Asola iniziale nell’asta sinistra e ritorno al piede destro; maggiore carattere, con rischio di enfasi nelle sigle.",
+          "historical_capital_attestation": false
+        },
+        "I": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0049-B.svg",
+          "sha256": "1e6214c881342c6effea5d2616ca5323caff820891ab2fb1ded4a9d0cb5787cb",
+          "advance": 285,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BFHIOQ_I_INITIAL_4R",
+            "BNE_MI_EXP_016_I_01",
+            "BNE_MI_EXP_018_I_02"
+          ],
+          "design_choice": "Attacco raccolto ad asola e ritorno più curvo al piede; evocazione progettata del gesto, senza copiarne l’intera ampiezza.",
+          "historical_capital_attestation": false
+        },
+        "O": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni004F-B.svg",
+          "sha256": "f7a1d048f0c03f7bb7850173177e5e2c7e414d489abbaf0c7f81366fa769b511",
+          "advance": 635,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BFHIOQ_O_INITIAL_2R",
+            "BNE_MI_016_O_01",
+            "BNE_MI_016_O_02"
+          ],
+          "design_choice": "Corpo più rotondo, controforma obliqua e piccolo ritorno interno presso la chiusura; coerente con o B già scelta.",
+          "historical_capital_attestation": false
+        },
+        "Q": {
+          "file": "glyphs/proposals/2026-10-16-bfhioq/uni0051-B.svg",
+          "sha256": "e80631314c67af96faed7013c873b8df0ce77309befe71e3e50e6cb080e8bef5",
+          "advance": 645,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BFHIOQ_Q_INITIAL_1R",
+            "BNE_MI_EXP_014_Q_01",
+            "BNE_MI_EXP_018_Q_03"
+          ],
+          "design_choice": "Corpo di O B e coda arcuata sotto il corpo, contenuta nell’avanzamento: una reinterpretazione moderna del ritorno visibile.",
+          "historical_capital_attestation": false
+        }
+      }
+    }
+  },
+  "research_scope": "Targeted rereading of six already available Madrid I reproductions, viewer pages 14,15,16,18,20,21; four unresolved initials and twelve registered lowercase comparisons. Not an exhaustive manuscript search.",
+  "consulted_e_leo_folios": [
+    "1r",
+    "1v",
+    "2r",
+    "4r"
+  ],
+  "rights": "Imágenes procedentes de los fondos de la Biblioteca Nacional de España. Local crops, horizontal mirroring and enlargement; images excluded from Git. No BNE endorsement. Online e-Leo consultation only.",
+  "excluded_interpretations": [
+    "The Il peso initial is not a T; neighboring l/p are context, not parts of the isolated I outline.",
+    "No capital B or H attestation inferred from lowercase b/h.",
+    "The Quisiti tail contacts neighboring strokes; its full historic boundary is unresolved."
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "status": "unapproved_segmentation",
+  "date": "2026-10-15",
+  "coordinate_system": "Local pixel coordinates in each horizontally mirrored mirror_crop, at original 1x resolution; origin top left; x=0..w-1, y=0..h-1.",
+  "interpretation": "Manual region envelopes for review, not traced outlines or certified pixel masks. Retained polygons identify the proposed sign region; uncertain polygons may overlap retained regions to flag contested boundaries. Empty exclusions mean no distinct foreign ink was identified inside the crop, not proof of perfect isolation. No historical contour is reconstructed from these regions.",
+  "samples": [
+    {
+      "sample_id": "BNE_MI_EXP_014_C_01",
+      "retained_polygons": [[[4,9],[9,5],[17,5],[18,9],[12,10],[8,12],[8,16],[13,18],[15,16],[17,19],[12,22],[6,21],[2,16],[2,11]]],
+      "cut_lines": [[[17,5],[17,15]]],
+      "excluded_polygons": [[[19,5],[23,3],[23,16],[19,16],[17,12]]],
+      "uncertain_polygons": [[[14,5],[20,4],[19,12],[15,12]]],
+      "notes": "Conservato l’arco aperto con ritorno inferiore. Separato il tratto della forma successiva sulla destra; l’attacco superiore si avvicina alla connessione e resta incerto. Il poligono include anche il bianco interno: non è un tracciato del contorno."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_C_02",
+      "retained_polygons": [[[3,9],[7,6],[14,5],[15,9],[9,10],[7,12],[9,15],[11,15],[10,18],[5,18],[2,14]]],
+      "cut_lines": [[[15,5],[14,17]]],
+      "excluded_polygons": [[[17,5],[21,5],[21,15],[16,15],[14,11]]],
+      "uncertain_polygons": [[[12,5],[17,5],[16,11],[12,11]]],
+      "notes": "Corpo curvo breve a sinistra, distinto dal minimo e dalla pancia della lettera seguente. La zona superiore di contatto rimane dubbia; non trasformata in una chiusura di c."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_C_04",
+      "retained_polygons": [[[0,7],[5,4],[10,7],[18,7],[19,11],[7,12],[4,15],[8,17],[8,20],[2,20],[0,17]]],
+      "cut_lines": [[[10,6],[10,13]]],
+      "excluded_polygons": [],
+      "uncertain_polygons": [[[8,6],[20,6],[20,12],[8,13]],[[0,7],[2,7],[2,20],[0,20]]],
+      "notes": "Arco basso conservato; il tratto superiore lungo può appartenere al segno oppure al raccordo. Il corpo tocca il margine sinistro del crop: la segmentazione non ricostruisce la parte eventualmente tagliata. Non si usa questo campione da solo per decidere l’apertura tipografica."
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_030_C_01",
+      "retained_polygons": [[[2,12],[8,10],[20,8],[23,9],[22,12],[10,15],[7,17],[8,20],[12,22],[15,20],[16,23],[12,25],[7,25],[3,21],[1,17]]],
+      "cut_lines": [],
+      "excluded_polygons": [],
+      "uncertain_polygons": [[[19,7],[23,7],[23,13],[19,13]]],
+      "notes": "Riferimento letterale isolato: arco e tratto superiore prolungato appartengono alla stessa area proposta. Estremità destra tenue da verificare; il confronto con c lessicali non rende questo richiamo una parola."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_F_01",
+      "retained_polygons": [[[4,6],[8,3],[12,4],[15,11],[15,18],[12,18],[10,10],[8,9],[7,27],[19,28],[20,33],[9,36],[9,51],[11,64],[9,68],[5,65],[3,51],[2,36],[0,34],[0,28],[3,27]]],
+      "cut_lines": [[[18,28],[17,36]]],
+      "excluded_polygons": [[[21,31],[24,31],[24,47],[20,45],[18,38]],[[29,29],[32,29],[32,44],[29,44]]],
+      "uncertain_polygons": [[[16,27],[22,27],[22,36],[16,37]]],
+      "notes": "Conservati asta lunga, uncino alto e traversa; esclusi il minimo seguente e il tratto al margine destro. La traversa si fonde col raccordo al minimo: taglio proposto nella fascia incerta, senza attribuire alla f tutto il collegamento."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_F_02",
+      "retained_polygons": [[[10,6],[15,4],[20,7],[23,13],[23,23],[20,23],[17,13],[14,12],[13,20],[19,22],[21,28],[15,27],[12,25],[11,42],[7,45],[6,41],[7,28],[5,25],[4,21],[8,20]]],
+      "cut_lines": [[[4,49],[23,49]]],
+      "excluded_polygons": [[[10,51],[18,50],[22,54],[8,54]]],
+      "uncertain_polygons": [[[15,21],[22,23],[23,29],[17,28]]],
+      "notes": "Asta e uncino superiore conservati con la breve traversa. La punta destra bassa può già essere connessione: evidenziata senza allungare il glifo fino alla lettera seguente. Il piccolo inchiostro sul bordo inferiore appartiene al rigo vicino."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_F_03",
+      "retained_polygons": [[[5,16],[8,12],[12,13],[14,19],[12,26],[10,24],[9,19],[8,22],[8,32],[16,33],[17,38],[8,39],[8,54],[9,63],[6,66],[3,64],[3,40],[1,39],[1,34],[4,33]]],
+      "cut_lines": [[[11,13],[10,31]],[[12,33],[12,40]]],
+      "excluded_polygons": [[[23,34],[29,32],[29,48],[25,49],[22,43]]],
+      "uncertain_polygons": [[[10,5],[16,3],[21,6],[23,15],[22,24],[18,23],[16,14],[15,32],[18,33],[18,61],[13,63],[11,46],[11,27],[9,21]],[[8,32],[21,32],[21,40],[8,40]]],
+      "notes": "Proposta conservativa sul primo elemento lungo a sinistra. Il secondo ascendente e la traversa condivisa restano nella zona incerta: il gruppo stretto non è trattato come una singola f già isolata. Il minimo più a destra è escluso. La separazione fra i due elementi richiede una decisione specifica prima di usare questo campione per il disegno."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_F_04",
+      "retained_polygons": [[[10,0],[15,0],[19,5],[20,13],[17,14],[15,7],[13,6],[10,26],[21,27],[22,32],[10,35],[9,50],[9,57],[6,60],[3,58],[4,47],[5,35],[1,34],[1,29],[5,27]]],
+      "cut_lines": [[[19,27],[18,35]],[[0,65],[33,65]]],
+      "excluded_polygons": [[[22,29],[28,29],[29,37],[25,40],[22,37]],[[29,27],[33,27],[33,34],[29,34]],[[3,72],[10,69],[15,75],[18,82],[0,82],[0,78]]],
+      "uncertain_polygons": [[[7,0],[18,0],[18,3],[7,3]],[[17,26],[23,26],[23,36],[17,36]]],
+      "notes": "Conservata l’asta con uncino e traversa; esclusi i minimi di destra e l’inchiostro del rigo inferiore. L’uncino tocca il bordo alto: la sua sommità non viene ricostruita. Raccordo destro da separare nella fascia incerta."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_I_01",
+      "retained_polygons": [[[2,4],[5,3],[7,9],[7,22],[7,35],[5,38],[3,36],[2,24],[2,13],[0,7]]],
+      "cut_lines": [[[0,9],[7,9]]],
+      "excluded_polygons": [],
+      "uncertain_polygons": [[[0,3],[7,3],[8,10],[1,11]]],
+      "notes": "Conservata l’asta terminale stretta. La testata si lega alla n precedente e non è un punto separato. Nessun punto chiaramente associato è isolato nel crop; il punto della proposta tipografica sarà una scelta moderna esplicita."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_I_02",
+      "retained_polygons": [[[3,15],[7,14],[10,19],[9,25],[6,27],[3,24],[1,19]]],
+      "cut_lines": [[[0,5],[15,5]]],
+      "excluded_polygons": [[[0,0],[15,0],[15,3],[0,3]]],
+      "uncertain_polygons": [[[8,8],[12,8],[14,12],[13,16],[9,15],[7,12]]],
+      "notes": "Minimo breve inferiore conservato. La macchia superiore può essere il punto ma la sua appartenenza va confermata; resta incerta e non è saldata al corpo. Il tratto orizzontale al margine alto appartiene al contesto vicino ed è escluso."
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_I_02",
+      "retained_polygons": [[[3,7],[7,7],[8,18],[8,25],[6,28],[3,28],[2,21],[2,13]],[[5,3],[8,2],[9,5],[8,6],[5,6]]],
+      "cut_lines": [[[0,29],[13,29]]],
+      "excluded_polygons": [[[0,31],[13,25],[13,28],[0,34]],[[0,37],[13,31],[13,35],[4,39],[0,39]]],
+      "uncertain_polygons": [[[4,1],[10,1],[10,7],[4,7]],[[4,24],[10,24],[10,29],[4,29]]],
+      "notes": "Asta e piccolo segno superiore mantenuti come due regioni, con associazione del punto ancora incerta. Il piede si avvicina al tratteggio del diagramma sottostante; tratteggio escluso e confine basso segnalato."
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_024_I_03",
+      "retained_polygons": [[[6,12],[10,11],[12,16],[11,23],[9,25],[6,23],[5,18]]],
+      "cut_lines": [],
+      "excluded_polygons": [],
+      "uncertain_polygons": [[[5,3],[12,3],[12,10],[5,10]]],
+      "notes": "Conservato il minimo isolato fra il riferimento h e l’ascendente successiva. La zona superiore presenta solo segni deboli: non viene trasformata automaticamente in punto. I confini del corpo sono regionali e non un contorno certificato."
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_Z_01",
+      "retained_polygons": [[[5,8],[11,7],[15,9],[14,12],[8,12],[5,15],[9,16],[10,19],[7,23],[5,27],[6,28],[11,29],[12,32],[9,36],[6,37],[5,35],[8,32],[3,31],[2,27],[5,21],[7,19],[2,18],[0,15],[2,11]]],
+      "cut_lines": [[[16,7],[16,21]]],
+      "excluded_polygons": [[[18,7],[20,7],[20,19],[17,19],[17,13]]],
+      "uncertain_polygons": [[[4,34],[10,34],[10,37],[4,37]]],
+      "notes": "Segno sinuoso conservato con doppio cambio di direzione; esclusa la forma successiva sulla destra. La coda raggiunge il bordo inferiore: il suo termine resta incerto e non viene estrapolato. Non si modernizza la grafia del token."
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_Z_01",
+      "retained_polygons": [[[10,10],[17,10],[19,12],[18,15],[14,15],[12,18],[16,19],[17,22],[14,25],[11,28],[11,30],[15,32],[16,35],[16,39],[13,42],[10,43],[9,41],[12,39],[13,36],[9,34],[7,31],[7,27],[10,23],[13,21],[9,20],[8,17],[8,14]]],
+      "cut_lines": [[[7,10],[7,22]],[[21,11],[21,23]]],
+      "excluded_polygons": [[[1,7],[5,7],[7,12],[6,15],[3,14]],[[0,17],[4,17],[5,21],[2,23],[0,22]],[[23,12],[24,12],[24,23],[22,21]]],
+      "uncertain_polygons": [[[8,9],[13,9],[13,16],[8,17]]],
+      "notes": "Conservato il corpo centrale a due curve e la coda; esclusi i frammenti delle lettere laterali. La testata superiore è vicina al raccordo di sinistra e resta segnalata. Questo campione appartiene allo stesso folio degli altri due SEARCH_021: non vale come terza fonte indipendente."
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_Z_02",
+      "retained_polygons": [[[10,9],[17,8],[19,10],[18,13],[14,13],[12,16],[15,18],[17,21],[14,24],[10,27],[9,30],[12,32],[16,34],[16,38],[14,42],[12,44],[10,43],[12,39],[12,36],[8,34],[6,31],[7,27],[11,22],[13,21],[9,18],[8,15],[9,12]]],
+      "cut_lines": [[[7,8],[7,23]]],
+      "excluded_polygons": [[[2,5],[6,5],[7,10],[5,12],[2,11]],[[0,14],[5,14],[7,19],[5,22],[1,19],[0,17]]],
+      "uncertain_polygons": [[[8,8],[12,8],[12,17],[8,18]]],
+      "notes": "Corpo sinuoso a destra separato dai due frammenti della forma precedente. La prima ansa può condividere un raccordo: il taglio è proposto sul margine sinistro, senza riprodurre nel glifo i frammenti vicini."
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_Z_03",
+      "retained_polygons": [[[12,8],[19,7],[20,10],[18,12],[14,12],[12,15],[16,16],[17,19],[14,22],[11,26],[12,28],[16,30],[16,33],[13,36],[10,40],[8,39],[10,35],[12,32],[8,30],[7,27],[9,23],[12,19],[9,17],[9,13]]],
+      "cut_lines": [[[8,9],[8,21]],[[21,8],[21,22]]],
+      "excluded_polygons": [[[4,6],[8,7],[9,11],[6,12],[4,10]],[[0,14],[4,14],[7,17],[6,21],[1,20],[0,18]],[[24,6],[27,7],[27,20],[23,17],[22,13]]],
+      "uncertain_polygons": [[[8,8],[14,8],[14,16],[8,17]],[[9,34],[14,34],[11,41],[7,41]]],
+      "notes": "Conservato il segno sinuoso centrale; escluse le due forme laterali. La testata e l’estremità tenue della coda restano incerte. La somiglianza con gli altri due segni del folio sostiene il confronto formale ma non elimina la concentrazione del corpus."
+    }
+  ]
+}

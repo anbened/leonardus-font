@@ -1,0 +1,5 @@
+# Preserve the snapshot bytes listed in MANIFEST.json.
+* -text
+*.ttf binary
+*.pdf binary
+*.png binary

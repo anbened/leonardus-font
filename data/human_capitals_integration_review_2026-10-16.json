@@ -1,0 +1,57 @@
+{
+  "status": "human_design_selection_recorded",
+  "recorded_date": "2026-10-16",
+  "reviewer": "Human review",
+  "scope": "selection_of_shown_LAMNRS_designs_for_integration",
+  "quote": "Adottiamo la combinazione che suggerisci: L B, A B, M B, N A, R B e S B. Integra le varianti, verifica la spaziatura nelle parole, aggiorna la documentazione e installa il font aggiornato.",
+  "selected_variants": {
+    "L": "B",
+    "A": "B",
+    "M": "B",
+    "N": "A",
+    "R": "B",
+    "S": "B"
+  },
+  "selection_source": "Explicit per-letter list in the human instruction; S B overrides the earlier agent preference S A.",
+  "study_manifest": "data/capitals_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "9deccc4d4b00e2ff06a38c287b65a0556a5d881298752bb1fef03dd5cf92ad56",
+  "shown_word_proof": "specimen/Capitals-Study-Words-2026-10-16.png",
+  "shown_word_proof_sha256": "da11666db64102e7285eb2599fc06926f3bbfa2a8d6c3159c4334683d5b80361",
+  "reading_changes": false,
+  "segmentation_changes": false,
+  "authenticity_claim": false,
+  "approval_of_other_characters": false,
+  "public_release_approved": false,
+  "glyphs": {
+    "L": {
+      "file": "glyphs/proposals/2026-10-16-capitals/uni004C-B.svg",
+      "sha256": "76f31a1f870ed85e6a30a4ae1c1e2eef642b9b747b2ddaa27ae5e1b1f51147fd",
+      "advance": 445
+    },
+    "A": {
+      "file": "glyphs/proposals/2026-10-16-capitals/uni0041-B.svg",
+      "sha256": "d0250c50af5a410e955ae8f96d690a0a007fb9b5c32cd446650057b480c15cbd",
+      "advance": 570
+    },
+    "M": {
+      "file": "glyphs/proposals/2026-10-16-capitals/uni004D-B.svg",
+      "sha256": "f459bc18c002b87c0c019b32621a7f2e7310e95459756e238b04b3e7b1fc27bf",
+      "advance": 760
+    },
+    "N": {
+      "file": "glyphs/proposals/2026-10-16-capitals/uni004E-A.svg",
+      "sha256": "c5bdea0bcfc0e6711a2e3d887d79d8a193a8e22c44c87d7c348c4de421422f08",
+      "advance": 610
+    },
+    "R": {
+      "file": "glyphs/proposals/2026-10-16-capitals/uni0052-B.svg",
+      "sha256": "ff8a3512b3802c89104b730dfb81315dc0d8f300092437fcb5a203aa1ddef5e6",
+      "advance": 585
+    },
+    "S": {
+      "file": "glyphs/proposals/2026-10-16-capitals/uni0053-B.svg",
+      "sha256": "56a2647e0b7fda50ba85afe4b935c3b984591d015450b6e2f863c6412aa4a908",
+      "advance": 565
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "status": "selected_jkuvwxyz_reinterpretations_for_integration",
+  "version": "1.270",
+  "family": "Leonardus 1270",
+  "postscript": "Leonardus-1270-Regular",
+  "base_version": "1.260",
+  "base_font": "fonts/Leonardus-1260-Regular.ttf",
+  "base_font_sha256": "f0c1ed6faeb76e66ab88a54cff7ca52c6c30fd33884c72b74cc915b5030e70bf",
+  "study_manifest": "data/jkuvwxyz_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "26bdf97c9993488cadcccc023d00a596e3bc59cfe7d4bd25ab1d15fecc7f1dd2",
+  "design_review_receipt": "data/human_jkuvwxyz_integration_review_2026-10-16.json",
+  "design_review_receipt_sha256": "1e01337b1249681387a5b61cd3d9bcbb26d9aac6354634afc2631c98fae8f360",
+  "license": "OFL-1.1",
+  "public_release_approved": false,
+  "glyphs": {
+    "J": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni004A-B.svg",
+      "sha256": "46233edb22191a5998b2eefa95dfab59c57e60c28dcdd9cfe2726e008021b77e",
+      "advance": 430,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_303_J_01"
+      ],
+      "parent_motifs": [
+        "I A 1.260",
+        "designed modern J hook"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "I A scelta nella 1.260 e confronto tecnico J_01 candidato, non utilizzato come geometria primaria. Asola superiore piccola e uncino inferiore più gestuale; da distinguere da cifra 3 e g. Disegno contemporaneo scelto: nessuna nuova lettura storica revisionata o capitale attestata."
+    },
+    "K": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni004B-B.svg",
+      "sha256": "d595e422cd69cb72c42b8264d26e6f01283b5093faae874b75c4b653c1c1993c",
+      "advance": 580,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "K_CONTEXT_01",
+        "K_CONTEXT_02",
+        "K_CONTEXT_03"
+      ],
+      "parent_motifs": [
+        "H B 1.260",
+        "case-unresolved K labels"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Tre etichette tecniche K di 2v e 5r, di caso irrisolto, conservate dal precedente studio. Asola nell’asta, braccio alto compatto e gamba arcuata, coordinati con H B; ampliamento capitale progettato. Disegno contemporaneo scelto: nessuna nuova lettura storica revisionata o capitale attestata."
+    },
+    "U": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0055-B.svg",
+      "sha256": "53f42b2b1f3f3a21328ec1f35aa86a41a81379ebd0edc8b4dffdcdcc7dcba39d",
+      "advance": 610,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_EXP_016_U_01",
+        "BNE_MI_EXP_018_U_04"
+      ],
+      "parent_motifs": [
+        "u B 1.220",
+        "H B 1.260"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Due u minuscole revisionate, 2r e 3r; non attestano una U capitale autonoma. Asola iniziale e fondo più angoloso ma ancora curvo, coerente con H B e u B. Disegno contemporaneo scelto: nessuna nuova lettura storica revisionata o capitale attestata."
+    },
+    "V": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0056-B.svg",
+      "sha256": "d0037f41b9779edf5a49a04cfe0ac5f719f48683c4a0a0fe2504eab8d7e3a162",
+      "advance": 565,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_049_V_01",
+        "BNE_MI_SEARCH_049_V_02"
+      ],
+      "parent_motifs": [
+        "v B 1.230",
+        "modern capital V valley"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Due etichette candidate v/u/o del 18v, senza una V capitale revisionata. Asola alta sul braccio destro e valle netta, coerenti con la v minuscola già scelta. Disegno contemporaneo scelto: nessuna nuova lettura storica revisionata o capitale attestata."
+    },
+    "W": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0057-B.svg",
+      "sha256": "97e149d9a68c9d708868b3b0a969a535288d53320e347a2f9469b92940ffcbe4",
+      "advance": 810,
+      "classification": "designed",
+      "contextual_reference_ids": [],
+      "parent_motifs": [
+        "designed U/V rhythm",
+        "w B 1.230; no direct W sample"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Sintesi contemporanea da U/V e dalla w già scelta; nessun campione diretto W selezionato. Doppio ritmo diseguale e asola sul braccio destro, coordinati con V B; verificare la densità nelle parole. Disegno contemporaneo scelto: nessuna nuova lettura storica revisionata o capitale attestata."
+    },
+    "X": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0058-B.svg",
+      "sha256": "eedbaa7e5c3afd6ebf1a598cc4162753717ef8a910527ca7e66259bff9a2408f",
+      "advance": 570,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_049_X_01",
+        "BNE_MI_SEARCH_049_X_02"
+      ],
+      "parent_motifs": [
+        "candidate technical X/x",
+        "modern capital proportions"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Due incroci tecnici candidati X/x del 18v; lettura e caso non promossi. Incrocio più alto, direzioni curve e uscita inferiore più lunga; struttura leggibile progettata. Disegno contemporaneo scelto: nessuna nuova lettura storica revisionata o capitale attestata."
+    },
+    "Y": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni0059-B.svg",
+      "sha256": "6d3041e3669785652610e6c335cfc2607d44a98d0358a6b47513212cbc9f6555",
+      "advance": 560,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_303_Y_01"
+      ],
+      "parent_motifs": [
+        "U/V family",
+        "designed capital fork; candidate Y/h unresolved"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Candidata Y_01 del 153v, ambigua con h, e confronto della famiglia U/V. Forcella asimmetrica e ritorno al piede; più gestuale ma con rischio di enfasi nel terminale. Disegno contemporaneo scelto: nessuna nuova lettura storica revisionata o capitale attestata."
+    },
+    "Z": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkuvwxyz/uni005A-B.svg",
+      "sha256": "1096ba40ef08d551134dca8a59c253fc9c1658c0d292293bec599b43958ef605",
+      "advance": 565,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_EXP_020_Z_01",
+        "BNE_MI_SEARCH_021_Z_01"
+      ],
+      "parent_motifs": [
+        "reviewed lowercase z",
+        "modern capital diagonal and optional crossbar"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Due z minuscole revisionate, 4r e 4v, senza capitale completa confermata. Terminali ondulati, ritorno inferiore e breve traversa moderna aggiunta per distinguere la forma dalla cifra 2. Disegno contemporaneo scelto: nessuna nuova lettura storica revisionata o capitale attestata."
+    }
+  }
+}

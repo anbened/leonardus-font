@@ -1,0 +1,14 @@
+{
+  "status": "human_decisions_recorded",
+  "recorded_at": "2026-10-13T06:41:21.674671+00:00",
+  "design": {
+    "quote": "Approvo il disegno della alpha e la leggibilità",
+    "source_manifest_sha256": "96060e736d82b7442c446f9499be5893f3134c4b204766714acb30bcb4c08cb0"
+  },
+  "license": {
+    "quote": "Scelgo OFL 1.1 per il font originale",
+    "license": "SIL Open Font License 1.1",
+    "reserved_font_names": []
+  },
+  "export_note": "Public extract of recorded design/license decisions; not a new approval"
+}

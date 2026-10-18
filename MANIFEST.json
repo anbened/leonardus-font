@@ -1,0 +1,2569 @@
+{
+  "project": "Leonardus",
+  "version": "1.270",
+  "status": "review_candidate",
+  "accepted_font_version": "1.100",
+  "accepted_font_sha256": "1f65d26ece4c8a0fe9c275fcdedfa037fab88a9687b0cd89a941d131eb899632",
+  "candidate_font_sha256": "0d10af2c358d9a4884e41d910cbcb789f1648073f43f048ac20eee0d5afe1201",
+  "candidate_font_file": "fonts/Leonardus-Regular-1.270.ttf",
+  "public_release_approved": false,
+  "self_hashes_excluded": [
+    "CONTENTS.txt",
+    "MANIFEST.json"
+  ],
+  "transformations": [
+    "Independent publication edition with new Git history; reader-facing README, installation guide, credits, documentation index, current-version HTML trial and preview added; preserved TTF, evidence and approval records unchanged",
+    "Selected source tree without prior Git history, original conversations or Office assets",
+    "Reviewer fields and decision attribution labels made generic; original quotes, dates and source coordinates preserved",
+    "Approval receipts contain only decisions needed by the compiler; release receipt hash updated coherently",
+    "Legacy metadata URL points to this project documentation; final TTF bytes unchanged",
+    "New specimens drawn from compiled font contours, without reading old PDF or Office content",
+    "Additional privacy checks, tests, inventory and CI; development dependencies for PDF generation and inspection",
+    "New lowercase candidates appended with unreviewed status; original evidence records and accepted font preserved; source images and visual review dossier remain ignored",
+    "Guided review plan pins candidate batches; exported annotations remain drafts and ignored; research follow-up records leads without promoting evidence or changing the accepted font",
+    "Explicit group m/t human review recorded separately and applied only to ten evidence review fields; source checkpoints and accepted font remain unchanged",
+    "Remaining six guided groups explicitly confirmed: 61 selected samples reviewed in total; only evidence review fields changed, with source checkpoints and accepted font preserved",
+    "Manual segmentation hypotheses and independent lowercase SVG proposals added with pending design review; manuscript images and uniquely named study fonts remain ignored; accepted font unchanged",
+    "Twelve primary lowercase designs approved with file hashes and advances pinned in a separate receipt; s revised with a designed lower curve and pending confirmation; segmentation and accepted Regular unchanged",
+    "All thirteen lowercase designs approved and integrated in Regular 1.100; dotless i and accented i/u follow approved bases; Regular 1.000 preserved and reproducible; historical segmentations remain hypotheses",
+    "Windows GDI selection verified byte-identical to Regular 1.100; Office application tests started but incomplete, with no native rendering or save/reopen success claimed; local test artifacts remain ignored",
+    "Native Word and PowerPoint 1.100 checks completed on four pages/slides at 12/18/36/72pt with save/reopen and native PDF exports; all 88 nonempty embedded glyph outlines match the current font, including sixteen revised forms; Office artifacts remain ignored",
+    "Prepublication review aligns documentation with 1.100, expands selective font/name/design screening and checks reachable history, Actions logs and GitHub security settings without changing font bytes or publication approval",
+    "All 61 segmentations assessed: 29 individual human reviews retained and 32 agent assessments under explicit user delegation; recovered originals remain ignored and historical readings unchanged",
+    "Regular 1.200 adds six reasoned contemporary completions with separate sources, derivation records and family name for trial; 1.100 and 1.000 checkpoints preserved; no new human visual design approval claimed",
+    "Separate unapproved OPQR A/B design studies compare 22 existing reviewed source localizations; eight SVG proposals and a font-outline word proof added; installed/distributed Regular and evidence registry unchanged; manuscript comparisons remain local",
+    "Human selection o B, p A, q B, r B integrated as a distinct Regular 1.210 candidate; o-grave composite and combining anchors realigned; all advances and prior checkpoints preserved; no new reading, boundary, authenticity or public-release approval inferred",
+    "Regular 1.211 changes only p/q horizontal origins and advances under explicit instruction; selected shapes preserved point-for-point up to translation; other glyphs and historical evidence unchanged; all 52-letter pairs checked at five raster sizes and word proofs inspected",
+    "Separate unapproved AEMNU A/B studies add ten original SVG proposals tied to 27 existing reviewed localizations, isolated-letter word comparisons and a documented unsuccessful search for newly acquired higher-detail targets; installed/distributed 1.211 and evidence registry remain unchanged; manuscript reproductions stay local",
+    "Human selection a A, e A, m B, n B, u B integrated as Regular 1.220; four accent composites and combining anchors realigned; prior OPQR shapes, p/q spacing and every advance preserved; evidence and all earlier font checkpoints unchanged; no new historical readings or higher-detail acquisition claimed",
+    "Separate unapproved JKVWXY A/B completion studies add twelve original SVG proposals compared with six existing candidate localizations and three K contexts without evidence promotion; additional e-Leo consultations remain research leads; isolated word comparisons and mixed previews preserve installed/distributed 1.220 and every advance; facsimiles remain local",
+    "Explicit human selection j A, k B, v B, w B, x B, y B integrated as Regular 1.230; six selected contours exact, every advance and previous AEMNU/OPQR/pq designs preserved; combining anchors updated; historical registry and reasoned-completion classifications retained; Windows installation and fresh-process GDI selection verified",
+    "Separate unapproved LAMNRS capital studies add twelve original SVG proposals compared with seven unresolved formal observations and four registered lowercase references; no new capital attestation or evidence promotion; isolated word/phrase and mixed comparisons preserve Regular 1.230, lowercase designs and all advances; source reproductions remain local",
+    "Explicit human selection L B, A B, M B, N A, R B, S B integrated as Regular 1.240; S B overrides the earlier agent preference; six selected contours exact, A-grave and combining anchors updated, every lowercase outline and advance preserved; capital classifications remain designed; current-user Windows installation and fresh-process GDI byte selection verified",
+    "Separate unapproved CDEGPT capital studies add twelve original SVG proposals, four unresolved formal observations and eight registered lowercase comparisons; corrected E and T context identifications documented; isolated word/phrase and mixed comparisons preserve installed Regular 1.240 and all prior selected forms; no new capital attestation or source-image distribution",
+    "Explicit human selection C B, D B, E A, G B, P B, T B integrated as Regular 1.250; E A, G B and P B override the earlier agent preferences; selected contours exact, E-grave/E-acute and combining anchors updated, earlier capitals, lowercase outlines and all advances preserved; historical classifications and evidence unchanged; current-user installation and fresh-process GDI byte selection verified",
+    "Separate unapproved BFHIOQ capital studies add twelve original SVG proposals compared with four unresolved initials and twelve existing reviewed lowercase references; words, phrases and mixed previews preserve installed/distributed Regular 1.250, all previously selected outlines and advances; no new capital attestation or manuscript-image distribution",
+    "Explicit human selection B B, F B, H B, I A, O B, Q B integrated as Regular 1.260; H B overrides the prior H A suggestion; six exact selected contours, I/O-grave composites and combining anchors updated; earlier twelve selected capitals, lowercase shapes and all advances preserved; current-user installation and fresh-process GDI byte selection verified",
+    "Separate unapproved JKUVWXYZ capital studies add sixteen original SVG proposals and compare six existing candidates, three case-unresolved K observations and four reviewed lowercase references without promotion; J and W remain declared modern completions; isolated words and mixed previews preserve installed Regular 1.260 and all advances; source images remain local",
+    "Explicit all-B JKUVWXYZ selection integrated as Regular 1.270; J/W/Y/Z B override prior A suggestions; eight exact contours and U-grave/combining anchors updated, eighteen earlier capitals, lowercase forms and every advance preserved; all 26 capitals match four disjoint human selections, with E/I/N A and 23 B; historical candidate states and declared J/W completions retained; current-user installation and fresh-process GDI byte selection verified",
+    "Native Word and PowerPoint 1.270 save/reopen checked at four point sizes; Word PDF outlines matched and protected PowerPoint PDF content confirmed by the project owner; reproducible A4 print specimen added without Office assets or manuscript images; physical print remains untested",
+    "Approved metadata-only naming of Regular 1.270 as family Leonardus and style Regular; version retained internally, all non-name tables and drawing preserved except the required head checksum; previous named integration checkpoint and native Office evidence retained, final download and Windows installation point to the newly named TTF"
+  ],
+  "files": {
+    ".gitattributes": {
+      "bytes": 102,
+      "sha256": "0b531a85757d7e30524241c7d5dfc8abd4174e0739f7ebf27d50dacf8a4bbca1",
+      "license": "MIT"
+    },
+    ".github/workflows/ci.yml": {
+      "bytes": 14538,
+      "sha256": "83d0ee5952141ef5f977d32cd686441de330895e3acf039b17c3cdd5925e859e",
+      "license": "MIT"
+    },
+    ".gitignore": {
+      "bytes": 104,
+      "sha256": "b82ab082060fe73cb8d9fc6010f9e55efdc9715df02f81987aa10aad1a97618b",
+      "license": "MIT"
+    },
+    "AGENTS.md": {
+      "bytes": 1398,
+      "sha256": "edca20db74b53c2becf7d1a7899cb0dbeb5827d6426fd7b5ad65b9f1b91e8013",
+      "license": "MIT"
+    },
+    "CHANGELOG.md": {
+      "bytes": 1457,
+      "sha256": "519065d8074a2ad2c773bbc3b065f3531f9f27cad97766acce4447a5cc6f10f3",
+      "license": "MIT"
+    },
+    "CONTRIBUTING.md": {
+      "bytes": 1338,
+      "sha256": "89e3f3554be1eecf7f26499c4872ce7aa38a181788f3438331cddbe9531ab6c3",
+      "license": "MIT"
+    },
+    "CREDITS.md": {
+      "bytes": 1562,
+      "sha256": "6ad16599230f8fcac6aaf4f398e03514fb416c01c4f9f548e00fc2c056c74437",
+      "license": "MIT"
+    },
+    "INSTALL.md": {
+      "bytes": 2687,
+      "sha256": "b69a610e4f8716ee579ed389a5a24c8c1e1bc3d9b676799cbc9b601a1629b813",
+      "license": "MIT"
+    },
+    "LICENSE-MIT.txt": {
+      "bytes": 1083,
+      "sha256": "0375b058793f6b63cb8c8def9aea4eb68e92297fa389e42852e2f8be095397aa",
+      "license": "MIT"
+    },
+    "OFL.txt": {
+      "bytes": 4341,
+      "sha256": "e3a42bb38406c93e68774afcbced10096b179f5a72d03408d53c14aaf1477740",
+      "license": "OFL-1.1"
+    },
+    "README.md": {
+      "bytes": 4487,
+      "sha256": "2b538c92f79593a6eb95ca359fbcc0417efd64f55c4f32b863517169ac349c98",
+      "license": "MIT"
+    },
+    "data/README.md": {
+      "bytes": 12823,
+      "sha256": "ced2944416e4aebc395d8d0ce9a186a072697e0a12eece2e0ffffb067a5555dc",
+      "license": "MIT"
+    },
+    "data/aemnu_variant_study_2026-10-15.json": {
+      "bytes": 26066,
+      "sha256": "80e4a01198c2d6c4f38a2443c0e8d2a72eaaf0e0be654a4e47d73bb6b1628c92",
+      "license": "MIT"
+    },
+    "data/agent_segmentation_review_2026-10-15.json": {
+      "bytes": 19058,
+      "sha256": "ee531797eb76109bc721b4e60b3227b0b778e91ff105c0c8e1d06b0dde94d911",
+      "license": "MIT"
+    },
+    "data/bfhioq_variant_study_2026-10-16.json": {
+      "bytes": 29028,
+      "sha256": "c669d712c31b0c793ed514446fee8cc82e43f838457811c0b91bf737ab05abba",
+      "license": "MIT"
+    },
+    "data/candidate_context.json": {
+      "bytes": 54699,
+      "sha256": "35bc07e954ee468a61c514c00a74cc51c850115f9c59cab84a3160e8aab78749",
+      "license": "MIT"
+    },
+    "data/capitals_variant_study_2026-10-16.json": {
+      "bytes": 22859,
+      "sha256": "9deccc4d4b00e2ff06a38c287b65a0556a5d881298752bb1fef03dd5cf92ad56",
+      "license": "MIT"
+    },
+    "data/cdegpt_variant_study_2026-10-16.json": {
+      "bytes": 23574,
+      "sha256": "dbd0e0fe2cbe4efa6b15b03d1b4d15a7c0e4e4a8fbeb5b549f1791193df94bc0",
+      "license": "MIT"
+    },
+    "data/charset_regular_v1.json": {
+      "bytes": 2439,
+      "sha256": "1e709f08c08ebbe792eb35994719aeb3e2e2efae1bf8f5a2e5a30afe55a4fff1",
+      "license": "MIT"
+    },
+    "data/completion_authorization_2026-10-15.json": {
+      "bytes": 606,
+      "sha256": "b6c1f9f4d4055bd781efc913d43f4a2f59e149de8306c5bdf44469a20a784c05",
+      "license": "MIT"
+    },
+    "data/glyph_evidence.csv": {
+      "bytes": 214193,
+      "sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+      "license": "MIT"
+    },
+    "data/guided_review_2026-10-14.json": {
+      "bytes": 17699,
+      "sha256": "41c1f9b543ffa829c3f2ec2bc59477ebbeb7eb90ef4c7b42be2565342a0e9436",
+      "license": "MIT"
+    },
+    "data/human_aemnu_integration_review_2026-10-15.json": {
+      "bytes": 1853,
+      "sha256": "8e321bd323306136e83b371f9ee9cc8fcdeaaf34613483a50df5d0c77577b28d",
+      "license": "MIT"
+    },
+    "data/human_bfhioq_integration_review_2026-10-16.json": {
+      "bytes": 2376,
+      "sha256": "ecddbb68e6bec34025cbfe01d3f1de80e04556a8070552f2fe8e16a12ede3efd",
+      "license": "MIT"
+    },
+    "data/human_capitals_integration_review_2026-10-16.json": {
+      "bytes": 2279,
+      "sha256": "d8d6bf3b6a6b7132fd5206aba5d1c0428ce3cd92c6ccd444a7a2d494c2a47156",
+      "license": "MIT"
+    },
+    "data/human_cdegpt_integration_review_2026-10-16.json": {
+      "bytes": 2193,
+      "sha256": "137a0a1e3e07811db0ecdde975f24dad5774bf0731815c003e8daa168a078735",
+      "license": "MIT"
+    },
+    "data/human_family_naming_review_2026-10-17.json": {
+      "bytes": 632,
+      "sha256": "c2fff69a29b5dc55fc96edd6b3ae8474e4054a18d1f7bd26e0ea39b773e4cca4",
+      "license": "MIT"
+    },
+    "data/human_guided_review_2026-10-15_group-01.json": {
+      "bytes": 2615,
+      "sha256": "30fc30508f5bf7c0580d9263020a5420942d51737f936e0455e81921094c6840",
+      "license": "MIT"
+    },
+    "data/human_guided_review_2026-10-15_group-02.json": {
+      "bytes": 2649,
+      "sha256": "95acaeaf34dd59297eafb37d9b8f1517ea85045fbe599411c840f6cb801bf854",
+      "license": "MIT"
+    },
+    "data/human_guided_review_2026-10-15_group-03.json": {
+      "bytes": 2622,
+      "sha256": "7cf9d03b1c685600b07562e720fa1f2a1b536aa56966b9ed5149282da61dbaae",
+      "license": "MIT"
+    },
+    "data/human_guided_review_2026-10-15_group-04.json": {
+      "bytes": 2443,
+      "sha256": "a4088522d403b4c13b67cbfb90f7db4dc08d9f2f5303319c0b9b241da52d59c1",
+      "license": "MIT"
+    },
+    "data/human_guided_review_2026-10-15_group-05.json": {
+      "bytes": 2274,
+      "sha256": "e719493a19cc09d83074d81629ac6c1e0b6bdc72294b8ff39a9a3d0ddc925717",
+      "license": "MIT"
+    },
+    "data/human_guided_review_2026-10-15_group-06.json": {
+      "bytes": 2622,
+      "sha256": "ff2101ec5173986ef1b8d2b2b4738f69c1c358283a53dd915ddba3bacce86b3d",
+      "license": "MIT"
+    },
+    "data/human_guided_review_2026-10-15_group-07.json": {
+      "bytes": 1562,
+      "sha256": "2f8363d08e3c6f111e8a78e496b5246cbf9784c28300af4dc7f967157b3715ee",
+      "license": "MIT"
+    },
+    "data/human_jkuvwxyz_integration_review_2026-10-16.json": {
+      "bytes": 2821,
+      "sha256": "1e01337b1249681387a5b61cd3d9bcbb26d9aac6354634afc2631c98fae8f360",
+      "license": "MIT"
+    },
+    "data/human_jkvwxy_integration_review_2026-10-16.json": {
+      "bytes": 2229,
+      "sha256": "143e7af79066d41a8a5d1a9ad8ba92674b145e24b2f8d61dc4d3e762c9eca094",
+      "license": "MIT"
+    },
+    "data/human_lowercase_design_review_2026-10-15.json": {
+      "bytes": 2877,
+      "sha256": "0e8fae96df186eb9c84cdb502db5d33fad1f3b96b04f845a1f8ff703f6e73b17",
+      "license": "MIT"
+    },
+    "data/human_lowercase_integration_review_2026-10-15.json": {
+      "bytes": 3154,
+      "sha256": "8bc7786768d9faadc2de302d23dde3b1a2012f57e241d6d9860f91a1bdd35958",
+      "license": "MIT"
+    },
+    "data/human_office_pdf_review_2026-10-17.json": {
+      "bytes": 621,
+      "sha256": "f75524c57dcaef48f965b04c5455def670ee9306b35e4fe05ab52e80376c2df2",
+      "license": "MIT"
+    },
+    "data/human_opqr_integration_review_2026-10-15.json": {
+      "bytes": 1699,
+      "sha256": "3d4290a1fe56502d659cf14780e86ae37dd8fa62e22311ff87bb91d42bc87346",
+      "license": "MIT"
+    },
+    "data/human_regular_gate_review_2026-10-12.json": {
+      "bytes": 899,
+      "sha256": "611aa78fbb7f9e00f9c8dd10c3d225d4a18d0194cdea500566ab956efe6bccae",
+      "license": "MIT"
+    },
+    "data/human_regular_release_review_2026-10-13.json": {
+      "bytes": 516,
+      "sha256": "58c242055cc4ca6c5a059ac3c68a85e42e31d37e4d176c1b5db03871e4162eab",
+      "license": "MIT"
+    },
+    "data/human_segmentation_consolidation_2026-10-15_f.json": {
+      "bytes": 2068,
+      "sha256": "1418b38862f653e07274e29693fc6a4c2a7b4199dd0eb26ca8e8b1f5a1d28ab5",
+      "license": "MIT"
+    },
+    "data/human_segmentation_consolidation_2026-10-15_g.json": {
+      "bytes": 2245,
+      "sha256": "ffe74c405e1f36929418d72a4c98679d798b9a827c350af37e6ecfe1b8cb6dc3",
+      "license": "MIT"
+    },
+    "data/human_segmentation_consolidation_2026-10-15_m.json": {
+      "bytes": 2206,
+      "sha256": "7091d07161f0b12eef40c5b80fcd8c66ae05619b4fb5b2a719505557f46dd212",
+      "license": "MIT"
+    },
+    "data/human_segmentation_consolidation_2026-10-15_p.json": {
+      "bytes": 2313,
+      "sha256": "079b040179c063c5be5e973a066b782c286da7da0df5142d5e0d7ef268f6ded1",
+      "license": "MIT"
+    },
+    "data/human_segmentation_consolidation_2026-10-15_s.json": {
+      "bytes": 2299,
+      "sha256": "ada17e24289af837463ec5a4ec0520eae583aafd4ac21ff661037775f5f0d5d7",
+      "license": "MIT"
+    },
+    "data/human_segmentation_consolidation_2026-10-15_t.json": {
+      "bytes": 2176,
+      "sha256": "45219cd4862e1358807601293e161b1d48dc5da1b96155cc228ed27d4663e6b2",
+      "license": "MIT"
+    },
+    "data/human_segmentation_revision_2026-10-15_f.json": {
+      "bytes": 1606,
+      "sha256": "11550b4a3e57ab75f2276dafe35b94644330cec4bc27318a0426bb09a27bc9ec",
+      "license": "MIT"
+    },
+    "data/human_segmentation_revision_2026-10-15_g.json": {
+      "bytes": 1591,
+      "sha256": "0cd24350490f8b44f7743194b828860f45c3cfdf2e8c98bce8a3e78645c9ff8b",
+      "license": "MIT"
+    },
+    "data/human_segmentation_revision_2026-10-15_m.json": {
+      "bytes": 1478,
+      "sha256": "6d58924e0635d1db9eaa41a2f621bec08667ffb553453842671aef3e797df144",
+      "license": "MIT"
+    },
+    "data/human_segmentation_revision_2026-10-15_p.json": {
+      "bytes": 1643,
+      "sha256": "831cee1eebb0223e20cfe8a68815554022aa1aa2146fbc9f6064ef0bb2810052",
+      "license": "MIT"
+    },
+    "data/human_segmentation_revision_2026-10-15_s.json": {
+      "bytes": 1718,
+      "sha256": "c7faa1cc45169f009f70f7ec082058ca337f3dcfde4766f541190b419b167d0b",
+      "license": "MIT"
+    },
+    "data/human_segmentation_revision_2026-10-15_t.json": {
+      "bytes": 1167,
+      "sha256": "25c45cacf065e99ac1ad89478dec537096af648f743bfd701c3f712caff63aff",
+      "license": "MIT"
+    },
+    "data/jkuvwxyz_variant_study_2026-10-16.json": {
+      "bytes": 29078,
+      "sha256": "26bdf97c9993488cadcccc023d00a596e3bc59cfe7d4bd25ab1d15fecc7f1dd2",
+      "license": "MIT"
+    },
+    "data/jkvwxy_variant_study_2026-10-16.json": {
+      "bytes": 18002,
+      "sha256": "6b929e2b3fc715b4af4aa5b2054c5b573f963f57149d07b0593c75a306502dc8",
+      "license": "MIT"
+    },
+    "data/lowercase_completion_2026-10-15.json": {
+      "bytes": 4287,
+      "sha256": "c04efebbd8d5606271f1af7c2a8c8096c30e22b361159ceee4f11afbf8723227",
+      "license": "MIT"
+    },
+    "data/lowercase_design_2026-10-15.json": {
+      "bytes": 13317,
+      "sha256": "7dc4d7461928123ba43b146bf429b8bb7c069a7838f80b5b66e378c41d4ca175",
+      "license": "MIT"
+    },
+    "data/lowercase_expansion_2026-10-14.json": {
+      "bytes": 73433,
+      "sha256": "84a481a4553fac2e52aeeeeee77cefc0764d080a6db0265d7a3276c412f9ce9f",
+      "license": "MIT"
+    },
+    "data/lowercase_search_2026-10-14.json": {
+      "bytes": 86150,
+      "sha256": "853c7255a6e9e7b32bef968a399626c21a87fe134b5c10c468077a82ac0cbd55",
+      "license": "MIT"
+    },
+    "data/opqr_variant_study_2026-10-15.json": {
+      "bytes": 19829,
+      "sha256": "13788504e0c9dd182335f17822a3163b56f3149a8ccb1597efc07456aa9aa6fa",
+      "license": "MIT"
+    },
+    "data/originals_recovery_2026-10-15.json": {
+      "bytes": 6500,
+      "sha256": "a650385168cb80010196662a7a5457c959505e4c84ea4247164cc2bc3c3c3a2a",
+      "license": "MIT"
+    },
+    "data/research_assessment_2026-10-15.json": {
+      "bytes": 9573,
+      "sha256": "c473d09bc726416dda40d638a841ae3dcd377277ce52d9e5bdb341a993335528",
+      "license": "MIT"
+    },
+    "data/research_followup_2026-10-14.json": {
+      "bytes": 3476,
+      "sha256": "6559c37371757e35a6f462ad2b16479fb148b95065529dc85f55f889f4d8d301",
+      "license": "MIT"
+    },
+    "data/segmentation/bhmt-2026-10-15.json": {
+      "bytes": 43558,
+      "sha256": "b44764bab2bc0af31441ec201d8096ddeb5c82b95a2060f88c40114251d6aa46",
+      "license": "MIT"
+    },
+    "data/segmentation/cfiz-2026-10-15.json": {
+      "bytes": 11360,
+      "sha256": "98b8154e442b2b3062ee435a1dad82ffb0bf918a9eb4313f1d034f208ceff5d3",
+      "license": "MIT"
+    },
+    "data/segmentation/gpqsu-2026-10-15.json": {
+      "bytes": 55741,
+      "sha256": "a14f20f2af9dbd4f32d3d8ed3f4a1ab3ecb54deb0f7169770e0afad8872ba287",
+      "license": "MIT"
+    },
+    "data/segmentation_consolidation_2026-10-15.json": {
+      "bytes": 22227,
+      "sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+      "license": "MIT"
+    },
+    "data/segmentation_revisions_2026-10-15_f.json": {
+      "bytes": 7725,
+      "sha256": "2a148104b9025a58dbb668645c8779859cc3147565b7a902a69eb48b95b86c7b",
+      "license": "MIT"
+    },
+    "data/segmentation_revisions_2026-10-15_g.json": {
+      "bytes": 6644,
+      "sha256": "02df8225975c403a2844e0bac706c3cfe84ad655a10398542f7bcdc81ab49827",
+      "license": "MIT"
+    },
+    "data/segmentation_revisions_2026-10-15_m.json": {
+      "bytes": 7023,
+      "sha256": "b5de8830d442b541a27c9c4eb640b048f0971b230bf520d34b622dec29369419",
+      "license": "MIT"
+    },
+    "data/segmentation_revisions_2026-10-15_p.json": {
+      "bytes": 6471,
+      "sha256": "cb121043227a773bff61989d2fd764e7646d46311032484f780b46245beed40b",
+      "license": "MIT"
+    },
+    "data/segmentation_revisions_2026-10-15_s.json": {
+      "bytes": 7017,
+      "sha256": "f7f72110026639211ae0a40e7ec2d7a5259fb697f90401991d1c6f9c37dc70cf",
+      "license": "MIT"
+    },
+    "data/segmentation_revisions_2026-10-15_t.json": {
+      "bytes": 3334,
+      "sha256": "00b647846aeb39f4a96b16ca2f7cd6a9a280cd09c1a017a41c67ff29f3e399f6",
+      "license": "MIT"
+    },
+    "data/source_registry.csv": {
+      "bytes": 1661,
+      "sha256": "30528972bb2e3cce3c3490948fb2340d19ea901b82b36d381df7d7d69cea6146",
+      "license": "MIT"
+    },
+    "docs/AEMNU_VARIANT_STUDY.md": {
+      "bytes": 7550,
+      "sha256": "ddda8db38c10aaf83409145169b7cde3e95464eb288989b174606915072eb91e",
+      "license": "MIT"
+    },
+    "docs/AGENT_CONTRIBUTION.md": {
+      "bytes": 3714,
+      "sha256": "483356f2c3a120dfb833e4b3f3497e4cc44b54507403d4fda273f982989c158d",
+      "license": "MIT"
+    },
+    "docs/BFHIOQ_VARIANT_STUDY.md": {
+      "bytes": 7500,
+      "sha256": "349ef3912a947815809e85ef425d810d4224e8057b152c82e4e5a946bd206812",
+      "license": "MIT"
+    },
+    "docs/BUILDING.md": {
+      "bytes": 11463,
+      "sha256": "dd5c7827cf582ad25e4a88238f8876eb36f31376cd12afa22f1625e283bc8f65",
+      "license": "MIT"
+    },
+    "docs/CAPITALS_VARIANT_STUDY.md": {
+      "bytes": 8979,
+      "sha256": "72d801f0f739d7d03bde1062a990a5f0a510984cff7e2053496b207bea3fc74d",
+      "license": "MIT"
+    },
+    "docs/CDEGPT_VARIANT_STUDY.md": {
+      "bytes": 7113,
+      "sha256": "887325f1323df74312e02e5122228abda0ef6f2bb6fc7f21691d5b8248df3e5a",
+      "license": "MIT"
+    },
+    "docs/COMPARISON.md": {
+      "bytes": 9270,
+      "sha256": "c1eafeb648f604d9242b0cd082c8649741282c31307670a23d4b740f61880197",
+      "license": "MIT"
+    },
+    "docs/CORPUS_EXPANSION.md": {
+      "bytes": 17869,
+      "sha256": "ee850dfba25a0bdaa8798a3e90d3fbee2497a25c58066fad612460aac338d2cc",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE.csv": {
+      "bytes": 19854,
+      "sha256": "0497bee20fadeb11083b907358b50f3c9b521dda81f22997c92668c9761c7102",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_200.csv": {
+      "bytes": 21067,
+      "sha256": "f5251f56728be6c5a6a49485ee18bc5a6ba4ee7d09a3716a57bb0d200ea8c267",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_210.csv": {
+      "bytes": 21727,
+      "sha256": "08449bec5a3825a65259b886163d419813cfa0777e0448ec685749ae3a298ef5",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_211.csv": {
+      "bytes": 21968,
+      "sha256": "3c053d5e01f3ccbe7ecc52a06b20d5d2458dfa4a7e1f6837f1ba527eafae500c",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_220.csv": {
+      "bytes": 22471,
+      "sha256": "851ee2db7c1f5c551bdc984d35ac612bc2400d0ed3fa73cd92b7b91aa893d618",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_230.csv": {
+      "bytes": 23450,
+      "sha256": "9d7837f620ba9f5830ede314e34642fc8cc93cc1d5df2d257139e7e9a794bda4",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_240.csv": {
+      "bytes": 24610,
+      "sha256": "fb1aa8faae6aead28f3942c36673e1800d822f63b5d11a49f776fd26bf13d2b7",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_250.csv": {
+      "bytes": 25889,
+      "sha256": "8de7c378019fc21f25151aaa0135768fac420ea7facdb93e45f9fbbb339264db",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_260.csv": {
+      "bytes": 27412,
+      "sha256": "68cfb8058b6719726b4f83d0891beb3136c56becf60d00709cfcfb783e50118e",
+      "license": "MIT"
+    },
+    "docs/DERIVAZIONE_1_270.csv": {
+      "bytes": 30128,
+      "sha256": "48aa1caa092e0c42f3aaa27ebe912f57a6cf00a0e7233fece9a2079fdf6cdde4",
+      "license": "MIT"
+    },
+    "docs/GUIDED_REVIEW.md": {
+      "bytes": 9434,
+      "sha256": "41286251c3dd467af967791766653cc216adb01699664475592ffd8174276412",
+      "license": "MIT"
+    },
+    "docs/JKUVWXYZ_VARIANT_STUDY.md": {
+      "bytes": 8271,
+      "sha256": "61ae3ed4e2c94b1262d74df71cb9f92850ae5b05839116ea326c5bf568de9910",
+      "license": "MIT"
+    },
+    "docs/JKVWXY_VARIANT_STUDY.md": {
+      "bytes": 8424,
+      "sha256": "1bf415770227783aabb91a2f992e15b3dc90d2628ec37a28509491cc9e87e47d",
+      "license": "MIT"
+    },
+    "docs/LICENSES.md": {
+      "bytes": 1392,
+      "sha256": "b9278dc76eec53553eac51311959ebf8cc6854ae99391d6b0d3dbcf35889a8f6",
+      "license": "MIT"
+    },
+    "docs/LOWERCASE_DERIVATION_1_200.md": {
+      "bytes": 18606,
+      "sha256": "24aa99a25008965f4f202e84a4b20a6ea39fad6f704f0ccf457731ece2c0b949",
+      "license": "MIT"
+    },
+    "docs/LOWERCASE_SEARCH.md": {
+      "bytes": 15568,
+      "sha256": "a936bf750cb6864e9ded2943140c430fe51449a64ca420a11c1efafa7558a8fb",
+      "license": "MIT"
+    },
+    "docs/OFFICE_1_100.md": {
+      "bytes": 5979,
+      "sha256": "21cc3d4f657488e2d892262e8f4d2a3d46cc450605b5bb92af94bab7cfe1180e",
+      "license": "MIT"
+    },
+    "docs/OFFICE_1_270.md": {
+      "bytes": 7633,
+      "sha256": "d1a4ad053f6f93b01c92cebef103adf518a6660fd830dc071ce2e88c0c90eb56",
+      "license": "MIT"
+    },
+    "docs/OPQR_VARIANT_STUDY.md": {
+      "bytes": 6802,
+      "sha256": "77629f7eb1a5216062fe1acefd5e695c2a4b0ef6cfb41d07dcf2113c26f404ab",
+      "license": "MIT"
+    },
+    "docs/PACKAGE_QA.json": {
+      "bytes": 15354,
+      "sha256": "f2653386331bcb944eb9618696fd48246d70bd6e329be59ed475cd678e4ed5de",
+      "license": "MIT"
+    },
+    "docs/PREPUBLICATION_REVIEW.md": {
+      "bytes": 8475,
+      "sha256": "01958948e4d4ffed851cbdb772f5ab902f33bfdc9a84967c092455204f8beab2",
+      "license": "MIT"
+    },
+    "docs/PROJECT.md": {
+      "bytes": 3678,
+      "sha256": "aa764eefa5fcc5851f7914dda94ab31d6d5780749baa2c5040c93890dbe9203a",
+      "license": "MIT"
+    },
+    "docs/PROVENANCE.md": {
+      "bytes": 8815,
+      "sha256": "844c4972853afed2938516225d293e6675331c7371eb96958a17dc6f357ae2d5",
+      "license": "MIT"
+    },
+    "docs/QA.md": {
+      "bytes": 23007,
+      "sha256": "fec0e7e1bb35cd00c4f499794f57195a766d43bd01078dee3bd2af26afbe014d",
+      "license": "MIT"
+    },
+    "docs/QA_1_200.json": {
+      "bytes": 3020,
+      "sha256": "54d1e21c2d2a20fae17f4d0c41fccf2afcfb94be6deabfece074727552a4cb27",
+      "license": "MIT"
+    },
+    "docs/QA_1_210.json": {
+      "bytes": 2628,
+      "sha256": "e2b9ab868c2f867a29d70a44c7d90011df03101c56be81cc8d11e13d452bf43f",
+      "license": "MIT"
+    },
+    "docs/QA_1_211.json": {
+      "bytes": 6029,
+      "sha256": "672ac6d3c6717ad09f143a1bffaad6f04d3d81ebb804cef9dbfa063e40f1aac0",
+      "license": "MIT"
+    },
+    "docs/QA_1_220.json": {
+      "bytes": 3268,
+      "sha256": "7964ecea3e8d67be4ad6671d12797cd733329cc33b863686edfeb30bc4df0b0f",
+      "license": "MIT"
+    },
+    "docs/QA_1_230.json": {
+      "bytes": 4873,
+      "sha256": "366f85c6d98a99d4a1a55dbfe8c77fda5b532663380f6b8ad6d493cec7e6f7b4",
+      "license": "MIT"
+    },
+    "docs/QA_1_240.json": {
+      "bytes": 2130,
+      "sha256": "9760cb999d11968fe2d4fd9077c3fd577480e3098c69222aac72a53fbbc1302e",
+      "license": "MIT"
+    },
+    "docs/QA_1_250.json": {
+      "bytes": 2180,
+      "sha256": "b6b1b6ad475a2f0a7203ac27e3a2a1b2bb61bf28bbe9e892d09f431b97351742",
+      "license": "MIT"
+    },
+    "docs/QA_1_260.json": {
+      "bytes": 2194,
+      "sha256": "fa8d8f12dfa24a17a2ee5997e300434706ce194d2091e77cf9269a1cf80871c0",
+      "license": "MIT"
+    },
+    "docs/QA_1_270.json": {
+      "bytes": 3014,
+      "sha256": "d229698c2987f8ef1872e499fe7d48d946a9f4974bb11606f5185f777e6067de",
+      "license": "MIT"
+    },
+    "docs/QA_AEMNU_STUDY_2026-10-15.json": {
+      "bytes": 4736,
+      "sha256": "dafc3de765715571d8cea043c144b1ff8183e9c0d2b00624ad6d9d84e73aff38",
+      "license": "MIT"
+    },
+    "docs/QA_BFHIOQ_STUDY_2026-10-16.json": {
+      "bytes": 2566,
+      "sha256": "59c0aa6f4ad0a0e886a23e75c48182d1ff59772e99eddbd7b0b39fc85db79e4d",
+      "license": "MIT"
+    },
+    "docs/QA_CAPITALS_STUDY_2026-10-16.json": {
+      "bytes": 3002,
+      "sha256": "9c989e0785a968d8999b894f6e2da754c2bdcd452eef6ed723cd6a990218b8f8",
+      "license": "MIT"
+    },
+    "docs/QA_CDEGPT_STUDY_2026-10-16.json": {
+      "bytes": 2403,
+      "sha256": "e5dadece2bfb451b6b9ee62b69f06030a69d48746cd0ec6ce74ca7aff7d05e69",
+      "license": "MIT"
+    },
+    "docs/QA_JKUVWXYZ_STUDY_2026-10-16.json": {
+      "bytes": 2651,
+      "sha256": "cb1047700a7d2e0a3f782949e0e69d5827ad393474d24bb374b1ab5026f88c73",
+      "license": "MIT"
+    },
+    "docs/QA_JKVWXY_STUDY_2026-10-16.json": {
+      "bytes": 5184,
+      "sha256": "8ff8155e17d682763fd48325a8e5c54d02cf3b8422c3ac4561e901c12d10f560",
+      "license": "MIT"
+    },
+    "docs/QA_NAMING_1_270.json": {
+      "bytes": 1973,
+      "sha256": "9fdd7648d80646f0568c4975a251a8a0db8bb289ddda5b21134939bb075f9262",
+      "license": "MIT"
+    },
+    "docs/QA_OFFICE_1_270.json": {
+      "bytes": 3953,
+      "sha256": "7d9767f65f18da36ae40bd8e5234f33fa29ef2fedf65aaab038e26bd2e335f94",
+      "license": "MIT"
+    },
+    "docs/QUALITY_COMPLETION_PLAN.md": {
+      "bytes": 21681,
+      "sha256": "2d62b4e457a513ee84b1718435fa6ac3327ab065317bfeaab61da4cc71eda347",
+      "license": "MIT"
+    },
+    "docs/README.md": {
+      "bytes": 2175,
+      "sha256": "6e3129e1adb78e0397335c87e5aa97dcbc7955bf6aaf82e9a3669373711d3ed8",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_100.md": {
+      "bytes": 4953,
+      "sha256": "bc0a35c8eafa55c8f73c87704719f72eb19d149beb438ea7acdd310334723e2c",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_200.md": {
+      "bytes": 5172,
+      "sha256": "b603ef1f2cf7ba3d9d73cf15cd8b0ffef432e4bc384c0b54031b35a097dd0a77",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_210.md": {
+      "bytes": 4709,
+      "sha256": "49e192361293f452f2373d32d5ecb07a6766ef6f39f4b329c5b7d7bb8b1d934a",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_211.md": {
+      "bytes": 4708,
+      "sha256": "1bf60aa167411834e7bc3281793855a23f2c8bf10a6a083d4920d796505f1521",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_220.md": {
+      "bytes": 4588,
+      "sha256": "749b54478f21ec894511f31015a6bd7a72f1f066abfb25b957cfd3fe9af927fb",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_230.md": {
+      "bytes": 5719,
+      "sha256": "bc780c1cbd823d88d1f9be64330d469155aa326e82e7133444a5564898dfdbd6",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_240.md": {
+      "bytes": 4997,
+      "sha256": "fb66f6b5609a5774c1bbc2d505ae54bc104a3e060e3cade66945fcb0afd96c93",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_250.md": {
+      "bytes": 4918,
+      "sha256": "db06a70c759d4cda39166357272bdffa82b70519de174ad46b91747be1439e73",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_260.md": {
+      "bytes": 4884,
+      "sha256": "a9833082c9a13e5fd9ac93d736a424db4ff6157e860ecf68d03f436d1974d43a",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_270.md": {
+      "bytes": 7012,
+      "sha256": "c08b75307c05aaa8d3333a5d79246184eb107faa9edec17e92ac0100daf603ad",
+      "license": "MIT"
+    },
+    "docs/REGULAR_1_270_NAMING.md": {
+      "bytes": 4380,
+      "sha256": "f1c5c952a8373c23e0fd7ef9387deed796df6094bf6e8696c7fc67d5f1c85b01",
+      "license": "MIT"
+    },
+    "docs/REVIEW.md": {
+      "bytes": 8359,
+      "sha256": "52ee132e58ba5cf2c1d41372bc0ec42a02ac30844e9bc42329ff26e17850c015",
+      "license": "MIT"
+    },
+    "docs/SEGMENTATION_CONSOLIDATED.md": {
+      "bytes": 13461,
+      "sha256": "81ccde425152ceb58a0c284b949c4befc9576c6eddbd29db8c5b3404da4c66c7",
+      "license": "MIT"
+    },
+    "docs/SEGMENTATION_DESIGN_REVIEW.md": {
+      "bytes": 10105,
+      "sha256": "b5ce0df322e410e219dbe370981f02da8d9984f912439c16e522deab9d0d215e",
+      "license": "MIT"
+    },
+    "docs/SOURCE_RIGHTS_REVIEW.md": {
+      "bytes": 4370,
+      "sha256": "927e2354dbe0164ddbb3e0c531a7ce857bcfedea25882192a2e85cca330b9aa2",
+      "license": "MIT"
+    },
+    "examples/aemnu_selection_proof.py": {
+      "bytes": 2064,
+      "sha256": "c51a62913c9f2f9658a669f2aa305a07f7a90b1952f95d599b4088a68d7a6b99",
+      "license": "MIT"
+    },
+    "examples/aemnu_study.py": {
+      "bytes": 19903,
+      "sha256": "cfa0c5b2e594774119c6903fa87edd17430aa143bb97166b92e1d1507a56483e",
+      "license": "MIT"
+    },
+    "examples/bfhioq_selection_proof.py": {
+      "bytes": 2901,
+      "sha256": "3fb8b6d20be5cd7de08979a7d7aa8add97b02c3424e86ad228459cf38f773fd8",
+      "license": "MIT"
+    },
+    "examples/bfhioq_study.py": {
+      "bytes": 23574,
+      "sha256": "d5249afb51031df7cdcf5c5903fc267cfa164b99adee19980b7b8dc8fc218583",
+      "license": "MIT"
+    },
+    "examples/capitals_selection_proof.py": {
+      "bytes": 2885,
+      "sha256": "b1dd7edc7e50d7f3f221a043c696ff0f131ef290599e06ad9b64bae09a6ae773",
+      "license": "MIT"
+    },
+    "examples/capitals_study.py": {
+      "bytes": 22832,
+      "sha256": "afa7f437371bcc86b2b45fe556fbce757f3617b58f0bf1f761ab26d648809b1e",
+      "license": "MIT"
+    },
+    "examples/cdegpt_selection_proof.py": {
+      "bytes": 2915,
+      "sha256": "066bafdc0af35504192b157c376dabd000c14e412abf56bdaa672dc401b78dc6",
+      "license": "MIT"
+    },
+    "examples/cdegpt_study.py": {
+      "bytes": 23162,
+      "sha256": "ed18fbefa6af5240d8fc2a2ee5b5999b8f3603c1b4f286b7c07182fd15588b27",
+      "license": "MIT"
+    },
+    "examples/check_privacy.py": {
+      "bytes": 5150,
+      "sha256": "41a515653ee9250ee1b79df6eff24a9759cebaf044df46cf4df9fbe64c42f184",
+      "license": "MIT"
+    },
+    "examples/completion_comparison.py": {
+      "bytes": 3107,
+      "sha256": "ac246c730524af0c0180fa1c8f172f9091d183868794547886380fc6a25d11fa",
+      "license": "MIT"
+    },
+    "examples/corpus_review.py": {
+      "bytes": 20738,
+      "sha256": "f64b8c6997e3b59fc98e46a301035d458aaf7794f10411a2063e30a62a0d4f1a",
+      "license": "MIT"
+    },
+    "examples/finalize_regular_1270.py": {
+      "bytes": 3016,
+      "sha256": "7b36d1df3eafdd1f1896fee1d214d71c21bd3e6c5f491e4ed4d187a34f6336f5",
+      "license": "MIT"
+    },
+    "examples/guided_review.py": {
+      "bytes": 23100,
+      "sha256": "4fccaf28046bc6073c172db6377d1de3677238e6d4390d9efd6954a26ac3fb0b",
+      "license": "MIT"
+    },
+    "examples/inventory.py": {
+      "bytes": 12285,
+      "sha256": "1d43ffb927b13a68f20ca38e10bbe4816841dd802a4e9e607aea4c1edb61517e",
+      "license": "MIT"
+    },
+    "examples/jkuvwxyz_selection_proof.py": {
+      "bytes": 2910,
+      "sha256": "8d9381462ce81f096bf214eb85efe50f31d49d104844862d873efb908a5dbdc1",
+      "license": "MIT"
+    },
+    "examples/jkuvwxyz_study.py": {
+      "bytes": 24380,
+      "sha256": "5dbd2f85875674ad5ffdb5546369f8871a6c490705731b96e88bf4ef8bac90f2",
+      "license": "MIT"
+    },
+    "examples/jkvwxy_selection_proof.py": {
+      "bytes": 2841,
+      "sha256": "f5fcad09bced6e43c2ad875c235a1e1c2894427203c65e720326aa427b3b0ad7",
+      "license": "MIT"
+    },
+    "examples/jkvwxy_study.py": {
+      "bytes": 21339,
+      "sha256": "ee28ee4bbd464ffd0952ef8e99c8b4d7c7287cb824d78ff451e5a21a847ebbe2",
+      "license": "MIT"
+    },
+    "examples/opqr_selection_proof.py": {
+      "bytes": 2020,
+      "sha256": "2a8a5016335c8d54718da5a750ebe0105a86279e27af09be1df1fa42da3a53b4",
+      "license": "MIT"
+    },
+    "examples/opqr_study.py": {
+      "bytes": 19285,
+      "sha256": "1728d0f96e2523a2413de5f7302d83319c1c9a8a0294f6d715b9634b660edde7",
+      "license": "MIT"
+    },
+    "examples/pq_spacing_proof.py": {
+      "bytes": 4338,
+      "sha256": "7a18eaa5feb5cb3da31489e5901b34097b59078385fcd5137e7f52a331f9d200",
+      "license": "MIT"
+    },
+    "examples/print_specimen_1270.py": {
+      "bytes": 6957,
+      "sha256": "5901a92fcbd6dcefc3e12d13366b081002410e4a5cd81677af13955e4dc18e3c",
+      "license": "MIT"
+    },
+    "examples/publication_preview.py": {
+      "bytes": 1795,
+      "sha256": "a9bcdf80e309ec6416288c0da8187e8aa6c07ebaaea65185e1ec01f5f9b81d0e",
+      "license": "MIT"
+    },
+    "examples/regular_pdf_specimen.py": {
+      "bytes": 5126,
+      "sha256": "f4551bf6140ae91b04ecabb9e74fa8f970eea13741877f12c937394810fa8c08",
+      "license": "MIT"
+    },
+    "examples/regular_spacing_check.py": {
+      "bytes": 1976,
+      "sha256": "9eb27ce51bbcad70eacd3006e4ac5f92735133cb1e79d0ed4edefa9e3fb7f151",
+      "license": "MIT"
+    },
+    "examples/regular_specimen.py": {
+      "bytes": 12985,
+      "sha256": "10d4c86cd32120eb088f4bd18dc028bf42c926bf6cc169024b74117e8f4953ce",
+      "license": "MIT"
+    },
+    "examples/segmentation_consolidation.py": {
+      "bytes": 19219,
+      "sha256": "4f33fece22700355094d229a4efa46d4d339b66ef582a6aae1fa75f2734c8075",
+      "license": "MIT"
+    },
+    "examples/segmentation_review.py": {
+      "bytes": 21099,
+      "sha256": "ac9ee92b953af8014f1c3e5ba335b59e787bd0b8c79ae74c1178dd3508143482",
+      "license": "MIT"
+    },
+    "examples/windows_font_check.py": {
+      "bytes": 3225,
+      "sha256": "a450fafe682257ef867a4f4f1edfa9cf68bf119899b151d10c47269f1339901f",
+      "license": "MIT"
+    },
+    "fonts/Leonardus-1200-Regular.ttf": {
+      "bytes": 27064,
+      "sha256": "5186db19d2c3def93bd8346aa512ad1de8ebf71b5171ac8444e034f0785f6bba",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-1210-Regular.ttf": {
+      "bytes": 27056,
+      "sha256": "c10aad78edd64c9ba5ac21fc68369f824e97aa6e21b2b895e288156c044d3ef8",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-1211-Regular.ttf": {
+      "bytes": 27148,
+      "sha256": "75e11eb8b0cfe807c37c17900b68726c4865e3d76e91d92656aa203d568d8482",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-1220-Regular.ttf": {
+      "bytes": 27024,
+      "sha256": "57d0a07912297b0d52f2eb0ecbc6ee0b70bbc55d10e9db0ed85f74c275c06783",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-1230-Regular.ttf": {
+      "bytes": 27080,
+      "sha256": "d8431dde57bb1f7427d73003b60f3590c2845f3bd311d70bb7da3a5d9b8e30c5",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-1240-Regular.ttf": {
+      "bytes": 27496,
+      "sha256": "e6f340ff1f83fc37ecfa036b2180b621411e13ed8bd02b2aad93dd335d650d47",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-1250-Regular.ttf": {
+      "bytes": 27680,
+      "sha256": "6e383ce0792149a50023ac73e5d7f33105534db07004bd88bceac491cc6d2ffb",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-1260-Regular.ttf": {
+      "bytes": 28052,
+      "sha256": "f0c1ed6faeb76e66ab88a54cff7ca52c6c30fd33884c72b74cc915b5030e70bf",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-1270-Regular.ttf": {
+      "bytes": 28908,
+      "sha256": "3e1e7e6ac2416f6f321b302b46fb1b598ac04015663d731324224ce0221c240d",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-Regular-1.270.ttf": {
+      "bytes": 28800,
+      "sha256": "0d10af2c358d9a4884e41d910cbcb789f1648073f43f048ac20eee0d5afe1201",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-Regular.ttf": {
+      "bytes": 26640,
+      "sha256": "1f65d26ece4c8a0fe9c275fcdedfa037fab88a9687b0cd89a941d131eb899632",
+      "license": "OFL-1.1"
+    },
+    "fonts/previous/Leonardus-Regular-1.000.ttf": {
+      "bytes": 26164,
+      "sha256": "92e3c7d22bcd34652b502b643e1efed61aedf83fac3659c29c73593d028a3d94",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-11-v3/README.md": {
+      "bytes": 267,
+      "sha256": "0f2b25fb595d5ea13cce5a85c8b53d378be7d3b493cfb54f0ffe7c5a12678ff0",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-11-v3/a.svg": {
+      "bytes": 819,
+      "sha256": "f43e8ac8fc485fa0e4614f4d724de67b9a75917023b211e9000e4c77363e6ca7",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-11-v3/d.svg": {
+      "bytes": 1072,
+      "sha256": "2da0783a8fbd94d793a416996a7c07bb6096f961a7bd651f75d3286704aa1007",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-11-v3/e.svg": {
+      "bytes": 837,
+      "sha256": "8d44b005fb088a1f24a4a38a9328c8621ec39a73bec6079a9f601bcf3200fe40",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-11-v3/l.svg": {
+      "bytes": 744,
+      "sha256": "0ef490fdf98c04b8ee3abc1a4fbdad5b1b2eecd97121e0dbd8031cf878598683",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-11-v3/n.svg": {
+      "bytes": 687,
+      "sha256": "ef286d29d4148ec4b839f7960114a6db001ffd297301d40abd39830444b802df",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-11-v3/o.svg": {
+      "bytes": 682,
+      "sha256": "9a51c307da53574f00bec34dc35b7e357ec44d520085f5a6bef014d2f0a198df",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-11-v3/r.svg": {
+      "bytes": 520,
+      "sha256": "c9d501b5f46ad642f79cf6396e62f27a00db68c250f99264e11d6d0fdbee7947",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/a-A.svg": {
+      "bytes": 654,
+      "sha256": "ef26948c18409ec39b9f1206ca36f8a68b2573c85d0fdfe490769b315f92bd02",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/a-B.svg": {
+      "bytes": 542,
+      "sha256": "828d8da7dfcbf123d04ca8dcd1ca0a7efad512a1aa8316c59844e890cf53d45c",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/e-A.svg": {
+      "bytes": 650,
+      "sha256": "ac53ae0ca4fd556b6f54e8c0c3376a09b97142c344827c427513b9612c111595",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/e-B.svg": {
+      "bytes": 773,
+      "sha256": "735a74c1141f39fa1515e865565801736df967ad068ecc02650166ac694f21ea",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/m-A.svg": {
+      "bytes": 688,
+      "sha256": "80584cde499368bc6ac4a40d431198daf701d100c21b5570b93a8e3b79ee22ec",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/m-B.svg": {
+      "bytes": 658,
+      "sha256": "3e5b8f4c99024ab5a12bd6b2911bebfcaf6ce365ce770576bdc4173b6f2fd731",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/n-A.svg": {
+      "bytes": 592,
+      "sha256": "0f02cad49ca26a7bf5176c9e3dfc24d3970786d6f506155c8e56e468eb88d1d1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/n-B.svg": {
+      "bytes": 578,
+      "sha256": "fb9f0156ed8b2b8ceb8eeb17c598fc49bb647bca81bd188db10d4e3a0d01b1a4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/u-A.svg": {
+      "bytes": 556,
+      "sha256": "bf5881c66b62dd9268f3d1c7d1ceae4272b1cf4d3415dde44eac61d8e63837cc",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-aemnu/u-B.svg": {
+      "bytes": 577,
+      "sha256": "88e3b9ea9be5fb67a25c57e47d67f568f63a6cdf0b1ea268a55c97ae2da3bcc8",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/README.md": {
+      "bytes": 1306,
+      "sha256": "39f2e131b99f215324a76a18e4d020e0f1e01f49001da40ca6082ea2a4b8866b",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/b.svg": {
+      "bytes": 758,
+      "sha256": "f2be9c9bf8cca38bf774898c08682d7f34a46307ac750a4fb652f2892f4e14d1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/c.svg": {
+      "bytes": 812,
+      "sha256": "a8028a52afcbf9e091a0f755ef8cb73164d35290b11eed3d73a7e6944f72ca49",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/f.svg": {
+      "bytes": 874,
+      "sha256": "ae4d050ebfe240b85789b0b1e1d0c85113baf72936cfc5fc3bcc449e69facb67",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/g.svg": {
+      "bytes": 1130,
+      "sha256": "796ab0031bc2697d3817d321640e0968c4572c78277c4207c2c426e75a3e4fc1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/h.svg": {
+      "bytes": 799,
+      "sha256": "da636e7210f1a62f83a2614ae6e8a785079edebe29f47c21f77f299338e4a4b0",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/i.svg": {
+      "bytes": 843,
+      "sha256": "1b5b8625df55602d249d5202a4e3043a52b520526e830c31a02c1149c9e347cc",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/m.svg": {
+      "bytes": 847,
+      "sha256": "a66e5543d55864b7d6107d31dc1ee57ab92bb5cb316e7ae32f235d4db978379c",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/p.svg": {
+      "bytes": 729,
+      "sha256": "75033aade9d00ff7d5284117c9620564d1aadd485439e64a74bf7704ba051421",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/q.svg": {
+      "bytes": 754,
+      "sha256": "3246de20db443f1e623a662f21e2efdd7dc051702c47a9341988354f50ff3923",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/s-long-v1.svg": {
+      "bytes": 777,
+      "sha256": "46d342ab628c1f44a39330bcd67df37a67c69805ac82c309c6b6281cf30e703e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/s-short.svg": {
+      "bytes": 849,
+      "sha256": "92f39c1ab1b8cb5a66198461efef28f7a16f52a3fa8216a7642ea7da8b42ae45",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/s.svg": {
+      "bytes": 725,
+      "sha256": "282905a199f9fe840052e6d5d069e90ca937f3aab69ab00fb5e2d234c263eb65",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/t.svg": {
+      "bytes": 656,
+      "sha256": "e7da8dc9c49c352c02dcc84b33c64812dbf44c8cc797474f64725507e5694554",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/u.svg": {
+      "bytes": 754,
+      "sha256": "a0c78d5b4f1a2b3b30d8eb25f31dc39915e9b99debfa378d0fabbba7281b3af4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-lowercase/z.svg": {
+      "bytes": 879,
+      "sha256": "be1d702fb0d52d673d10bdac51018b2964c7030c8c132436f36f2317d73c366e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-opqr/o-A.svg": {
+      "bytes": 617,
+      "sha256": "b5e295ca28246af368ec8eec966fc5bd4251281536228dcfe3c53da44eb0edd7",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-opqr/o-B.svg": {
+      "bytes": 617,
+      "sha256": "c2f67e6334ec124b3b9190c1ab662e1769fa19619e538813bcbd36643d9d206f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-opqr/p-A.svg": {
+      "bytes": 599,
+      "sha256": "2b95b8848775f4691125b40e3d6b4788ddb6c8c004b8961036209c85e4753c5f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-opqr/p-B.svg": {
+      "bytes": 488,
+      "sha256": "d0135ad15f1bc567a695039986d4e59fd54daf927cb7733992e8533744c0949f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-opqr/q-A.svg": {
+      "bytes": 580,
+      "sha256": "61bff5a4553acbb9b0d651045ac73c123f594cd37d46dd0ec5a6494f267bf06e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-opqr/q-B.svg": {
+      "bytes": 683,
+      "sha256": "c552d43fe9d147ad4c03b516180021c30603e7903185ea5694d0026e3704dbfa",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-opqr/r-A.svg": {
+      "bytes": 526,
+      "sha256": "c33592284cbd6e24866e2c690d128477a9e334d91db229de3911881438cc22b7",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-15-opqr/r-B.svg": {
+      "bytes": 510,
+      "sha256": "65664348961345d50b32a2e3d7bfeff31b0e8013d40fbf5c6db1da388423470c",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0042-A.svg": {
+      "bytes": 579,
+      "sha256": "6c917d1166c501c9b03ec3f6339b38027abe213bde8829c6e5329e635ef14318",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0042-B.svg": {
+      "bytes": 573,
+      "sha256": "ed00e318509abb50e26a57d9c9ead542adaeed9dc8d4bd3cfe1852d634bc2f16",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0046-A.svg": {
+      "bytes": 453,
+      "sha256": "7a636fa0d8703892a97559a3d3df6fb38c14c46c61f4d7648613a133992b2a75",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0046-B.svg": {
+      "bytes": 519,
+      "sha256": "2281d790c737aa383552c2250aec9885aeaa5f462af6ccb0d05808f1ae2641f3",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0048-A.svg": {
+      "bytes": 447,
+      "sha256": "4a79f238226805ac929dae0f68e522caa7c970e2f71cdf2e2282bc84c54cf5ea",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0048-B.svg": {
+      "bytes": 577,
+      "sha256": "fce7b08e2067d5de5d13df39d9aab40e6fae7e8c9be81872eed95690103455d6",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0049-A.svg": {
+      "bytes": 426,
+      "sha256": "50faf623c5010405fe962f1819ae6f0c431a8a7bf0b41052d10e378931988cd5",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0049-B.svg": {
+      "bytes": 504,
+      "sha256": "1e6214c881342c6effea5d2616ca5323caff820891ab2fb1ded4a9d0cb5787cb",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni004F-A.svg": {
+      "bytes": 497,
+      "sha256": "e6a58cdea2f13254aeb962c275080846087158e5ffe236d817173edd55a99ffc",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni004F-B.svg": {
+      "bytes": 553,
+      "sha256": "f7a1d048f0c03f7bb7850173177e5e2c7e414d489abbaf0c7f81366fa769b511",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0051-A.svg": {
+      "bytes": 555,
+      "sha256": "57512a2f1997273a81ab7212260607fc5ac45b6f87b617245d00b1883e7c864b",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-bfhioq/uni0051-B.svg": {
+      "bytes": 647,
+      "sha256": "e80631314c67af96faed7013c873b8df0ce77309befe71e3e50e6cb080e8bef5",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni0041-A.svg": {
+      "bytes": 282,
+      "sha256": "15a433a6c760ca7767ff828ce5041705539921b3798b49fcfd8a26b9a25122be",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni0041-B.svg": {
+      "bytes": 328,
+      "sha256": "d0250c50af5a410e955ae8f96d690a0a007fb9b5c32cd446650057b480c15cbd",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni004C-A.svg": {
+      "bytes": 247,
+      "sha256": "7c54c7579a8319b35a932cfd3faa8c8a97977f339c1b71dc7177922d03219060",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni004C-B.svg": {
+      "bytes": 321,
+      "sha256": "76f31a1f870ed85e6a30a4ae1c1e2eef642b9b747b2ddaa27ae5e1b1f51147fd",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni004D-A.svg": {
+      "bytes": 336,
+      "sha256": "bc0f07b6c450e818c4f8162f4835784987d369a1178dbb7dde6967c9a22b15a2",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni004D-B.svg": {
+      "bytes": 388,
+      "sha256": "f459bc18c002b87c0c019b32621a7f2e7310e95459756e238b04b3e7b1fc27bf",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni004E-A.svg": {
+      "bytes": 252,
+      "sha256": "c5bdea0bcfc0e6711a2e3d887d79d8a193a8e22c44c87d7c348c4de421422f08",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni004E-B.svg": {
+      "bytes": 270,
+      "sha256": "92fb74a5727cfc6fc1b228c6b5910c3e5c9593134890a714f18296c69c9ccf23",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni0052-A.svg": {
+      "bytes": 352,
+      "sha256": "fe93d0f4a5395050cafcbd906a180864cc34b9314a12f9229d67e8501e5a2888",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni0052-B.svg": {
+      "bytes": 370,
+      "sha256": "ff8a3512b3802c89104b730dfb81315dc0d8f300092437fcb5a203aa1ddef5e6",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni0053-A.svg": {
+      "bytes": 354,
+      "sha256": "182b389d99b3ec854d38cb042c60a22d5495ffef54599b3b198f51bb6eb48732",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-capitals/uni0053-B.svg": {
+      "bytes": 354,
+      "sha256": "56a2647e0b7fda50ba85afe4b935c3b984591d015450b6e2f863c6412aa4a908",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0043-A.svg": {
+      "bytes": 318,
+      "sha256": "97cbf22c6786ac81fefda101ba9024edb528fd0e91b4d7c14edd654c81139a61",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0043-B.svg": {
+      "bytes": 318,
+      "sha256": "4e3b82454345c480e9f84a5ff0cfb10cb633d36e0202f566b9b86224b435d5f1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0044-A.svg": {
+      "bytes": 293,
+      "sha256": "a0a666aa035b1d39255bdff8890ea232ebea7c10a37b513cf69b4fe6182d6c39",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0044-B.svg": {
+      "bytes": 338,
+      "sha256": "112a3fa963f5ceca55fa77c21f0c4673e2de8baf0f2ade68897795f5477c0a87",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0045-A.svg": {
+      "bytes": 289,
+      "sha256": "9f2840b1ed13ba2ce8fee13e05078a461f1c98f00e38b4727545bf6acd3b370b",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0045-B.svg": {
+      "bytes": 383,
+      "sha256": "fdb41e3ccb247d7b491fd3634f39541bb67c23cd272000f585fce2ba4dd0cb0c",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0047-A.svg": {
+      "bytes": 358,
+      "sha256": "31b88735a33de3eaa47c0fb700a951570543b6885e18906f40c84ee3cc180e1a",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0047-B.svg": {
+      "bytes": 364,
+      "sha256": "c4315cafbb70108375bf939880f518ec3fa6fa9803aaa37021e763d654598465",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0050-A.svg": {
+      "bytes": 278,
+      "sha256": "9a233cc9542b54c1da2e142a2b500d2ccd9145da27327588bbfada6b1a322533",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0050-B.svg": {
+      "bytes": 357,
+      "sha256": "c4393b0f0d14a3dc40f793c641fd7cb6235cc15388cb1c7733133856483040f2",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0054-A.svg": {
+      "bytes": 230,
+      "sha256": "814562789a3c93ee570fb6e8f92b317f8c5f6f608e7156e183dece26cd24db45",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-cdegpt/uni0054-B.svg": {
+      "bytes": 266,
+      "sha256": "e591c3e40925dc91c639632c74f883dade5a33c98c884ce67e935926572153ea",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni004A-A.svg": {
+      "bytes": 428,
+      "sha256": "2de58d2f3aeae3bf263765ddcde10f3de37e014bb35a93a0dded95257057fccd",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni004A-B.svg": {
+      "bytes": 533,
+      "sha256": "46233edb22191a5998b2eefa95dfab59c57e60c28dcdd9cfe2726e008021b77e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni004B-A.svg": {
+      "bytes": 437,
+      "sha256": "7996b4e0969c5860c3eee9e2a6aa70f111f1a46827029e4e725d11cf53477a9a",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni004B-B.svg": {
+      "bytes": 575,
+      "sha256": "d595e422cd69cb72c42b8264d26e6f01283b5093faae874b75c4b653c1c1993c",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0055-A.svg": {
+      "bytes": 399,
+      "sha256": "07a22fb295b52954552c22771e104637a1382b27b3eddd962fc008c01e00c27a",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0055-B.svg": {
+      "bytes": 537,
+      "sha256": "53f42b2b1f3f3a21328ec1f35aa86a41a81379ebd0edc8b4dffdcdcc7dcba39d",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0056-A.svg": {
+      "bytes": 381,
+      "sha256": "90285e791214da6957e6a759aeb91d62ec0cb816b9f772ee1ad1140e90fefb39",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0056-B.svg": {
+      "bytes": 483,
+      "sha256": "d0037f41b9779edf5a49a04cfe0ac5f719f48683c4a0a0fe2504eab8d7e3a162",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0057-A.svg": {
+      "bytes": 473,
+      "sha256": "0a74ddf405c25abdf3e57b182f888f3e7a00e337a2fb6ea062e09a3527d186f4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0057-B.svg": {
+      "bytes": 575,
+      "sha256": "97e149d9a68c9d708868b3b0a969a535288d53320e347a2f9469b92940ffcbe4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0058-A.svg": {
+      "bytes": 462,
+      "sha256": "72ed6070975a2001379f497a7777b87bd192ee9af2eb303071ad1ad91aacf6f7",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0058-B.svg": {
+      "bytes": 470,
+      "sha256": "eedbaa7e5c3afd6ebf1a598cc4162753717ef8a910527ca7e66259bff9a2408f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0059-A.svg": {
+      "bytes": 401,
+      "sha256": "8513af12f3a3022e10e7b16d9f26853be9786088c0b596200162565cbe395791",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni0059-B.svg": {
+      "bytes": 445,
+      "sha256": "6d3041e3669785652610e6c335cfc2607d44a98d0358a6b47513212cbc9f6555",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni005A-A.svg": {
+      "bytes": 415,
+      "sha256": "b81a80e22ad995e3d0093cad4b863b40b4b350370ace0df0a6ce8437e45ee9a6",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkuvwxyz/uni005A-B.svg": {
+      "bytes": 509,
+      "sha256": "1096ba40ef08d551134dca8a59c253fc9c1658c0d292293bec599b43958ef605",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/j-A.svg": {
+      "bytes": 669,
+      "sha256": "658eb7bec64213d3d362ec5930593d13087bf3f50790d0649d92d762191dac04",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/j-B.svg": {
+      "bytes": 712,
+      "sha256": "a6074cf13c8e70982c3b31cdcc25a03cfb0ecd7d574786d40eea151d590a15f1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/k-A.svg": {
+      "bytes": 671,
+      "sha256": "c4e51e721771a3021caba15dc7aa4a7dc6baf9e5e690cfb7d664ef70d0c38bf3",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/k-B.svg": {
+      "bytes": 708,
+      "sha256": "02ee76de14e8b0568fca5a1f7dee2bbdd507d0b2f60d58171115d50e0ff95f16",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/v-A.svg": {
+      "bytes": 623,
+      "sha256": "0adc730aa31d22669509776501965a9969da5321e41a901c37a731cfa340c448",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/v-B.svg": {
+      "bytes": 802,
+      "sha256": "ca9125ea7d94c3222318677e9038de4ab33e63a6a855aa16f55396f5d68c4b26",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/w-A.svg": {
+      "bytes": 676,
+      "sha256": "24c80ed4641fa2f88f11600a464896ca63926a78a0e0a093a5e4651731e096a4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/w-B.svg": {
+      "bytes": 662,
+      "sha256": "051eec87fce8178d5097e2ecfdbfacd05bebd1e1a4a041efe7228748ddd6381e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/x-A.svg": {
+      "bytes": 580,
+      "sha256": "17c0337b955b27a335bfd26589b9c783b8c3da0f7ba19a33d8f316f861f53581",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/x-B.svg": {
+      "bytes": 685,
+      "sha256": "922fa01771a5e255fdb2ff642787ff62a55d04a6d1e5dd0a0b61b9558cd1d433",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/y-A.svg": {
+      "bytes": 671,
+      "sha256": "77acd5e50ad6779f3a2ea08c054391908586549296803265355d11bcaa80b6df",
+      "license": "OFL-1.1"
+    },
+    "glyphs/proposals/2026-10-16-jkvwxy/y-B.svg": {
+      "bytes": 724,
+      "sha256": "1909a5a70e8cdac7ece8c7f8d81d83fc72f239f16d8ef018b8f39f4679033df0",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/OFL.txt": {
+      "bytes": 4341,
+      "sha256": "e3a42bb38406c93e68774afcbced10096b179f5a72d03408d53c14aaf1477740",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/OFL.txt": {
+      "bytes": 4341,
+      "sha256": "e3a42bb38406c93e68774afcbced10096b179f5a72d03408d53c14aaf1477740",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/README.md": {
+      "bytes": 790,
+      "sha256": "99df118158c1654c16838ff038f4a892567c4f0dfc83b90a00951a96baa3c53f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/design_manifest.json": {
+      "bytes": 60881,
+      "sha256": "96060e736d82b7442c446f9499be5893f3134c4b204766714acb30bcb4c08cb0",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/dotlessi.svg": {
+      "bytes": 400,
+      "sha256": "0e20edc0df4ec0df52dd92b39b9fa80a6c149a0f3ee8806129864fb19b01aab1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0021.svg": {
+      "bytes": 362,
+      "sha256": "b5d68139a8dd976d362c1f26da11d6b50f5e0aeccf445bf5fdb6fcfd24d3229e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0022.svg": {
+      "bytes": 363,
+      "sha256": "263d51cf22ed628876a54a54259d5b73db9c753a38d1dd4c0c57d05c3f34723d",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0023.svg": {
+      "bytes": 654,
+      "sha256": "248e02fe97b84c733b938e2b90f3bc51a8fd3b0280c27c696a1593e4852ce3d8",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0024.svg": {
+      "bytes": 860,
+      "sha256": "5b8483428d3d3f69db35ee8b2c7eccf1185858d496ff9ce87e5c1c78beaf73d3",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0025.svg": {
+      "bytes": 1338,
+      "sha256": "05b8066303291d21981fe24d3c2e65941de4c61a1974889db0c6c82605832845",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0026.svg": {
+      "bytes": 1027,
+      "sha256": "2802836155a8a49462a8c0b67b1b19a17e75cddcf8c3b3f0803d3aead003272d",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0027.svg": {
+      "bytes": 314,
+      "sha256": "668456e1b28f7fe021fd0df00e3bd05ad5be3bb63ca6d4f9439514bd6935ef5f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0028.svg": {
+      "bytes": 469,
+      "sha256": "3e0f5c546e590d86e1d3dd77b70425b917830010e9445b32c401539078a4e309",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0029.svg": {
+      "bytes": 506,
+      "sha256": "0b004150f16cd3fc32537c5df335b170dd98b63742f7382c52a2b3c48b35a1f6",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni002A.svg": {
+      "bytes": 543,
+      "sha256": "09c9a382c199ed761dfc8ce448958c5c340338dd6e1b551b33803d7286d59892",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni002B.svg": {
+      "bytes": 368,
+      "sha256": "206910948f0fc21fa1ce15d0f760b2ab861f635a133bad5a94d8a5b9286d6b8d",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni002C.svg": {
+      "bytes": 356,
+      "sha256": "60222c1e3fb0a4cb30d94ac6c210e03311533450fa0c4fdd2003559656fa5e7a",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni002D.svg": {
+      "bytes": 318,
+      "sha256": "1679a898e8dfe80b9404e69d513a1ce305b05bd4ec1291f7c4272133825c0939",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni002E.svg": {
+      "bytes": 314,
+      "sha256": "63e3ce58437bd9a739fa37b1074cf3241d4d4267c68176a25a48f1a86f3d5e7e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni002F.svg": {
+      "bytes": 317,
+      "sha256": "17a8d6a1b686eaed531b11231b48dc5f6ad25ebfcb32c80c48a7c5f91b81cbf8",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0030.svg": {
+      "bytes": 744,
+      "sha256": "331a4edebe5e8a99106d12759330b02d22dcc4c961dd89d1cf684e70bf8d050d",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0031.svg": {
+      "bytes": 429,
+      "sha256": "9284f46b515b4ed1f50b3bbf95b7e4a801a2501b2e6ca4d3e1309329f5a3cbf1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0032.svg": {
+      "bytes": 607,
+      "sha256": "32d5bd7b95287aff1086c9488108d15ca01eec4b9e0787f934e01a15898e1fd6",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0033.svg": {
+      "bytes": 825,
+      "sha256": "5d588939502e265df1bfc70819d5997084a717ead52e3f0b8f003439beb64583",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0034.svg": {
+      "bytes": 430,
+      "sha256": "1bad39612ad35454db2b6e0102b9125e1ea5d6ba9d39e0b6e9662beecebab28e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0035.svg": {
+      "bytes": 707,
+      "sha256": "08cbc3041ad2a50760664ea0894dd7dbec9d7bd5e17d34739654a7f51c5246bc",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0036.svg": {
+      "bytes": 825,
+      "sha256": "fc84eb29b1a58fcc32b30ba48de56445d142c1a87288fe7186395e2439367b11",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0037.svg": {
+      "bytes": 347,
+      "sha256": "ceb76a1371dab4ed03ce6ecaa2dad07f421d2ef9499e1162a0d7e8f7e5ec9ed4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0038.svg": {
+      "bytes": 1276,
+      "sha256": "c6656e317cb6d6617aa75c9dbd980975e10dc929e6059b5387af14391f43243e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0039.svg": {
+      "bytes": 841,
+      "sha256": "c28a8c4224b6d1573bbfbf6c8354ea65c5b90ad6b4f56696cc2e9b989cbed4df",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni003A.svg": {
+      "bytes": 367,
+      "sha256": "1e284efc1803cb2c35f135beb1cb3c69a75e2851c898fc331d688807d8e1c1bd",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni003B.svg": {
+      "bytes": 409,
+      "sha256": "98958373d41a5b85d1493ccbff0242b8f432881cb61cc5847c9b7d61f6e63b6f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni003C.svg": {
+      "bytes": 382,
+      "sha256": "abe5576ee6281b2847deaf90f63105e75b17936702d2316d93329c3f11c25521",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni003D.svg": {
+      "bytes": 394,
+      "sha256": "29a5efbb9b982a8c9a033e54961c1575ab9be4d9cd938c21063ceaeb4732935e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni003E.svg": {
+      "bytes": 415,
+      "sha256": "c1c2f344b2b8989a3a9c6d3c1a2cb5e01b9b67b4daf0870c19409f2a97f9e607",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni003F.svg": {
+      "bytes": 768,
+      "sha256": "c76da93136b9f8e6cf295101b737192f34b48f5f8efb2a9fcceed6f1d944610e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0040.svg": {
+      "bytes": 1238,
+      "sha256": "f7ae55dfecd33646eb982c146289980e3bbcc9278885ea20ab0c829e71647587",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0041.svg": {
+      "bytes": 366,
+      "sha256": "5b42f319c760ef3ab0ebd7841358ac2d049ec5021799017e46adf9693fef06f1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0042.svg": {
+      "bytes": 724,
+      "sha256": "4a225e33b7cbafdce0cd7eebc9b020f02ba8ca127db765a5015a0d75aba9ca5d",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0043.svg": {
+      "bytes": 644,
+      "sha256": "39a1ad6ecd535dd5c16f478d59d1362efa744630861dca514ffa5868dc7d2e4c",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0044.svg": {
+      "bytes": 484,
+      "sha256": "b067394f3c5b036789cc13a3434424c5a48472701dd7dd4b32d40dedaf59b1ca",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0045.svg": {
+      "bytes": 388,
+      "sha256": "f793f9e57cbd027cb7bd6a383e5d25d65f0576b1c9075aea5ad3a38129762f21",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0046.svg": {
+      "bytes": 382,
+      "sha256": "ebbc1000a2a96f4246501915e7ae0960143587b7306f524a9eb52fcf4374f8ec",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0047.svg": {
+      "bytes": 659,
+      "sha256": "b071fb39aa76d0a06e56ecd503b80ba81c052200df5b410e384fdc8e8d17b5ab",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0048.svg": {
+      "bytes": 388,
+      "sha256": "01cd3e3560755c135c36845bc068355249de967762a9b6b1a81383605bbfa167",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0049.svg": {
+      "bytes": 407,
+      "sha256": "5e5c0a451a281587753d806d388918abf2d7b3064ee2560f5ecc1d930746b173",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni004A.svg": {
+      "bytes": 511,
+      "sha256": "b815d4013af3f479a11e289f80fd411c9d73622e43bca269d3e7cdc0ecc81f69",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni004B.svg": {
+      "bytes": 399,
+      "sha256": "62d1fdb1e8312be7072ec543c76c1924a596d9fd8a81382439ffb54d263cc32e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni004C.svg": {
+      "bytes": 343,
+      "sha256": "db2b89fbcdca8db77fad5f609b28ae4b19b3c006ea35e9f0e47917bced506eef",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni004D.svg": {
+      "bytes": 382,
+      "sha256": "d4453d66213bd2b31a782b6034dd484c8962cc1efca0f53941775eb7ffa00b10",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni004E.svg": {
+      "bytes": 373,
+      "sha256": "3c05b729f9057fd1fc02f7af1f4e8abaacf0571873fe17261924a284b38df7ff",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni004F.svg": {
+      "bytes": 778,
+      "sha256": "3ee19323c3cd2417b0ef757b9a4d28581e8d9bdaabd73e18c21b2b1efea9ff26",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0050.svg": {
+      "bytes": 511,
+      "sha256": "b16da84fb166d545150c7d3c742070b205d1e1f541fe8dafa5c217ed994f5825",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0051.svg": {
+      "bytes": 841,
+      "sha256": "3d4c6f65f73cc082a32143613edf1fdd3a8cbc1936a5345bd56e60fc3a6abee7",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0052.svg": {
+      "bytes": 552,
+      "sha256": "b111ba5c71a2c5ad84b952cfac12c74003e9ebcd99cff7a4d02e6da8b68188ab",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0053.svg": {
+      "bytes": 772,
+      "sha256": "667cb90a9c147c062e5358968240dcbfe6e1b124398427563cf6bff55c49ce7b",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0054.svg": {
+      "bytes": 365,
+      "sha256": "682fe20561e187f6f8a671ed98ec1bd167734b5fbe5b6ad8b6cdb91bceeae526",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0055.svg": {
+      "bytes": 488,
+      "sha256": "f603751d06abea78733d0e9f68a5360bae3fde59ebbc4f709e3da1cdd66f028d",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0056.svg": {
+      "bytes": 344,
+      "sha256": "30a9dcc3a013e168389fe5a616dbec034547819f6478b975e24ae7d4977eab0b",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0057.svg": {
+      "bytes": 406,
+      "sha256": "fdd3e7785c5bc7f66981d95712b7513b58eeb8d4347d2851b7e21350baa02ecc",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0058.svg": {
+      "bytes": 411,
+      "sha256": "3cd573f4710afe9458d715cb140b07ae1b28a86dfe6db97d6238f5cd6b07ef83",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0059.svg": {
+      "bytes": 371,
+      "sha256": "3e8448578eec4ff7ae7904a21f2fe0d064524d20323e3fad59f5d4d5734e5d85",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni005A.svg": {
+      "bytes": 387,
+      "sha256": "5ec722da7a094cf628465110218745d0430c6e0194cb55f5e9c7664de5cb8dcf",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni005B.svg": {
+      "bytes": 367,
+      "sha256": "a752f7fd16ebace67079037ce77efce58516a5b5115466db81cc0b1ca4de1ec1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni005C.svg": {
+      "bytes": 319,
+      "sha256": "2803ca9c226df87dde21504f0fb321c617f9fed365d7a6ed2be3decff58aea16",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni005D.svg": {
+      "bytes": 378,
+      "sha256": "d7eada7d421243d05bfbbf1a97eefda5c51df21a885f8d81a022e8d6fc3e6e35",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni005E.svg": {
+      "bytes": 364,
+      "sha256": "2b413429097e74b72ca6d246c8727c2f00bc8a6b5965d106dc76654dac98f5a9",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni005F.svg": {
+      "bytes": 311,
+      "sha256": "dea92034f200ea2b161f0889fc811b5d7d8f22be330b3a9c2c99c4347be6d595",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0060.svg": {
+      "bytes": 331,
+      "sha256": "92fb9ff98dd0f8c00cf9e7cdd7a2892a7b0f5e10be2bb20fcc124a625466c833",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0061.svg": {
+      "bytes": 814,
+      "sha256": "9999ef7818a7c65fb0a89b4695dde1514a4fdd483e8bdf5c27a65a012fa22b40",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0062.svg": {
+      "bytes": 822,
+      "sha256": "faa17922058d155e7bb1e33f133980bf9d62e26455ade03e5fd819842ae03eb5",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0063.svg": {
+      "bytes": 440,
+      "sha256": "18a50cb3efda38bfdbd00091d80ec5d687ea63ad90b70cc275ea3d86abf9345b",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0064.svg": {
+      "bytes": 1067,
+      "sha256": "898c2885ab9f7377ae2334350d5b576c14c9673d59c8cdef64b9d5da4375750f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0065.svg": {
+      "bytes": 832,
+      "sha256": "157a102bd071fc042279643a499231471abcc4ba38eab1210f9db049f67e7676",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0066.svg": {
+      "bytes": 609,
+      "sha256": "372a1be265250a2956d02c3c459d5328654e57367c48319016df438a90157e5f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0067.svg": {
+      "bytes": 1006,
+      "sha256": "3456e7905673685630423977f80bb8ed6548fe3b8c3078d065a71faa6695af4c",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0068.svg": {
+      "bytes": 544,
+      "sha256": "06ad305be8674cd82599a015dbe2e1232e439f341d989dfce932c54c8d7d0863",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0069.svg": {
+      "bytes": 437,
+      "sha256": "2de5f0db99260b5a6db5d554c35e97e19a647425e4d94fedb79a3f16bbf0a98e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni006A.svg": {
+      "bytes": 609,
+      "sha256": "dfb94c1c61b1c05db48a44ab0751a15b64274e7b32708fe2c45de0a3654d1b89",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni006B.svg": {
+      "bytes": 426,
+      "sha256": "720776c621693ac55c52afa52420b7b432593452eb8809c924a3d0c0fcaef7d5",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni006C.svg": {
+      "bytes": 739,
+      "sha256": "bb4baa26b71f533804ce63b5ce10005b94d53df3e64017a3c17e61ef46356534",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni006D.svg": {
+      "bytes": 737,
+      "sha256": "f825a7cacf11e774b6cb3359a1838568a84924710620fedce8192a20a8d9fb0e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni006E.svg": {
+      "bytes": 682,
+      "sha256": "88e1118785ba2a4721337ef7846d8ce401e6a1c6986385e918fb71e852a65200",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni006F.svg": {
+      "bytes": 677,
+      "sha256": "7c72361ddd72cfcda666fdfb2a10158731a8f1fb5837054dfdd8811d1d1dc989",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0070.svg": {
+      "bytes": 825,
+      "sha256": "edb4df9baae46e7f2a8b153d6c4346539bf16655459c3b48e587e79250841cc3",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0071.svg": {
+      "bytes": 826,
+      "sha256": "800b93c66d54b6b285dfcdbf77f7575c449f07f8d9bc27ed7f8aecace643fe88",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0072.svg": {
+      "bytes": 515,
+      "sha256": "00e49f365337fb08eaa621b8ecbd732bcfc9984771413ee9edc50705e43d6166",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0073.svg": {
+      "bytes": 784,
+      "sha256": "0b5c378d9ac009485b52c5c332482a355020603d1d44b5bbdb6c9a47fb4393b4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0074.svg": {
+      "bytes": 620,
+      "sha256": "074cce99481aab235198af050963f68cae0c5adce6aba9d40916942f6de277e4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0075.svg": {
+      "bytes": 525,
+      "sha256": "19449fbcae13aa69d37e4933b944d7891e0fb7fafa7be5f0205b24917c27972e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0076.svg": {
+      "bytes": 348,
+      "sha256": "4f66f598ab57409e380de817ea0bee7f0f42cca6bf13795288c240d84d29e6eb",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0077.svg": {
+      "bytes": 412,
+      "sha256": "7b6b1c422366729bbcf86abb3c5357881472d45d4c27871247beb9c58d14af1f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0078.svg": {
+      "bytes": 416,
+      "sha256": "cdd9cd192a61f4f207a59330d119ea76d43a97376fa0b3fd5dae25e4d9c915e0",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0079.svg": {
+      "bytes": 589,
+      "sha256": "5e7e65baa1f3627cff75e1414fec129e77c8f47c7b3db25d16c06450e5964759",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni007A.svg": {
+      "bytes": 392,
+      "sha256": "d4cd03736c778035849597ff7b71a6edc218906a295d587c5caaa5319f6d41e9",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni007B.svg": {
+      "bytes": 743,
+      "sha256": "11d05534eebb4b98b8d3716f0554acd0a029a2804dcc5c186683c54895181e58",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni007C.svg": {
+      "bytes": 315,
+      "sha256": "6b0f701730b201fe1fe9d925d98c6662d23c421f24a176f7744f2ddd4845f7fa",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni007D.svg": {
+      "bytes": 743,
+      "sha256": "f1799c362b7c994fdded82698dfc0bdbb6ca47d0e1c4f3252d1adc8182b065f0",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni007E.svg": {
+      "bytes": 533,
+      "sha256": "e5127c62d354b5f0e0ab1220c2cdea5cbc1fd21e3238cc4f81e7e7b39815dc50",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni00B0.svg": {
+      "bytes": 768,
+      "sha256": "45651ae37c47b5420fe4a1c9397dbc115a3c330e6619a003880a2a4dcffffd7f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0300.svg": {
+      "bytes": 296,
+      "sha256": "2ae61fa487d1dfaac06e39e449671652973d31ece840b80ff0236860dfa63f41",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni0301.svg": {
+      "bytes": 296,
+      "sha256": "316273772fa64c47a02a2563afd460311e87f13ca7dfa7618e798bd607aefc02",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni2013.svg": {
+      "bytes": 316,
+      "sha256": "1f0da323aec37fd4cf7f547004260230739a8e42c0445ec93f6f8ec8b90ac570",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni2014.svg": {
+      "bytes": 316,
+      "sha256": "9633dac555451b94efe2967ecaecb7d9df8d10f8475d5b426c6baff928fb3569",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni2018.svg": {
+      "bytes": 352,
+      "sha256": "04a3df251d0dfebbdde669825bed866cb33eb1c346b7b4291f5c57a293bda8c3",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni2019.svg": {
+      "bytes": 376,
+      "sha256": "0cd5a0f0f4735da33ab14ac1e15cca617e80269d09a45f7e39a9d24330323897",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni201C.svg": {
+      "bytes": 487,
+      "sha256": "e9e6b2d7fb179762230ebb88a96378ce2e62ddd82adcccd35da3100ae3282925",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni201D.svg": {
+      "bytes": 499,
+      "sha256": "0a5f33dc9893b081a7a9a004d7bbf6a715a8effb44d06a7e8e38aa42d02edfb4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni2026.svg": {
+      "bytes": 418,
+      "sha256": "a5d35d7f797d026b21546315da9308ce7b7995868aff84d4409b75670f64b5b4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/alpha-0.200/uni20AC.svg": {
+      "bytes": 766,
+      "sha256": "41397a91dbc1a40a2cd441fa76f22492be4afa91f7a8eaa313e048b95512419c",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.000.json": {
+      "bytes": 889,
+      "sha256": "d829681c54beedcbb8448b22d387cf2f60dd9e9019edfca24a082388897d37f1",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.100.json": {
+      "bytes": 624,
+      "sha256": "641c40835362845cd9415d8d6fe528f0b9cef6a2e434e75796a99ab0f3d6ed9b",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.100/dotlessi.svg": {
+      "bytes": 520,
+      "sha256": "d5df709198d34ebfb1eae67658cfba61eb9560b1bd96c4e5a2d218cc36f0516a",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.200/j.svg": {
+      "bytes": 685,
+      "sha256": "cea7e40749a17ee49f19da42c2cf29ef27f88db502ba8e633e1eed5ab54d63d8",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.200/k.svg": {
+      "bytes": 685,
+      "sha256": "a9a433381043e80a9f0c305ff8b9b562e6d5659c4d6e03b0927a5eb8d7b98a41",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.200/v.svg": {
+      "bytes": 636,
+      "sha256": "1d175fc87dfe06974c9faab3f08028f8a11805862c0bf5486d39bade4e29a509",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.200/w.svg": {
+      "bytes": 712,
+      "sha256": "dc8e9083cc63dcae6ebd40880cefa36c25057b8230beeac2aaf39bffc31056d0",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.200/x.svg": {
+      "bytes": 609,
+      "sha256": "17ba42038e0a24944f58850da6feccfaa8c022456dafcacaac5bedc8cd0b975d",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.200/y.svg": {
+      "bytes": 725,
+      "sha256": "f1b94cbd715047f7b831c12bfdeafcaaa263d39e2ddc78f46e8b3bb27205ba73",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.210.json": {
+      "bytes": 3483,
+      "sha256": "836e766a5521893c6f2e3dd7f566ef60c7a50ad047e26eef7cc8e656bb1ddc8f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.211.json": {
+      "bytes": 1506,
+      "sha256": "329b5efa5266a402852d69c63a4f0a9d27cdd8fd68c40dff6dd494757bfe173e",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.220.json": {
+      "bytes": 3893,
+      "sha256": "c4b51b9d46a09c91ad62357ac4cf8554ddc16f26f5541469da72949bce6896ba",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.230.json": {
+      "bytes": 4770,
+      "sha256": "5b8625b1f01b0c1ffd1fde3368022d072ed64073766164a2a9854d0b1fb7ac5f",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.240.json": {
+      "bytes": 4416,
+      "sha256": "b8fecc808b108e2f9548480ff425d3987a5c43be9a690d2c5984b301656154a4",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.250.json": {
+      "bytes": 4463,
+      "sha256": "2a95351aee9cfdfaf88669a86e931363d43749dab8acaec3b4978b85fc8c9c83",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.260.json": {
+      "bytes": 4787,
+      "sha256": "7e925b3be503cbd5f904c4a0c3627f1e70f15d6958074f9d66ee9b12ab841c8b",
+      "license": "OFL-1.1"
+    },
+    "glyphs/regular/release-1.270.json": {
+      "bytes": 7066,
+      "sha256": "8ac815133100090db6ac036f0cd1ccace5b50f484a13fb54fd6efb7673f73464",
+      "license": "OFL-1.1"
+    },
+    "pyproject.toml": {
+      "bytes": 644,
+      "sha256": "332ddc1fbb8b5d3ba2912ed7e59ecd20f0fcb8b1ec635e45136b23b32a8e14b4",
+      "license": "MIT"
+    },
+    "requirements-build.txt": {
+      "bytes": 33,
+      "sha256": "62bf5c01e64b58c92a6c01b8bc42f858b02d96d6322cd39f27009f662a7bf99e",
+      "license": "MIT"
+    },
+    "requirements-dev.txt": {
+      "bytes": 108,
+      "sha256": "5fc41ff0f65e8a59ccc9af8f904871d8bdb18adb28bc3d13a5023d70b48e4609",
+      "license": "MIT"
+    },
+    "specimen/AEMNU-Integration-1.220.png": {
+      "bytes": 115133,
+      "sha256": "1b9a2d4bcb0980ef2d6517f9638d48c1566307784a630dcd0b7da8e93040ad3d",
+      "license": "MIT"
+    },
+    "specimen/AEMNU-Study-Words-2026-10-15.png": {
+      "bytes": 124387,
+      "sha256": "aae920848cf0016a75e4a707a4e7345d18f901511e033fe5bc8642cf03305593",
+      "license": "MIT"
+    },
+    "specimen/BFHIOQ-Integration-1.260.png": {
+      "bytes": 167135,
+      "sha256": "ecd62857e8e016eec19abcbf377c8d6a6d34aebc259a81f341b2a50e346c8e9a",
+      "license": "MIT"
+    },
+    "specimen/BFHIOQ-Study-Words-2026-10-16.png": {
+      "bytes": 171403,
+      "sha256": "877ccf4ccb04bb0e19716cc25ec6d8a68c490bb5fb6fe5ff64e1538883508108",
+      "license": "MIT"
+    },
+    "specimen/CDEGPT-Integration-1.250.png": {
+      "bytes": 175108,
+      "sha256": "86dd8b847f83904b2a6d3e5ced261b69f37434187f9f8649786d1f8662b72c04",
+      "license": "MIT"
+    },
+    "specimen/CDEGPT-Study-Words-2026-10-16.png": {
+      "bytes": 171923,
+      "sha256": "96da8b146787803afa948cc0f399128be83832b6bbd3a45c35eb6cc40b575ab5",
+      "license": "MIT"
+    },
+    "specimen/Capitals-Integration-1.240.png": {
+      "bytes": 173627,
+      "sha256": "8cd225fa6b95ef94e79388de13c98825cd6bc43d44ab56fe516333d79752e1b9",
+      "license": "MIT"
+    },
+    "specimen/Capitals-Study-Words-2026-10-16.png": {
+      "bytes": 179975,
+      "sha256": "da11666db64102e7285eb2599fc06926f3bbfa2a8d6c3159c4334683d5b80361",
+      "license": "MIT"
+    },
+    "specimen/JKUVWXYZ-Integration-1.270.png": {
+      "bytes": 181068,
+      "sha256": "30f4727000752cd71547206f847bd54421861ef310cab187a9ccba7c9131a377",
+      "license": "MIT"
+    },
+    "specimen/JKUVWXYZ-Study-Words-2026-10-16.png": {
+      "bytes": 222838,
+      "sha256": "ac042ee1882ef2de0d13e5336ff57ff6a2e30d13b2c974980f9761e55f2310c0",
+      "license": "MIT"
+    },
+    "specimen/JKVWXY-Integration-1.230.png": {
+      "bytes": 138796,
+      "sha256": "55665e38e78787d687db49659b9eda70786a4bcd11561f78405750b10860c661",
+      "license": "MIT"
+    },
+    "specimen/JKVWXY-Study-Words-2026-10-16.png": {
+      "bytes": 145250,
+      "sha256": "33f7dd4161e876a110e6c0cc8be31e4fe77d3de2f7ccdbbdd390546eed708f28",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1200-Specimen.pdf": {
+      "bytes": 87813,
+      "sha256": "32fa74ea9897cc3c767bac7bc6f6f7a042c9fdc210dfd02fb8650dc06550e9ed",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1200-Trial.html": {
+      "bytes": 6004,
+      "sha256": "83dd24e13e843122b0931604fab01863952e1f713729b1cd6fbc89b338ae55ec",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1210-Trial.html": {
+      "bytes": 5976,
+      "sha256": "e8e8376ed4a860d20eb98a863375aab970cee2f73037f0ed6980a0929411c9dd",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1211-Trial.html": {
+      "bytes": 5953,
+      "sha256": "c6674781e5d122a5dbd3b1a4b290b09f3ec7d212cc2446b37b96c8d7807a90a0",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1220-Trial.html": {
+      "bytes": 5956,
+      "sha256": "b52cf078dcfbed976a04ef9036ca2f31633890b53b1014725fd920fd6f9d4abf",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1230-Trial.html": {
+      "bytes": 6138,
+      "sha256": "2f24d8691af172f9c4f6bc3ed158bacbc457fddadca73e2ef635c0ef2392375f",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1240-Trial.html": {
+      "bytes": 6175,
+      "sha256": "f9b2b3f1db4a64715bfd53c84c0aa8784630109a01a8ff699c1634325ff46a82",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1250-Trial.html": {
+      "bytes": 6123,
+      "sha256": "11ef9e1eaa4e8a4e4dbdedf5df2304bdaf53e8ec96ad99fd57614091608364a7",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1260-Trial.html": {
+      "bytes": 6168,
+      "sha256": "ccc6bdb7f8ab966409f8b96d2281674ed940c853feb9502bae3573b117960ede",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1270-Print-Specimen.pdf": {
+      "bytes": 126277,
+      "sha256": "165e2418c3cc5a4633415b0764378c64f7416b7a9d30fae1025a7d431d74584b",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-1270-Trial.html": {
+      "bytes": 6324,
+      "sha256": "184da489f6af20d4d6cee4283557472e13bb6cc48a15f7b0d39cb801bcd8a99b",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-Preview.png": {
+      "bytes": 130357,
+      "sha256": "810ff4be09f4218f23f36e617b7f405ec02cce0f1728a63b7b55d25d48ac238d",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-Specimen.pdf": {
+      "bytes": 84780,
+      "sha256": "b5c5f42c9024bac121c3a04239a4fd4ee84b5fcc447270eb64210a909c1f8e5f",
+      "license": "MIT"
+    },
+    "specimen/Lowercase-Completion-1.200.svg": {
+      "bytes": 26925,
+      "sha256": "6be241d57b96a939b73bdadd83a83ed093d23a665c8e81af73a06c25a00ef185",
+      "license": "MIT"
+    },
+    "specimen/Lowercase-Proposals-2026-10-15.svg": {
+      "bytes": 18251,
+      "sha256": "ee6a7203067f4d8b260c45f8f6926d8e64bddda97d36a620076366da011cfa34",
+      "license": "MIT"
+    },
+    "specimen/OPQR-Integration-1.210.png": {
+      "bytes": 99962,
+      "sha256": "caa5b3055df08f10d142b95de0756307df2e4e8c3f3623c011305576f8a29ae1",
+      "license": "MIT"
+    },
+    "specimen/OPQR-Study-Words-2026-10-15.png": {
+      "bytes": 121905,
+      "sha256": "e63e16ef7cbd0d98df823852d07dfbcb3ae647ed666ae6f8005b443e130bbcc1",
+      "license": "MIT"
+    },
+    "specimen/PQ-Spacing-1.211.png": {
+      "bytes": 98685,
+      "sha256": "131d8c7d8280b8c46c4c9ea11373c6daf7fd40b846233b03e950e6dfe0945fd0",
+      "license": "MIT"
+    },
+    "specimen/Prova-Leonardus.html": {
+      "bytes": 5376,
+      "sha256": "9088c3ae581d9b37f52d96a6411b7009a7a1225da20cf53b7edf047de9d6b8cd",
+      "license": "MIT"
+    },
+    "specimen/S-Revision-2026-10-15.svg": {
+      "bytes": 17588,
+      "sha256": "7dfd2b1d7dcf21902e2105f5cf222931cd84058a89a49584bc9d134f1eaa4c2a",
+      "license": "MIT"
+    },
+    "specimen/charset-atlas.png": {
+      "bytes": 160671,
+      "sha256": "df37d8b1c05791b3e0e9405714169ef31df8f629aa57f5789319148ab6ba9203",
+      "license": "MIT"
+    },
+    "specimen/specimen-12pt.png": {
+      "bytes": 80447,
+      "sha256": "086984baa329332a7b8e7efb3b2d0ae2b23b4513b32dddb34e9d84af19371b25",
+      "license": "MIT"
+    },
+    "specimen/specimen-18pt.png": {
+      "bytes": 109291,
+      "sha256": "e2b770d6ac945de04c88e5288364b5999d10b4f2399df7abf7edeaa51c622c24",
+      "license": "MIT"
+    },
+    "specimen/specimen-36pt.png": {
+      "bytes": 206178,
+      "sha256": "64a9ef42c9ea9787832168d59ff0d0201738fb069b9ae9aedad9630449e39fce",
+      "license": "MIT"
+    },
+    "specimen/specimen-72pt.png": {
+      "bytes": 438619,
+      "sha256": "d4d859c61f49116bc93d0af5216f153724e919cf1fb64151836b99e2fb87727f",
+      "license": "MIT"
+    },
+    "src/leonardus/__init__.py": {
+      "bytes": 93,
+      "sha256": "d9ba735ae4dcc2acdd2d1b82cd33317970b5994e56e4b3c8100ea1a1136344fd",
+      "license": "MIT"
+    },
+    "src/leonardus/aemnu.py": {
+      "bytes": 8312,
+      "sha256": "38412a312145715b72c5651b49b9e699ce4645c6ac34f15462557e90c7ebb438",
+      "license": "MIT"
+    },
+    "src/leonardus/bfhioq.py": {
+      "bytes": 8511,
+      "sha256": "7895157ae9b58b219ff9da1052ef474ec9ab992e83af9e42418c6c4163a1dfe0",
+      "license": "MIT"
+    },
+    "src/leonardus/capitals.py": {
+      "bytes": 8317,
+      "sha256": "f30e9b42ef6bebdb1cb7121469fd9fdbe5bbec7976f4f4e38b365919fe2a31a0",
+      "license": "MIT"
+    },
+    "src/leonardus/cdegpt.py": {
+      "bytes": 8463,
+      "sha256": "61732379d4c42bd0d6544d2cf0e94d828de961136c5fe540c56f5ba293c27c13",
+      "license": "MIT"
+    },
+    "src/leonardus/charset.py": {
+      "bytes": 3988,
+      "sha256": "e67cb312e9602089ec6254deede7f48d616142e63788c1a6a5ec84cf82fe836d",
+      "license": "MIT"
+    },
+    "src/leonardus/cli.py": {
+      "bytes": 11247,
+      "sha256": "bcf1cefbee31c1eb5acd2bd2642ad1436607ce2325cfba80e64244aed6a592cd",
+      "license": "MIT"
+    },
+    "src/leonardus/comparison.py": {
+      "bytes": 8363,
+      "sha256": "d615380962d2d34e462335099bbfcbbc0dd579d58a799c9fc060a61d7ce96756",
+      "license": "MIT"
+    },
+    "src/leonardus/completion.py": {
+      "bytes": 6543,
+      "sha256": "bf69f48fdb62496693c56d85f7e3e197d670cc3eaf896ab1a8177af0472e5ac7",
+      "license": "MIT"
+    },
+    "src/leonardus/evidence.py": {
+      "bytes": 17849,
+      "sha256": "873c381168fc5b4db966731e3e9a128d141d785a0c87acf27247030a8b55f4c5",
+      "license": "MIT"
+    },
+    "src/leonardus/fontbuild.py": {
+      "bytes": 10804,
+      "sha256": "fda9bdab5d3362be1dd8425b3b35f9b59c32d30fc0f5c07193543cda7ab3420e",
+      "license": "MIT"
+    },
+    "src/leonardus/jkuvwxyz.py": {
+      "bytes": 8830,
+      "sha256": "b8f60f874285cfb900545ad52713f27b7e7dd806494e263eafd4f4b17d8a0831",
+      "license": "MIT"
+    },
+    "src/leonardus/jkvwxy.py": {
+      "bytes": 7551,
+      "sha256": "be49b6ac1f800fdf022fae40f1a7167ee86059721f261508e8760a3b6ca1c3bd",
+      "license": "MIT"
+    },
+    "src/leonardus/lowercase.py": {
+      "bytes": 4826,
+      "sha256": "9469c72f0b3eb941db4e261fbed372a22d3a517aa46cdb33935692b80d67eb3a",
+      "license": "MIT"
+    },
+    "src/leonardus/metrics.py": {
+      "bytes": 5676,
+      "sha256": "eb09b8075e5f90522e4b5a9765bc66f24044d90201671718284acdc1d6e53234",
+      "license": "MIT"
+    },
+    "src/leonardus/opqr.py": {
+      "bytes": 7837,
+      "sha256": "90783703a6f9ba94af7ecf7dd58adc98ec0522b93da9fcc627ae7eaa6eff4bd9",
+      "license": "MIT"
+    },
+    "src/leonardus/prepare.py": {
+      "bytes": 1364,
+      "sha256": "bf5f43fbdfaa1e483c2e7e154dd11211fef621758d6b926468126a9145ceae14",
+      "license": "MIT"
+    },
+    "src/leonardus/preview.py": {
+      "bytes": 1905,
+      "sha256": "28b32510ae5aedcbdcbffe9214cd04425fccc713218d93ff7ba0f98d568b9266",
+      "license": "MIT"
+    },
+    "src/leonardus/proposal.py": {
+      "bytes": 6971,
+      "sha256": "0a2e63d062d238f272971f1235bb048deec10632884cd285a58b80afcea5ad3f",
+      "license": "MIT"
+    },
+    "src/leonardus/regular.py": {
+      "bytes": 10908,
+      "sha256": "732fc17dd67ff738d732f561f65792510846d8b8568446879b1b622e423ac86a",
+      "license": "MIT"
+    },
+    "src/leonardus/release.py": {
+      "bytes": 12507,
+      "sha256": "2db17bbb0507bba7d8985b7057e9a6362bd31785022a903d38be9d4279ce0397",
+      "license": "MIT"
+    },
+    "src/leonardus/specimen.py": {
+      "bytes": 3902,
+      "sha256": "98018fb24a8a7db332be6b4dda03bf8e00210a647cc2ecca8171e5abb6cff3b1",
+      "license": "MIT"
+    },
+    "tests/test_aemnu_integration.py": {
+      "bytes": 5480,
+      "sha256": "d33fedfb4c93f254dd41f521df7ad15065f0731c8c6424169a3be3dcc4998d35",
+      "license": "MIT"
+    },
+    "tests/test_aemnu_study.py": {
+      "bytes": 4827,
+      "sha256": "17f85593d0dd6249de8ed4b195ccfaff6e80d7ad1022197abb8b7e0708dc2a4e",
+      "license": "MIT"
+    },
+    "tests/test_bfhioq_integration.py": {
+      "bytes": 6231,
+      "sha256": "554f511dad30194f47bd81d4e3ba1481c2bfe3ad21e42bb4be6554c8bf17127d",
+      "license": "MIT"
+    },
+    "tests/test_bfhioq_study.py": {
+      "bytes": 5069,
+      "sha256": "2ed56bbf194a2725b1fbc85c031db7b351d2b05e0e6e6e2680977e0f6d6c0dd6",
+      "license": "MIT"
+    },
+    "tests/test_capitals_integration.py": {
+      "bytes": 6129,
+      "sha256": "de047d2da56d481f80e74567f178308f0926fe213023092502b93ba85035c61c",
+      "license": "MIT"
+    },
+    "tests/test_capitals_study.py": {
+      "bytes": 4523,
+      "sha256": "ea13ce64a219133a5a135f024bf65c269d534347db79076f28c753da1eb3e034",
+      "license": "MIT"
+    },
+    "tests/test_cdegpt_integration.py": {
+      "bytes": 6228,
+      "sha256": "376da97d84e2791b047ba1257e6d0f2649002a916e0419d7a990fc2e7022e509",
+      "license": "MIT"
+    },
+    "tests/test_cdegpt_study.py": {
+      "bytes": 5080,
+      "sha256": "f4279fe2b74e901b7f4a4e059aa094ba80f922bcc3fb7f76a0f4a7abb67e5404",
+      "license": "MIT"
+    },
+    "tests/test_completion.py": {
+      "bytes": 3770,
+      "sha256": "aadc80bf87623bc2194dfe84b94b7259728c76938577e760fefc50bfa19bcccd",
+      "license": "MIT"
+    },
+    "tests/test_corpus_review.py": {
+      "bytes": 12068,
+      "sha256": "d01087ed7cd6237f6b7dd2560cca8e89f126e0c63799b6ebae522d807cc21613",
+      "license": "MIT"
+    },
+    "tests/test_expansion_data.py": {
+      "bytes": 7764,
+      "sha256": "fa3efb6a1a326325691325429979e24f1098a3c24665bc6cb1d2aaba64f73e4b",
+      "license": "MIT"
+    },
+    "tests/test_guided_review.py": {
+      "bytes": 17116,
+      "sha256": "f954a08b23c56f70ebb07f514eeea7330f18a3c733e3a9fb620def670c52ca6a",
+      "license": "MIT"
+    },
+    "tests/test_jkuvwxyz_integration.py": {
+      "bytes": 7122,
+      "sha256": "0e8e16211a1f1e9ad636e61dbebbf4a141737a2457f77e6139e53b8744cd7b8d",
+      "license": "MIT"
+    },
+    "tests/test_jkuvwxyz_study.py": {
+      "bytes": 5389,
+      "sha256": "0b3a96da14aa8bf41d1a308c4b229b30b1b75a9dbca9c4fc56344db2a852b705",
+      "license": "MIT"
+    },
+    "tests/test_jkvwxy_integration.py": {
+      "bytes": 5339,
+      "sha256": "5977d91c1610ae547eaf4c0d15757f266aa883d1ae9b6fbd4684b5d90c853c27",
+      "license": "MIT"
+    },
+    "tests/test_jkvwxy_study.py": {
+      "bytes": 4312,
+      "sha256": "acb456d8065ab6b3c9e35c4e260da168733cd488bc7f10cb28e0736a7659088b",
+      "license": "MIT"
+    },
+    "tests/test_lowercase_integration.py": {
+      "bytes": 7355,
+      "sha256": "e269ab76596db331a7009cc05199602825493e042d617a69d01d473c60bdea09",
+      "license": "MIT"
+    },
+    "tests/test_opqr_integration.py": {
+      "bytes": 4274,
+      "sha256": "1dfcb8dc2c4e8e4deb7f93f2708de6c7aba719b9899c20d76c7653719877e577",
+      "license": "MIT"
+    },
+    "tests/test_opqr_study.py": {
+      "bytes": 3551,
+      "sha256": "f5b71b04644843c34f2eb2eb70045d69f3ac2146702d6fe14afbb78e57959181",
+      "license": "MIT"
+    },
+    "tests/test_print_specimen_1270.py": {
+      "bytes": 1754,
+      "sha256": "26e1abb77fb3556f3cdcf5f8a16c2146e0fb90a6cb949803b87b432eae92a5aa",
+      "license": "MIT"
+    },
+    "tests/test_privacy.py": {
+      "bytes": 3891,
+      "sha256": "55cbb192e5fd3707103170eb2fb5998fb6ca8b73eb07d4f5e56040278a8e8335",
+      "license": "MIT"
+    },
+    "tests/test_public_font.py": {
+      "bytes": 4155,
+      "sha256": "ab3b569b267a7a1cc06395cd78ab38a88b516fba30290b32dad6d618c51a7276",
+      "license": "MIT"
+    },
+    "tests/test_regular_1270_naming.py": {
+      "bytes": 2738,
+      "sha256": "a8b1e6a5e5a7692d6d470efdfe9a7d1000b95259c9e3710a6a57678433382a0b",
+      "license": "MIT"
+    },
+    "tests/test_segmentation_consolidation.py": {
+      "bytes": 7201,
+      "sha256": "6b9982a6e6c5d5d887dacca56df41ce81ca4b253e1cab5d4630b1ec98daea635",
+      "license": "MIT"
+    },
+    "tests/test_segmentation_review.py": {
+      "bytes": 6577,
+      "sha256": "c2afbe3e3da8a698be11ffe3a66a24e531d8402c4ab4b13f322d0682135e25f1",
+      "license": "MIT"
+    },
+    "tests/test_spacing_release.py": {
+      "bytes": 3381,
+      "sha256": "3e972b111f3ac65754074892fd83341daaa454a8400303b72c93e0b338a95e06",
+      "license": "MIT"
+    }
+  }
+}

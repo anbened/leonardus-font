@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-16",
+  "version": "1.250",
+  "font_sha256": "6e383ce0792149a50023ac73e5d7f33105534db07004bd88bceac491cc6d2ffb",
+  "family": "Leonardus 1250",
+  "selection": {
+    "C": "B",
+    "D": "B",
+    "E": "A",
+    "G": "B",
+    "P": "B",
+    "T": "B"
+  },
+  "glyphs": 121,
+  "codepoints": 119,
+  "new_reviewed_capital_readings": 0,
+  "evidence_unchanged": true,
+  "lowercase_outlines_unchanged": true,
+  "previous_LAMNRS_outlines_unchanged": true,
+  "all_advances_unchanged": true,
+  "changed_dependencies": "ÈÉ",
+  "historical_capital_classification": "designed",
+  "metrics": {
+    "C": {
+      "advance": 600,
+      "lsb": 56,
+      "rsb": 38
+    },
+    "D": {
+      "advance": 610,
+      "lsb": 56,
+      "rsb": 54
+    },
+    "E": {
+      "advance": 520,
+      "lsb": 62,
+      "rsb": 28
+    },
+    "G": {
+      "advance": 625,
+      "lsb": 44,
+      "rsb": 45
+    },
+    "P": {
+      "advance": 545,
+      "lsb": 56,
+      "rsb": 20
+    },
+    "T": {
+      "advance": 550,
+      "lsb": 65,
+      "rsb": 24
+    }
+  },
+  "spacing": {
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "tested_pairs_per_size": 2704,
+    "ink_collisions": 0,
+    "threshold": 127,
+    "optical_certificate": false
+  },
+  "proofs": {
+    "points": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "words_sha256": "86dd8b847f83904b2a6d3e5ced261b69f37434187f9f8649786d1f8662b72c04",
+    "renderer": "HarfBuzz + FreeType"
+  },
+  "integration_tests_passed": 7,
+  "full_suite": {
+    "passed": 218,
+    "skipped": 5,
+    "platform": "Windows",
+    "skip_reason": "Existing symlink privilege/platform checks",
+    "isolated_checkout": true
+  },
+  "installed_current_user": true,
+  "fresh_process_gdi_bytes_match": true,
+  "previous_family_1240_file_and_registration_unchanged": true,
+  "browser": {
+    "current_and_previous_font_loaded": true,
+    "version_selector_verified": true,
+    "word_button_verified": true
+  },
+  "office_tested": false,
+  "physical_print_tested": false,
+  "public_release_approved": false,
+  "privacy_check_passed": true,
+  "inventory_check_passed": true,
+  "current_and_previous_font_rebuilds_byte_identical": true
+}

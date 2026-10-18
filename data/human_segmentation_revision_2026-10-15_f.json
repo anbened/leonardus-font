@@ -1,0 +1,29 @@
+{
+  "status": "human_segmentation_revision_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:44:46+00:00",
+  "quote": "Compatibili con riserve entrambe",
+  "question": "Nella nuova tavola f02/f04, accetti entrambe le segmentazioni come compatibili con riserve? Per f02 la regione dell’uncino è estesa di 2 pixel verso destra; per f04 la sommità è estesa di 2 pixel sopra il vecchio bordo. Le fasce aggiunte e i raccordi arancioni restano non confermati. La decisione riguarda soltanto queste nuove segmentazioni, senza modifiche al font o nuove approvazioni delle letture e dell’autenticità.",
+  "revision_path": "data/segmentation_revisions_2026-10-15_f.json",
+  "revision_sha256": "2a148104b9025a58dbb668645c8779859cc3147565b7a902a69eb48b95b86c7b",
+  "shown_sheet": "build/segmentation-consolidation/review-revisions-f2b94477a86c.png",
+  "shown_sheet_sha256": "f2b94477a86c2b1242550d1a74f4bf76d5455ce276df15478374a3bb686db11e",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_F_02",
+      "annotation_sha256": "fb2004fc7842cd67841d517ed9aeabb1a3b1bfb8009e08cc0fd0cf92ed5b6be2",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_F_04",
+      "annotation_sha256": "b686eb6c5c57a16650b73b08655c6c80fa2fa83a733266b90874500c15ae1e3a",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

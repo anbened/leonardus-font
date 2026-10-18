@@ -1,0 +1,47 @@
+{
+  "review_id": "segmentation-consolidation-2026-10-15",
+  "status": "human_segmentation_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:31:53+00:00",
+  "quote": "Confermo gli esiti proposti per le cinque g",
+  "question": "Per le cinque g mostrate, confermi g01, g03 e g05 compatibili con riserve; g02 da riesaminare con più margine sinistro e inferiore; g04 con più margine sinistro? Le zone arancioni restano non confermate. La decisione riguarda solo la segmentazione, senza modifiche al font o nuove approvazioni delle letture e dell’autenticità. Puoi correggere gli esiti indicando il singolo ID.",
+  "plan_sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+  "shown_sheet": "build/segmentation-consolidation/review-g-31b0617acf7d.png",
+  "shown_sheet_sha256": "31b0617acf7d45749a1f78bae3454a788a76de4727ca401a398843a92f23e099",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_016_G_01",
+      "annotation_sha256": "c265e80ff519cb2b424b1156af1d784fd4ca1f5788509bd3786ec0569f67ac6c",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_G_02",
+      "annotation_sha256": "6de3fe7c989478cf92b33c907b11d770dbdf72935c72ca5388b97ad369827436",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_G_03",
+      "annotation_sha256": "11cd75e348f61abe664fbe9e082b2a414eab6ac8ab0c84390ace4fef349021c1",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_G_04",
+      "annotation_sha256": "c225d2e5c1a6108381d58b70bd9de03c51130bf51a1246c8e3e175e38aeb8060",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_G_05",
+      "annotation_sha256": "30cce4516a17105228979097a1d51e376abc9f3d8bea837578e823e94c46cdb4",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

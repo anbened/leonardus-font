@@ -1,0 +1,47 @@
+{
+  "review_id": "segmentation-consolidation-2026-10-15",
+  "status": "human_segmentation_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:08:06+00:00",
+  "quote": "Confermo gli esiti proposti per le cinque m",
+  "question": "Sulla tavola delle cinque m, confermi questa proposta sui confini: m02 e m04 compatibili mantenendo incerte le zone arancioni; m01 e m06 da riesaminare con ritagli più ampi; m08 dubbia e non utilizzabile come riferimento geometrico principale? Puoi indicare correzioni per singolo ID. La decisione riguarda la segmentazione, senza riapprovare letture, disegni o autenticità.",
+  "plan_sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+  "shown_sheet": "build/segmentation-consolidation/review-m.png",
+  "shown_sheet_sha256": "8747cfd77690c0ec5500280f456df1b4c5fcba4b11aed70d5d87d9ce30e8d142",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_M_01",
+      "annotation_sha256": "00f9cdfc4b26355d04f69abe02897f10c4f6342559b8539af25e2c2649b9acbf",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_M_02",
+      "annotation_sha256": "a8c2812d7008580d928c45776db8436805543643a538e26f058ae09917e09116",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_M_04",
+      "annotation_sha256": "40047ba6d61f617055e9206049bea50cb791d478e29292886a001cf747c260a4",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_M_06",
+      "annotation_sha256": "3fee29f59af6f955bf7940314aeab18111da5c2cae7496d17dde67583884a966",
+      "decision": "needs_wider_context",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_M_08",
+      "annotation_sha256": "b07f58ae138768a399707dc0a70820cb450231e3b1293eb9a9877b5bf63d1316",
+      "decision": "uncertain",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

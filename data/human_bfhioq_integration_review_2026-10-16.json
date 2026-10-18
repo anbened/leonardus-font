@@ -1,0 +1,57 @@
+{
+  "status": "human_design_selection_recorded",
+  "recorded_date": "2026-10-16",
+  "reviewer": "Human review",
+  "scope": "selection_of_shown_BFHIOQ_designs_for_integration",
+  "quote": "Adottiamo la combinazione che suggerisci: B B, F B, H B, I A, O B e Q B. Integra le varianti, verifica la spaziatura nelle parole, aggiorna la documentazione e procediamo con altri caratteri maiuscoli.",
+  "selected_variants": {
+    "B": "B",
+    "F": "B",
+    "H": "B",
+    "I": "A",
+    "O": "B",
+    "Q": "B"
+  },
+  "selection_source": "Explicit per-letter selection; H B overrides the earlier agent preference H A. The selected designs are integrated without redrawing. Installation continues the established versioned trial workflow.",
+  "study_manifest": "data/bfhioq_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "c669d712c31b0c793ed514446fee8cc82e43f838457811c0b91bf737ab05abba",
+  "shown_word_proof": "specimen/BFHIOQ-Study-Words-2026-10-16.png",
+  "shown_word_proof_sha256": "877ccf4ccb04bb0e19716cc25ec6d8a68c490bb5fb6fe5ff64e1538883508108",
+  "reading_changes": false,
+  "segmentation_changes": false,
+  "authenticity_claim": false,
+  "approval_of_other_characters": false,
+  "public_release_approved": false,
+  "glyphs": {
+    "B": {
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0042-B.svg",
+      "sha256": "ed00e318509abb50e26a57d9c9ead542adaeed9dc8d4bd3cfe1852d634bc2f16",
+      "advance": 550
+    },
+    "F": {
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0046-B.svg",
+      "sha256": "2281d790c737aa383552c2250aec9885aeaa5f462af6ccb0d05808f1ae2641f3",
+      "advance": 505
+    },
+    "H": {
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0048-B.svg",
+      "sha256": "fce7b08e2067d5de5d13df39d9aab40e6fae7e8c9be81872eed95690103455d6",
+      "advance": 610
+    },
+    "I": {
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0049-A.svg",
+      "sha256": "50faf623c5010405fe962f1819ae6f0c431a8a7bf0b41052d10e378931988cd5",
+      "advance": 285
+    },
+    "O": {
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni004F-B.svg",
+      "sha256": "f7a1d048f0c03f7bb7850173177e5e2c7e414d489abbaf0c7f81366fa769b511",
+      "advance": 635
+    },
+    "Q": {
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0051-B.svg",
+      "sha256": "e80631314c67af96faed7013c873b8df0ce77309befe71e3e50e6cb080e8bef5",
+      "advance": 645
+    }
+  }
+}

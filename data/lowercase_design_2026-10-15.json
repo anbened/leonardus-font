@@ -1,0 +1,333 @@
+{
+  "status": "designs_approved_for_integration",
+  "human_design_review": true,
+  "date": "2026-10-15",
+  "plan": "data/guided_review_2026-10-14.json",
+  "plan_sha256": "41c1f9b543ffa829c3f2ec2bc59477ebbeb7eb90ef4c7b42be2565342a0e9436",
+  "evidence_sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+  "accepted_font_sha256": "92e3c7d22bcd34652b502b643e1efed61aedf83fac3659c29c73593d028a3d94",
+  "coordinate_system": "Native mirrored crop-local pixels; image annotations are manual hypotheses, not certified ink contours.",
+  "segmentation_sha256": {
+    "data/segmentation/bhmt-2026-10-15.json": "b44764bab2bc0af31441ec201d8096ddeb5c82b95a2060f88c40114251d6aa46",
+    "data/segmentation/gpqsu-2026-10-15.json": "a14f20f2af9dbd4f32d3d8ed3f4a1ab3ecb54deb0f7169770e0afad8872ba287",
+    "data/segmentation/cfiz-2026-10-15.json": "98b8154e442b2b3062ee435a1dad82ffb0bf918a9eb4313f1d034f208ceff5d3"
+  },
+  "glyphs": {
+    "b": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/b.svg",
+      "sha256": "f2be9c9bf8cca38bf774898c08682d7f34a46307ac750a4fb652f2892f4e14d1",
+      "advance": 410,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_014_B_01",
+        "BNE_MI_SEARCH_015_B_01",
+        "BNE_MI_SEARCH_017_B_02",
+        "BNE_MI_SEARCH_030_B_06",
+        "BNE_MI_SEARCH_036_B_07"
+      ],
+      "limited_support": false,
+      "rationale": "Asta aperta e piccola pancia bassa ricorrono nei confronti; etichette, richiami e parole restano contesti distinti.",
+      "normalizations": [
+        "Pancia abbassata e chiusa, inclinazione, peso e raccordi ridisegnati."
+      ],
+      "review_questions": [
+        "Dimensione della pancia e attacco b015; linea estranea b017 da escludere."
+      ]
+    },
+    "c": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/c.svg",
+      "sha256": "a8028a52afcbf9e091a0f755ef8cb73164d35290b11eed3d73a7e6944f72ca49",
+      "advance": 420,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_014_C_01",
+        "BNE_MI_EXP_014_C_02",
+        "BNE_MI_EXP_020_C_04",
+        "BNE_MI_SEARCH_030_C_01"
+      ],
+      "limited_support": true,
+      "rationale": "Arco aperto confrontato con quattro letture revisionate.",
+      "normalizations": [
+        "Apertura regolare, terminali e peso contemporanei, senza ricalco."
+      ],
+      "review_questions": [
+        "Apertura e confini c/o/e; occorrono altri contesti indipendenti."
+      ]
+    },
+    "f": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/f.svg",
+      "sha256": "ae4d050ebfe240b85789b0b1e1d0c85113baf72936cfc5fc3bcc449e69facb67",
+      "advance": 390,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_014_F_01",
+        "BNE_MI_EXP_014_F_02",
+        "BNE_MI_EXP_018_F_03",
+        "BNE_MI_EXP_020_F_04"
+      ],
+      "limited_support": true,
+      "rationale": "Forma lunga con uncino, traversa e discendente confrontata con quattro letture.",
+      "normalizations": [
+        "Uncino, traversa propria e coda regolarizzati; raccordi esclusi dal corpo."
+      ],
+      "review_questions": [
+        "Separazione dei due ascendenti f03 e distinzione s/f; supporto ancora limitato."
+      ]
+    },
+    "g": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/g.svg",
+      "sha256": "796ab0031bc2697d3817d321640e0968c4572c78277c4207c2c426e75a3e4fc1",
+      "advance": 450,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_016_G_01",
+        "BNE_MI_EXP_016_G_02",
+        "BNE_MI_EXP_016_G_03",
+        "BNE_MI_EXP_020_G_04",
+        "BNE_MI_EXP_020_G_05"
+      ],
+      "limited_support": false,
+      "rationale": "Testa chiusa e cappio discendente confrontati con cinque campioni.",
+      "normalizations": [
+        "Testa ampliata, orecchio destro e raccordo inferiore sono scelte contemporanee."
+      ],
+      "review_questions": [
+        "Equilibrio testa/cappio e distinzione g/8; intersezioni dei righi escluse."
+      ]
+    },
+    "h": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/h.svg",
+      "sha256": "da636e7210f1a62f83a2614ae6e8a785079edebe29f47c21f77f299338e4a4b0",
+      "advance": 420,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_SEARCH_015_H_01",
+        "BNE_MI_SEARCH_019_H_05",
+        "BNE_MI_SEARCH_021_H_06",
+        "BNE_MI_SEARCH_032_H_08",
+        "BNE_MI_SEARCH_034_H_10"
+      ],
+      "limited_support": false,
+      "rationale": "Ascendente prevalentemente aperta, spalla e gamba discendente; h08 documenta un cappio alternativo.",
+      "normalizations": [
+        "Ascendente aperta e coda accorciata sotto baseline; spalla e peso regolarizzati."
+      ],
+      "review_questions": [
+        "Riconoscibilità della h discendente; mantenere distinta la variante a cappio."
+      ]
+    },
+    "i": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/i.svg",
+      "sha256": "1b5b8625df55602d249d5202a4e3043a52b520526e830c31a02c1149c9e347cc",
+      "advance": 250,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_016_I_01",
+        "BNE_MI_EXP_018_I_02",
+        "BNE_MI_SEARCH_021_I_02",
+        "BNE_MI_SEARCH_024_I_03"
+      ],
+      "limited_support": true,
+      "rationale": "Asta breve confrontata con quattro letture; appartenenza dei punti non sempre risolta.",
+      "normalizations": [
+        "Punto moderno esplicitamente progettato per leggibilità; asta e terminale regolari."
+      ],
+      "review_questions": [
+        "Punto non attribuito ai campioni come tratto certo; i/l/j e separazione dalle vicine."
+      ]
+    },
+    "m": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/m.svg",
+      "sha256": "a66e5543d55864b7d6107d31dc1ee57ab92bb5cb316e7ae32f235d4db978379c",
+      "advance": 580,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_014_M_01",
+        "BNE_MI_EXP_016_M_02",
+        "BNE_MI_EXP_018_M_04",
+        "BNE_MI_EXP_018_M_06",
+        "BNE_MI_EXP_020_M_08"
+      ],
+      "limited_support": false,
+      "rationale": "Minimi compatti su quattro folii; attacchi e uscite sono connessi, soprattutto in m08.",
+      "normalizations": [
+        "Tre minimi, spalle asimmetriche e uscita breve disegnati indipendentemente."
+      ],
+      "review_questions": [
+        "Ritmo e confini dei minimi; m08 non è ancora un modello geometrico primario."
+      ]
+    },
+    "p": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/p.svg",
+      "sha256": "75033aade9d00ff7d5284117c9620564d1aadd485439e64a74bf7704ba051421",
+      "advance": 440,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_014_P_02",
+        "BNE_MI_EXP_016_P_03",
+        "BNE_MI_EXP_016_P_04",
+        "BNE_MI_EXP_018_P_05",
+        "BNE_MI_EXP_020_P_09"
+      ],
+      "limited_support": false,
+      "rationale": "Asta discendente e spalla confrontate con cinque campioni.",
+      "normalizations": [
+        "Lobo chiuso, proporzioni, peso e raccordi sono progettati."
+      ],
+      "review_questions": [
+        "Distinzione p/q/g, spalla aperta o chiusa; diagonale estranea p05 da escludere."
+      ]
+    },
+    "q": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/q.svg",
+      "sha256": "3246de20db443f1e623a662f21e2efdd7dc051702c47a9341988354f50ff3923",
+      "advance": 450,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_014_Q_01",
+        "BNE_MI_EXP_014_Q_02",
+        "BNE_MI_EXP_018_Q_03",
+        "BNE_MI_EXP_018_Q_04",
+        "BNE_MI_EXP_020_Q_05"
+      ],
+      "limited_support": false,
+      "rationale": "Testa ripiegata e discendente destro confrontati con cinque campioni.",
+      "normalizations": [
+        "Corpo chiuso e coda retta progettati; q02 non generalizzata come modello unico."
+      ],
+      "review_questions": [
+        "Testa, controforma, coda ripiegata o retta; righi vicini q05 esclusi."
+      ]
+    },
+    "s": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/s.svg",
+      "sha256": "282905a199f9fe840052e6d5d069e90ca937f3aab69ab00fb5e2d234c263eb65",
+      "advance": 440,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_014_S_01",
+        "BNE_MI_EXP_016_S_02",
+        "BNE_MI_EXP_018_S_04",
+        "BNE_MI_EXP_018_S_05",
+        "BNE_MI_EXP_020_S_06"
+      ],
+      "limited_support": false,
+      "rationale": "S alta rivista con gamba curva inferiore ampia e terminale rientrante per rendere riconoscibile la lettera. Curva e proporzioni sono scelte contemporanee, non contorni attestati nei cinque campioni.",
+      "normalizations": [
+        "Curva inferiore e terminale rientrante progettati; peso e raccordo centrale ridisegnati.",
+        "Advance portato da 380 a 440; discendente ridotto da 167 a 87 unità nel contorno compilato."
+      ],
+      "review_questions": [
+        "Curva inferiore e leggibilità approvate il 15 ottobre 2026; verificare la resa nel font integrato.",
+        "La segmentazione dei cinque riferimenti resta da revisionare separatamente."
+      ],
+      "alternatives": [
+        {
+          "file": "glyphs/proposals/2026-10-15-lowercase/s-short.svg",
+          "sha256": "92f39c1ab1b8cb5a66198461efef28f7a16f52a3fa8216a7642ea7da8b42ae45",
+          "advance": 390,
+          "label": "s corta contemporanea: corpo e curva inferiore progettati, non attestati nelle forme lunghe"
+        }
+      ],
+      "superseded_versions": [
+        {
+          "file": "glyphs/proposals/2026-10-15-lowercase/s-long-v1.svg",
+          "sha256": "46d342ab628c1f44a39330bcd67df37a67c69805ac82c309c6b6281cf30e703e",
+          "advance": 380,
+          "label": "Proposta precedente senza curva inferiore, sostituita dalla revisione."
+        }
+      ]
+    },
+    "t": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/t.svg",
+      "sha256": "e7da8dc9c49c352c02dcc84b33c64812dbf44c8cc797474f64725507e5694554",
+      "advance": 380,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_014_T_01",
+        "BNE_MI_EXP_016_T_03",
+        "BNE_MI_EXP_018_T_07",
+        "BNE_MI_EXP_018_T_08",
+        "BNE_MI_EXP_020_T_09"
+      ],
+      "limited_support": false,
+      "rationale": "Asta media e traversa lunga, spesso continua nelle u/o vicine.",
+      "normalizations": [
+        "Traversa propria delimitata, terminale contenuto e larghezza autonoma dai ponti."
+      ],
+      "review_questions": [
+        "Lunghezza della traversa con o/u; correggere i tagli incerti prima del disegno definitivo."
+      ]
+    },
+    "u": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/u.svg",
+      "sha256": "a0c78d5b4f1a2b3b30d8eb25f31dc39915e9b99debfa378d0fabbba7281b3af4",
+      "advance": 450,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_016_U_01",
+        "BNE_MI_EXP_018_U_04",
+        "BNE_MI_EXP_018_U_05",
+        "BNE_MI_EXP_020_U_08",
+        "BNE_MI_EXP_020_U_09"
+      ],
+      "limited_support": false,
+      "rationale": "Due minimi e raccordo basso confrontati con cinque campioni.",
+      "normalizations": [
+        "Valle, uscita, proporzioni e peso sono progettati."
+      ],
+      "review_questions": [
+        "Distinzione n/u/v e confini delle connessioni, soprattutto u08."
+      ]
+    },
+    "z": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/z.svg",
+      "sha256": "be1d702fb0d52d673d10bdac51018b2964c7030c8c132436f36f2317d73c366e",
+      "advance": 385,
+      "classification": "reviewed_design",
+      "segmentation_review": "pending",
+      "design_review": "approved",
+      "sample_ids": [
+        "BNE_MI_EXP_020_Z_01",
+        "BNE_MI_SEARCH_021_Z_01",
+        "BNE_MI_SEARCH_021_Z_02",
+        "BNE_MI_SEARCH_021_Z_03"
+      ],
+      "limited_support": true,
+      "rationale": "Segno sinuoso confrontato con quattro letture su due folii vicini.",
+      "normalizations": [
+        "Diagonale leggibile e coda sinuosa modernizzate, terminali progettati."
+      ],
+      "review_questions": [
+        "Equilibrio fra forma sinuosa e z leggibile; ampliare la varietà delle fonti."
+      ]
+    }
+  },
+  "design_review_receipt": "data/human_lowercase_integration_review_2026-10-15.json",
+  "design_review_receipt_sha256": "8bc7786768d9faadc2de302d23dde3b1a2012f57e241d6d9860f91a1bdd35958",
+  "base_font": "fonts/previous/Leonardus-Regular-1.000.ttf"
+}

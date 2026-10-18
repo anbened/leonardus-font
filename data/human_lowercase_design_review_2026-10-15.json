@@ -1,0 +1,84 @@
+{
+  "status": "human_design_decisions_recorded",
+  "date": "2026-10-15",
+  "recorded_at": "2026-10-15T08:13:12Z",
+  "timestamp_convention": "Registration time, not the time of visual inspection.",
+  "reviewer": "design reviewer",
+  "scope": "glyph_design_only",
+  "selected_column": "proposta",
+  "decision_excerpts": [
+    "vanno tutte bene",
+    "usiamo la colonna \"proposta\""
+  ],
+  "approved_designs": {
+    "b": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/b.svg",
+      "sha256": "f2be9c9bf8cca38bf774898c08682d7f34a46307ac750a4fb652f2892f4e14d1",
+      "advance": 410
+    },
+    "c": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/c.svg",
+      "sha256": "a8028a52afcbf9e091a0f755ef8cb73164d35290b11eed3d73a7e6944f72ca49",
+      "advance": 420
+    },
+    "f": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/f.svg",
+      "sha256": "ae4d050ebfe240b85789b0b1e1d0c85113baf72936cfc5fc3bcc449e69facb67",
+      "advance": 390
+    },
+    "g": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/g.svg",
+      "sha256": "796ab0031bc2697d3817d321640e0968c4572c78277c4207c2c426e75a3e4fc1",
+      "advance": 450
+    },
+    "h": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/h.svg",
+      "sha256": "da636e7210f1a62f83a2614ae6e8a785079edebe29f47c21f77f299338e4a4b0",
+      "advance": 420
+    },
+    "i": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/i.svg",
+      "sha256": "1b5b8625df55602d249d5202a4e3043a52b520526e830c31a02c1149c9e347cc",
+      "advance": 250
+    },
+    "m": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/m.svg",
+      "sha256": "a66e5543d55864b7d6107d31dc1ee57ab92bb5cb316e7ae32f235d4db978379c",
+      "advance": 580
+    },
+    "p": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/p.svg",
+      "sha256": "75033aade9d00ff7d5284117c9620564d1aadd485439e64a74bf7704ba051421",
+      "advance": 440
+    },
+    "q": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/q.svg",
+      "sha256": "3246de20db443f1e623a662f21e2efdd7dc051702c47a9341988354f50ff3923",
+      "advance": 450
+    },
+    "t": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/t.svg",
+      "sha256": "e7da8dc9c49c352c02dcc84b33c64812dbf44c8cc797474f64725507e5694554",
+      "advance": 380
+    },
+    "u": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/u.svg",
+      "sha256": "a0c78d5b4f1a2b3b30d8eb25f31dc39915e9b99debfa378d0fabbba7281b3af4",
+      "advance": 450
+    },
+    "z": {
+      "file": "glyphs/proposals/2026-10-15-lowercase/z.svg",
+      "sha256": "be1d702fb0d52d673d10bdac51018b2964c7030c8c132436f36f2317d73c366e",
+      "advance": 385
+    }
+  },
+  "pending_designs": [
+    "s"
+  ],
+  "requested_changes": {
+    "s": "Aggiungere una gamba curva inferiore per rendere riconoscibile la s."
+  },
+  "segmentation_approved": false,
+  "font_integration_approved": false,
+  "public_release_approved": false
+}

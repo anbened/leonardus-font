@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "status": "selected_aemnu_designs_for_integration",
+  "version": "1.220",
+  "family": "Leonardus 1220",
+  "postscript": "Leonardus-1220-Regular",
+  "base_version": "1.211",
+  "base_font": "fonts/Leonardus-1211-Regular.ttf",
+  "base_font_sha256": "75e11eb8b0cfe807c37c17900b68726c4865e3d76e91d92656aa203d568d8482",
+  "study_manifest": "data/aemnu_variant_study_2026-10-15.json",
+  "study_manifest_sha256": "80e4a01198c2d6c4f38a2443c0e8d2a72eaaf0e0be654a4e47d73bb6b1628c92",
+  "design_review_receipt": "data/human_aemnu_integration_review_2026-10-15.json",
+  "design_review_receipt_sha256": "8e321bd323306136e83b371f9ee9cc8fcdeaaf34613483a50df5d0c77577b28d",
+  "license": "OFL-1.1",
+  "public_release_approved": false,
+  "glyphs": {
+    "a": {
+      "variant": "A",
+      "file": "glyphs/proposals/2026-10-15-aemnu/a-A.svg",
+      "sha256": "ef26948c18409ec39b9f1206ca36f8a68b2573c85d0fdfe490769b315f92bd02",
+      "advance": 440,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE_MI_014_A_03",
+        "BNE_MI_016_A_01",
+        "BNE_MI_016_A_04"
+      ],
+      "design_notes": "Corpo chiuso più angoloso, vertice alto e controforma obliqua; chiusura inferiore conservata per leggibilità. Peso, proporzioni, raccordi e chiusure restano scelte contemporanee; nessun nuovo campione ad alta risoluzione acquisito."
+    },
+    "e": {
+      "variant": "A",
+      "file": "glyphs/proposals/2026-10-15-aemnu/e-A.svg",
+      "sha256": "ac53ae0ca4fd556b6f54e8c0c3376a09b97142c344827c427513b9612c111595",
+      "advance": 412,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE-MI-018-e-02",
+        "BNE-MI-018-e-03",
+        "BNE-MI-020-e-06"
+      ],
+      "design_notes": "Occhio più piccolo e alto, arco inferiore alleggerito e uscita lunga; raccordo continuo progettato. Peso, proporzioni, raccordi e chiusure restano scelte contemporanee; nessun nuovo campione ad alta risoluzione acquisito."
+    },
+    "m": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-15-aemnu/m-B.svg",
+      "sha256": "3e5b8f4c99024ab5a12bd6b2911bebfcaf6ce365ce770576bdc4173b6f2fd731",
+      "advance": 580,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE_MI_EXP_016_M_02",
+        "BNE_MI_EXP_018_M_04",
+        "BNE_MI_EXP_018_M_06"
+      ],
+      "design_notes": "Spalle spezzate a cuspide e raccordi diagonali, con asimmetria più evidente; maggiore rischio di confusione fra sequenze di minimi. Peso, proporzioni, raccordi e chiusure restano scelte contemporanee; nessun nuovo campione ad alta risoluzione acquisito."
+    },
+    "n": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-15-aemnu/n-B.svg",
+      "sha256": "fb9f0156ed8b2b8ceb8eeb17c598fc49bb647bca81bd188db10d4e3a0d01b1a4",
+      "advance": 457,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE_MI_016_N_02",
+        "BNE_MI_018_N_03",
+        "BNE_MI_018_N_05"
+      ],
+      "design_notes": "Spalla a tetto con salita diagonale e cambio di direzione più netto; il vertice è un’interpretazione progettuale. Peso, proporzioni, raccordi e chiusure restano scelte contemporanee; nessun nuovo campione ad alta risoluzione acquisito."
+    },
+    "u": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-15-aemnu/u-B.svg",
+      "sha256": "88e3b9ea9be5fb67a25c57e47d67f568f63a6cdf0b1ea268a55c97ae2da3bcc8",
+      "advance": 450,
+      "classification": "reviewed_design",
+      "sample_ids": [
+        "BNE_MI_EXP_016_U_01",
+        "BNE_MI_EXP_018_U_05",
+        "BNE_MI_EXP_020_U_09"
+      ],
+      "design_notes": "Fondo angoloso e risalita più tesa; mantiene il raccordo basso per distinguerla dalla n. Non ricalca la u08 dubbia. Peso, proporzioni, raccordi e chiusure restano scelte contemporanee; nessun nuovo campione ad alta risoluzione acquisito."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "human_segmentation_revision_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:21:23+00:00",
+  "quote": "Compatibile con riserve",
+  "question": "Per la nuova t08 mostrata, accetti la regione come compatibile con riserve, mantenendo non confermati la fascia inferiore aggiunta e il raccordo arancione verso la o? È una decisione sui confini della nuova proposta, senza modifiche al font.",
+  "revision_path": "data/segmentation_revisions_2026-10-15_t.json",
+  "revision_sha256": "00b647846aeb39f4a96b16ca2f7cd6a9a280cd09c1a017a41c67ff29f3e399f6",
+  "shown_sheet": "build/segmentation-consolidation/review-revisions-3f9da66c8891.png",
+  "shown_sheet_sha256": "3f9da66c88918043629894ffca35c9d37f9cba5fe591dc75db33389a6adca83b",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_018_T_08",
+      "annotation_sha256": "6248f39d4f8de139207b4a1d32a91a25e416e9070a5b90c70202b45ca291b7b2",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "version": "1.200",
+  "status": "delegated_design_candidate_for_user_trial",
+  "family": "Leonardus 1200",
+  "postscript": "Leonardus-1200-Regular",
+  "base_version": "1.100",
+  "base_font": "fonts/Leonardus-Regular.ttf",
+  "base_font_sha256": "1f65d26ece4c8a0fe9c275fcdedfa037fab88a9687b0cd89a941d131eb899632",
+  "authorization": "data/completion_authorization_2026-10-15.json",
+  "authorization_sha256": "b6c1f9f4d4055bd781efc913d43f4a2f59e149de8306c5bdf44469a20a784c05",
+  "segmentation_assessment": "data/agent_segmentation_review_2026-10-15.json",
+  "segmentation_assessment_sha256": "ee531797eb76109bc721b4e60b3227b0b778e91ff105c0c8e1d06b0dde94d911",
+  "research_assessment": "data/research_assessment_2026-10-15.json",
+  "research_assessment_sha256": "c473d09bc726416dda40d638a841ae3dcd377277ce52d9e5bdb341a993335528",
+  "human_visual_design_approval": false,
+  "public_release_approved": false,
+  "scope": "Six reasoned contemporary completions; twenty previously approved lowercase forms unchanged. All 26 have explicit derivation records; not 26 attested historical lowercase shapes.",
+  "glyphs": {
+    "j": {
+      "file": "glyphs/regular/release-1.200/j.svg",
+      "sha256": "cea7e40749a17ee49f19da42c2cf29ef27f88db502ba8e633e1eed5ab54d63d8",
+      "advance": 240,
+      "classification": "reasoned_completion",
+      "contextual_sample_ids": [
+        "BNE_MI_SEARCH_303_J_01"
+      ],
+      "parent_motifs": [
+        "i"
+      ],
+      "rationale": "Asta e punto della i approvata, con coda curva e spaziatura autonoma. La candidata storica non distingue j da i lunga: la mappatura j e un completamento moderno."
+    },
+    "k": {
+      "file": "glyphs/regular/release-1.200/k.svg",
+      "sha256": "a9a433381043e80a9f0c305ff8b9b562e6d5659c4d6e03b0927a5eb8d7b98a41",
+      "advance": 430,
+      "classification": "reasoned_completion",
+      "contextual_sample_ids": [],
+      "parent_motifs": [
+        "h"
+      ],
+      "rationale": "Ascendente coerente con h e bracci curvi confrontati con K delle etichette. Non si scala o rinomina una K come prova di minuscola; giunzione e gamba sono progettate."
+    },
+    "v": {
+      "file": "glyphs/regular/release-1.200/v.svg",
+      "sha256": "1d175fc87dfe06974c9faab3f08028f8a11805862c0bf5486d39bade4e29a509",
+      "advance": 430,
+      "classification": "reasoned_completion",
+      "contextual_sample_ids": [
+        "BNE_MI_SEARCH_049_V_01",
+        "BNE_MI_SEARCH_049_V_02"
+      ],
+      "parent_motifs": [
+        "u"
+      ],
+      "rationale": "Ritorno arrotondato motivato dai segni contestuali v/u/o, con valle e terminali per distinguere la v moderna dalla u approvata. Nessun angolo storico inventato."
+    },
+    "w": {
+      "file": "glyphs/regular/release-1.200/w.svg",
+      "sha256": "dc8e9083cc63dcae6ebd40880cefa36c25057b8230beeac2aaf39bffc31056d0",
+      "advance": 570,
+      "classification": "reasoned_completion",
+      "contextual_sample_ids": [],
+      "parent_motifs": [
+        "u",
+        "v"
+      ],
+      "rationale": "Ritmo doppio costruito dalla v progettata e dai minimi di u. Nessuna w selezionata: la forma resta sintesi contemporanea esplicita."
+    },
+    "x": {
+      "file": "glyphs/regular/release-1.200/x.svg",
+      "sha256": "17ba42038e0a24944f58850da6feccfaa8c022456dafcacaac5bedc8cd0b975d",
+      "advance": 415,
+      "classification": "reasoned_completion",
+      "contextual_sample_ids": [
+        "BNE_MI_SEARCH_049_X_01",
+        "BNE_MI_SEARCH_049_X_02"
+      ],
+      "parent_motifs": [
+        "f"
+      ],
+      "rationale": "Incrocio asimmetrico osservato nei due riferimenti tecnici, reso leggibile a x-height comune. Peso, curve e uscite sono progettati; non attestazione lessicale."
+    },
+    "y": {
+      "file": "glyphs/regular/release-1.200/y.svg",
+      "sha256": "f1b94cbd715047f7b831c12bfdeafcaaa263d39e2ddc78f46e8b3bb27205ba73",
+      "advance": 410,
+      "classification": "reasoned_completion",
+      "contextual_sample_ids": [
+        "BNE_MI_SEARCH_303_Y_01"
+      ],
+      "parent_motifs": [
+        "u",
+        "h"
+      ],
+      "rationale": "Corpo a due minimi derivato dalla u approvata, con discesa curva confrontata con h e candidata y/h. La forcella moderna e la mappatura Unicode sono progettate."
+    }
+  }
+}

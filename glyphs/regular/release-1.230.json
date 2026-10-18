@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "status": "selected_jkvwxy_completions_for_integration",
+  "version": "1.230",
+  "family": "Leonardus 1230",
+  "postscript": "Leonardus-1230-Regular",
+  "base_version": "1.220",
+  "base_font": "fonts/Leonardus-1220-Regular.ttf",
+  "base_font_sha256": "57d0a07912297b0d52f2eb0ecbc6ee0b70bbc55d10e9db0ed85f74c275c06783",
+  "study_manifest": "data/jkvwxy_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "6b929e2b3fc715b4af4aa5b2054c5b573f963f57149d07b0593c75a306502dc8",
+  "design_review_receipt": "data/human_jkvwxy_integration_review_2026-10-16.json",
+  "design_review_receipt_sha256": "143e7af79066d41a8a5d1a9ad8ba92674b145e24b2f8d61dc4d3e762c9eca094",
+  "license": "OFL-1.1",
+  "public_release_approved": false,
+  "glyphs": {
+    "j": {
+      "variant": "A",
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/j-A.svg",
+      "sha256": "658eb7bec64213d3d362ec5930593d13087bf3f50790d0649d92d762191dac04",
+      "advance": 240,
+      "classification": "reasoned_completion",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_303_J_01"
+      ],
+      "parent_motifs": [
+        "i"
+      ],
+      "design_notes": "Coda più continua e aperta, con punto e asta della i conservati. i della 1.220 e confronto ambiguo J_01; nessuna j minuscola attestata. Selezione del disegno contemporaneo, senza nuove letture storiche confermate."
+    },
+    "k": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/k-B.svg",
+      "sha256": "02ee76de14e8b0568fca5a1f7dee2bbdd507d0b2f60d58171115d50e0ff95f16",
+      "advance": 430,
+      "classification": "reasoned_completion",
+      "contextual_reference_ids": [
+        "K_CONTEXT_01",
+        "K_CONTEXT_02",
+        "K_CONTEXT_03"
+      ],
+      "parent_motifs": [
+        "h"
+      ],
+      "design_notes": "Braccio superiore compatto e gamba che nasce da una spalla curva, confrontata con le etichette K. Ascendente di h e tre osservazioni K già documentate; k minuscola progettata. Selezione del disegno contemporaneo, senza nuove letture storiche confermate."
+    },
+    "v": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/v-B.svg",
+      "sha256": "ca9125ea7d94c3222318677e9038de4ab33e63a6a855aa16f55396f5d68c4b26",
+      "advance": 430,
+      "classification": "reasoned_completion",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_049_V_01",
+        "BNE_MI_SEARCH_049_V_02"
+      ],
+      "parent_motifs": [
+        "u"
+      ],
+      "design_notes": "Piccolo ritorno ovale sul braccio destro, rialzato per conservare la valle di v. La posizione è una scelta moderna; verificare la distinzione da u e b. V_01 e V_02, entrambe candidate; proporzioni e controforma progettate. Selezione del disegno contemporaneo, senza nuove letture storiche confermate."
+    },
+    "w": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/w-B.svg",
+      "sha256": "051eec87fce8178d5097e2ecfdbfacd05bebd1e1a4a041efe7228748ddd6381e",
+      "advance": 570,
+      "classification": "reasoned_completion",
+      "contextual_reference_ids": [],
+      "parent_motifs": [
+        "u",
+        "v"
+      ],
+      "design_notes": "Doppio ritmo spezzato, coordinato con m B, n B e u B della 1.220. Sintesi contemporanea da u B e dal principio della v; nessun campione diretto di w. Selezione del disegno contemporaneo, senza nuove letture storiche confermate."
+    },
+    "x": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/x-B.svg",
+      "sha256": "922fa01771a5e255fdb2ff642787ff62a55d04a6d1e5dd0a0b61b9558cd1d433",
+      "advance": 415,
+      "classification": "reasoned_completion",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_049_X_01",
+        "BNE_MI_SEARCH_049_X_02"
+      ],
+      "parent_motifs": [
+        "x"
+      ],
+      "design_notes": "Due direzioni curve, incrocio più alto e uscita inferiore più gestuale. X_01 e X_02 candidate; peso e raccordi moderni, senza dedurre ordine o pressione dei tratti. Selezione del disegno contemporaneo, senza nuove letture storiche confermate."
+    },
+    "y": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-jkvwxy/y-B.svg",
+      "sha256": "1909a5a70e8cdac7ece8c7f8d81d83fc72f239f16d8ef018b8f39f4679033df0",
+      "advance": 410,
+      "classification": "reasoned_completion",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_303_Y_01"
+      ],
+      "parent_motifs": [
+        "u",
+        "h"
+      ],
+      "design_notes": "Forcella curva e più alta, con lunga discesa obliqua aperta. La forcella è una scelta moderna. Y_01 candidata e famiglia u/h. Le nuove piste online non sono geometrie primarie. Selezione del disegno contemporaneo, senza nuove letture storiche confermate."
+    }
+  }
+}

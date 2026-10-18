@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Prova Leonardus Regular 1.270: un carattere contemporaneo ispirato alla grafia documentata di Leonardo da Vinci.">
+<title>Prova Leonardus Regular</title>
+<style>
+@font-face{font-family:Leonardus;src:url('../fonts/Leonardus-Regular-1.270.ttf') format('truetype');font-display:swap}
+*{box-sizing:border-box}body{margin:0;background:#f7f3ea;color:#252b2d;font:17px/1.6 system-ui,sans-serif}
+main{max-width:1080px;margin:auto;padding:48px 24px}h1{font-size:clamp(32px,5vw,52px);line-height:1.15;margin:12px 0 20px}
+.eyebrow{font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:#675c4b}.intro{max-width:760px}
+nav{display:flex;flex-wrap:wrap;gap:12px;margin:28px 0}a{color:#325a49;text-underline-offset:4px}
+.download,button{border:1px solid #325a49;border-radius:5px;padding:10px 16px;font:inherit;cursor:pointer}
+.download{background:#325a49;color:white;text-decoration:none}button{background:transparent;color:#325a49}
+.controls{display:flex;align-items:center;flex-wrap:wrap;gap:20px;margin:26px 0 8px}label{display:flex;align-items:center;gap:12px}
+input{width:140px;accent-color:#325a49}textarea{display:block;width:100%;min-height:570px;padding:26px;background:#fffdf8;border:1px solid #b7ad9b;border-radius:6px;color:#252b2d;font:36pt/1.6 Leonardus,serif;resize:vertical}
+textarea:focus{outline:2px solid #325a49;outline-offset:3px}#status,#unsupported,footer{font-size:14px}#unsupported{color:#783c2c;min-height:24px}
+footer{border-top:1px solid #d9d0c1;margin-top:32px;padding-top:18px}details{margin-top:24px}summary{cursor:pointer;font-weight:600}
+@media(max-width:600px){main{padding:28px 16px}textarea{padding:16px}.controls{gap:12px}}
+@media print{body{background:white}main{padding:0}nav,.controls,#status,#unsupported,details{display:none}textarea{border:0;min-height:0;resize:none;padding:0}footer{margin-top:16px}}
+</style>
+</head>
+<body>
+<main>
+<div class="eyebrow">Leonardus Regular · versione 1.270</div>
+<h1>Scrivi con Leonardus</h1>
+<p class="intro">Un carattere contemporaneo ispirato alla grafia documentata di Leonardo da Vinci, leggibile da sinistra a destra. Scrivi nel riquadro, scegli un testo di esempio e cambia la dimensione.</p>
+<nav aria-label="Materiali del progetto">
+<a class="download" href="../fonts/Leonardus-Regular-1.270.ttf" download>Scarica il font</a>
+<a href="Leonardus-1270-Print-Specimen.pdf">Campionario PDF</a>
+<a href="../INSTALL.md">Installazione</a>
+<a href="../README.md">Il progetto</a>
+</nav>
+<div class="controls">
+<label for="size">Dimensione <input id="size" type="range" min="12" max="96" value="36"><output id="sizeLabel" for="size">36 pt</output></label>
+<button id="alphabet" type="button">Alfabeto</button>
+<button id="words" type="button">Testo di esempio</button>
+</div>
+<p id="status" role="status">Caricamento del font…</p>
+<textarea id="sample" aria-label="Scrivi il tuo testo con Leonardus" spellcheck="false">Leonardo osserva la natura.
+Arte, scienza e immaginazione.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+à è é ì ò ù — À È É Ì Ò Ù
+0123456789  € 1.234,56</textarea>
+<p id="unsupported" role="status"></p>
+<details><summary>Come nasce questo carattere</summary>
+<p>Venti minuscole hanno riferimenti a letture storiche revisionate; j, k, v, w, x e y sono completamenti ragionati. Maiuscole, cifre e segni moderni sono disegni contemporanei. Leonardus è una reinterpretazione documentata, senza autenticazione paleografica o avallo museale.</p>
+</details>
+<footer>Font e contorni: SIL OFL 1.1. Pagina e documentazione: MIT. Il testo digitato rimane nel browser; questa pagina non usa servizi esterni.</footer>
+</main>
+<script>
+const sample=document.querySelector('#sample'),size=document.querySelector('#size');
+const known=new Set([...Array.from({length:95},(_,i)=>i+32),160,176,192,200,201,204,210,217,224,232,233,236,242,249,768,769,8211,8212,8216,8217,8220,8221,8230,8364]);
+const initial=sample.value;
+function update(){
+  sample.style.fontSize=size.value+'pt';
+  document.querySelector('#sizeLabel').textContent=size.value+' pt';
+  const unknown=[...new Set([...sample.value].filter(c=>!known.has(c.codePointAt(0))&&!['\n','\r','\t'].includes(c)))];
+  document.querySelector('#unsupported').textContent=unknown.length?'Caratteri non inclusi nel font: '+unknown.join(' '):'';
+  sample.style.height='auto';sample.style.height=Math.max(570,sample.scrollHeight+4)+'px';
+}
+sample.addEventListener('input',update);size.addEventListener('input',update);
+document.querySelector('#alphabet').onclick=()=>{sample.value='ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n\nà è é ì ò ù  À È É Ì Ò Ù\n0123456789\n€ ° … – — ‘ ’ “ ”';update();};
+document.querySelector('#words').onclick=()=>{sample.value=initial;update();};
+document.fonts.load('36px Leonardus').then(fonts=>{
+  if(fonts.length===0)throw Error('Font non disponibile');
+  document.querySelector('#status').textContent='Leonardus è pronto. Il testo resta nel tuo browser.';update();
+}).catch(()=>{document.querySelector('#status').textContent='Font non caricato. Apri la pagina dalla cartella completa del progetto o usa il server locale descritto nella guida.';});
+update();
+</script>
+</body>
+</html>

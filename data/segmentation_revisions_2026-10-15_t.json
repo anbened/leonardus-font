@@ -1,0 +1,172 @@
+{
+  "status": "candidate_segmentation_revisions",
+  "scope": "Wider crop and existing proposed region; no historical/design approval",
+  "source_plan": "data/segmentation_consolidation_2026-10-15.json",
+  "source_plan_sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+  "samples": [
+    {
+      "sample_id": "BNE_MI_EXP_018_T_08",
+      "based_on_annotation_sha256": "d79138e0e349fe6b2a5d7e307d735512f86ebbcd6e7fd2c76e45fb9ad75f61a9",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "mirror_crop": [
+        1061,
+        453,
+        43,
+        40
+      ],
+      "raw_crop": [
+        474,
+        453,
+        43,
+        40
+      ],
+      "annotation": {
+        "sample_id": "BNE_MI_EXP_018_T_08",
+        "retained_polygons": [
+          [
+            [
+              8,
+              14
+            ],
+            [
+              11,
+              13
+            ],
+            [
+              11,
+              20
+            ],
+            [
+              15,
+              21
+            ],
+            [
+              21,
+              21
+            ],
+            [
+              22,
+              24
+            ],
+            [
+              15,
+              26
+            ],
+            [
+              12,
+              25
+            ],
+            [
+              13,
+              36
+            ],
+            [
+              9,
+              36
+            ],
+            [
+              8,
+              28
+            ],
+            [
+              7,
+              22
+            ]
+          ]
+        ],
+        "cut_lines": [
+          [
+            [
+              22,
+              17
+            ],
+            [
+              22,
+              32
+            ]
+          ]
+        ],
+        "excluded_polygons": [
+          [
+            [
+              25,
+              18
+            ],
+            [
+              29,
+              16
+            ],
+            [
+              33,
+              17
+            ],
+            [
+              35,
+              20
+            ],
+            [
+              35,
+              30
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              25,
+              31
+            ],
+            [
+              23,
+              26
+            ],
+            [
+              24,
+              22
+            ]
+          ]
+        ],
+        "uncertain_polygons": [
+          [
+            [
+              19,
+              21
+            ],
+            [
+              24,
+              20
+            ],
+            [
+              24,
+              26
+            ],
+            [
+              19,
+              26
+            ]
+          ],
+          [
+            [
+              9,
+              30
+            ],
+            [
+              13,
+              30
+            ],
+            [
+              13,
+              36
+            ],
+            [
+              9,
+              36
+            ]
+          ]
+        ],
+        "notes": "Proposta nuova: crop ampliato di 6 px per lato; regione inferiore estesa di 3 px sul terminale visibile. La fascia aggiunta e il raccordo verso la o restano arancioni e incerti. Nessun completamento o ricostruzione dell inchiostro."
+      },
+      "human_decision": null
+    }
+  ]
+}

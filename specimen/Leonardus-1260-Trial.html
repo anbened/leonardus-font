@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="it">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Prova Leonardus 1260</title>
+<style>
+@font-face{font-family:Leonardus1260;src:url('../fonts/Leonardus-1260-Regular.ttf') format('truetype');font-display:block}
+@font-face{font-family:Leonardus1250;src:url('../fonts/Leonardus-1250-Regular.ttf') format('truetype');font-display:block}
+*{box-sizing:border-box}body{margin:0;background:#f7f4ec;color:#26312f;font:16px/1.5 system-ui,sans-serif}
+main{max-width:1210px;margin:50px auto;padding:0 28px}header{border-bottom:1px solid #c9ccc2;padding-bottom:24px}
+.eyebrow{color:#667368;font-size:13px;letter-spacing:.12em;text-transform:uppercase}h1{font-size:38px;line-height:1.15;margin:10px 0}
+p{max-width:780px}nav,.controls{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin:22px 0}
+button,select,a.download{font:inherit;color:inherit;border:1px solid #b8c0b3;background:#fffdf7;border-radius:6px;padding:9px 14px}
+button{cursor:pointer}button:hover,a.download:hover{background:#e7ecdf}label{display:flex;align-items:center;gap:9px}a{color:#345e49}
+textarea{width:100%;min-height:430px;resize:vertical;border:1px solid #bac5b7;border-radius:9px;background:#fffdf7;color:#202925;padding:26px;font:36pt/1.5 Leonardus1260;overflow:hidden}
+#status{color:#4c6853;font-size:14px}#unsupported{color:#8f4627;min-height:1.5em}details{margin:26px 0;color:#586257}footer{font-size:14px;color:#687165;margin:35px 0}
+@media(max-width:600px){main{margin:24px auto;padding:0 16px}h1{font-size:30px}textarea{padding:16px}}
+@media print{body{background:white}main{margin:0;padding:0;max-width:none}nav,.controls,details,#status,#unsupported,footer{display:none}header{padding-bottom:10px}header p{display:none}h1{font-size:16pt}textarea{border:0;padding:15px 0;width:100%;height:auto!important;overflow:visible}}
+</style>
+<main>
+<header><div class="eyebrow">Leonardus · Regular 1.260</div><h1>Scrivi e prova il font</h1>
+<p>Una Regular contemporanea ispirata allo studio dei manoscritti di Leonardo. La 1.260 integra B B, F B, H B, I A, O B e Q B; H B è la scelta esplicita, diversa dal suggerimento iniziale H A. Conserva le dodici maiuscole precedenti, tutte le minuscole e la spaziatura p/q. Le maiuscole restano reinterpretazioni contemporanee, senza nuove letture storiche confermate.</p></header>
+<nav><a class="download" href="../fonts/Leonardus-1260-Regular.ttf" download>Scarica il font 1.260</a><a href="BFHIOQ-Integration-1.260.png">Confronto nelle parole</a><a href="../docs/REGULAR_1_260.md">Documentazione</a></nav>
+<div class="controls">
+<label>Versione <select id="version"><option value="1260">1.260 — B/F/H/O/Q B, I A</option><option value="1250">1.250 — confronto precedente</option></select></label>
+<label>Corpo <input id="size" type="range" min="12" max="72" value="36"><output id="sizeLabel">36 pt</output></label>
+<button id="alphabet">Alfabeto</button><button id="words">Parole di prova</button><button id="print">Stampa</button>
+</div>
+<p id="status" role="status">Caricamento del font…</p>
+<textarea id="sample" aria-label="Scrivi il tuo testo con Leonardus" spellcheck="false">ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+Bottega Bellezza — Firenze Forma
+Historia Homo — Italia Ingegno
+Opera Ombra — Quaderno Quiete
+
+Il libro illustra 1 idea. O 0 Q.
+BOTTEGA E FORMA. OPERA E QUIETE.
+Ì Ì Ò Ò.</textarea>
+<p id="unsupported" role="status"></p>
+<details><summary>Come leggere questa prova</summary><p>Scelta registrata: B B, F B, H B, I A, O B, Q B. H B prevale sul precedente suggerimento H A. I sei contorni sono esattamente quelli mostrati nello studio; tutti gli avanzamenti sono conservati dopo la verifica nelle parole. Ì e Ò e le ancore combinanti seguono I A e O B. Minuscole, dodici maiuscole precedenti e spazi p/q non cambiano. La selezione non aggiunge letture storiche maiuscole confermate. Prove native Office e stampa fisica restano distinte.</p></details>
+<footer>Contorni originali Leonardus · SIL OFL 1.1. La pagina funziona localmente e non invia il testo digitato.</footer>
+</main>
+<script>
+const sample=document.querySelector('#sample'),version=document.querySelector('#version'),size=document.querySelector('#size');
+const known=new Set([...Array.from({length:95},(_,i)=>i+32),160,176,192,200,201,204,210,217,224,232,233,236,242,249,768,769,8211,8212,8216,8217,8220,8221,8230,8364]);
+function update(){sample.style.fontFamily='Leonardus'+version.value;sample.style.fontSize=size.value+'pt';document.querySelector('#sizeLabel').textContent=size.value+' pt';const unknown=[...new Set([...sample.value].filter(c=>!known.has(c.codePointAt(0))&&!['\n','\r','\t'].includes(c)))];document.querySelector('#unsupported').textContent=unknown.length?'Caratteri non coperti dal repertorio concordato: '+unknown.join(' '):'';sample.style.height='auto';sample.style.height=Math.max(430,sample.scrollHeight+4)+'px';}
+sample.addEventListener('input',update);size.addEventListener('input',update);version.addEventListener('change',update);
+document.querySelector('#alphabet').onclick=()=>{sample.value='ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n\nà è é ì ò ù  À È É Ì Ò Ù\n0123456789  € 1.234,56\n\nBB FF HH II OO QQ\nBa Be  Fi Fo  Hi Ho  Il In  Op Om  Qu Qo';update();};
+document.querySelector('#words').onclick=()=>{sample.value="Bottega Bellezza\nFirenze Forma\nHistoria Homo\nItalia Ingegno\nOpera Ombra\nQuaderno Quiete\n\nBOTTEGA E FORMA. OPERA E QUIETE.\n\nIl libro illustra 1 idea. I l 1 - O 0 Q.";update();};
+document.querySelector('#print').onclick=()=>window.print();
+Promise.all([document.fonts.load('36px Leonardus1260'),document.fonts.load('36px Leonardus1250')]).then(r=>{if(r.some(fonts=>fonts.length===0))throw Error('Font non disponibile');document.querySelector('#status').textContent='Font caricati. Scrivi nel riquadro o scegli un testo di prova.';update();}).catch(()=>{document.querySelector('#status').textContent='Font non caricato: apri questa pagina dalla cartella completa del progetto o tramite il server locale indicato nella documentazione.';});
+update();
+</script>
+</html>

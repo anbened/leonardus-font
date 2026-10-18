@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-16",
+  "version": "1.260",
+  "font_sha256": "f0c1ed6faeb76e66ab88a54cff7ca52c6c30fd33884c72b74cc915b5030e70bf",
+  "family": "Leonardus 1260",
+  "selection": {
+    "B": "B",
+    "F": "B",
+    "H": "B",
+    "I": "A",
+    "O": "B",
+    "Q": "B"
+  },
+  "glyphs": 121,
+  "codepoints": 119,
+  "new_reviewed_capital_readings": 0,
+  "evidence_unchanged": true,
+  "lowercase_outlines_unchanged": true,
+  "all_advances_unchanged": true,
+  "changed_dependencies": "ÌÒ",
+  "historical_capital_classification": "designed",
+  "metrics": {
+    "B": {
+      "advance": 550,
+      "lsb": 58,
+      "rsb": 49
+    },
+    "F": {
+      "advance": 505,
+      "lsb": 61,
+      "rsb": 14
+    },
+    "H": {
+      "advance": 610,
+      "lsb": 57,
+      "rsb": 48
+    },
+    "I": {
+      "advance": 285,
+      "lsb": 31,
+      "rsb": 41
+    },
+    "O": {
+      "advance": 635,
+      "lsb": 82,
+      "rsb": 58
+    },
+    "Q": {
+      "advance": 645,
+      "lsb": 82,
+      "rsb": 24
+    }
+  },
+  "spacing": {
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "tested_pairs_per_size": 2704,
+    "ink_collisions": 0,
+    "threshold": 127,
+    "optical_certificate": false
+  },
+  "proofs": {
+    "points": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "words_sha256": "ecd62857e8e016eec19abcbf377c8d6a6d34aebc259a81f341b2a50e346c8e9a",
+    "renderer": "HarfBuzz + FreeType"
+  },
+  "integration_tests_passed": 7,
+  "full_suite": {
+    "passed": 247,
+    "skipped": 5,
+    "platform": "Windows",
+    "skip_reason": "Existing symlink privilege/platform checks",
+    "isolated_checkout": true
+  },
+  "installed_current_user": true,
+  "fresh_process_gdi_bytes_match": true,
+  "browser": {
+    "current_and_previous_font_loaded": true,
+    "version_selector_verified": true,
+    "word_button_verified": true
+  },
+  "office_tested": false,
+  "physical_print_tested": false,
+  "public_release_approved": false,
+  "privacy_check_passed": true,
+  "inventory_check_passed": true,
+  "current_and_previous_font_rebuilds_byte_identical": true,
+  "previous_12_selected_capitals_outlines_unchanged": true,
+  "previous_family_1250_file_and_registration_unchanged": true
+}

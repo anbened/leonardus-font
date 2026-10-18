@@ -1,0 +1,29 @@
+{
+  "status": "human_segmentation_revision_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:49:29+00:00",
+  "quote": "Confermo s01 dubbia e s04 compatibile con riserve",
+  "question": "Per la nuova tavola s01/s04, confermi s01 dubbia per il terminale inferiore, da non usare come riferimento geometrico principale in quella zona, e s04 compatibile con riserve? In s01 la regione mantenuta è invariata e il contatto inferiore è marcato incerto; in s04 la regione è estesa di 4 pixel sopra e 3 sotto, con fasce aggiunte e raccordi arancioni non confermati. La decisione riguarda solo queste nuove segmentazioni storiche; il disegno della s già approvato nel font, le letture e l’autenticità non sono oggetto di approvazione.",
+  "revision_path": "data/segmentation_revisions_2026-10-15_s.json",
+  "revision_sha256": "f7f72110026639211ae0a40e7ec2d7a5259fb697f90401991d1c6f9c37dc70cf",
+  "shown_sheet": "build/segmentation-consolidation/review-revisions-cb56dcff2451.png",
+  "shown_sheet_sha256": "cb56dcff2451c095255264569fc1a7ebda62825cc64975b9ea9dbcc2b5d66564",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_S_01",
+      "annotation_sha256": "d426150ad99a0fba4dc9eee18f70a22bc44481d36e9d7de27d577b2e49e171e7",
+      "decision": "uncertain",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_S_04",
+      "annotation_sha256": "cd9eb73f3f9a584564e682d839c5fb5335e5d71d8abfc9679bd7d0818c12515c",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "review_id": "guided-review-2026-10-14",
+  "status": "pending_human_review",
+  "prepared_date_utc": "2026-10-14",
+  "scope": "Candidate readings, folio concordance and letter case; no glyph or font approval.",
+  "batches": [
+    "data/lowercase_expansion_2026-10-14.json",
+    "data/lowercase_search_2026-10-14.json"
+  ],
+  "batch_sha256": {
+    "data/lowercase_expansion_2026-10-14.json": "84a481a4553fac2e52aeeeeee77cefc0764d080a6db0265d7a3276c412f9ce9f",
+    "data/lowercase_search_2026-10-14.json": "853c7255a6e9e7b32bef968a399626c21a87fe134b5c10c468077a82ac0cbd55"
+  },
+  "groups": [
+    {
+      "id": "group-01",
+      "title": "Minimi e traverse: m e t",
+      "letters": [
+        "m",
+        "t"
+      ],
+      "rationale": "Cinque candidate per lettera su quattro folii di lavoro, con posizioni e contesti diversi. Si revisionano identificazione e confini, non contorni pronti per il disegno.",
+      "sample_ids": [
+        "BNE_MI_EXP_014_M_01",
+        "BNE_MI_EXP_016_M_02",
+        "BNE_MI_EXP_018_M_04",
+        "BNE_MI_EXP_018_M_06",
+        "BNE_MI_EXP_020_M_08",
+        "BNE_MI_EXP_014_T_01",
+        "BNE_MI_EXP_016_T_03",
+        "BNE_MI_EXP_018_T_07",
+        "BNE_MI_EXP_018_T_08",
+        "BNE_MI_EXP_020_T_09"
+      ],
+      "letter_questions": {
+        "m": "Il bersaglio è m, oppure n/u o più minimi di lettere legate? Indicare i confini incerti senza approvare il token intero.",
+        "t": "Quali tratti appartengono all’asta e alla traversa di t, e quali ai collegamenti o alle lettere vicine?"
+      },
+      "sample_notes": {
+        "BNE_MI_EXP_014_M_01": "Tre minimi leggibili in contesto breve; utile confronto di attacco, con margine sinistro da verificare.",
+        "BNE_MI_EXP_016_M_02": "Gruppo nel token proposto dimanda; confrontare confini i/m con minimi del primo campione, senza approvare la parola.",
+        "BNE_MI_EXP_018_M_04": "Sequenza dopo forma lunga: confronta m interna e raccordi senza dipendere dal token completo.",
+        "BNE_MI_EXP_018_M_06": "Attacco nel token proposto moto, con archi distinguibili e confronto diretto con t08 dello stesso contesto.",
+        "BNE_MI_EXP_020_M_08": "Quarto folio di lavoro e m interna; il confronto richiede distinguere m da n/u nella sequenza numero proposta.",
+        "BNE_MI_EXP_014_T_01": "Prima asta nella sequenza tutti proposta; segno leggibile ma uscita e u adiacente da separare.",
+        "BNE_MI_EXP_016_T_03": "Confronto di traversa e collegamento prima di i nel token parti proposto; secondo folio.",
+        "BNE_MI_EXP_018_T_07": "Asta iniziale con traversa abbastanza distinguibile nel contesto tutte; evita il crop t06 più connesso.",
+        "BNE_MI_EXP_018_T_08": "Forma interna nel contesto moto: alterna posizione rispetto a t07 e confronto con m06.",
+        "BNE_MI_EXP_020_T_09": "Quarto folio e traversa più estesa; controllare la connessione successiva senza scambiare tutta la legatura per t."
+      }
+    },
+    {
+      "id": "group-02",
+      "title": "Ascendenti e spalle: b e h",
+      "letters": [
+        "b",
+        "h"
+      ],
+      "rationale": "Confronto fra pancia chiusa e spalla aperta su più folii. Tre b sono solo etichetta o riferimento letterale; non vengono equiparate a occorrenze lessicali. La foliazione aggiuntiva resta di lavoro.",
+      "sample_ids": [
+        "BNE_MI_EXP_014_B_01",
+        "BNE_MI_SEARCH_015_B_01",
+        "BNE_MI_SEARCH_017_B_02",
+        "BNE_MI_SEARCH_030_B_06",
+        "BNE_MI_SEARCH_036_B_07",
+        "BNE_MI_SEARCH_015_H_01",
+        "BNE_MI_SEARCH_019_H_05",
+        "BNE_MI_SEARCH_021_H_06",
+        "BNE_MI_SEARCH_032_H_08",
+        "BNE_MI_SEARCH_034_H_10"
+      ],
+      "letter_questions": {
+        "b": "Il segno ha una pancia inferiore chiusa compatibile con b o una spalla di h? Distinguere campioni lessicali, richiami e diagrammi.",
+        "h": "La spalla aperta e il discendente sostengono h rispetto a b/g? Il cappio è parte dell’ascendente o del rigo vicino?"
+      },
+      "sample_notes": {
+        "BNE_MI_EXP_014_B_01": "Prosa lessicale proposta: piccola pancia inferiore e asta; verificare confine con i/l.",
+        "BNE_MI_SEARCH_015_B_01": "Secondo contesto lessicale proposto: cappio superiore più ampio, confronto b/h necessario.",
+        "BNE_MI_SEARCH_017_B_02": "Etichetta di diagramma relativamente isolata, utile solo come confronto formale; non prova uso lessicale.",
+        "BNE_MI_SEARCH_030_B_06": "Riferimento letterale nella prosa tecnica con pancia chiusa leggibile; non parola corrente.",
+        "BNE_MI_SEARCH_036_B_07": "Riferimento letterale distinto in altro folio, con asta inclinata e pancia; non attribuire valore lessicale.",
+        "BNE_MI_SEARCH_015_H_01": "Contesto ho proposto, asta e spalla discendente leggibili; separare la discesa dal rigo seguente.",
+        "BNE_MI_SEARCH_019_H_05": "Contesto ha proposto e spalla aperta, utile confronto con b chiusa senza usare il diagramma vicino come prova.",
+        "BNE_MI_SEARCH_021_H_06": "Altro contesto ho: varia inclinazione e uscita, da confrontare con h01.",
+        "BNE_MI_SEARCH_032_H_08": "Cappio ascendente nel token hanno proposto; test utile della distinzione da b e della legatura successiva.",
+        "BNE_MI_SEARCH_034_H_10": "Contesto ha proposto in ulteriore folio; rigo inferiore vicino impone separazione dei tratti."
+      }
+    },
+    {
+      "id": "group-03",
+      "title": "Lobi e discendenti: p e g",
+      "letters": [
+        "p",
+        "g"
+      ],
+      "rationale": "Cinque candidate per lettera, quattro folii per p e due per g. Contrasto fra lobo, cappio e discendente; i tratti di diagramma e dei righi vicini non diventano parti dei glifi.",
+      "sample_ids": [
+        "BNE_MI_EXP_014_P_02",
+        "BNE_MI_EXP_016_P_03",
+        "BNE_MI_EXP_016_P_04",
+        "BNE_MI_EXP_018_P_05",
+        "BNE_MI_EXP_020_P_09",
+        "BNE_MI_EXP_016_G_01",
+        "BNE_MI_EXP_016_G_02",
+        "BNE_MI_EXP_016_G_03",
+        "BNE_MI_EXP_020_G_04",
+        "BNE_MI_EXP_020_G_05"
+      ],
+      "letter_questions": {
+        "p": "Testa e discendente sostengono p rispetto a q/g? Separare lobo, legature e linee tecniche.",
+        "g": "Lobo e cappio/discendente sostengono g rispetto a q/p? Il raccordo inferiore è davvero parte della lettera?"
+      },
+      "sample_notes": {
+        "BNE_MI_EXP_014_P_02": "Attacco nel token prima proposto, con lobo e discendente leggibili; parola e minimi successivi restano provvisori.",
+        "BNE_MI_EXP_016_P_03": "Pancia più chiusa in corpo proposto; confronto con p04 aperta, delimitando o finale.",
+        "BNE_MI_EXP_016_P_04": "Spalla più aperta in parti proposto, utile confronto morfologico senza confondere legatura e contorno.",
+        "BNE_MI_EXP_018_P_05": "Altro folio con lobo e asta lunga: tratto obliquo che attraversa il segno va separato, non copiato come parte della p.",
+        "BNE_MI_EXP_020_P_09": "Quarto folio e attacco di token incompleto: discendente leggibile, uscita condivisa da delimitare.",
+        "BNE_MI_EXP_016_G_01": "Lobo superiore e cappio inferiore visibili in Ogni proposto; il punto non certifica confini g/n/i.",
+        "BNE_MI_EXP_016_G_02": "Secondo contesto dello stesso folio con cappio lungo; separare la riga successiva e non confermare bisogni dalla sola attesa lessicale.",
+        "BNE_MI_EXP_016_G_03": "Forma con due parti e discendente leggibile, scelta senza fissare il token; confronto diretto con q/p necessario.",
+        "BNE_MI_EXP_020_G_04": "Secondo folio con discendente più aperto: possibile confusione con q, da valutare nel contesto e non sulla lettura magior.",
+        "BNE_MI_EXP_020_G_05": "Altro token proposto nello stesso folio, cappio inferiore osservabile; segni del rigo seguente da escludere."
+      }
+    },
+    {
+      "id": "group-04",
+      "title": "Disambiguazione delle forme lunghe: s e f",
+      "letters": [
+        "s",
+        "f"
+      ],
+      "rationale": "Cinque s proposte e quattro f in contesti testuali su più folii; s05 resta particolarmente dubbia. La f isolata tecnica non riempie il gruppo: occorre un altro campione testuale. Nessuna distinzione s/f è considerata approvata.",
+      "sample_ids": [
+        "BNE_MI_EXP_014_S_01",
+        "BNE_MI_EXP_016_S_02",
+        "BNE_MI_EXP_018_S_04",
+        "BNE_MI_EXP_018_S_05",
+        "BNE_MI_EXP_020_S_06",
+        "BNE_MI_EXP_014_F_01",
+        "BNE_MI_EXP_014_F_02",
+        "BNE_MI_EXP_018_F_03",
+        "BNE_MI_EXP_020_F_04"
+      ],
+      "letter_questions": {
+        "s": "Il segno è s lunga o f? Indicare se la traversa e propria o una connessione, mantenendo uncertain quando non risolvibile.",
+        "f": "Il segno è f o s lunga? Separare traversa, connessione e minimi successivi; non usare il token atteso come prova unica."
+      },
+      "sample_notes": {
+        "BNE_MI_EXP_014_S_01": "Forma lunga in primo folio con attacco a cappio; confronto con f01 e f02 sulla traversa.",
+        "BNE_MI_EXP_016_S_02": "Forma lunga in sua proposto; distinguere uscita verso u e possibile traversa propria.",
+        "BNE_MI_EXP_018_S_04": "Terzo folio e segno lungo prima dei minimi: mantiene aperta alternativa f senza trascrivere tutta la parola.",
+        "BNE_MI_EXP_018_S_05": "Cappio e traversa apparenti rendono questa candidata particolarmente dubbia: confronto s/f, non esempio confermato di s.",
+        "BNE_MI_EXP_020_S_06": "Quarto folio e forma alta più stretta; il token non è fissato, utile confronto sulle caratteristiche visive.",
+        "BNE_MI_EXP_014_F_01": "Traversa e cappio leggibili nel token fiamma proposto; collegamento al minimo successivo da delimitare.",
+        "BNE_MI_EXP_014_F_02": "Secondo contesto lessicale proposto con forma più semplice; confrontare con s lunga, non dedurre f da ferro.",
+        "BNE_MI_EXP_018_F_03": "Traversa leggibile ma gruppo stretto contiene aste connesse; verificare f/i e possibile ripetizione, senza segmentazione automatica.",
+        "BNE_MI_EXP_020_F_04": "Terzo folio e asta alta con traversa; spazi e parola completa restano non certificati. Esclusa f05 isolata tecnica dal nucleo."
+      }
+    },
+    {
+      "id": "group-05",
+      "title": "Disambiguazione di archi e aste brevi: c e i",
+      "letters": [
+        "c",
+        "i"
+      ],
+      "rationale": "Quattro candidate per lettera. Esclusi un possibile elemento abbreviativo c e una i da sequenza diagrammatica. Alcune letture rimangono deboli; servono più occorrenze indipendenti prima di proporre normalizzazioni.",
+      "sample_ids": [
+        "BNE_MI_EXP_014_C_01",
+        "BNE_MI_EXP_014_C_02",
+        "BNE_MI_EXP_020_C_04",
+        "BNE_MI_SEARCH_030_C_01",
+        "BNE_MI_EXP_016_I_01",
+        "BNE_MI_EXP_018_I_02",
+        "BNE_MI_SEARCH_021_I_02",
+        "BNE_MI_SEARCH_024_I_03"
+      ],
+      "letter_questions": {
+        "c": "Il segno è una c aperta, una o/e, un raccordo o un’abbreviazione? Il riferimento isolato è confrontabile con i segni nelle parole?",
+        "i": "L’asta è i, i lunga/j, l oppure una parte della legatura? A quale segno appartiene un eventuale punto?"
+      },
+      "sample_notes": {
+        "BNE_MI_EXP_014_C_01": "Arco aperto osservabile nel contesto, candidato per distinguere c da o; token completo non fissato.",
+        "BNE_MI_EXP_014_C_02": "Apertura più stretta in altro token dello stesso folio; confronto c/o e raccordo con lettera vicina.",
+        "BNE_MI_EXP_020_C_04": "Forma con tratto superiore: possibile e o raccordo, selezionata per disambiguazione e non come c sicura.",
+        "BNE_MI_SEARCH_030_C_01": "Segno aperto come riferimento letterale in prosa tecnica; confronto con c lessicali, non prova di uso in parola. Esclusa c03 possibile abbreviazione/congiunzione.",
+        "BNE_MI_EXP_016_I_01": "Asta finale senza punto chiaramente associato in Ogni proposto: valutare i/j e connessione con n.",
+        "BNE_MI_EXP_018_I_02": "Minimo breve nel contesto qui proposto, con segni vicini: identita e appartenenza del punto da decidere.",
+        "BNE_MI_SEARCH_021_I_02": "Asta nel token il proposto, distinta dall ascendente successiva; tratteggio del diagramma sotto la riga escluso dal segno.",
+        "BNE_MI_SEARCH_024_I_03": "Altro il proposto in ulteriore folio; distinguere asta da h di riferimento e l. Esclusa i17 identificata anche dalla sequenza di etichette."
+      }
+    },
+    {
+      "id": "group-06",
+      "title": "Disambiguazione di teste, code e minimi: q e u",
+      "letters": [
+        "q",
+        "u"
+      ],
+      "rationale": "Cinque candidate per lettera su tre folii di lavoro, anche in contesti condivisi. Il conteggio non elimina i dubbi q/p/g, n/u e associazione moderna u/v: gruppo di disambiguazione, non pronto per il disegno.",
+      "sample_ids": [
+        "BNE_MI_EXP_014_Q_01",
+        "BNE_MI_EXP_014_Q_02",
+        "BNE_MI_EXP_018_Q_03",
+        "BNE_MI_EXP_018_Q_04",
+        "BNE_MI_EXP_020_Q_05",
+        "BNE_MI_EXP_016_U_01",
+        "BNE_MI_EXP_018_U_04",
+        "BNE_MI_EXP_018_U_05",
+        "BNE_MI_EXP_020_U_08",
+        "BNE_MI_EXP_020_U_09"
+      ],
+      "letter_questions": {
+        "q": "Il segno è q oppure p/g o abbreviazione? Verificare testa e coda indipendentemente dalla parola suggerita.",
+        "u": "Che forma osserviamo: due minimi di u/n o forma associabile a v? Separare identificazione del segno e mappatura moderna u/v."
+      },
+      "sample_notes": {
+        "BNE_MI_EXP_014_Q_01": "Testa e discendente nel token acqua proposto: verificare q/p/g e raccordi prima di usarla come forma base.",
+        "BNE_MI_EXP_014_Q_02": "Forma con coda ripiegata diversa dalle altre q; può essere abbreviazione o g, selezionata come confronto dubbio.",
+        "BNE_MI_EXP_018_Q_03": "Asta discendente sottile nel contesto qui proposto; verificare q/p e tratto non interpretato a sinistra.",
+        "BNE_MI_EXP_018_Q_04": "Contesto questa proposto con discendente netto; confrontare testa e legatura successiva senza approvare la parola.",
+        "BNE_MI_EXP_020_Q_05": "Terzo folio e contesto quale proposto: rigo inferiore interseca il campo, separarlo dal discendente.",
+        "BNE_MI_EXP_016_U_01": "Due minimi nel contesto sua proposto, con attacco sovrapposto alla s: distinzione n/u e confine da valutare.",
+        "BNE_MI_EXP_018_U_04": "Contesto qui proposto, condiviso con q03/i02; non dedurre valore moderno u/v dalla parola attesa.",
+        "BNE_MI_EXP_018_U_05": "Contesto tutte proposto e forma con due minimi, confronto con t07 senza incorporare le traverse.",
+        "BNE_MI_EXP_020_U_08": "Terzo folio e contesto quale proposto, con minimi più angolari: confronto n/u/v necessario.",
+        "BNE_MI_EXP_020_U_09": "Altro contesto nello stesso folio, forma più arrotondata; uscita condivisa con t successiva da separare."
+      }
+    },
+    {
+      "id": "group-07",
+      "title": "Disambiguazione del segno sinuoso: z",
+      "letters": [
+        "z"
+      ],
+      "rationale": "Quattro candidate: tre nello stesso folio 4v di lavoro e una in 4r. La candidata 153v più sospetta di abbreviazione resta fuori dal nucleo. La concentrazione in due folii vicini e l alternativa e/abbreviazione richiedono altri contesti; non pronto per il disegno.",
+      "sample_ids": [
+        "BNE_MI_EXP_020_Z_01",
+        "BNE_MI_SEARCH_021_Z_01",
+        "BNE_MI_SEARCH_021_Z_02",
+        "BNE_MI_SEARCH_021_Z_03"
+      ],
+      "letter_questions": {
+        "z": "Il segno sinuoso e z, e o un’abbreviazione? Leggere i quattro contesti senza modernizzare le grafie; bastano per identificare la lettera?"
+      },
+      "sample_notes": {
+        "BNE_MI_EXP_020_Z_01": "Forma sinuosa nel token meza proposto, da distinguere da e/abbreviazione senza modernizzare in mezza.",
+        "BNE_MI_SEARCH_021_Z_01": "Prima delle tre occorrenze nel folio 4v di lavoro; forma sinuosa con discesa, trascrizione largheza provvisoria.",
+        "BNE_MI_SEARCH_021_Z_02": "Secondo contesto nello stesso folio, utile confronto della parte superiore; numero delle s e posizione restano ipotesi.",
+        "BNE_MI_SEARCH_021_Z_03": "Terzo contesto distinto nello stesso folio; confrontare z/e/segno abbreviativo. Esclusa z303 più sospetta di abbreviazione; corpus ancora concentrato."
+      }
+    }
+  ],
+  "deferred": [
+    {
+      "character": "j",
+      "reason": "Una sola etichetta editoriale proposta in pagina303, con alternativa i lunga o segno tecnico e caso non certificato. Cercare altri contesti, preferibilmente in parola; separare cerchio e raggio del diagramma."
+    },
+    {
+      "character": "v",
+      "reason": "Due campioni nella stessa pagina49, uno etichetta e uno richiamo nella prosa tecnica. Forma arrotondata con alternative u/o; la trascrizione editoriale non certifica la mappatura moderna. Servono altri folii."
+    },
+    {
+      "character": "x",
+      "reason": "Due richiami tecnici della stessa pagina49: distinguere x da croce e caso X/x; separare rigo e uscita. Cercare uso lessicale o altri riferimenti indipendenti."
+    },
+    {
+      "character": "y",
+      "reason": "Una sola etichetta editoriale proposta in pagina303, alternativa h o segno tecnico. Confermare caso e identita e cercare altre occorrenze; linea di base del diagramma esclusa."
+    },
+    {
+      "character": "k",
+      "reason": "Solo K o caso non risolto nelle osservazioni registrate; nessuna minuscola candidata. Non riclassificare maiuscole per raggiungere un numero. Ricerca successiva mirata."
+    },
+    {
+      "character": "w",
+      "reason": "Nessuna candidata utilizzabile selezionata nelle regioni ispezionate. Non e evidenza di assenza dal manoscritto; proseguire su altri contesti prima di qualsiasi associazione storica."
+    }
+  ]
+}

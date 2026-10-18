@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-16",
+  "version": "1.270",
+  "font_sha256": "3e1e7e6ac2416f6f321b302b46fb1b598ac04015663d731324224ce0221c240d",
+  "family": "Leonardus 1270",
+  "selection": {
+    "J": "B",
+    "K": "B",
+    "U": "B",
+    "V": "B",
+    "W": "B",
+    "X": "B",
+    "Y": "B",
+    "Z": "B"
+  },
+  "glyphs": 121,
+  "codepoints": 119,
+  "new_reviewed_capital_readings": 0,
+  "evidence_unchanged": true,
+  "lowercase_outlines_unchanged": true,
+  "all_advances_unchanged": true,
+  "changed_dependencies": "Ù",
+  "historical_capital_classification": "designed",
+  "metrics": {
+    "J": {
+      "advance": 430,
+      "lsb": 45,
+      "rsb": 7
+    },
+    "K": {
+      "advance": 580,
+      "lsb": 57,
+      "rsb": 26
+    },
+    "U": {
+      "advance": 610,
+      "lsb": 74,
+      "rsb": 52
+    },
+    "V": {
+      "advance": 565,
+      "lsb": 105,
+      "rsb": 13
+    },
+    "W": {
+      "advance": 810,
+      "lsb": 104,
+      "rsb": 10
+    },
+    "X": {
+      "advance": 570,
+      "lsb": 41,
+      "rsb": 20
+    },
+    "Y": {
+      "advance": 560,
+      "lsb": 109,
+      "rsb": 12
+    },
+    "Z": {
+      "advance": 565,
+      "lsb": 55,
+      "rsb": 30
+    }
+  },
+  "spacing": {
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "tested_pairs_per_size": 2704,
+    "ink_collisions": 0,
+    "threshold": 127,
+    "optical_certificate": false
+  },
+  "proofs": {
+    "points": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "words_sha256": "30f4727000752cd71547206f847bd54421861ef310cab187a9ccba7c9131a377",
+    "renderer": "HarfBuzz + FreeType"
+  },
+  "integration_tests_passed": 8,
+  "full_suite": {
+    "passed": 255,
+    "skipped": 5,
+    "platform": "Windows",
+    "skip_reason": "Existing symlink privilege/platform checks",
+    "isolated_checkout": true
+  },
+  "installed_current_user": true,
+  "fresh_process_gdi_bytes_match": true,
+  "browser": {
+    "current_and_previous_font_loaded": true,
+    "version_selector_verified": true,
+    "word_button_verified": true,
+    "alphabet_button_verified": true
+  },
+  "office_tested": true,
+  "installation_consolidation_date": "2026-10-17",
+  "only_installed_project_family": "Leonardus",
+  "current_naming_results": "QA_NAMING_1_270.json",
+  "named_font_sha256": "0d10af2c358d9a4884e41d910cbcb789f1648073f43f048ac20eee0d5afe1201",
+  "office_test_date": "2026-10-17",
+  "office_results": "QA_OFFICE_1_270.json",
+  "office_pdf_verification_complete": true,
+  "powerpoint_pdf_verification_basis": "human_content_confirmation; no agent outline comparison",
+  "physical_print_tested": false,
+  "public_release_approved": false,
+  "privacy_check_passed": true,
+  "inventory_check_passed": true,
+  "current_and_previous_font_rebuilds_byte_identical": true,
+  "previous_18_selected_capitals_outlines_unchanged": true,
+  "previous_family_1260_file_and_registration_unchanged": true,
+  "all_26_capitals_match_human_selections": true,
+  "uppercase_variants_A": [
+    "E",
+    "I",
+    "N"
+  ],
+  "uppercase_variants_B_count": 23
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "status": "selected_capital_reinterpretations_for_integration",
+  "version": "1.240",
+  "family": "Leonardus 1240",
+  "postscript": "Leonardus-1240-Regular",
+  "base_version": "1.230",
+  "base_font": "fonts/Leonardus-1230-Regular.ttf",
+  "base_font_sha256": "d8431dde57bb1f7427d73003b60f3590c2845f3bd311d70bb7da3a5d9b8e30c5",
+  "study_manifest": "data/capitals_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "9deccc4d4b00e2ff06a38c287b65a0556a5d881298752bb1fef03dd5cf92ad56",
+  "design_review_receipt": "data/human_capitals_integration_review_2026-10-16.json",
+  "design_review_receipt_sha256": "d8d6bf3b6a6b7132fd5206aba5d1c0428ce3cd92c6ccd444a7a2d494c2a47156",
+  "license": "OFL-1.1",
+  "public_release_approved": false,
+  "glyphs": {
+    "L": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-capitals/uni004C-B.svg",
+      "sha256": "76f31a1f870ed85e6a30a4ae1c1e2eef642b9b747b2ddaa27ae5e1b1f51147fd",
+      "advance": 445,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CAP_L_INITIAL_1V",
+        "CAP_L_LABEL_18V"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Piccola asola superiore e piede più mobile, senza riprodurre la e vicina. Disegno contemporaneo selezionato; riferimenti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "A": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-capitals/uni0041-B.svg",
+      "sha256": "d0250c50af5a410e955ae8f96d690a0a007fb9b5c32cd446650057b480c15cbd",
+      "advance": 570,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CAP_A_INITIAL_1V",
+        "CAP_A_LABEL_2V"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Ingresso più obliquo, traversa inclinata e ritorno al piede destro. Disegno contemporaneo selezionato; riferimenti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "M": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-capitals/uni004D-B.svg",
+      "sha256": "f459bc18c002b87c0c019b32621a7f2e7310e95459756e238b04b3e7b1fc27bf",
+      "advance": 760,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CAP_M_INITIAL_153V",
+        "BNE_MI_EXP_016_M_02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Due spalle molto diverse e valle curva: la soluzione più corsiva. Disegno contemporaneo selezionato; riferimenti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "N": {
+      "variant": "A",
+      "file": "glyphs/proposals/2026-10-16-capitals/uni004E-A.svg",
+      "sha256": "c5bdea0bcfc0e6711a2e3d887d79d8a193a8e22c44c87d7c348c4de421422f08",
+      "advance": 610,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_016_N_02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Diagonale curva e attacco sobrio, riconoscibilità convenzionale. Disegno contemporaneo selezionato; riferimenti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "R": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-capitals/uni0052-B.svg",
+      "sha256": "ff8a3512b3802c89104b730dfb81315dc0d8f300092437fcb5a203aa1ddef5e6",
+      "advance": 585,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CAP_R_LABEL_2V",
+        "BNE-MI-016-r-01"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Occhiello più obliquo, spalla aperta nel ritmo e gamba con ritorno finale. Disegno contemporaneo selezionato; riferimenti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "S": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-capitals/uni0053-B.svg",
+      "sha256": "56a2647e0b7fda50ba85afe4b935c3b984591d015450b6e2f863c6412aa4a908",
+      "advance": 565,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CAP_S_LABEL_1R",
+        "BNE_MI_EXP_016_S_02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Testa raccolta, vita più verticale e arco inferiore più largo. Disegno contemporaneo selezionato; riferimenti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    }
+  }
+}

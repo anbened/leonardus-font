@@ -1,0 +1,736 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "status": "unapproved_design_variants_for_comparison",
+  "scope": "opqr_only",
+  "instruction_quote": "Procedi con il confronto di o, p, q e r con i campioni storici e prepara varianti più aderenti ai tratti osservati, mantenendole leggibili. Mostrami poi il confronto dentro parole reali.",
+  "human_visual_design_approval": false,
+  "integration_approved": false,
+  "authenticity_claim": false,
+  "base_font": "fonts/Leonardus-1200-Regular.ttf",
+  "base_font_sha256": "5186db19d2c3def93bd8346aa512ad1de8ebf71b5171ac8444e034f0785f6bba",
+  "evidence": "data/glyph_evidence.csv",
+  "evidence_sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+  "observations": {
+    "o": {
+      "observed": "Chiusure spesso appuntite, controforme oblique e asimmetria fra fianco sinistro e ritorno destro nei campioni di 2r e 3r; non ricorre un unico ovale regolare.",
+      "A": "Ovale asimmetrico con vertice superiore contenuto e controforma obliqua chiusa.",
+      "B": "Vertice e cambio di direzione superiore più marcati; corpo più stretto e angoloso.",
+      "limits": "Non si deducono pressione, ordine dei tratti o misure esatte da crop di 15-26 pixel. Chiusura, peso e dimensioni sono progettati.",
+      "primary": [
+        "BNE_MI_016_O_01",
+        "BNE_MI_016_O_02",
+        "BNE_MI_018_O_04",
+        "BNE_MI_018_O_06"
+      ]
+    },
+    "p": {
+      "observed": "P02 e p03 hanno testa contenuta nella parte alta e asta lunga; p04 offre una variante a bandiera aperta. La p della 1.200 ha una pancia più bassa e regolare.",
+      "A": "Testa chiusa più piccola e alta, con discendente relativamente più lunga; mantiene una lettura moderna di p.",
+      "B": "Testa a bandiera aperta verso il basso, distinta dalla p chiusa; variante esplorativa basata su p04.",
+      "limits": "P05 e p09 esclusi dalle ancore geometriche principali; non si copia il piede inferiore incerto. La discendente è contenuta nelle metriche del font, anziché riprodurne integralmente la lunghezza storica.",
+      "primary": [
+        "BNE_MI_EXP_014_P_02",
+        "BNE_MI_EXP_016_P_03",
+        "BNE_MI_EXP_016_P_04"
+      ]
+    },
+    "q": {
+      "observed": "Q01 presenta una testa ripiegata aperta e discendente destra. Q02 è una variante distinta con cappio e coda curva; non rappresenta tutte le q del gruppo.",
+      "A": "Testa ridotta, controforma aperta in basso a destra e discendente diritta. La curva sinistra è ampliata rispetto al breve uncino di q01 per preservare la lettura moderna.",
+      "B": "Testa chiusa alta e coda curva a destra, come interpretazione separata di q02; non proposta come forma storica generale.",
+      "limits": "Q03/q04/q05 restano dubbi per confini ed estremi e non guidano la geometria principale. Il ponte orizzontale verso il vicino non diventa una traversa della q. Apertura e coda sono disegnate, senza ricalco.",
+      "primary": [
+        "BNE_MI_EXP_014_Q_01",
+        "BNE_MI_EXP_014_Q_02"
+      ]
+    },
+    "r": {
+      "observed": "Nei campioni di 1r, 2r, 3r e 4r ricorre un attacco biforcato, con ramo sinistro obliquo e spalla destra breve, più vicino a una forcella che all'asta con arco della 1.200.",
+      "A": "Forcella contenuta nella parte alta, spalla breve e asta riconoscibile; riduce il rischio di lettura come v o y.",
+      "B": "Ramo sinistro più alto e biforcazione più profonda; gesto più evidente ma maggiore rischio di ambiguità nella lettura.",
+      "limits": "R04 non guida il disegno principale: il token è irrisolto. Nessuna ricostruzione del ductus, nessuna nuova approvazione delle connessioni.",
+      "primary": [
+        "BNE-MI-016-r-01",
+        "BNE-MI-014-r-02",
+        "BNE-MI-014-r-03",
+        "BNE-MI-018-r-05",
+        "BNE-MI-020-r-06"
+      ]
+    }
+  },
+  "source_contexts": [
+    {
+      "sample_id": "BNE_MI_016_O_01",
+      "character": "o",
+      "folio": "2r",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        1010,
+        112,
+        17,
+        22
+      ],
+      "mirror_crop": [
+        551,
+        112,
+        17,
+        22
+      ],
+      "mirror_context": [
+        486,
+        77,
+        147,
+        92
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_016_O_02",
+      "character": "o",
+      "folio": "2r",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        941,
+        111,
+        17,
+        23
+      ],
+      "mirror_crop": [
+        620,
+        111,
+        17,
+        23
+      ],
+      "mirror_context": [
+        555,
+        76,
+        147,
+        93
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_O_03",
+      "character": "o",
+      "folio": "3r",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        467,
+        268,
+        22,
+        24
+      ],
+      "mirror_crop": [
+        1089,
+        268,
+        22,
+        24
+      ],
+      "mirror_context": [
+        1024,
+        233,
+        152,
+        94
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_O_04",
+      "character": "o",
+      "folio": "3r",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        665,
+        224,
+        19,
+        26
+      ],
+      "mirror_crop": [
+        894,
+        224,
+        19,
+        26
+      ],
+      "mirror_context": [
+        829,
+        189,
+        149,
+        96
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_O_05",
+      "character": "o",
+      "folio": "3r",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        279,
+        222,
+        19,
+        25
+      ],
+      "mirror_crop": [
+        1280,
+        222,
+        19,
+        25
+      ],
+      "mirror_context": [
+        1215,
+        187,
+        149,
+        95
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_O_06",
+      "character": "o",
+      "folio": "3r",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        502,
+        272,
+        18,
+        23
+      ],
+      "mirror_crop": [
+        1058,
+        272,
+        18,
+        23
+      ],
+      "mirror_context": [
+        993,
+        237,
+        148,
+        93
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_P_02",
+      "character": "p",
+      "folio": "1r",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "raw_crop": [
+        1327,
+        1017,
+        24,
+        36
+      ],
+      "mirror_crop": [
+        227,
+        1017,
+        24,
+        36
+      ],
+      "mirror_context": [
+        162,
+        982,
+        154,
+        106
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_P_03",
+      "character": "p",
+      "folio": "2r",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        956,
+        108,
+        29,
+        54
+      ],
+      "mirror_crop": [
+        593,
+        108,
+        29,
+        54
+      ],
+      "mirror_context": [
+        528,
+        73,
+        159,
+        124
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_P_04",
+      "character": "p",
+      "folio": "2r",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        491,
+        213,
+        27,
+        54
+      ],
+      "mirror_crop": [
+        1060,
+        213,
+        27,
+        54
+      ],
+      "mirror_context": [
+        995,
+        178,
+        157,
+        124
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_P_05",
+      "character": "p",
+      "folio": "3r",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        580,
+        270,
+        30,
+        49
+      ],
+      "mirror_crop": [
+        968,
+        270,
+        30,
+        49
+      ],
+      "mirror_context": [
+        903,
+        235,
+        160,
+        119
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_P_09",
+      "character": "p",
+      "folio": "4r",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        614,
+        1880,
+        33,
+        61
+      ],
+      "mirror_crop": [
+        931,
+        1880,
+        33,
+        61
+      ],
+      "mirror_context": [
+        866,
+        1845,
+        163,
+        131
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_Q_01",
+      "character": "q",
+      "folio": "1r",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "raw_crop": [
+        1070,
+        182,
+        31,
+        51
+      ],
+      "mirror_crop": [
+        477,
+        182,
+        31,
+        51
+      ],
+      "mirror_context": [
+        412,
+        147,
+        161,
+        121
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_Q_02",
+      "character": "q",
+      "folio": "1r",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "raw_crop": [
+        1028,
+        1745,
+        39,
+        39
+      ],
+      "mirror_crop": [
+        511,
+        1745,
+        39,
+        39
+      ],
+      "mirror_context": [
+        446,
+        1710,
+        169,
+        109
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_Q_03",
+      "character": "q",
+      "folio": "3r",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        312,
+        272,
+        18,
+        60
+      ],
+      "mirror_crop": [
+        1248,
+        272,
+        18,
+        60
+      ],
+      "mirror_context": [
+        1183,
+        237,
+        148,
+        130
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_Q_04",
+      "character": "q",
+      "folio": "3r",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        777,
+        463,
+        30,
+        63
+      ],
+      "mirror_crop": [
+        771,
+        463,
+        30,
+        63
+      ],
+      "mirror_context": [
+        706,
+        428,
+        160,
+        133
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_Q_05",
+      "character": "q",
+      "folio": "4r",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        731,
+        1496,
+        25,
+        73
+      ],
+      "mirror_crop": [
+        822,
+        1496,
+        25,
+        73
+      ],
+      "mirror_context": [
+        757,
+        1461,
+        155,
+        143
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-016-r-01",
+      "character": "r",
+      "folio": "2r",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        983,
+        104,
+        27,
+        36
+      ],
+      "mirror_crop": [
+        568,
+        104,
+        27,
+        36
+      ],
+      "mirror_context": [
+        503,
+        69,
+        157,
+        106
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-014-r-02",
+      "character": "r",
+      "folio": "1r",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "raw_crop": [
+        821,
+        124,
+        23,
+        25
+      ],
+      "mirror_crop": [
+        734,
+        124,
+        23,
+        25
+      ],
+      "mirror_context": [
+        669,
+        89,
+        153,
+        95
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-014-r-03",
+      "character": "r",
+      "folio": "1r",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "raw_crop": [
+        392,
+        115,
+        24,
+        31
+      ],
+      "mirror_crop": [
+        1162,
+        115,
+        24,
+        31
+      ],
+      "mirror_context": [
+        1097,
+        80,
+        154,
+        101
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-014-r-04",
+      "character": "r",
+      "folio": "1r",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "raw_crop": [
+        952,
+        180,
+        26,
+        29
+      ],
+      "mirror_crop": [
+        600,
+        180,
+        26,
+        29
+      ],
+      "mirror_context": [
+        535,
+        145,
+        156,
+        99
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-018-r-05",
+      "character": "r",
+      "folio": "3r",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        682,
+        228,
+        23,
+        24
+      ],
+      "mirror_crop": [
+        873,
+        228,
+        23,
+        24
+      ],
+      "mirror_context": [
+        808,
+        193,
+        153,
+        94
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-020-r-06",
+      "character": "r",
+      "folio": "4r",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        1186,
+        1577,
+        19,
+        22
+      ],
+      "mirror_crop": [
+        373,
+        1577,
+        19,
+        22
+      ],
+      "mirror_context": [
+        308,
+        1542,
+        149,
+        92
+      ]
+    }
+  ],
+  "excluded_primary_geometry": [
+    "BNE_MI_EXP_018_P_05",
+    "BNE_MI_EXP_020_P_09",
+    "BNE_MI_EXP_018_Q_03",
+    "BNE_MI_EXP_018_Q_04",
+    "BNE_MI_EXP_020_Q_05",
+    "BNE-MI-014-r-04"
+  ],
+  "variants": {
+    "A": {
+      "family": "Leonardus OPQR A",
+      "postscript": "Leonardus-OPQR-A-Regular",
+      "glyphs": {
+        "o": {
+          "file": "glyphs/proposals/2026-10-15-opqr/o-A.svg",
+          "sha256": "b5e295ca28246af368ec8eec966fc5bd4251281536228dcfe3c53da44eb0edd7",
+          "advance": 437,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_016_O_01",
+            "BNE_MI_016_O_02",
+            "BNE_MI_018_O_04",
+            "BNE_MI_018_O_06"
+          ],
+          "design_choice": "Ovale asimmetrico con vertice superiore contenuto e controforma obliqua chiusa."
+        },
+        "p": {
+          "file": "glyphs/proposals/2026-10-15-opqr/p-A.svg",
+          "sha256": "2b95b8848775f4691125b40e3d6b4788ddb6c8c004b8961036209c85e4753c5f",
+          "advance": 440,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_EXP_014_P_02",
+            "BNE_MI_EXP_016_P_03",
+            "BNE_MI_EXP_016_P_04"
+          ],
+          "design_choice": "Testa chiusa più piccola e alta, con discendente relativamente più lunga; mantiene una lettura moderna di p."
+        },
+        "q": {
+          "file": "glyphs/proposals/2026-10-15-opqr/q-A.svg",
+          "sha256": "61bff5a4553acbb9b0d651045ac73c123f594cd37d46dd0ec5a6494f267bf06e",
+          "advance": 450,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_EXP_014_Q_01",
+            "BNE_MI_EXP_014_Q_02"
+          ],
+          "design_choice": "Testa ridotta, controforma aperta in basso a destra e discendente diritta. La curva sinistra è ampliata rispetto al breve uncino di q01 per preservare la lettura moderna."
+        },
+        "r": {
+          "file": "glyphs/proposals/2026-10-15-opqr/r-A.svg",
+          "sha256": "c33592284cbd6e24866e2c690d128477a9e334d91db229de3911881438cc22b7",
+          "advance": 356,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE-MI-016-r-01",
+            "BNE-MI-014-r-02",
+            "BNE-MI-014-r-03",
+            "BNE-MI-018-r-05",
+            "BNE-MI-020-r-06"
+          ],
+          "design_choice": "Forcella contenuta nella parte alta, spalla breve e asta riconoscibile; riduce il rischio di lettura come v o y."
+        }
+      }
+    },
+    "B": {
+      "family": "Leonardus OPQR B",
+      "postscript": "Leonardus-OPQR-B-Regular",
+      "glyphs": {
+        "o": {
+          "file": "glyphs/proposals/2026-10-15-opqr/o-B.svg",
+          "sha256": "c2f67e6334ec124b3b9190c1ab662e1769fa19619e538813bcbd36643d9d206f",
+          "advance": 437,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_016_O_01",
+            "BNE_MI_016_O_02",
+            "BNE_MI_018_O_04",
+            "BNE_MI_018_O_06"
+          ],
+          "design_choice": "Vertice e cambio di direzione superiore più marcati; corpo più stretto e angoloso."
+        },
+        "p": {
+          "file": "glyphs/proposals/2026-10-15-opqr/p-B.svg",
+          "sha256": "d0135ad15f1bc567a695039986d4e59fd54daf927cb7733992e8533744c0949f",
+          "advance": 440,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_EXP_014_P_02",
+            "BNE_MI_EXP_016_P_03",
+            "BNE_MI_EXP_016_P_04"
+          ],
+          "design_choice": "Testa a bandiera aperta verso il basso, distinta dalla p chiusa; variante esplorativa basata su p04."
+        },
+        "q": {
+          "file": "glyphs/proposals/2026-10-15-opqr/q-B.svg",
+          "sha256": "c552d43fe9d147ad4c03b516180021c30603e7903185ea5694d0026e3704dbfa",
+          "advance": 450,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_EXP_014_Q_01",
+            "BNE_MI_EXP_014_Q_02"
+          ],
+          "design_choice": "Testa chiusa alta e coda curva a destra, come interpretazione separata di q02; non proposta come forma storica generale."
+        },
+        "r": {
+          "file": "glyphs/proposals/2026-10-15-opqr/r-B.svg",
+          "sha256": "65664348961345d50b32a2e3d7bfeff31b0e8013d40fbf5c6db1da388423470c",
+          "advance": 356,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE-MI-016-r-01",
+            "BNE-MI-014-r-02",
+            "BNE-MI-014-r-03",
+            "BNE-MI-018-r-05",
+            "BNE-MI-020-r-06"
+          ],
+          "design_choice": "Ramo sinistro più alto e biforcazione più profonda; gesto più evidente ma maggiore rischio di ambiguità nella lettura."
+        }
+      }
+    }
+  }
+}

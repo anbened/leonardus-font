@@ -1,0 +1,29 @@
+{
+  "status": "human_segmentation_revision_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:34:46+00:00",
+  "quote": "Compatibili con riserve entrambe",
+  "question": "Nella nuova tavola g02/g04, accetti entrambe le proposte come compatibili con riserve, includendo nelle regioni il tratto sinistro del cappio ora visibile e, per g04, la parte sinistra della testa? Restano non confermati i raccordi arancioni superiori e, per g02, il contatto inferiore con il rigo sottostante. È una decisione sui nuovi confini mostrati, senza modifiche al font, alle letture o all’autenticità.",
+  "revision_path": "data/segmentation_revisions_2026-10-15_g.json",
+  "revision_sha256": "02df8225975c403a2844e0bac706c3cfe84ad655a10398542f7bcdc81ab49827",
+  "shown_sheet": "build/segmentation-consolidation/review-revisions-176448f737ed.png",
+  "shown_sheet_sha256": "176448f737edf7138855d639d79f9bc5fa321fefd45f2d102c6720f21d4410ba",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_016_G_02",
+      "annotation_sha256": "e47bcfda307dc192a13dc83c25af0f3b5cc8b4a3554dc0e4ee1f862590605e14",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_G_04",
+      "annotation_sha256": "19932e6e9b267b18768850fef65eb98b19fb9bec775cb4095498625e2af778fc",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

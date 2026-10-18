@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "status": "selected_cdegpt_reinterpretations_for_integration",
+  "version": "1.250",
+  "family": "Leonardus 1250",
+  "postscript": "Leonardus-1250-Regular",
+  "base_version": "1.240",
+  "base_font": "fonts/Leonardus-1240-Regular.ttf",
+  "base_font_sha256": "e6f340ff1f83fc37ecfa036b2180b621411e13ed8bd02b2aad93dd335d650d47",
+  "study_manifest": "data/cdegpt_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "dbd0e0fe2cbe4efa6b15b03d1b4d15a7c0e4e4a8fbeb5b549f1791193df94bc0",
+  "design_review_receipt": "data/human_cdegpt_integration_review_2026-10-16.json",
+  "design_review_receipt_sha256": "137a0a1e3e07811db0ecdde975f24dad5774bf0731815c003e8daa168a078735",
+  "license": "OFL-1.1",
+  "public_release_approved": false,
+  "glyphs": {
+    "C": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-cdegpt/uni0043-B.svg",
+      "sha256": "4e3b82454345c480e9f84a5ff0cfb10cb633d36e0202f566b9b86224b435d5f1",
+      "advance": 600,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_EXP_014_C_01",
+        "BNE_MI_EXP_014_C_02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Corpo più obliquo, terminale alto più corto e ritorno inferiore più marcato. Disegno contemporaneo selezionato; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "D": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-cdegpt/uni0044-B.svg",
+      "sha256": "112a3fa963f5ceca55fa77c21f0c4673e2de8baf0f2ade68897795f5477c0a87",
+      "advance": 610,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CDEGPT_D_TITLE_1V",
+        "BNE-MI-016-d-02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Attacco arrotondato, asta più curva e occhiello obliquo, coordinato con la R B scelta. Disegno contemporaneo selezionato; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "E": {
+      "variant": "A",
+      "file": "glyphs/proposals/2026-10-16-cdegpt/uni0045-A.svg",
+      "sha256": "9f2840b1ed13ba2ce8fee13e05078a461f1c98f00e38b4727545bf6acd3b370b",
+      "advance": 520,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CDEGPT_E_TEXT_1V",
+        "BNE-MI-018-e-02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Tre terminali leggibili e asta lievemente curva. Disegno contemporaneo selezionato; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "G": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-cdegpt/uni0047-B.svg",
+      "sha256": "c4315cafbb70108375bf939880f518ec3fa6fa9803aaa37021e763d654598465",
+      "advance": 625,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_EXP_016_G_01",
+        "BNE_MI_EXP_020_G_04"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Ritorno interno a spirale, più gestuale; controllare la distinzione da C e dalla cifra 6. Disegno contemporaneo selezionato; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "P": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-cdegpt/uni0050-B.svg",
+      "sha256": "c4393b0f0d14a3dc40f793c641fd7cb6235cc15388cb1c7733133856483040f2",
+      "advance": 545,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CDEGPT_P_INITIAL_1R",
+        "BNE_MI_EXP_014_P_02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Occhiello obliquo e piccolo ritorno sotto il piede, mantenendo leggibile la P. Disegno contemporaneo selezionato; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "T": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-cdegpt/uni0054-B.svg",
+      "sha256": "e591c3e40925dc91c639632c74f883dade5a33c98c884ce67e935926572153ea",
+      "advance": 550,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "CDEGPT_T_INITIAL_4R",
+        "BNE_MI_EXP_014_T_01"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Traversa arcuata, asta più mobile e ritorno al piede. Disegno contemporaneo selezionato; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    }
+  }
+}

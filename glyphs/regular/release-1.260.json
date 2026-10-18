@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "status": "selected_bfhioq_reinterpretations_for_integration",
+  "version": "1.260",
+  "family": "Leonardus 1260",
+  "postscript": "Leonardus-1260-Regular",
+  "base_version": "1.250",
+  "base_font": "fonts/Leonardus-1250-Regular.ttf",
+  "base_font_sha256": "6e383ce0792149a50023ac73e5d7f33105534db07004bd88bceac491cc6d2ffb",
+  "study_manifest": "data/bfhioq_variant_study_2026-10-16.json",
+  "study_manifest_sha256": "c669d712c31b0c793ed514446fee8cc82e43f838457811c0b91bf737ab05abba",
+  "design_review_receipt": "data/human_bfhioq_integration_review_2026-10-16.json",
+  "design_review_receipt_sha256": "ecddbb68e6bec34025cbfe01d3f1de80e04556a8070552f2fe8e16a12ede3efd",
+  "license": "OFL-1.1",
+  "public_release_approved": false,
+  "glyphs": {
+    "B": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0042-B.svg",
+      "sha256": "ed00e318509abb50e26a57d9c9ead542adaeed9dc8d4bd3cfe1852d634bc2f16",
+      "advance": 550,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_EXP_014_B_01",
+        "BNE_MI_SEARCH_015_B_01"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Occhielli obliqui, strozzatura più alta e fondo arrotondato; ritmo più gestuale senza perdere il doppio corpo. Disegno contemporaneo scelto; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "F": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0046-B.svg",
+      "sha256": "2281d790c737aa383552c2250aec9885aeaa5f462af6ccb0d05808f1ae2641f3",
+      "advance": 505,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BFHIOQ_F_INITIAL_1V",
+        "BNE_MI_EXP_014_F_01",
+        "BNE_MI_EXP_018_F_03"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Piccola asola superiore, testa arcuata e traversa in risalita; struttura capitale progettata. Disegno contemporaneo scelto; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "H": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0048-B.svg",
+      "sha256": "fce7b08e2067d5de5d13df39d9aab40e6fae7e8c9be81872eed95690103455d6",
+      "advance": 610,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BNE_MI_SEARCH_015_H_01",
+        "BNE_MI_SEARCH_021_H_06"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Asola iniziale nell’asta sinistra e ritorno al piede destro; maggiore carattere, con rischio di enfasi nelle sigle. Disegno contemporaneo scelto; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "I": {
+      "variant": "A",
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0049-A.svg",
+      "sha256": "50faf623c5010405fe962f1819ae6f0c431a8a7bf0b41052d10e378931988cd5",
+      "advance": 285,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BFHIOQ_I_INITIAL_4R",
+        "BNE_MI_EXP_016_I_01",
+        "BNE_MI_EXP_018_I_02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Attacco curvo breve e piede distinto: priorità alla separazione da l minuscola e cifra 1. Disegno contemporaneo scelto; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "O": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni004F-B.svg",
+      "sha256": "f7a1d048f0c03f7bb7850173177e5e2c7e414d489abbaf0c7f81366fa769b511",
+      "advance": 635,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BFHIOQ_O_INITIAL_2R",
+        "BNE_MI_016_O_01",
+        "BNE_MI_016_O_02"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Corpo più rotondo, controforma obliqua e piccolo ritorno interno presso la chiusura; coerente con o B già scelta. Disegno contemporaneo scelto; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    },
+    "Q": {
+      "variant": "B",
+      "file": "glyphs/proposals/2026-10-16-bfhioq/uni0051-B.svg",
+      "sha256": "e80631314c67af96faed7013c873b8df0ce77309befe71e3e50e6cb080e8bef5",
+      "advance": 645,
+      "classification": "designed",
+      "contextual_reference_ids": [
+        "BFHIOQ_Q_INITIAL_1R",
+        "BNE_MI_EXP_014_Q_01",
+        "BNE_MI_EXP_018_Q_03"
+      ],
+      "historical_capital_attestation": false,
+      "design_notes": "Corpo di O B e coda arcuata sotto il corpo, contenuta nell’avanzamento: una reinterpretazione moderna del ritorno visibile. Disegno contemporaneo scelto; confronti di caso irrisolto o minuscoli, senza nuove letture storiche revisionate."
+    }
+  }
+}

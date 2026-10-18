@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "version": "1.211",
+  "status": "pq_spacing_correction_candidate",
+  "family": "Leonardus 1211",
+  "postscript": "Leonardus-1211-Regular",
+  "license": "OFL-1.1",
+  "base_version": "1.210",
+  "base_font": "fonts/Leonardus-1210-Regular.ttf",
+  "base_font_sha256": "c10aad78edd64c9ba5ac21fc68369f824e97aa6e21b2b895e288156c044d3ef8",
+  "authorization_quote": "Procedi con il riequilibrio degli spazi laterali di p e q, controllando anche le altre coppie e la resa nelle parole. Mantieni i disegni scelti e poi aggiorna e installa il font corretto.",
+  "outline_shape_changes": false,
+  "historical_evidence_changes": false,
+  "new_human_visual_approval": false,
+  "public_release_approved": false,
+  "adjustments": {
+    "p": {
+      "before": {
+        "advance": 440,
+        "left": 51,
+        "right": 99
+      },
+      "after": {
+        "advance": 400,
+        "left": 55,
+        "right": 55
+      },
+      "translation_x": 4
+    },
+    "q": {
+      "before": {
+        "advance": 450,
+        "left": 114,
+        "right": 7
+      },
+      "after": {
+        "advance": 405,
+        "left": 60,
+        "right": 16
+      },
+      "translation_x": -54
+    }
+  },
+  "rationale": "p has symmetric 55-unit sidebearings; q has a 60-unit left margin. Its curved tail extends below the baseline, so its 16-unit global right margin is not an optical body-gap measurement. No pair-specific kerning added; word proofs and all 52-letter pairs are checked at multiple raster sizes."
+}

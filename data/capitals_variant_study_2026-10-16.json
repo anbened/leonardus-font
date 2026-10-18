@@ -1,0 +1,646 @@
+{
+  "schema_version": 1,
+  "scope": "LAMNRS_only",
+  "status": "unapproved_contemporary_capital_studies",
+  "date": "2026-10-16",
+  "base_font": "fonts/Leonardus-1230-Regular.ttf",
+  "base_font_sha256": "d8431dde57bb1f7427d73003b60f3590c2845f3bd311d70bb7da3a5d9b8e30c5",
+  "evidence": "data/glyph_evidence.csv",
+  "evidence_sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+  "human_visual_design_approval": false,
+  "integration_approved": false,
+  "authenticity_claim": false,
+  "evidence_registry_changed": false,
+  "new_reviewed_capital_readings": 0,
+  "new_images_acquired": false,
+  "source_contexts": [
+    {
+      "id": "CAP_L_INITIAL_1V",
+      "character": "L",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "1v",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 15,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        291,
+        629,
+        48,
+        89
+      ],
+      "raw_crop": [
+        1239,
+        629,
+        48,
+        89
+      ],
+      "mirror_context": [
+        265,
+        570,
+        470,
+        220
+      ],
+      "description": "Iniziale del passo Le rote: asta curva con breve ritorno superiore e piede poco sviluppato. Caso e confini non confermati; la e vicina resta esclusa dalla proposta.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-v/"
+    },
+    {
+      "id": "CAP_L_LABEL_18V",
+      "character": "L",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "18v",
+      "folio_status": "agent_concordance_pending_review",
+      "viewer_page": 49,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "5a2c7f49-0e9a-4c50-bed2-d7bba99ec671",
+      "image_sha256": "a00263e2eb5812aff76e2c1dfbc3efe546b9ffe19a1eabd77abd0014cb0ab706",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        121,
+        1273,
+        39,
+        48
+      ],
+      "raw_crop": [
+        1418,
+        1273,
+        39,
+        48
+      ],
+      "mirror_context": [
+        105,
+        1220,
+        300,
+        140
+      ],
+      "description": "Etichetta a sinistra della figura dello scoppietto; e-Leo la trascrive L. Asta e piede brevi; la trascrizione non approva automaticamente il caso grafico.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0018-v/"
+    },
+    {
+      "id": "CAP_A_INITIAL_1V",
+      "character": "A",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "1v",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 15,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "594ba0ef-936d-46e3-8e79-a53bf84a5b01",
+      "image_sha256": "95c8db624095d178efc42f726f224e14b798961c123b728cf1e6341312d0473f",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        1063,
+        1033,
+        42,
+        43
+      ],
+      "raw_crop": [
+        473,
+        1033,
+        42,
+        43
+      ],
+      "mirror_context": [
+        1035,
+        975,
+        385,
+        150
+      ],
+      "description": "Inizio del passo A ffare: piccolo corpo ovale e ritorno; non è una A capitale distinta confermata. Le aste delle due f adiacenti non sono parte della A.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-v/"
+    },
+    {
+      "id": "CAP_A_LABEL_2V",
+      "character": "A",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "2v",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 17,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        352,
+        279,
+        38,
+        41
+      ],
+      "raw_crop": [
+        1188,
+        279,
+        38,
+        41
+      ],
+      "mirror_context": [
+        320,
+        240,
+        250,
+        155
+      ],
+      "description": "Segno a tetto aperto sul diagramma ad arco, vicino al margine superiore; etichetta a di caso non risolto, utile soltanto come confronto di apertura e asimmetria.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-v/"
+    },
+    {
+      "id": "CAP_M_INITIAL_153V",
+      "character": "M",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "153v",
+      "folio_status": "agent_concordance_pending_review",
+      "viewer_page": 303,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "0d002882-f9cb-4d99-91a4-4042b8b5d674",
+      "image_sha256": "f9d398a9c8ccc41369d0cf1635c899b57f116823e7aa0f49b25ddc1ab7754ce0",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        855,
+        1277,
+        45,
+        32
+      ],
+      "raw_crop": [
+        678,
+        1277,
+        45,
+        32
+      ],
+      "mirror_context": [
+        830,
+        1220,
+        370,
+        200
+      ],
+      "description": "Inizio di Ma sse nel passo sotto il ventaglio delle aste: due spalle curve e diseguali. Folio 153v di lavoro, concordanza per testo e figure, non nuova conferma umana.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0153-v/"
+    },
+    {
+      "id": "CAP_R_LABEL_2V",
+      "character": "R",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "2v",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 17,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "bd66190f-aead-416a-a7f6-1ebbbe10a3ab",
+      "image_sha256": "9960f0ae046102322c971d7ad5175d79ae8aa31445f86978815d4335ccae0769",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        847,
+        718,
+        33,
+        36
+      ],
+      "raw_crop": [
+        698,
+        718,
+        33,
+        36
+      ],
+      "mirror_context": [
+        780,
+        620,
+        200,
+        230
+      ],
+      "description": "Piccola spalla simile a r presso il diagramma ad arco. Non è una R maiuscola completa e non ne giustifica occhiello o gamba.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-v/"
+    },
+    {
+      "id": "CAP_S_LABEL_1R",
+      "character": "S",
+      "kind": "case_unresolved_formal_observation",
+      "review_status": "agent_observation_not_human_reviewed",
+      "folio": "1r",
+      "folio_status": "working_mapping_pending_review",
+      "viewer_page": 14,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        477,
+        2044,
+        24,
+        31
+      ],
+      "raw_crop": [
+        1077,
+        2044,
+        24,
+        31
+      ],
+      "mirror_context": [
+        420,
+        1970,
+        125,
+        165
+      ],
+      "description": "Segno sinuoso simile a 2 sotto la manovella del piccolo diagramma inferiore; e-Leo usa S nel contesto. Confini e distinzione da cifra non confermati; non sagoma primaria.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0001-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_016_M_02",
+      "character": "M",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "target_character": "m",
+      "folio": "2r",
+      "folio_status": "existing_registry_status_preserved",
+      "viewer_page": 16,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        692,
+        105,
+        31,
+        27
+      ],
+      "raw_crop": [
+        855,
+        105,
+        31,
+        27
+      ],
+      "mirror_context": [
+        642,
+        80,
+        131,
+        82
+      ],
+      "description": "Confronto con la minuscola già registrata; nessuna promozione della lettura al caso maiuscolo.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    },
+    {
+      "id": "BNE_MI_016_N_02",
+      "character": "N",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "target_character": "n",
+      "folio": "2r",
+      "folio_status": "existing_registry_status_preserved",
+      "viewer_page": 16,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        691,
+        222,
+        23,
+        27
+      ],
+      "raw_crop": [
+        864,
+        222,
+        23,
+        27
+      ],
+      "mirror_context": [
+        641,
+        197,
+        123,
+        82
+      ],
+      "description": "Confronto con la minuscola già registrata; nessuna promozione della lettura al caso maiuscolo.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    },
+    {
+      "id": "BNE-MI-016-r-01",
+      "character": "R",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "target_character": "r",
+      "folio": "2r",
+      "folio_status": "existing_registry_status_preserved",
+      "viewer_page": 16,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        568,
+        104,
+        27,
+        36
+      ],
+      "raw_crop": [
+        983,
+        104,
+        27,
+        36
+      ],
+      "mirror_context": [
+        518,
+        79,
+        127,
+        91
+      ],
+      "description": "Confronto con la minuscola già registrata; nessuna promozione della lettura al caso maiuscolo.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    },
+    {
+      "id": "BNE_MI_EXP_016_S_02",
+      "character": "S",
+      "kind": "reviewed_lowercase_comparison_not_capital_evidence",
+      "review_status": "reviewed",
+      "target_character": "s",
+      "folio": "2r",
+      "folio_status": "existing_registry_status_preserved",
+      "viewer_page": 16,
+      "source_id": "BNE_MADRID_I",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "image_width": 1578,
+      "image_height": 2174,
+      "mirror_crop": [
+        839,
+        80,
+        29,
+        74
+      ],
+      "raw_crop": [
+        710,
+        80,
+        29,
+        74
+      ],
+      "mirror_context": [
+        789,
+        55,
+        129,
+        129
+      ],
+      "description": "Confronto con la minuscola già registrata; nessuna promozione della lettura al caso maiuscolo.",
+      "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/"
+    }
+  ],
+  "observations": {
+    "L": {
+      "basis": "Iniziale Le rote (1v) ed etichetta L (18v), Madrid I. Letture e confini nuovi da confermare.",
+      "observed": "Asta curva e ritorno superiore; piede breve nel confronto. Altezza capitale, spessore e piede leggibile sono scelte moderne.",
+      "A": "Asta curva con ingresso breve e piede moderatamente aperto.",
+      "B": "Piccola asola superiore e piede più mobile, senza riprodurre la e vicina."
+    },
+    "A": {
+      "basis": "Confronti in Madrid I 1v e 2v: iniziale a ovale ed etichetta aperta; nessuna A capitale autonoma confermata.",
+      "observed": "Apertura a tetto e asimmetria del segno tecnico; l’iniziale del testo è di caso incerto. Due aste, traversa e controforma della A proposta sono costruite per lettura moderna.",
+      "A": "Apice arrotondato, due fianchi diseguali e traversa bassa.",
+      "B": "Ingresso più obliquo, traversa inclinata e ritorno al piede destro."
+    },
+    "M": {
+      "basis": "Iniziale Ma sse (153v di lavoro) e m minuscola già registrata (2r).",
+      "observed": "Spalle curve di altezza diversa; il manoscritto non offre qui le proporzioni della nostra M tipografica. Ampliare il segno a capitale è una reinterpretazione.",
+      "A": "M con sommità morbide e valle centrale ancora angolare.",
+      "B": "Due spalle molto diverse e valle curva: la soluzione più corsiva."
+    },
+    "N": {
+      "basis": "Confronto con n minuscola registrata nel 2r; nessuna N capitale indipendente selezionata nei 30 fogli disponibili.",
+      "observed": "Ingresso e spalla curva della n suggeriscono il ritmo. Il segno a fondo del diagramma nel 12r è compatibile con K ed è escluso come modello di N. Diagonale e altezza della N restano costruzioni moderne.",
+      "A": "Diagonale curva e attacco sobrio, riconoscibilità convenzionale.",
+      "B": "Ingresso ritornante e diagonale più concava; forma più stretta a parità di avanzamento."
+    },
+    "R": {
+      "basis": "r minuscola registrata nel 2r ed etichetta r di caso incerto nel 2v; nessuna R capitale completa selezionata.",
+      "observed": "Spalla breve e angolare. Occhiello superiore e gamba discendente della R proposta non sono attestati da questi confronti: sono raccordi moderni.",
+      "A": "Occhiello leggibile, raccordo angoloso e gamba con uscita breve.",
+      "B": "Occhiello più obliquo, spalla aperta nel ritmo e gamba con ritorno finale."
+    },
+    "S": {
+      "basis": "s lunga registrata nel 2r e segno sinuoso nel diagramma del 1r, trascritto S da e-Leo ma non confermato come sagoma autonoma.",
+      "observed": "La lunga asta della minuscola e il segno tecnico non equivalgono a una S maiuscola pronta. Il doppio arco aperto è una sintesi moderna per distinguere S da f e dalla cifra 2.",
+      "A": "Due archi aperti e distribuzione più regolare dei pieni.",
+      "B": "Testa raccolta, vita più verticale e arco inferiore più largo."
+    }
+  },
+  "variants": {
+    "A": {
+      "family": "Leonardus Capitals A",
+      "postscript": "Leonardus-Capitals-A-Regular",
+      "glyphs": {
+        "L": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni004C-A.svg",
+          "sha256": "7c54c7579a8319b35a932cfd3faa8c8a97977f339c1b71dc7177922d03219060",
+          "advance": 445,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_L_INITIAL_1V",
+            "CAP_L_LABEL_18V"
+          ],
+          "design_choice": "Asta curva con ingresso breve e piede moderatamente aperto.",
+          "historical_capital_attestation": false
+        },
+        "A": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni0041-A.svg",
+          "sha256": "15a433a6c760ca7767ff828ce5041705539921b3798b49fcfd8a26b9a25122be",
+          "advance": 570,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_A_INITIAL_1V",
+            "CAP_A_LABEL_2V"
+          ],
+          "design_choice": "Apice arrotondato, due fianchi diseguali e traversa bassa.",
+          "historical_capital_attestation": false
+        },
+        "M": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni004D-A.svg",
+          "sha256": "bc0f07b6c450e818c4f8162f4835784987d369a1178dbb7dde6967c9a22b15a2",
+          "advance": 760,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_M_INITIAL_153V",
+            "BNE_MI_EXP_016_M_02"
+          ],
+          "design_choice": "M con sommità morbide e valle centrale ancora angolare.",
+          "historical_capital_attestation": false
+        },
+        "N": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni004E-A.svg",
+          "sha256": "c5bdea0bcfc0e6711a2e3d887d79d8a193a8e22c44c87d7c348c4de421422f08",
+          "advance": 610,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_016_N_02"
+          ],
+          "design_choice": "Diagonale curva e attacco sobrio, riconoscibilità convenzionale.",
+          "historical_capital_attestation": false
+        },
+        "R": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni0052-A.svg",
+          "sha256": "fe93d0f4a5395050cafcbd906a180864cc34b9314a12f9229d67e8501e5a2888",
+          "advance": 585,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_R_LABEL_2V",
+            "BNE-MI-016-r-01"
+          ],
+          "design_choice": "Occhiello leggibile, raccordo angoloso e gamba con uscita breve.",
+          "historical_capital_attestation": false
+        },
+        "S": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni0053-A.svg",
+          "sha256": "182b389d99b3ec854d38cb042c60a22d5495ffef54599b3b198f51bb6eb48732",
+          "advance": 565,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_S_LABEL_1R",
+            "BNE_MI_EXP_016_S_02"
+          ],
+          "design_choice": "Due archi aperti e distribuzione più regolare dei pieni.",
+          "historical_capital_attestation": false
+        }
+      }
+    },
+    "B": {
+      "family": "Leonardus Capitals B",
+      "postscript": "Leonardus-Capitals-B-Regular",
+      "glyphs": {
+        "L": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni004C-B.svg",
+          "sha256": "76f31a1f870ed85e6a30a4ae1c1e2eef642b9b747b2ddaa27ae5e1b1f51147fd",
+          "advance": 445,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_L_INITIAL_1V",
+            "CAP_L_LABEL_18V"
+          ],
+          "design_choice": "Piccola asola superiore e piede più mobile, senza riprodurre la e vicina.",
+          "historical_capital_attestation": false
+        },
+        "A": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni0041-B.svg",
+          "sha256": "d0250c50af5a410e955ae8f96d690a0a007fb9b5c32cd446650057b480c15cbd",
+          "advance": 570,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_A_INITIAL_1V",
+            "CAP_A_LABEL_2V"
+          ],
+          "design_choice": "Ingresso più obliquo, traversa inclinata e ritorno al piede destro.",
+          "historical_capital_attestation": false
+        },
+        "M": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni004D-B.svg",
+          "sha256": "f459bc18c002b87c0c019b32621a7f2e7310e95459756e238b04b3e7b1fc27bf",
+          "advance": 760,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_M_INITIAL_153V",
+            "BNE_MI_EXP_016_M_02"
+          ],
+          "design_choice": "Due spalle molto diverse e valle curva: la soluzione più corsiva.",
+          "historical_capital_attestation": false
+        },
+        "N": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni004E-B.svg",
+          "sha256": "92fb74a5727cfc6fc1b228c6b5910c3e5c9593134890a714f18296c69c9ccf23",
+          "advance": 610,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "BNE_MI_016_N_02"
+          ],
+          "design_choice": "Ingresso ritornante e diagonale più concava; forma più stretta a parità di avanzamento.",
+          "historical_capital_attestation": false
+        },
+        "R": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni0052-B.svg",
+          "sha256": "ff8a3512b3802c89104b730dfb81315dc0d8f300092437fcb5a203aa1ddef5e6",
+          "advance": 585,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_R_LABEL_2V",
+            "BNE-MI-016-r-01"
+          ],
+          "design_choice": "Occhiello più obliquo, spalla aperta nel ritmo e gamba con ritorno finale.",
+          "historical_capital_attestation": false
+        },
+        "S": {
+          "file": "glyphs/proposals/2026-10-16-capitals/uni0053-B.svg",
+          "sha256": "56a2647e0b7fda50ba85afe4b935c3b984591d015450b6e2f863c6412aa4a908",
+          "advance": 565,
+          "classification": "unapproved_contemporary_reinterpretation",
+          "reference_context_ids": [
+            "CAP_S_LABEL_1R",
+            "BNE_MI_EXP_016_S_02"
+          ],
+          "design_choice": "Testa raccolta, vita più verticale e arco inferiore più largo.",
+          "historical_capital_attestation": false
+        }
+      }
+    }
+  },
+  "research": {
+    "available_images_examined": 30,
+    "source": "BNE_MADRID_I MSS/8937",
+    "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+    "consulted_e_leo_folios": [
+      "1r",
+      "1v",
+      "2v",
+      "12r",
+      "18v",
+      "27v",
+      "153v"
+    ],
+    "search": {
+      "term": "R",
+      "exact": true,
+      "source": "Madrid I",
+      "footnotes": false,
+      "max_docs": 1000,
+      "documents_reported": 98,
+      "limitation": "Ricerca testuale senza distinzione paleografica affidabile del caso; non prova una R maiuscola.",
+      "first_result_folios_listed": [
+        "2v",
+        "3r",
+        "4v",
+        "5r",
+        "6r",
+        "7r",
+        "11v",
+        "12r",
+        "18v",
+        "19v"
+      ]
+    },
+    "excluded": [
+      {
+        "page": 36,
+        "folio": "12r",
+        "reason": "Segno a fondo del diagramma compatibile con K; escluso come N."
+      },
+      {
+        "page": 67,
+        "folio": "27v",
+        "reason": "Segno ad angolo trascritto l, non prova una L maiuscola."
+      }
+    ],
+    "rights_record": "docs/SOURCE_RIGHTS_REVIEW.md"
+  },
+  "recommendation": {
+    "L": "B",
+    "A": "B",
+    "M": "B",
+    "N": "A",
+    "R": "B",
+    "S": "A"
+  }
+}

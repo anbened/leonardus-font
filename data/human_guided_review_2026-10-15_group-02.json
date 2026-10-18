@@ -1,0 +1,85 @@
+{
+  "status": "human_decisions_recorded",
+  "review_id": "guided-review-2026-10-14",
+  "plan_path": "data/guided_review_2026-10-14.json",
+  "plan_sha256": "41c1f9b543ffa829c3f2ec2bc59477ebbeb7eb90ef4c7b42be2565342a0e9436",
+  "group_id": "group-02",
+  "decision_date": "2026-10-15",
+  "recorded_at": "2026-10-15T06:38:06+00:00",
+  "reviewer": "Human review",
+  "quote": "compatibile / confermata dal confronto / minuscola",
+  "scope": "Reading compatibility, folio correspondence and lowercase case for all 10 selected samples in group-02 only. No full-token transcription, contour segmentation, paleographic authentication or font-design approval.",
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_B_01",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_015_B_01",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_017_B_02",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_030_B_06",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_036_B_07",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_015_H_01",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_019_H_05",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_021_H_06",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_032_H_08",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    },
+    {
+      "sample_id": "BNE_MI_SEARCH_034_H_10",
+      "letter_reading": "accepted",
+      "folio_review": "confirmed",
+      "case_review": "lowercase",
+      "notes": ""
+    }
+  ],
+  "timestamp_convention": "recorded_at and CSV reviewed_at identify the registration time; the visual inspection time was not supplied. decision_date uses Europe/Rome."
+}

@@ -1,0 +1,2186 @@
+{
+  "schema_version": 1,
+  "status": "regular_alpha",
+  "version": "0.200",
+  "policy": "A",
+  "direction": "ltr",
+  "human_gate_receipt": "data/human_regular_gate_review_2026-10-12.json",
+  "repertoire": "data/charset_regular_v1.json",
+  "repertoire_sha256": "1e709f08c08ebbe792eb35994719aeb3e2e2efae1bf8f5a2e5a30afe55a4fff1",
+  "authorship": "Independent project drawings with agent assistance; seven selected V3 reinterpretations with reviewed-letter links. No third-party font, tracing, AI API or training.",
+  "font_license": "Private project trial; final license decision pending",
+  "glyphs": {
+    "uni0061": {
+      "codepoint": 97,
+      "classification": "normalized",
+      "sample_ids": [
+        "BNE_MI_014_A_03",
+        "BNE_MI_016_A_01",
+        "BNE_MI_016_A_02",
+        "BNE_MI_016_A_04",
+        "BNE_MI_018_A_05"
+      ],
+      "display_anchor": "BNE_MI_014_A_03",
+      "legacy_anchor": "BNE_MI_014_A_03",
+      "legacy_source": "glyphs/proposals/2026-10-11-v3/a.svg",
+      "file": "uni0061.svg",
+      "svg_sha256": "9999ef7818a7c65fb0a89b4695dde1514a4fdd483e8bdf5c27a65a012fa22b40",
+      "advance": 440,
+      "bounds": [
+        60,
+        -13,
+        385,
+        362
+      ],
+      "contours": 2,
+      "design_notes": "Spalla angolare e controforma obliqua conservano il motivo a capanna come riferimento candidato. Corpo inferiore chiuso e asta destra aggiunti per distinguere a/n: sono scelte contemporanee non attestate dal crop. Ingresso, peso e spaziatura normalizzati.",
+      "design_review": "M2_policy_A_accepted"
+    },
+    "uni0064": {
+      "codepoint": 100,
+      "classification": "normalized",
+      "sample_ids": [
+        "BNE-MI-016-d-02",
+        "BNE-MI-020-d-04",
+        "BNE-MI-020-d-05",
+        "BNE-MI-020-d-06",
+        "BNE-MI-018-d-07"
+      ],
+      "display_anchor": "BNE-MI-020-d-04",
+      "legacy_anchor": "BNE-MI-020-d-03",
+      "legacy_source": "glyphs/proposals/2026-10-11-v3/d.svg",
+      "file": "uni0064.svg",
+      "svg_sha256": "898c2885ab9f7377ae2334350d5b576c14c9673d59c8cdef64b9d5da4375750f",
+      "advance": 505,
+      "bounds": [
+        55,
+        -16,
+        450,
+        616
+      ],
+      "contours": 3,
+      "design_notes": "Cappio alto piu largo della V1, in relazione al motivo V2. Corpo inferiore chiuso aggiunto per distinguere d/l; biforcazione resa come raccordo al corpo. Connessione d-i esclusa. Altezza, controforme, peso e spaziatura progettati, senza nuova lettura storica.",
+      "design_review": "M2_policy_A_accepted"
+    },
+    "uni0065": {
+      "codepoint": 101,
+      "classification": "normalized",
+      "sample_ids": [
+        "BNE-MI-018-e-01",
+        "BNE-MI-018-e-02",
+        "BNE-MI-018-e-03",
+        "BNE-MI-018-e-04",
+        "BNE-MI-018-e-05",
+        "BNE-MI-020-e-06",
+        "BNE-MI-020-e-07"
+      ],
+      "display_anchor": "BNE-MI-018-e-03",
+      "legacy_anchor": "BNE-MI-018-e-03",
+      "legacy_source": "glyphs/proposals/2026-10-11-v3/e.svg",
+      "file": "uni0065.svg",
+      "svg_sha256": "157a102bd071fc042279643a499231471abcc4ba38eab1210f9db049f67e7676",
+      "advance": 412,
+      "bounds": [
+        55,
+        -12,
+        357,
+        361
+      ],
+      "contours": 2,
+      "design_notes": "Componente superiore obliqua resa continua con il corpo per evitare frammentazione V2. Corpo leggermente piu stretto della V1, occhio continuo obliquo e apertura laterale: sono scelte progettate, non attribuite ai candidati discontinui. Collegamento t escluso.",
+      "design_review": "M2_policy_A_accepted"
+    },
+    "uni006C": {
+      "codepoint": 108,
+      "classification": "normalized",
+      "sample_ids": [
+        "BNE-MI-014-l-01",
+        "BNE-MI-016-l-02",
+        "BNE-MI-016-l-03",
+        "BNE-MI-018-l-04",
+        "BNE-MI-020-l-05",
+        "BNE-MI-020-l-06"
+      ],
+      "display_anchor": "BNE-MI-014-l-01",
+      "legacy_anchor": "BNE-MI-014-l-01",
+      "legacy_source": "glyphs/proposals/2026-10-11-v3/l.svg",
+      "file": "uni006C.svg",
+      "svg_sha256": "bb4baa26b71f533804ce63b5ce10005b94d53df3e64017a3c17e61ef46356534",
+      "advance": 260,
+      "bounds": [
+        48,
+        -9,
+        212,
+        616
+      ],
+      "contours": 2,
+      "design_notes": "Forma V1 conservata; traslazione orizzontale e advance corretti per spazi laterali bilanciati. Nessuna modifica del cappio o del piede; proporzioni e chiusura V1 restano normalizzazioni contemporanee.",
+      "design_review": "M2_policy_A_accepted"
+    },
+    "uni006E": {
+      "codepoint": 110,
+      "classification": "normalized",
+      "sample_ids": [
+        "BNE_MI_016_N_02",
+        "BNE_MI_018_N_03",
+        "BNE_MI_018_N_04",
+        "BNE_MI_018_N_05",
+        "BNE_MI_018_N_06"
+      ],
+      "display_anchor": "BNE_MI_018_N_03",
+      "legacy_anchor": "BNE_MI_018_N_03",
+      "legacy_source": "glyphs/proposals/2026-10-11-v3/n.svg",
+      "file": "uni006E.svg",
+      "svg_sha256": "88e1118785ba2a4721337ef7846d8ce401e6a1c6986385e918fb71e852a65200",
+      "advance": 457,
+      "bounds": [
+        55,
+        -9,
+        402,
+        360
+      ],
+      "contours": 1,
+      "design_notes": "Forma V1 conservata; traslazione orizzontale e advance ridotti per ritmo delle doppie n. Arco e terminali V1 sono progettati; nessuna segmentazione storica promossa.",
+      "design_review": "M2_policy_A_accepted"
+    },
+    "uni006F": {
+      "codepoint": 111,
+      "classification": "normalized",
+      "sample_ids": [
+        "BNE_MI_016_O_01",
+        "BNE_MI_016_O_02",
+        "BNE_MI_018_O_03",
+        "BNE_MI_018_O_04",
+        "BNE_MI_018_O_05",
+        "BNE_MI_018_O_06"
+      ],
+      "display_anchor": "BNE_MI_018_O_04",
+      "legacy_anchor": "BNE_MI_018_O_04",
+      "legacy_source": "glyphs/proposals/2026-10-11-v3/o.svg",
+      "file": "uni006F.svg",
+      "svg_sha256": "7c72361ddd72cfcda666fdfb2a10158731a8f1fb5837054dfdd8811d1d1dc989",
+      "advance": 437,
+      "bounds": [
+        55,
+        -16,
+        382,
+        366
+      ],
+      "contours": 2,
+      "design_notes": "Forma V1 conservata; origine e advance bilanciati dopo osservazione delle parole. Ovale, controforma e overshoot V1 sono scelte contemporanee, non misure storiche.",
+      "design_review": "M2_policy_A_accepted"
+    },
+    "uni0072": {
+      "codepoint": 114,
+      "classification": "normalized",
+      "sample_ids": [
+        "BNE-MI-014-r-02",
+        "BNE-MI-014-r-03",
+        "BNE-MI-014-r-04",
+        "BNE-MI-016-r-01",
+        "BNE-MI-018-r-05",
+        "BNE-MI-020-r-06"
+      ],
+      "display_anchor": "BNE-MI-016-r-01",
+      "legacy_anchor": "BNE-MI-016-r-01",
+      "legacy_source": "glyphs/proposals/2026-10-11-v3/r.svg",
+      "file": "uni0072.svg",
+      "svg_sha256": "00e49f365337fb08eaa621b8ecbd732bcfc9984771413ee9edc50705e43d6166",
+      "advance": 356,
+      "bounds": [
+        55,
+        1,
+        301,
+        361
+      ],
+      "contours": 1,
+      "design_notes": "Forma V1 conservata; origine e advance bilanciati. Spalla breve/terminale V1 sono autonomi; il token r-04 irrisolto non determina il disegno.",
+      "design_review": "M2_policy_A_accepted"
+    },
+    "uni004C": {
+      "codepoint": 76,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni004C.svg",
+      "svg_sha256": "db2b89fbcdca8db77fad5f609b28ae4b19b3c006ea35e9f0e47917bced506eef",
+      "advance": 445,
+      "bounds": [
+        60,
+        -12,
+        375,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Selected policy-A study; no historical attribution; full-alpha visual QA pending",
+      "design_review": "alpha_pending"
+    },
+    "uni0041": {
+      "codepoint": 65,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0041.svg",
+      "svg_sha256": "5b42f319c760ef3ab0ebd7841358ac2d049ec5021799017e46adf9693fef06f1",
+      "advance": 570,
+      "bounds": [
+        50,
+        0,
+        494,
+        650
+      ],
+      "contours": 2,
+      "design_notes": "Selected policy-A study; no historical attribution; full-alpha visual QA pending",
+      "design_review": "alpha_pending"
+    },
+    "uni004D": {
+      "codepoint": 77,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni004D.svg",
+      "svg_sha256": "d4453d66213bd2b31a782b6034dd484c8962cc1efca0f53941775eb7ffa00b10",
+      "advance": 760,
+      "bounds": [
+        55,
+        0,
+        672,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Selected policy-A study; no historical attribution; full-alpha visual QA pending",
+      "design_review": "alpha_pending"
+    },
+    "uni0063": {
+      "codepoint": 99,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0063.svg",
+      "svg_sha256": "18a50cb3efda38bfdbd00091d80ec5d687ea63ad90b70cc275ea3d86abf9345b",
+      "advance": 416,
+      "bounds": [
+        67,
+        -18,
+        336,
+        358
+      ],
+      "contours": 1,
+      "design_notes": "Selected policy-A study; no historical attribution; full-alpha visual QA pending",
+      "design_review": "alpha_pending"
+    },
+    "uni0069": {
+      "codepoint": 105,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0069.svg",
+      "svg_sha256": "2de5f0db99260b5a6db5d554c35e97e19a647425e4d94fedb79a3f16bbf0a98e",
+      "advance": 224,
+      "bounds": [
+        54,
+        -10,
+        192,
+        490
+      ],
+      "contours": 2,
+      "design_notes": "Selected policy-A study; no historical attribution; full-alpha visual QA pending",
+      "design_review": "alpha_pending"
+    },
+    "uni0075": {
+      "codepoint": 117,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0075.svg",
+      "svg_sha256": "19449fbcae13aa69d37e4933b944d7891e0fb7fafa7be5f0205b24917c27972e",
+      "advance": 457,
+      "bounds": [
+        55,
+        -11,
+        402,
+        351
+      ],
+      "contours": 1,
+      "design_notes": "Selected policy-A study; no historical attribution; full-alpha visual QA pending",
+      "design_review": "alpha_pending"
+    },
+    "uni0042": {
+      "codepoint": 66,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0042.svg",
+      "svg_sha256": "4a225e33b7cbafdce0cd7eebc9b020f02ba8ca127db765a5015a0d75aba9ca5d",
+      "advance": 550,
+      "bounds": [
+        60,
+        0,
+        489,
+        650
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0043": {
+      "codepoint": 67,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0043.svg",
+      "svg_sha256": "39a1ad6ecd535dd5c16f478d59d1362efa744630861dca514ffa5868dc7d2e4c",
+      "advance": 600,
+      "bounds": [
+        85,
+        -14,
+        568,
+        662
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0044": {
+      "codepoint": 68,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0044.svg",
+      "svg_sha256": "b067394f3c5b036789cc13a3434424c5a48472701dd7dd4b32d40dedaf59b1ca",
+      "advance": 610,
+      "bounds": [
+        60,
+        0,
+        551,
+        650
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0045": {
+      "codepoint": 69,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0045.svg",
+      "svg_sha256": "f793f9e57cbd027cb7bd6a383e5d25d65f0576b1c9075aea5ad3a38129762f21",
+      "advance": 520,
+      "bounds": [
+        60,
+        0,
+        495,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0046": {
+      "codepoint": 70,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0046.svg",
+      "svg_sha256": "ebbc1000a2a96f4246501915e7ae0960143587b7306f524a9eb52fcf4374f8ec",
+      "advance": 505,
+      "bounds": [
+        60,
+        0,
+        495,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0047": {
+      "codepoint": 71,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0047.svg",
+      "svg_sha256": "b071fb39aa76d0a06e56ecd503b80ba81c052200df5b410e384fdc8e8d17b5ab",
+      "advance": 625,
+      "bounds": [
+        85,
+        -14,
+        568,
+        662
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0048": {
+      "codepoint": 72,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0048.svg",
+      "svg_sha256": "01cd3e3560755c135c36845bc068355249de967762a9b6b1a81383605bbfa167",
+      "advance": 610,
+      "bounds": [
+        60,
+        0,
+        578,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0049": {
+      "codepoint": 73,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0049.svg",
+      "svg_sha256": "5e5c0a451a281587753d806d388918abf2d7b3064ee2560f5ecc1d930746b173",
+      "advance": 285,
+      "bounds": [
+        25,
+        0,
+        237,
+        650
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni004A": {
+      "codepoint": 74,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni004A.svg",
+      "svg_sha256": "b815d4013af3f479a11e289f80fd411c9d73622e43bca269d3e7cdc0ecc81f69",
+      "advance": 430,
+      "bounds": [
+        56,
+        -14,
+        406,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni004B": {
+      "codepoint": 75,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni004B.svg",
+      "svg_sha256": "62d1fdb1e8312be7072ec543c76c1924a596d9fd8a81382439ffb54d263cc32e",
+      "advance": 580,
+      "bounds": [
+        60,
+        0,
+        579,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni004E": {
+      "codepoint": 78,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni004E.svg",
+      "svg_sha256": "3c05b729f9057fd1fc02f7af1f4e8abaacf0571873fe17261924a284b38df7ff",
+      "advance": 610,
+      "bounds": [
+        60,
+        0,
+        578,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni004F": {
+      "codepoint": 79,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni004F.svg",
+      "svg_sha256": "3ee19323c3cd2417b0ef757b9a4d28581e8d9bdaabd73e18c21b2b1efea9ff26",
+      "advance": 635,
+      "bounds": [
+        87,
+        -13,
+        573,
+        663
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0050": {
+      "codepoint": 80,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0050.svg",
+      "svg_sha256": "b16da84fb166d545150c7d3c742070b205d1e1f541fe8dafa5c217ed994f5825",
+      "advance": 545,
+      "bounds": [
+        60,
+        0,
+        516,
+        650
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0051": {
+      "codepoint": 81,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0051.svg",
+      "svg_sha256": "3d4c6f65f73cc082a32143613edf1fdd3a8cbc1936a5345bd56e60fc3a6abee7",
+      "advance": 645,
+      "bounds": [
+        87,
+        -88,
+        573,
+        663
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0052": {
+      "codepoint": 82,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0052.svg",
+      "svg_sha256": "b111ba5c71a2c5ad84b952cfac12c74003e9ebcd99cff7a4d02e6da8b68188ab",
+      "advance": 585,
+      "bounds": [
+        60,
+        0,
+        517,
+        650
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0053": {
+      "codepoint": 83,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0053.svg",
+      "svg_sha256": "667cb90a9c147c062e5358968240dcbfe6e1b124398427563cf6bff55c49ce7b",
+      "advance": 565,
+      "bounds": [
+        69,
+        -14,
+        530,
+        662
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0054": {
+      "codepoint": 84,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0054.svg",
+      "svg_sha256": "682fe20561e187f6f8a671ed98ec1bd167734b5fbe5b6ad8b6cdb91bceeae526",
+      "advance": 550,
+      "bounds": [
+        106,
+        0,
+        543,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0055": {
+      "codepoint": 85,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0055.svg",
+      "svg_sha256": "f603751d06abea78733d0e9f68a5360bae3fde59ebbc4f709e3da1cdd66f028d",
+      "advance": 610,
+      "bounds": [
+        72,
+        -14,
+        578,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0056": {
+      "codepoint": 86,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0056.svg",
+      "svg_sha256": "30a9dcc3a013e168389fe5a616dbec034547819f6478b975e24ae7d4977eab0b",
+      "advance": 565,
+      "bounds": [
+        123,
+        0,
+        562,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0057": {
+      "codepoint": 87,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0057.svg",
+      "svg_sha256": "fdd3e7785c5bc7f66981d95712b7513b58eeb8d4347d2851b7e21350baa02ecc",
+      "advance": 810,
+      "bounds": [
+        123,
+        0,
+        812,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0058": {
+      "codepoint": 88,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0058.svg",
+      "svg_sha256": "3cd573f4710afe9458d715cb140b07ae1b28a86dfe6db97d6238f5cd6b07ef83",
+      "advance": 570,
+      "bounds": [
+        33,
+        0,
+        567,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0059": {
+      "codepoint": 89,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0059.svg",
+      "svg_sha256": "3e8448578eec4ff7ae7904a21f2fe0d064524d20323e3fad59f5d4d5734e5d85",
+      "advance": 560,
+      "bounds": [
+        113,
+        0,
+        567,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni005A": {
+      "codepoint": 90,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni005A.svg",
+      "svg_sha256": "5ec722da7a094cf628465110218745d0430c6e0194cb55f5e9c7664de5cb8dcf",
+      "advance": 565,
+      "bounds": [
+        50,
+        0,
+        539,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0062": {
+      "codepoint": 98,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0062.svg",
+      "svg_sha256": "faa17922058d155e7bb1e33f133980bf9d62e26455ade03e5fd819842ae03eb5",
+      "advance": 457,
+      "bounds": [
+        65,
+        -13,
+        412,
+        615
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0066": {
+      "codepoint": 102,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0066.svg",
+      "svg_sha256": "372a1be265250a2956d02c3c459d5328654e57367c48319016df438a90157e5f",
+      "advance": 295,
+      "bounds": [
+        54,
+        -140,
+        343,
+        615
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0067": {
+      "codepoint": 103,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0067.svg",
+      "svg_sha256": "3456e7905673685630423977f80bb8ed6548fe3b8c3078d065a71faa6695af4c",
+      "advance": 459,
+      "bounds": [
+        49,
+        -178,
+        428,
+        367
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0068": {
+      "codepoint": 104,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0068.svg",
+      "svg_sha256": "06ad305be8674cd82599a015dbe2e1232e439f341d989dfce932c54c8d7d0863",
+      "advance": 457,
+      "bounds": [
+        60,
+        0,
+        413,
+        615
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni006A": {
+      "codepoint": 106,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni006A.svg",
+      "svg_sha256": "dfb94c1c61b1c05db48a44ab0751a15b64274e7b32708fe2c45de0a3654d1b89",
+      "advance": 224,
+      "bounds": [
+        -31,
+        -178,
+        200,
+        486
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni006B": {
+      "codepoint": 107,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni006B.svg",
+      "svg_sha256": "720776c621693ac55c52afa52420b7b432593452eb8809c924a3d0c0fcaef7d5",
+      "advance": 430,
+      "bounds": [
+        60,
+        0,
+        420,
+        615
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni006D": {
+      "codepoint": 109,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni006D.svg",
+      "svg_sha256": "f825a7cacf11e774b6cb3359a1838568a84924710620fedce8192a20a8d9fb0e",
+      "advance": 675,
+      "bounds": [
+        60,
+        0,
+        617,
+        365
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0070": {
+      "codepoint": 112,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0070.svg",
+      "svg_sha256": "edb4df9baae46e7f2a8b153d6c4346539bf16655459c3b48e587e79250841cc3",
+      "advance": 457,
+      "bounds": [
+        46,
+        -162,
+        412,
+        367
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0071": {
+      "codepoint": 113,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0071.svg",
+      "svg_sha256": "800b93c66d54b6b285dfcdbf77f7575c449f07f8d9bc27ed7f8aecace643fe88",
+      "advance": 457,
+      "bounds": [
+        83,
+        -162,
+        429,
+        367
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0073": {
+      "codepoint": 115,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0073.svg",
+      "svg_sha256": "0b5c378d9ac009485b52c5c332482a355020603d1d44b5bbdb6c9a47fb4393b4",
+      "advance": 383,
+      "bounds": [
+        61,
+        -14,
+        346,
+        365
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0074": {
+      "codepoint": 116,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0074.svg",
+      "svg_sha256": "074cce99481aab235198af050963f68cae0c5adce6aba9d40916942f6de277e4",
+      "advance": 302,
+      "bounds": [
+        65,
+        -13,
+        279,
+        514
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0076": {
+      "codepoint": 118,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0076.svg",
+      "svg_sha256": "4f66f598ab57409e380de817ea0bee7f0f42cca6bf13795288c240d84d29e6eb",
+      "advance": 425,
+      "bounds": [
+        87,
+        0,
+        394,
+        351
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0077": {
+      "codepoint": 119,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0077.svg",
+      "svg_sha256": "7b6b1c422366729bbcf86abb3c5357881472d45d4c27871247beb9c58d14af1f",
+      "advance": 585,
+      "bounds": [
+        82,
+        0,
+        541,
+        351
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0078": {
+      "codepoint": 120,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0078.svg",
+      "svg_sha256": "cdd9cd192a61f4f207a59330d119ea76d43a97376fa0b3fd5dae25e4d9c915e0",
+      "advance": 413,
+      "bounds": [
+        40,
+        0,
+        397,
+        351
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0079": {
+      "codepoint": 121,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0079.svg",
+      "svg_sha256": "5e7e65baa1f3627cff75e1414fec129e77c8f47c7b3db25d16c06450e5964759",
+      "advance": 425,
+      "bounds": [
+        18,
+        -178,
+        395,
+        351
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni007A": {
+      "codepoint": 122,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni007A.svg",
+      "svg_sha256": "d4cd03736c778035849597ff7b71a6edc218906a295d587c5caaa5319f6d41e9",
+      "advance": 400,
+      "bounds": [
+        51,
+        0,
+        366,
+        351
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0030": {
+      "codepoint": 48,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0030.svg",
+      "svg_sha256": "331a4edebe5e8a99106d12759330b02d22dcc4c961dd89d1cf684e70bf8d050d",
+      "advance": 520,
+      "bounds": [
+        90,
+        -13,
+        448,
+        663
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0031": {
+      "codepoint": 49,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0031.svg",
+      "svg_sha256": "9284f46b515b4ed1f50b3bbf95b7e4a801a2501b2e6ca4d3e1309329f5a3cbf1",
+      "advance": 520,
+      "bounds": [
+        107,
+        0,
+        373,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0032": {
+      "codepoint": 50,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0032.svg",
+      "svg_sha256": "32d5bd7b95287aff1086c9488108d15ca01eec4b9e0787f934e01a15898e1fd6",
+      "advance": 520,
+      "bounds": [
+        60,
+        0,
+        475,
+        662
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0033": {
+      "codepoint": 51,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0033.svg",
+      "svg_sha256": "5d588939502e265df1bfc70819d5997084a717ead52e3f0b8f003439beb64583",
+      "advance": 520,
+      "bounds": [
+        69,
+        -14,
+        474,
+        662
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0034": {
+      "codepoint": 52,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0034.svg",
+      "svg_sha256": "1bad39612ad35454db2b6e0102b9125e1ea5d6ba9d39e0b6e9662beecebab28e",
+      "advance": 520,
+      "bounds": [
+        68,
+        0,
+        451,
+        650
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0035": {
+      "codepoint": 53,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0035.svg",
+      "svg_sha256": "08cbc3041ad2a50760664ea0894dd7dbec9d7bd5e17d34739654a7f51c5246bc",
+      "advance": 520,
+      "bounds": [
+        69,
+        -14,
+        473,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0036": {
+      "codepoint": 54,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0036.svg",
+      "svg_sha256": "fc84eb29b1a58fcc32b30ba48de56445d142c1a87288fe7186395e2439367b11",
+      "advance": 520,
+      "bounds": [
+        71,
+        -14,
+        460,
+        662
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0037": {
+      "codepoint": 55,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0037.svg",
+      "svg_sha256": "ceb76a1371dab4ed03ce6ecaa2dad07f421d2ef9499e1162a0d7e8f7e5ec9ed4",
+      "advance": 520,
+      "bounds": [
+        126,
+        0,
+        501,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0038": {
+      "codepoint": 56,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0038.svg",
+      "svg_sha256": "c6656e317cb6d6617aa75c9dbd980975e10dc929e6059b5387af14391f43243e",
+      "advance": 520,
+      "bounds": [
+        73,
+        -14,
+        456,
+        663
+      ],
+      "contours": 4,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0039": {
+      "codepoint": 57,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0039.svg",
+      "svg_sha256": "c28a8c4224b6d1573bbfbf6c8354ea65c5b90ad6b4f56696cc2e9b989cbed4df",
+      "advance": 520,
+      "bounds": [
+        90,
+        -14,
+        479,
+        662
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0021": {
+      "codepoint": 33,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0021.svg",
+      "svg_sha256": "b5d68139a8dd976d362c1f26da11d6b50f5e0aeccf445bf5fdb6fcfd24d3229e",
+      "advance": 230,
+      "bounds": [
+        62,
+        0,
+        214,
+        650
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0022": {
+      "codepoint": 34,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0022.svg",
+      "svg_sha256": "263d51cf22ed628876a54a54259d5b73db9c753a38d1dd4c0c57d05c3f34723d",
+      "advance": 320,
+      "bounds": [
+        126,
+        480,
+        318,
+        650
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0023": {
+      "codepoint": 35,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0023.svg",
+      "svg_sha256": "248e02fe97b84c733b938e2b90f3bc51a8fd3b0280c27c696a1593e4852ce3d8",
+      "advance": 600,
+      "bounds": [
+        47,
+        0,
+        546,
+        617
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0024": {
+      "codepoint": 36,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0024.svg",
+      "svg_sha256": "5b8483428d3d3f69db35ee8b2c7eccf1185858d496ff9ce87e5c1c78beaf73d3",
+      "advance": 555,
+      "bounds": [
+        69,
+        -82,
+        530,
+        718
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0025": {
+      "codepoint": 37,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0025.svg",
+      "svg_sha256": "05b8066303291d21981fe24d3c2e65941de4c61a1974889db0c6c82605832845",
+      "advance": 680,
+      "bounds": [
+        110,
+        -15,
+        569,
+        665
+      ],
+      "contours": 5,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0026": {
+      "codepoint": 38,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0026.svg",
+      "svg_sha256": "2802836155a8a49462a8c0b67b1b19a17e75cddcf8c3b3f0803d3aead003272d",
+      "advance": 610,
+      "bounds": [
+        59,
+        -14,
+        497,
+        662
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0027": {
+      "codepoint": 39,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0027.svg",
+      "svg_sha256": "668456e1b28f7fe021fd0df00e3bd05ad5be3bb63ca6d4f9439514bd6935ef5f",
+      "advance": 215,
+      "bounds": [
+        126,
+        480,
+        197,
+        650
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0028": {
+      "codepoint": 40,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0028.svg",
+      "svg_sha256": "3e0f5c546e590d86e1d3dd77b70425b917830010e9445b32c401539078a4e309",
+      "advance": 300,
+      "bounds": [
+        81,
+        -61,
+        295,
+        696
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0029": {
+      "codepoint": 41,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0029.svg",
+      "svg_sha256": "0b004150f16cd3fc32537c5df335b170dd98b63742f7382c52a2b3c48b35a1f6",
+      "advance": 300,
+      "bounds": [
+        23,
+        -61,
+        236,
+        696
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni002A": {
+      "codepoint": 42,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni002A.svg",
+      "svg_sha256": "09c9a382c199ed761dfc8ce448958c5c340338dd6e1b551b33803d7286d59892",
+      "advance": 360,
+      "bounds": [
+        89,
+        313,
+        372,
+        620
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni002B": {
+      "codepoint": 43,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni002B.svg",
+      "svg_sha256": "206910948f0fc21fa1ce15d0f760b2ab861f635a133bad5a94d8a5b9286d6b8d",
+      "advance": 555,
+      "bounds": [
+        108,
+        136,
+        485,
+        506
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni002C": {
+      "codepoint": 44,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni002C.svg",
+      "svg_sha256": "60222c1e3fb0a4cb30d94ac6c210e03311533450fa0c4fdd2003559656fa5e7a",
+      "advance": 215,
+      "bounds": [
+        41,
+        -87,
+        136,
+        63
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni002D": {
+      "codepoint": 45,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni002D.svg",
+      "svg_sha256": "1679a898e8dfe80b9404e69d513a1ce305b05bd4ec1291f7c4272133825c0939",
+      "advance": 350,
+      "bounds": [
+        94,
+        242,
+        312,
+        294
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni002E": {
+      "codepoint": 46,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni002E.svg",
+      "svg_sha256": "63e3ce58437bd9a739fa37b1074cf3241d4d4267c68176a25a48f1a86f3d5e7e",
+      "advance": 215,
+      "bounds": [
+        62,
+        0,
+        134,
+        63
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni002F": {
+      "codepoint": 47,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni002F.svg",
+      "svg_sha256": "17a8d6a1b686eaed531b11231b48dc5f6ad25ebfcb32c80c48a7c5f91b81cbf8",
+      "advance": 410,
+      "bounds": [
+        16,
+        -78,
+        452,
+        697
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni003A": {
+      "codepoint": 58,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni003A.svg",
+      "svg_sha256": "1e284efc1803cb2c35f135beb1cb3c69a75e2851c898fc331d688807d8e1c1bd",
+      "advance": 230,
+      "bounds": [
+        62,
+        0,
+        168,
+        351
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni003B": {
+      "codepoint": 59,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni003B.svg",
+      "svg_sha256": "98958373d41a5b85d1493ccbff0242b8f432881cb61cc5847c9b7d61f6e63b6f",
+      "advance": 230,
+      "bounds": [
+        41,
+        -87,
+        168,
+        351
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni003C": {
+      "codepoint": 60,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni003C.svg",
+      "svg_sha256": "abe5576ee6281b2847deaf90f63105e75b17936702d2316d93329c3f11c25521",
+      "advance": 535,
+      "bounds": [
+        104,
+        111,
+        498,
+        509
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni003D": {
+      "codepoint": 61,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni003D.svg",
+      "svg_sha256": "29a5efbb9b982a8c9a033e54961c1575ab9be4d9cd938c21063ceaeb4732935e",
+      "advance": 535,
+      "bounds": [
+        93,
+        194,
+        493,
+        408
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni003E": {
+      "codepoint": 62,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni003E.svg",
+      "svg_sha256": "c1c2f344b2b8989a3a9c6d3c1a2cb5e01b9b67b4daf0870c19409f2a97f9e607",
+      "advance": 535,
+      "bounds": [
+        61,
+        111,
+        455,
+        509
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni003F": {
+      "codepoint": 63,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni003F.svg",
+      "svg_sha256": "c76da93136b9f8e6cf295101b737192f34b48f5f8efb2a9fcceed6f1d944610e",
+      "advance": 465,
+      "bounds": [
+        129,
+        0,
+        438,
+        662
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0040": {
+      "codepoint": 64,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0040.svg",
+      "svg_sha256": "f7ae55dfecd33646eb982c146289980e3bbcc9278885ea20ab0c829e71647587",
+      "advance": 805,
+      "bounds": [
+        107,
+        -77,
+        806,
+        659
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni005B": {
+      "codepoint": 91,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni005B.svg",
+      "svg_sha256": "a752f7fd16ebace67079037ce77efce58516a5b5115466db81cc0b1ca4de1ec1",
+      "advance": 305,
+      "bounds": [
+        73,
+        -61,
+        307,
+        695
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni005C": {
+      "codepoint": 92,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni005C.svg",
+      "svg_sha256": "2803ca9c226df87dde21504f0fb321c617f9fed365d7a6ed2be3decff58aea16",
+      "advance": 410,
+      "bounds": [
+        109,
+        -78,
+        359,
+        697
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni005D": {
+      "codepoint": 93,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni005D.svg",
+      "svg_sha256": "d7eada7d421243d05bfbbf1a97eefda5c51df21a885f8d81a022e8d6fc3e6e35",
+      "advance": 305,
+      "bounds": [
+        43,
+        -61,
+        277,
+        695
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni005E": {
+      "codepoint": 94,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni005E.svg",
+      "svg_sha256": "2b413429097e74b72ca6d246c8727c2f00bc8a6b5965d106dc76654dac98f5a9",
+      "advance": 450,
+      "bounds": [
+        113,
+        428,
+        454,
+        649
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni005F": {
+      "codepoint": 95,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni005F.svg",
+      "svg_sha256": "dea92034f200ea2b161f0889fc811b5d7d8f22be330b3a9c2c99c4347be6d595",
+      "advance": 525,
+      "bounds": [
+        38,
+        -100,
+        464,
+        -50
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0060": {
+      "codepoint": 96,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0060.svg",
+      "svg_sha256": "92fb9ff98dd0f8c00cf9e7cdd7a2892a7b0f5e10be2bb20fcc124a625466c833",
+      "advance": 265,
+      "bounds": [
+        140,
+        518,
+        259,
+        638
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni007B": {
+      "codepoint": 123,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni007B.svg",
+      "svg_sha256": "11d05534eebb4b98b8d3716f0554acd0a029a2804dcc5c186683c54895181e58",
+      "advance": 350,
+      "bounds": [
+        84,
+        -61,
+        339,
+        695
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni007C": {
+      "codepoint": 124,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni007C.svg",
+      "svg_sha256": "6b0f701730b201fe1fe9d925d98c6662d23c421f24a176f7744f2ddd4845f7fa",
+      "advance": 230,
+      "bounds": [
+        67,
+        -61,
+        212,
+        695
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni007D": {
+      "codepoint": 125,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni007D.svg",
+      "svg_sha256": "f1799c362b7c994fdded82698dfc0bdbb6ca47d0e1c4f3252d1adc8182b065f0",
+      "advance": 350,
+      "bounds": [
+        43,
+        -61,
+        298,
+        695
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni007E": {
+      "codepoint": 126,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni007E.svg",
+      "svg_sha256": "e5127c62d354b5f0e0ab1220c2cdea5cbc1fd21e3238cc4f81e7e7b39815dc50",
+      "advance": 530,
+      "bounds": [
+        87,
+        259,
+        485,
+        378
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni00B0": {
+      "codepoint": 176,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni00B0.svg",
+      "svg_sha256": "45651ae37c47b5420fe4a1c9397dbc115a3c330e6619a003880a2a4dcffffd7f",
+      "advance": 330,
+      "bounds": [
+        119,
+        420,
+        320,
+        640
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni20AC": {
+      "codepoint": 8364,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni20AC.svg",
+      "svg_sha256": "41397a91dbc1a40a2cd441fa76f22492be4afa91f7a8eaa313e048b95512419c",
+      "advance": 620,
+      "bounds": [
+        54,
+        -14,
+        568,
+        662
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni2013": {
+      "codepoint": 8211,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni2013.svg",
+      "svg_sha256": "1f0da323aec37fd4cf7f547004260230739a8e42c0445ec93f6f8ec8b90ac570",
+      "advance": 610,
+      "bounds": [
+        89,
+        242,
+        585,
+        294
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni2014": {
+      "codepoint": 8212,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni2014.svg",
+      "svg_sha256": "9633dac555451b94efe2967ecaecb7d9df8d10f8475d5b426c6baff928fb3569",
+      "advance": 850,
+      "bounds": [
+        89,
+        242,
+        825,
+        294
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni2018": {
+      "codepoint": 8216,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni2018.svg",
+      "svg_sha256": "04a3df251d0dfebbdde669825bed866cb33eb1c346b7b4291f5c57a293bda8c3",
+      "advance": 230,
+      "bounds": [
+        120,
+        493,
+        217,
+        649
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni2019": {
+      "codepoint": 8217,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni2019.svg",
+      "svg_sha256": "0cd5a0f0f4735da33ab14ac1e15cca617e80269d09a45f7e39a9d24330323897",
+      "advance": 230,
+      "bounds": [
+        108,
+        493,
+        205,
+        649
+      ],
+      "contours": 1,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni201C": {
+      "codepoint": 8220,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni201C.svg",
+      "svg_sha256": "e9e6b2d7fb179762230ebb88a96378ce2e62ddd82adcccd35da3100ae3282925",
+      "advance": 375,
+      "bounds": [
+        120,
+        493,
+        357,
+        649
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni201D": {
+      "codepoint": 8221,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni201D.svg",
+      "svg_sha256": "0a5f33dc9893b081a7a9a004d7bbf6a715a8effb44d06a7e8e38aa42d02edfb4",
+      "advance": 375,
+      "bounds": [
+        108,
+        493,
+        345,
+        649
+      ],
+      "contours": 2,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni2026": {
+      "codepoint": 8230,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni2026.svg",
+      "svg_sha256": "a5d35d7f797d026b21546315da9308ce7b7995868aff84d4409b75670f64b5b4",
+      "advance": 580,
+      "bounds": [
+        62,
+        0,
+        494,
+        63
+      ],
+      "contours": 3,
+      "design_notes": "Policy-A contemporary completion; no historical attribution",
+      "design_review": "alpha_pending"
+    },
+    "uni0300": {
+      "codepoint": 768,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0300.svg",
+      "svg_sha256": "2ae61fa487d1dfaac06e39e449671652973d31ece840b80ff0236860dfa63f41",
+      "advance": 0,
+      "bounds": [
+        -79,
+        15,
+        73,
+        123
+      ],
+      "contours": 1,
+      "design_notes": "Combining grave: zero advance; GPOS mark anchor (0,0), base-specific placement",
+      "design_review": "alpha_pending"
+    },
+    "uni0301": {
+      "codepoint": 769,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "uni0301.svg",
+      "svg_sha256": "316273772fa64c47a02a2563afd460311e87f13ca7dfa7618e798bd607aefc02",
+      "advance": 0,
+      "bounds": [
+        -73,
+        15,
+        79,
+        123
+      ],
+      "contours": 1,
+      "design_notes": "Combining acute: zero advance; GPOS mark anchor (0,0), base-specific placement",
+      "design_review": "alpha_pending"
+    },
+    "dotlessi": {
+      "codepoint": null,
+      "classification": "designed",
+      "sample_ids": [],
+      "file": "dotlessi.svg",
+      "svg_sha256": "0e20edc0df4ec0df52dd92b39b9fa80a6c149a0f3ee8806129864fb19b01aab1",
+      "advance": 224,
+      "bounds": [
+        54,
+        -10,
+        192,
+        351
+      ],
+      "contours": 1,
+      "design_notes": "Unmapped dotless variant for accented i; ccmp removes the dot before grave/acute",
+      "design_review": "alpha_pending"
+    },
+    "uni0020": {
+      "codepoint": 32,
+      "classification": "system",
+      "sample_ids": [],
+      "advance": 240,
+      "design_notes": "Technical empty spacing glyph; no historical attribution"
+    },
+    "uni00A0": {
+      "codepoint": 160,
+      "classification": "system",
+      "sample_ids": [],
+      "advance": 240,
+      "design_notes": "Technical empty spacing glyph; no historical attribution"
+    },
+    "uni00E0": {
+      "codepoint": 224,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 440,
+      "components": [
+        {
+          "glyph": "uni0061",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            258,
+            422
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00E8": {
+      "codepoint": 232,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 412,
+      "components": [
+        {
+          "glyph": "uni0065",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            241,
+            421
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00E9": {
+      "codepoint": 233,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 412,
+      "components": [
+        {
+          "glyph": "uni0065",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0301",
+          "offset": [
+            241,
+            421
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00EC": {
+      "codepoint": 236,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 224,
+      "components": [
+        {
+          "glyph": "dotlessi",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            158,
+            411
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00F2": {
+      "codepoint": 242,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 437,
+      "components": [
+        {
+          "glyph": "uni006F",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            254,
+            426
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00F9": {
+      "codepoint": 249,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 457,
+      "components": [
+        {
+          "glyph": "uni0075",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            264,
+            411
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00C0": {
+      "codepoint": 192,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 570,
+      "components": [
+        {
+          "glyph": "uni0041",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            292,
+            710
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00C8": {
+      "codepoint": 200,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 520,
+      "components": [
+        {
+          "glyph": "uni0045",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            298,
+            710
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00C9": {
+      "codepoint": 201,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 520,
+      "components": [
+        {
+          "glyph": "uni0045",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0301",
+          "offset": [
+            298,
+            710
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00CC": {
+      "codepoint": 204,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 285,
+      "components": [
+        {
+          "glyph": "uni0049",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            151,
+            710
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00D2": {
+      "codepoint": 210,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 635,
+      "components": [
+        {
+          "glyph": "uni004F",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            350,
+            723
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    },
+    "uni00D9": {
+      "codepoint": 217,
+      "classification": "designed",
+      "sample_ids": [],
+      "advance": 610,
+      "components": [
+        {
+          "glyph": "uni0055",
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "glyph": "uni0300",
+          "offset": [
+            345,
+            710
+          ]
+        }
+      ],
+      "design_notes": "Contemporary accent composite; base provenance inherited only through its component; no historical accent claim",
+      "design_review": "alpha_pending"
+    }
+  }
+}

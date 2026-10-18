@@ -1,0 +1,29 @@
+{
+  "status": "human_segmentation_revision_decisions_recorded",
+  "scope": "segmentation_boundaries_only",
+  "reviewer": "Human review",
+  "recorded_at": "2026-10-15T14:17:10+00:00",
+  "quote": "Compatibili con riserve entrambe",
+  "question": "Nella nuova tavola m01/m06, accetti le due proposte come compatibili con riserve? Per m01 il crop è più ampio ma la regione mantenuta è la stessa; per m06 la regione inferiore è estesa di 3 pixel e la fascia aggiunta resta incerta. Le zone arancioni restano non confermate, senza modifiche al font.",
+  "revision_path": "data/segmentation_revisions_2026-10-15_m.json",
+  "revision_sha256": "b5de8830d442b541a27c9c4eb640b048f0971b230bf520d34b622dec29369419",
+  "shown_sheet": "build/segmentation-consolidation/review-revisions-d659bb41a8f1.png",
+  "shown_sheet_sha256": "d659bb41a8f13ed03eb35775e958026df00a1afde3f6302685645bc64073b890",
+  "reading_changes": false,
+  "design_changes": false,
+  "authenticity_claim": false,
+  "decisions": [
+    {
+      "sample_id": "BNE_MI_EXP_014_M_01",
+      "annotation_sha256": "f003a31bf84eabcbe039dd152cd82f0725679d802062a149d9b21b4bc79299c9",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_M_06",
+      "annotation_sha256": "4400b39b875bb1d8e404a1f34ad757841167e8ca1e98a141a642f00acac89e48",
+      "decision": "compatible_with_reservations",
+      "uncertain_regions_approved": false
+    }
+  ]
+}

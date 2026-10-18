@@ -1,0 +1,337 @@
+{
+  "status": "candidate_segmentation_revisions",
+  "scope": "Wider crops and explicitly proposed regions; no reading or design approval",
+  "source_plan": "data/segmentation_consolidation_2026-10-15.json",
+  "source_plan_sha256": "ea660a2f24ea43483e36a9a99e36eb7b2a451e69ed74bfda8f8e5b23d81aa729",
+  "samples": [
+    {
+      "sample_id": "BNE_MI_EXP_016_P_04",
+      "based_on_annotation_sha256": "4a236ab09f24d0df624e90495cedbafc40b1119f008c06c877da6facf9b45c84",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "mirror_crop": [
+        1056,
+        209,
+        35,
+        70
+      ],
+      "raw_crop": [
+        487,
+        209,
+        35,
+        70
+      ],
+      "annotation": {
+        "sample_id": "BNE_MI_EXP_016_P_04",
+        "retained_polygons": [
+          [
+            [
+              5,
+              6
+            ],
+            [
+              10,
+              6
+            ],
+            [
+              12,
+              12
+            ],
+            [
+              14,
+              14
+            ],
+            [
+              20,
+              7
+            ],
+            [
+              26,
+              5
+            ],
+            [
+              29,
+              7
+            ],
+            [
+              27,
+              17
+            ],
+            [
+              24,
+              24
+            ],
+            [
+              21,
+              25
+            ],
+            [
+              21,
+              20
+            ],
+            [
+              24,
+              12
+            ],
+            [
+              20,
+              12
+            ],
+            [
+              13,
+              20
+            ],
+            [
+              12,
+              41
+            ],
+            [
+              12,
+              52
+            ],
+            [
+              9,
+              55
+            ],
+            [
+              7,
+              53
+            ],
+            [
+              8,
+              33
+            ],
+            [
+              9,
+              19
+            ]
+          ]
+        ],
+        "cut_lines": [
+          [
+            [
+              10,
+              12
+            ],
+            [
+              14,
+              17
+            ]
+          ]
+        ],
+        "excluded_polygons": [],
+        "uncertain_polygons": [
+          [
+            [
+              7,
+              12
+            ],
+            [
+              15,
+              12
+            ],
+            [
+              15,
+              22
+            ],
+            [
+              7,
+              22
+            ]
+          ],
+          [
+            [
+              26,
+              4
+            ],
+            [
+              30,
+              4
+            ],
+            [
+              30,
+              11
+            ],
+            [
+              26,
+              11
+            ]
+          ]
+        ],
+        "notes": "Nuova proposta: crop ampliato di 4 px a sinistra, sopra e a destra e di 12 px sotto. Regione mantenuta invariata, solo traslata; il terminale e ora visibile con margine. Spalla aperta e raccordi superiori incerti conservati, senza chiusure o ricostruzioni."
+      },
+      "human_decision": null
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_P_09",
+      "based_on_annotation_sha256": "49df745df8d1cab37cf54ebdc056e102ac987d98df2f2a117428c900ee4e65fc",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "mirror_crop": [
+        919,
+        1876,
+        49,
+        77
+      ],
+      "raw_crop": [
+        610,
+        1876,
+        49,
+        77
+      ],
+      "annotation": {
+        "sample_id": "BNE_MI_EXP_020_P_09",
+        "retained_polygons": [
+          [
+            [
+              13,
+              14
+            ],
+            [
+              19,
+              16
+            ],
+            [
+              20,
+              22
+            ],
+            [
+              24,
+              15
+            ],
+            [
+              29,
+              15
+            ],
+            [
+              32,
+              20
+            ],
+            [
+              32,
+              28
+            ],
+            [
+              28,
+              32
+            ],
+            [
+              24,
+              32
+            ],
+            [
+              25,
+              27
+            ],
+            [
+              27,
+              25
+            ],
+            [
+              26,
+              21
+            ],
+            [
+              22,
+              23
+            ],
+            [
+              20,
+              38
+            ],
+            [
+              19,
+              52
+            ],
+            [
+              19,
+              62
+            ],
+            [
+              16,
+              63
+            ],
+            [
+              14,
+              58
+            ],
+            [
+              15,
+              42
+            ]
+          ]
+        ],
+        "cut_lines": [
+          [
+            [
+              30,
+              16
+            ],
+            [
+              33,
+              31
+            ]
+          ]
+        ],
+        "excluded_polygons": [
+          [
+            [
+              35,
+              13
+            ],
+            [
+              44,
+              13
+            ],
+            [
+              44,
+              34
+            ],
+            [
+              35,
+              34
+            ]
+          ]
+        ],
+        "uncertain_polygons": [
+          [
+            [
+              18,
+              18
+            ],
+            [
+              24,
+              18
+            ],
+            [
+              24,
+              29
+            ],
+            [
+              18,
+              29
+            ]
+          ],
+          [
+            [
+              2,
+              50
+            ],
+            [
+              20,
+              50
+            ],
+            [
+              20,
+              74
+            ],
+            [
+              2,
+              74
+            ]
+          ]
+        ],
+        "notes": "Nuova proposta: crop ampliato di 12 px a sinistra e sotto, di 4 px sopra e a destra. Regione mantenuta invariata, solo traslata. L incontro inferiore con il rigo sottostante resta incerto nella zona arancione ampliata; proposta dubbia, non riferimento geometrico principale per il terminale."
+      },
+      "human_decision": null
+    }
+  ]
+}

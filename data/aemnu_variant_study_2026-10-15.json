@@ -1,0 +1,936 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "status": "unapproved_design_variants_for_comparison",
+  "scope": "aemnu_only",
+  "human_visual_design_approval": false,
+  "integration_approved": false,
+  "authenticity_claim": false,
+  "instruction_quote": "Procedi con l’analisi storica di \"a\" \"e\" \"m\" \"n\" \"u\", cercando campioni più dettagliati, e prepara due varianti per ciascuna. Mostrami il confronto con la versione attuale dentro parole reali, poi decidiamo quali adottare.",
+  "base_font": "fonts/Leonardus-1211-Regular.ttf",
+  "base_font_sha256": "75e11eb8b0cfe807c37c17900b68726c4865e3d76e91d92656aa203d568d8482",
+  "evidence": "data/glyph_evidence.csv",
+  "evidence_sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+  "source_contexts": [
+    {
+      "sample_id": "BNE_MI_016_A_01",
+      "character": "a",
+      "folio": "2r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        841,
+        108,
+        15,
+        19
+      ],
+      "mirror_crop": [
+        722,
+        108,
+        15,
+        19
+      ],
+      "mirror_context": [
+        632,
+        73,
+        195,
+        89
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_016_A_02",
+      "character": "a",
+      "folio": "2r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        789,
+        106,
+        15,
+        27
+      ],
+      "mirror_crop": [
+        774,
+        106,
+        15,
+        27
+      ],
+      "mirror_context": [
+        684,
+        71,
+        195,
+        97
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_014_A_03",
+      "character": "a",
+      "folio": "1r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "raw_crop": [
+        1069,
+        123,
+        23,
+        29
+      ],
+      "mirror_crop": [
+        486,
+        123,
+        23,
+        29
+      ],
+      "mirror_context": [
+        396,
+        88,
+        203,
+        99
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_016_A_04",
+      "character": "a",
+      "folio": "2r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        689,
+        106,
+        16,
+        21
+      ],
+      "mirror_crop": [
+        873,
+        106,
+        16,
+        21
+      ],
+      "mirror_context": [
+        783,
+        71,
+        196,
+        91
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_A_05",
+      "character": "a",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        357,
+        221,
+        15,
+        24
+      ],
+      "mirror_crop": [
+        1206,
+        221,
+        15,
+        24
+      ],
+      "mirror_context": [
+        1116,
+        186,
+        195,
+        94
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-018-e-01",
+      "character": "e",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        639,
+        220,
+        24,
+        27
+      ],
+      "mirror_crop": [
+        915,
+        220,
+        24,
+        27
+      ],
+      "mirror_context": [
+        825,
+        185,
+        204,
+        97
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-018-e-02",
+      "character": "e",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        541,
+        220,
+        22,
+        25
+      ],
+      "mirror_crop": [
+        1015,
+        220,
+        22,
+        25
+      ],
+      "mirror_context": [
+        925,
+        185,
+        202,
+        95
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-018-e-03",
+      "character": "e",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        725,
+        410,
+        21,
+        30
+      ],
+      "mirror_crop": [
+        832,
+        410,
+        21,
+        30
+      ],
+      "mirror_context": [
+        742,
+        375,
+        201,
+        100
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-018-e-04",
+      "character": "e",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        688,
+        412,
+        19,
+        27
+      ],
+      "mirror_crop": [
+        871,
+        412,
+        19,
+        27
+      ],
+      "mirror_context": [
+        781,
+        377,
+        199,
+        97
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-018-e-05",
+      "character": "e",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        619,
+        411,
+        20,
+        31
+      ],
+      "mirror_crop": [
+        939,
+        411,
+        20,
+        31
+      ],
+      "mirror_context": [
+        849,
+        376,
+        200,
+        101
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-020-e-06",
+      "character": "e",
+      "folio": "4r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        1157,
+        1517,
+        19,
+        28
+      ],
+      "mirror_crop": [
+        402,
+        1517,
+        19,
+        28
+      ],
+      "mirror_context": [
+        312,
+        1482,
+        199,
+        98
+      ]
+    },
+    {
+      "sample_id": "BNE-MI-020-e-07",
+      "character": "e",
+      "folio": "4r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        1124,
+        1517,
+        18,
+        27
+      ],
+      "mirror_crop": [
+        436,
+        1517,
+        18,
+        27
+      ],
+      "mirror_context": [
+        346,
+        1482,
+        198,
+        97
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_014_M_01",
+      "character": "m",
+      "folio": "1r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "69f16930-3110-4944-8ec1-f12a56f07d91",
+      "image_sha256": "c8fb6e05628958ea8f3604fd44f8f21f6df1e10eece93af44a3b75b465268e2a",
+      "raw_crop": [
+        1424,
+        1018,
+        29,
+        21
+      ],
+      "mirror_crop": [
+        125,
+        1018,
+        29,
+        21
+      ],
+      "mirror_context": [
+        35,
+        983,
+        209,
+        91
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_M_02",
+      "character": "m",
+      "folio": "2r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        855,
+        105,
+        31,
+        27
+      ],
+      "mirror_crop": [
+        692,
+        105,
+        31,
+        27
+      ],
+      "mirror_context": [
+        602,
+        70,
+        211,
+        97
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_M_04",
+      "character": "m",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        415,
+        220,
+        33,
+        27
+      ],
+      "mirror_crop": [
+        1130,
+        220,
+        33,
+        27
+      ],
+      "mirror_context": [
+        1040,
+        185,
+        213,
+        97
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_M_06",
+      "character": "m",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        530,
+        463,
+        32,
+        24
+      ],
+      "mirror_crop": [
+        1016,
+        463,
+        32,
+        24
+      ],
+      "mirror_context": [
+        926,
+        428,
+        212,
+        94
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_M_08",
+      "character": "m",
+      "folio": "4r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        766,
+        1675,
+        32,
+        25
+      ],
+      "mirror_crop": [
+        780,
+        1675,
+        32,
+        25
+      ],
+      "mirror_context": [
+        690,
+        1640,
+        212,
+        95
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_016_N_02",
+      "character": "n",
+      "folio": "2r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        864,
+        222,
+        23,
+        27
+      ],
+      "mirror_crop": [
+        691,
+        222,
+        23,
+        27
+      ],
+      "mirror_context": [
+        601,
+        187,
+        203,
+        97
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_N_03",
+      "character": "n",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        314,
+        222,
+        17,
+        24
+      ],
+      "mirror_crop": [
+        1247,
+        222,
+        17,
+        24
+      ],
+      "mirror_context": [
+        1157,
+        187,
+        197,
+        94
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_N_04",
+      "character": "n",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        295,
+        223,
+        17,
+        23
+      ],
+      "mirror_crop": [
+        1266,
+        223,
+        17,
+        23
+      ],
+      "mirror_context": [
+        1176,
+        188,
+        197,
+        93
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_N_05",
+      "character": "n",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        662,
+        272,
+        17,
+        23
+      ],
+      "mirror_crop": [
+        899,
+        272,
+        17,
+        23
+      ],
+      "mirror_context": [
+        809,
+        237,
+        197,
+        93
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_018_N_06",
+      "character": "n",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        646,
+        272,
+        16,
+        23
+      ],
+      "mirror_crop": [
+        916,
+        272,
+        16,
+        23
+      ],
+      "mirror_context": [
+        826,
+        237,
+        196,
+        93
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_016_U_01",
+      "character": "u",
+      "folio": "2r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "3a7a3062-3385-4ebd-b1e6-aad468d63585",
+      "image_sha256": "ff2a58e538ecfc2f4d3c1c7faabc02763c1a556077187c6922d587e36ee42f62",
+      "raw_crop": [
+        703,
+        104,
+        23,
+        23
+      ],
+      "mirror_crop": [
+        852,
+        104,
+        23,
+        23
+      ],
+      "mirror_context": [
+        762,
+        69,
+        203,
+        93
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_U_04",
+      "character": "u",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        298,
+        273,
+        16,
+        29
+      ],
+      "mirror_crop": [
+        1264,
+        273,
+        16,
+        29
+      ],
+      "mirror_context": [
+        1174,
+        238,
+        196,
+        99
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_018_U_05",
+      "character": "u",
+      "folio": "3r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "83e9f3a8-5983-402b-af71-99752ac7b65a",
+      "image_sha256": "6476fbe8423692521b86b99230981af7e8007ce52e06ac36bec75afe9c4ad94e",
+      "raw_crop": [
+        761,
+        415,
+        23,
+        23
+      ],
+      "mirror_crop": [
+        794,
+        415,
+        23,
+        23
+      ],
+      "mirror_context": [
+        704,
+        380,
+        203,
+        93
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_U_08",
+      "character": "u",
+      "folio": "4r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        704,
+        1499,
+        27,
+        25
+      ],
+      "mirror_crop": [
+        847,
+        1499,
+        27,
+        25
+      ],
+      "mirror_context": [
+        757,
+        1464,
+        207,
+        95
+      ]
+    },
+    {
+      "sample_id": "BNE_MI_EXP_020_U_09",
+      "character": "u",
+      "folio": "4r",
+      "source_url": "https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh",
+      "source_image_id": "60cc36a4-99b6-4c82-886c-c3cbb6de5912",
+      "image_sha256": "79ccdd36ff34f37f8b50479eaa32ace3e780e92e9db163d7a3803c0576cb07f5",
+      "raw_crop": [
+        1187,
+        1518,
+        19,
+        24
+      ],
+      "mirror_crop": [
+        372,
+        1518,
+        19,
+        24
+      ],
+      "mirror_context": [
+        282,
+        1483,
+        199,
+        94
+      ]
+    }
+  ],
+  "excluded_primary_geometry": [
+    "BNE_MI_EXP_020_M_08",
+    "BNE_MI_EXP_020_U_08"
+  ],
+  "observations": {
+    "a": {
+      "observed": "Nei cinque bersagli il nucleo è spesso una capanna stretta e aperta in basso; chiusura e appartenenza delle connessioni restano incerte.",
+      "A": "Corpo chiuso più angoloso, vertice alto e controforma obliqua; chiusura inferiore conservata per leggibilità.",
+      "B": "Capanna aperta con gamba destra obliqua; manca la pancia chiusa. Rischio esplicito di lettura come n.",
+      "primary": [
+        "BNE_MI_014_A_03",
+        "BNE_MI_016_A_01",
+        "BNE_MI_016_A_04"
+      ]
+    },
+    "e": {
+      "observed": "Elemento superiore piccolo, spesso separato nel raster, sopra un corpo basso obliquo e prolungato verso la lettera vicina. Non si ricostruisce la continuità dell’inchiostro.",
+      "A": "Occhio più piccolo e alto, arco inferiore alleggerito e uscita lunga; raccordo continuo progettato.",
+      "B": "Occhio alto compatto e piccolo uncino sopra una fascia obliqua aperta; raccordo superiore e fascia sono disegnati per evitare un segno simile a due punti.",
+      "primary": [
+        "BNE-MI-018-e-02",
+        "BNE-MI-018-e-03",
+        "BNE-MI-020-e-06"
+      ]
+    },
+    "m": {
+      "observed": "Tre minimi con spalle diseguali, raccordi alti tesi e alternanza di picchi; non tre archi identici.",
+      "A": "Spalle appiattite e sfalsate, prima valle più profonda, ritmo compatto.",
+      "B": "Spalle spezzate a cuspide e raccordi diagonali, con asimmetria più evidente; maggiore rischio di confusione fra sequenze di minimi.",
+      "primary": [
+        "BNE_MI_EXP_016_M_02",
+        "BNE_MI_EXP_018_M_04",
+        "BNE_MI_EXP_018_M_06"
+      ]
+    },
+    "n": {
+      "observed": "Due minimi con raccordo superiore obliquo, picco destro e attacco spesso proveniente dal vicino.",
+      "A": "Spalla più piatta e obliqua, ingresso breve e asta destra riconoscibile.",
+      "B": "Spalla a tetto con salita diagonale e cambio di direzione più netto; il vertice è un’interpretazione progettuale.",
+      "primary": [
+        "BNE_MI_016_N_02",
+        "BNE_MI_018_N_03",
+        "BNE_MI_018_N_05"
+      ]
+    },
+    "u": {
+      "observed": "Due minimi e raccordo basso asimmetrico nei campioni u01/u05/u09; il caso angolare u08 resta dubbio e non guida il contorno.",
+      "A": "Valle meno rotonda e risalita diagonale, con asta destra autonoma.",
+      "B": "Fondo angoloso e risalita più tesa; mantiene il raccordo basso per distinguerla dalla n. Non ricalca la u08 dubbia.",
+      "primary": [
+        "BNE_MI_EXP_016_U_01",
+        "BNE_MI_EXP_018_U_05",
+        "BNE_MI_EXP_020_U_09"
+      ]
+    }
+  },
+  "variants": {
+    "A": {
+      "family": "Leonardus AEMNU A",
+      "postscript": "Leonardus-AEMNU-A-Regular",
+      "glyphs": {
+        "a": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/a-A.svg",
+          "sha256": "ef26948c18409ec39b9f1206ca36f8a68b2573c85d0fdfe490769b315f92bd02",
+          "advance": 440,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_014_A_03",
+            "BNE_MI_016_A_01",
+            "BNE_MI_016_A_04"
+          ],
+          "design_choice": "Corpo chiuso più angoloso, vertice alto e controforma obliqua; chiusura inferiore conservata per leggibilità."
+        },
+        "e": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/e-A.svg",
+          "sha256": "ac53ae0ca4fd556b6f54e8c0c3376a09b97142c344827c427513b9612c111595",
+          "advance": 412,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE-MI-018-e-02",
+            "BNE-MI-018-e-03",
+            "BNE-MI-020-e-06"
+          ],
+          "design_choice": "Occhio più piccolo e alto, arco inferiore alleggerito e uscita lunga; raccordo continuo progettato."
+        },
+        "m": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/m-A.svg",
+          "sha256": "80584cde499368bc6ac4a40d431198daf701d100c21b5570b93a8e3b79ee22ec",
+          "advance": 580,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_EXP_016_M_02",
+            "BNE_MI_EXP_018_M_04",
+            "BNE_MI_EXP_018_M_06"
+          ],
+          "design_choice": "Spalle appiattite e sfalsate, prima valle più profonda, ritmo compatto."
+        },
+        "n": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/n-A.svg",
+          "sha256": "0f02cad49ca26a7bf5176c9e3dfc24d3970786d6f506155c8e56e468eb88d1d1",
+          "advance": 457,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_016_N_02",
+            "BNE_MI_018_N_03",
+            "BNE_MI_018_N_05"
+          ],
+          "design_choice": "Spalla più piatta e obliqua, ingresso breve e asta destra riconoscibile."
+        },
+        "u": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/u-A.svg",
+          "sha256": "bf5881c66b62dd9268f3d1c7d1ceae4272b1cf4d3415dde44eac61d8e63837cc",
+          "advance": 450,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_EXP_016_U_01",
+            "BNE_MI_EXP_018_U_05",
+            "BNE_MI_EXP_020_U_09"
+          ],
+          "design_choice": "Valle meno rotonda e risalita diagonale, con asta destra autonoma."
+        }
+      }
+    },
+    "B": {
+      "family": "Leonardus AEMNU B",
+      "postscript": "Leonardus-AEMNU-B-Regular",
+      "glyphs": {
+        "a": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/a-B.svg",
+          "sha256": "828d8da7dfcbf123d04ca8dcd1ca0a7efad512a1aa8316c59844e890cf53d45c",
+          "advance": 440,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_014_A_03",
+            "BNE_MI_016_A_01",
+            "BNE_MI_016_A_04"
+          ],
+          "design_choice": "Capanna aperta con gamba destra obliqua; manca la pancia chiusa. Rischio esplicito di lettura come n."
+        },
+        "e": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/e-B.svg",
+          "sha256": "735a74c1141f39fa1515e865565801736df967ad068ecc02650166ac694f21ea",
+          "advance": 412,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE-MI-018-e-02",
+            "BNE-MI-018-e-03",
+            "BNE-MI-020-e-06"
+          ],
+          "design_choice": "Occhio alto compatto e piccolo uncino sopra una fascia obliqua aperta; raccordo superiore e fascia sono disegnati per evitare un segno simile a due punti."
+        },
+        "m": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/m-B.svg",
+          "sha256": "3e5b8f4c99024ab5a12bd6b2911bebfcaf6ce365ce770576bdc4173b6f2fd731",
+          "advance": 580,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_EXP_016_M_02",
+            "BNE_MI_EXP_018_M_04",
+            "BNE_MI_EXP_018_M_06"
+          ],
+          "design_choice": "Spalle spezzate a cuspide e raccordi diagonali, con asimmetria più evidente; maggiore rischio di confusione fra sequenze di minimi."
+        },
+        "n": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/n-B.svg",
+          "sha256": "fb9f0156ed8b2b8ceb8eeb17c598fc49bb647bca81bd188db10d4e3a0d01b1a4",
+          "advance": 457,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_016_N_02",
+            "BNE_MI_018_N_03",
+            "BNE_MI_018_N_05"
+          ],
+          "design_choice": "Spalla a tetto con salita diagonale e cambio di direzione più netto; il vertice è un’interpretazione progettuale."
+        },
+        "u": {
+          "file": "glyphs/proposals/2026-10-15-aemnu/u-B.svg",
+          "sha256": "88e3b9ea9be5fb67a25c57e47d67f568f63a6cdf0b1ea268a55c97ae2da3bcc8",
+          "advance": 450,
+          "classification": "unapproved_source_compared_design",
+          "reference_sample_ids": [
+            "BNE_MI_EXP_016_U_01",
+            "BNE_MI_EXP_018_U_05",
+            "BNE_MI_EXP_020_U_09"
+          ],
+          "design_choice": "Fondo angoloso e risalita più tesa; mantiene il raccordo basso per distinguerla dalla n. Non ricalca la u08 dubbia."
+        }
+      }
+    }
+  },
+  "detail_search": {
+    "new_higher_detail_source_acquired": false,
+    "bne_page_016_pdf_embedded_image_dimensions": [
+      1579,
+      2174
+    ],
+    "existing_bne_jpeg_dimensions": [
+      1578,
+      2174
+    ],
+    "pdf_adds_effective_detail": false,
+    "e_leo_consulted_folio": "2r",
+    "e_leo_url": "https://www.leonardodigitale.com/sfoglia/madrid-I/0002-r/",
+    "arundel_lead": {
+      "catalogue_url": "https://searcharchives.bl.uk/catalog/040-002039546",
+      "manifest_url": "https://bl.digirati.io/iiif/ark:/81055/vdc_100180783503.0x000001",
+      "first_canvas_label": "ff. 14v-1r",
+      "first_canvas_dimensions": [
+        8579,
+        6250
+      ],
+      "image_acquired": false,
+      "used_for_glyph_design": false,
+      "reason": "The item rights link currently redirects to a generic research page; no image reuse permission inferred."
+    },
+    "bne_second_canvas_lead": "https://www.bne.es/es/noticias/1031-los-tesoros-de-la-bne-como-nunca-antes-los-habias-visto",
+    "limitation": "No newly acquired higher-resolution target samples. Current variants use the 27 existing reviewed localizations, with enlarged contexts and unchanged source pixels. Enlargement is not new detail."
+  }
+}

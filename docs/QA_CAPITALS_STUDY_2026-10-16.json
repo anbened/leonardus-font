@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-16",
+  "status": "unapproved_study",
+  "base_font_sha256": "d8431dde57bb1f7427d73003b60f3590c2845f3bd311d70bb7da3a5d9b8e30c5",
+  "evidence_sha256": "9132b71b937a217159dd328f8c770f9daeebc6f53320763bcd62fb7708bc8cf7",
+  "manifest_sha256": "9deccc4d4b00e2ff06a38c287b65a0556a5d881298752bb1fef03dd5cf92ad56",
+  "study_font_sha256": {
+    "A": "5c4493ff1dfb93d4ea3916354ba2bfceeae7c0094c3ceb41f8f9feb9e94233c8",
+    "B": "c96346e1aca6cdbf5787b08eb175bd6de1dbaff64272dee1c93edb3ebc8cc865"
+  },
+  "source_contexts_verified": 11,
+  "new_reviewed_capital_readings": 0,
+  "new_images_acquired": false,
+  "changed_base_characters": "LAMNRS",
+  "changed_dependency": "À",
+  "lowercase_outlines_unchanged": true,
+  "all_advances_unchanged": true,
+  "study_tests": {
+    "passed": 10
+  },
+  "full_suite": {
+    "passed": 194,
+    "skipped": 5,
+    "platform": "Windows",
+    "skip_reason": "Existing symlink privilege/platform checks",
+    "isolated_checkout": true
+  },
+  "build_release": {
+    "versions": [
+      "1.100",
+      "1.230"
+    ],
+    "byte_identical_to_committed_fonts": true,
+    "current_audit_passed": true,
+    "current_charset_complete": true,
+    "current_proof_rendered": true
+  },
+  "audits": [
+    {
+      "variant": "A",
+      "mode": "audit",
+      "codepoints": 119,
+      "glyphs": 121,
+      "coverage_complete": null,
+      "bounds_within_vertical_metrics": true
+    },
+    {
+      "variant": "A",
+      "mode": "charset",
+      "codepoints": 119,
+      "glyphs": null,
+      "coverage_complete": true,
+      "bounds_within_vertical_metrics": null
+    },
+    {
+      "variant": "B",
+      "mode": "audit",
+      "codepoints": 119,
+      "glyphs": 121,
+      "coverage_complete": null,
+      "bounds_within_vertical_metrics": true
+    },
+    {
+      "variant": "B",
+      "mode": "charset",
+      "codepoints": 119,
+      "glyphs": null,
+      "coverage_complete": true,
+      "bounds_within_vertical_metrics": null
+    }
+  ],
+  "spacing": {
+    "tested_pairs_per_series_and_size": 2704,
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "series": [
+      "A",
+      "B"
+    ],
+    "threshold": 127,
+    "ink_collisions": 0,
+    "scope": "Unhinted ink collisions only; not an optical-spacing certificate."
+  },
+  "proofs": {
+    "points": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "renderer": "HarfBuzz + FreeType",
+    "words_sha256": "da11666db64102e7285eb2599fc06926f3bbfa2a8d6c3159c4334683d5b80361",
+    "metadata": "PNG no ancillary metadata"
+  },
+  "browser": {
+    "all_15_faces_loaded": true,
+    "mixed_suggestion_verified": true,
+    "precomposed_Agrave_and_combining_mark_family_verified": true,
+    "unsupported_character_warning_verified": true,
+    "source_sheet_opened": true
+  },
+  "integration_approved": false,
+  "installed": false,
+  "office_tested": false,
+  "physical_print_tested": false,
+  "public_release_approved": false,
+  "privacy_check_passed": true,
+  "inventory_check_passed": true
+}

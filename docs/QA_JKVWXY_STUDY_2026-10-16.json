@@ -1,0 +1,177 @@
+{
+  "status": "study_checks_passed",
+  "recorded_date": "2026-10-16",
+  "scope": "unapproved_jkvwxy_study_only",
+  "manifest": "data/jkvwxy_variant_study_2026-10-16.json",
+  "manifest_sha256": "6b929e2b3fc715b4af4aa5b2054c5b573f963f57149d07b0593c75a306502dc8",
+  "base_font": "fonts/Leonardus-1220-Regular.ttf",
+  "base_font_sha256": "57d0a07912297b0d52f2eb0ecbc6ee0b70bbc55d10e9db0ed85f74c275c06783",
+  "base_font_unchanged": true,
+  "evidence_registry_unchanged": true,
+  "source_contexts_verified": 9,
+  "source_context_categories": {
+    "candidate_localizations": 6,
+    "K_not_lowercase_evidence": 3
+  },
+  "new_images_acquired": false,
+  "new_reviewed_readings": 0,
+  "current_installed_font_changed": false,
+  "study_fonts": [
+    {
+      "variant": "A",
+      "letters": "jkvwxy",
+      "sha256": "384e9582e53969d063b1935a6b14aa020760f543d9466e42f0ed6d633364b709",
+      "family": "Leonardus JKVWXY A"
+    },
+    {
+      "variant": "A",
+      "letters": "j",
+      "sha256": "e26b7080cdb695b7f90f4fbac15e6a700f4484305416d7b0197c16669b5d0ef6",
+      "family": "Leonardus JKVWXY A j"
+    },
+    {
+      "variant": "A",
+      "letters": "k",
+      "sha256": "1cf3be6a438633bcf6cbfdba2d78a713852b544db1a4f7d63023ad99bb1d983f",
+      "family": "Leonardus JKVWXY A k"
+    },
+    {
+      "variant": "A",
+      "letters": "v",
+      "sha256": "19b95b3f40f18dfbd7886f30752455b0b6d30967d99fb75f07358b11e7956f7a",
+      "family": "Leonardus JKVWXY A v"
+    },
+    {
+      "variant": "A",
+      "letters": "w",
+      "sha256": "bd1d111d821d05b2219909897ea292c98f9d6c2158970729c6a9bb79554ea8ad",
+      "family": "Leonardus JKVWXY A w"
+    },
+    {
+      "variant": "A",
+      "letters": "x",
+      "sha256": "51a722c9dda57a0ad4742eef65bec587666f9c82316f550f56b238d73eec23f7",
+      "family": "Leonardus JKVWXY A x"
+    },
+    {
+      "variant": "A",
+      "letters": "y",
+      "sha256": "1922bed5955ba7d40b44738367e94504d0c067cc9601f9c87dc25cd8ae2bc671",
+      "family": "Leonardus JKVWXY A y"
+    },
+    {
+      "variant": "B",
+      "letters": "jkvwxy",
+      "sha256": "7c86349afd0df54c358e03060f594425bdef1abf9d8d206202c7729aa086ef56",
+      "family": "Leonardus JKVWXY B"
+    },
+    {
+      "variant": "B",
+      "letters": "j",
+      "sha256": "e89230473f3d6f6b7994e986129d41c427fd4be4189a75bea8f06aa41808d30d",
+      "family": "Leonardus JKVWXY B j"
+    },
+    {
+      "variant": "B",
+      "letters": "k",
+      "sha256": "5a49012e6103074f64a4af3863a79147d13fcc207e1bf5e9c49db6e700255fe0",
+      "family": "Leonardus JKVWXY B k"
+    },
+    {
+      "variant": "B",
+      "letters": "v",
+      "sha256": "548dbb25eb47083cd7db1b1f4ae13d35c75c0b340f4c726a4e678d6176506b5b",
+      "family": "Leonardus JKVWXY B v"
+    },
+    {
+      "variant": "B",
+      "letters": "w",
+      "sha256": "35de1263796644779f16b88fdc78f16ba81d5d714242a887c65df6a1d07a4552",
+      "family": "Leonardus JKVWXY B w"
+    },
+    {
+      "variant": "B",
+      "letters": "x",
+      "sha256": "d246371538163da4df8f0bc23a5ffbfcb8d775eec92e2cecf661c806f813a1f6",
+      "family": "Leonardus JKVWXY B x"
+    },
+    {
+      "variant": "B",
+      "letters": "y",
+      "sha256": "32a25003aac3adcf03364fed05ffd3e1caf916d7f08597e0717be2e32f6f9a27",
+      "family": "Leonardus JKVWXY B y"
+    }
+  ],
+  "audits_passed": 2,
+  "charset_checks_passed": 2,
+  "codepoints": 119,
+  "glyphs": 121,
+  "changed_outlines_in_each_complete_series": [
+    "j",
+    "k",
+    "v",
+    "w",
+    "x",
+    "y"
+  ],
+  "all_advances_preserved": true,
+  "isolated_comparison_changes_one_letter": true,
+  "targeted_pytest": {
+    "passed": 10,
+    "failed": 0
+  },
+  "pair_checks": {
+    "sizes_ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "series": [
+      "A",
+      "B"
+    ],
+    "pairs_per_size_and_series": 2704,
+    "threshold": 127,
+    "total_checks": 10,
+    "ink_collisions": 0,
+    "scope": "Unhinted raster ink overlap only; not an optical spacing or universal legibility certificate."
+  },
+  "word_proofs": {
+    "point_sizes": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "renderer": "HarfBuzz and FreeType, no fallback",
+    "file": "specimen/JKVWXY-Study-Words-2026-10-16.png",
+    "sha256": "33f7dd4161e876a110e6c0cc8be31e4fe77d3de2f7ccdbbdd390546eed708f28"
+  },
+  "human_visual_design_approval": false,
+  "integration_approved": false,
+  "authenticity_claim": false,
+  "native_office_test": false,
+  "physical_print_test": false,
+  "full_pytest": {
+    "passed": 177,
+    "skipped": 5,
+    "failed": 0,
+    "skip_reason": "Windows symlink creation privileges unavailable",
+    "scope": "Clean verification checkout; targeted study and browser checks repeated after the final mixed-preview template change."
+  },
+  "browser_checks": {
+    "all_15_faces_loaded": true,
+    "text_change_and_reset": true,
+    "unsupported_character_notice": true,
+    "independent_mixed_choices": true,
+    "combining_marks_keep_base_family": true,
+    "horizontal_overflow_at_1280px": false,
+    "screenshot_kept_locally": true
+  },
+  "release_1220_reproduced_byte_identical": true,
+  "release_1220_audit_charset_and_proof_passed": true,
+  "study_build_without_manuscript_images_passed": true
+}

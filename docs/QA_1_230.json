@@ -1,0 +1,177 @@
+{
+  "version": "1.230",
+  "date": "2026-10-16",
+  "family": "Leonardus 1230",
+  "status": "selected_jkvwxy_completion_candidate",
+  "font_sha256": "d8431dde57bb1f7427d73003b60f3590c2845f3bd311d70bb7da3a5d9b8e30c5",
+  "human_design_selection": {
+    "j": "A",
+    "k": "B",
+    "v": "B",
+    "w": "B",
+    "x": "B",
+    "y": "B"
+  },
+  "selection_difference_from_prior_agent_preference": {
+    "character": "v",
+    "human_selected": "B",
+    "prior_agent_preference": "A",
+    "effective_selection": "B"
+  },
+  "approval_scope": "Six shown completion designs and integration/installation; no new historical readings, boundaries, other twenty lowercase approvals or public release",
+  "targeted_tests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "font": {
+    "mapped_codepoints": 119,
+    "glyphs": 121,
+    "changed_simple_bases": [
+      "j",
+      "k",
+      "v",
+      "w",
+      "x",
+      "y"
+    ],
+    "dependent_composites": [],
+    "selected_svg_contours_exact": true,
+    "other_outlines_and_metrics_preserved": true,
+    "all_advances_preserved": true,
+    "previous_pq_spacing_preserved": true,
+    "pq_bbox_gap_units": 115,
+    "combining_anchors_and_italian_nfc_nfd_tested": true,
+    "embedding_fsType": 0
+  },
+  "spacing": {
+    "pairs_per_size": 2704,
+    "ppem": [
+      16,
+      24,
+      48,
+      96,
+      128
+    ],
+    "ink_threshold": 127,
+    "ink_collisions": 0,
+    "new_kerning_added": false,
+    "optical_word_review": "Twelve word pairs and repeated-letter sequences compared with 1.220; existing advances retained.",
+    "metrics": {
+      "j": {
+        "advance": 240,
+        "lsb": 10,
+        "rsb": 69,
+        "before_lsb": 9,
+        "before_rsb": 69
+      },
+      "k": {
+        "advance": 430,
+        "lsb": 78,
+        "rsb": 52,
+        "before_lsb": 78,
+        "before_rsb": 54
+      },
+      "v": {
+        "advance": 430,
+        "lsb": 87,
+        "rsb": 48,
+        "before_lsb": 84,
+        "before_rsb": 58
+      },
+      "w": {
+        "advance": 570,
+        "lsb": 81,
+        "rsb": 59,
+        "before_lsb": 77,
+        "before_rsb": 59
+      },
+      "x": {
+        "advance": 415,
+        "lsb": 76,
+        "rsb": 68,
+        "before_lsb": 80,
+        "before_rsb": 50
+      },
+      "y": {
+        "advance": 410,
+        "lsb": 91,
+        "rsb": 58,
+        "before_lsb": 67,
+        "before_rsb": 57
+      }
+    },
+    "scope": "Unhinted grayscale raster test; does not certify universal optical spacing or reading performance"
+  },
+  "proofs": {
+    "sizes_pt": [
+      12,
+      18,
+      36,
+      72
+    ],
+    "dpi": 96,
+    "renderer": "HarfBuzz and FreeType; compiled font without fallback",
+    "selected_word_proof": "specimen/JKVWXY-Integration-1.230.png",
+    "selected_word_proof_sha256": "55665e38e78787d687db49659b9eda70786a4bcd11561f78405750b10860c661",
+    "selected_word_proof_visually_inspected": true,
+    "word_proofs_visually_inspected_pt": [
+      12,
+      72
+    ],
+    "charset_atlas_visually_inspected": true,
+    "browser_both_versions_load_and_select": true,
+    "browser_word_and_alphabet_buttons_tested": true,
+    "browser_text_input_and_unsupported_character_notice_tested": true,
+    "browser_size_range_12_to_72pt_tested": true,
+    "browser_restored_to_1_230_at_36pt": true
+  },
+  "windows": {
+    "installed_in_current_user_account": true,
+    "registered_family": "Leonardus 1230",
+    "font_change_broadcast": true,
+    "gdi_font_bytes_match": true,
+    "fresh_process_gdi_font_bytes_match": true,
+    "previous_1220_file_and_registration_unchanged": true,
+    "previous_registered_1220_resource_reloaded": true,
+    "native_word_or_powerpoint_test_1_230": false
+  },
+  "historical_registry": {
+    "unchanged": true,
+    "samples": 144,
+    "reviewed": 101,
+    "candidates": 43,
+    "lowercase_with_reviewed_readings": 20,
+    "reasoned_completions": 6,
+    "current_classifications": {
+      "normalized": 2,
+      "reviewed_design": 18,
+      "reasoned_completion": 6
+    },
+    "new_higher_detail_targets_acquired": false
+  },
+  "not_claimed": {
+    "new_approval_of_all_26_designs": false,
+    "new_readings_or_boundary_approvals": false,
+    "physical_print_test": false,
+    "independent_paleographic_review": false,
+    "public_release_approved": false
+  },
+  "tests": {
+    "passed": 184,
+    "skipped": 5,
+    "failed": 0,
+    "skip_reason": "Existing Windows symlink tests require unavailable privileges"
+  },
+  "reproducibility": {
+    "two_builds_identical": true,
+    "font_matches_included_ttf": true,
+    "word_proof_reproduced_in_clean_checkout": true,
+    "previous_fonts_1_000_1_100_1_200_1_210_1_211_1_220_unchanged": true,
+    "source_date_epoch": 0
+  },
+  "distribution": {
+    "privacy_findings": 0,
+    "context": "Isolated intended source tree; unrelated modified local PDFs excluded",
+    "inventory": "MANIFEST.json and CONTENTS.txt"
+  }
+}
