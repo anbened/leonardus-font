@@ -6,7 +6,7 @@ Leonardus Regular porta un lavoro di ricerca e disegno tipografico in un font
 leggibile da sinistra a destra. Puoi scaricarlo e usarlo nei tuoi documenti,
 oppure esplorarne i sorgenti e il percorso di realizzazione.
 
-**[Scarica il font 1.270](fonts/Leonardus-Regular-1.270.ttf?raw=true)** ·
+**[Scarica il font 1.270](fonts/Leonardus-Regular-1.270.ttf)** ·
 **[Installazione](INSTALL.md)** ·
 **[Campionario PDF](specimen/Leonardus-1270-Print-Specimen.pdf)**
 
@@ -14,8 +14,8 @@ oppure esplorarne i sorgenti e il percorso di realizzazione.
 
 ## Iniziare
 
-1. Scarica `Leonardus-Regular-1.270.ttf`. Se GitHub apre la pagina del file,
-   usa **Download raw file** per salvare il TTF.
+1. Apri il collegamento al font e premi **Download raw file** nella pagina
+   GitHub per salvare `Leonardus-Regular-1.270.ttf`.
 2. Su Windows apri il file e scegli **Installa**.
 3. Riapri l'applicazione e seleziona **Leonardus**, stile **Regular**.
 
