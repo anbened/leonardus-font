@@ -22,7 +22,7 @@ NAMES = {
     "designer": "Leonardus Lab; original project outlines with agent assistance",
     "description": "Unapproved original design inspired by candidate samples; NOT authenticated handwriting. Human M1B/M2 review pending. No museum endorsement.",
     "licenseDescription": "No final font license selected. BNE references retain CC BY 4.0 attribution; see accompanying RIGHTS.md. This proposal is supplied for private project review.",
-    "licenseInfoURL": "https://github.com/anbened/leonardus/blob/main/docs/LICENSES.md",
+    "licenseInfoURL": "https://github.com/anbened/leonardus-font/blob/main/docs/LICENSES.md",
     "copyright": "Original project outlines. Candidate references: BNE MSS/8937, folios 1r-4r. Imágenes procedentes de los fondos de la Biblioteca Nacional de España. CC BY 4.0; independent design, scaling, spacing and quadratic conversion. https://bnedigital.bne.es/bd/card?oid=0000040157&site=bdh https://creativecommons.org/licenses/by/4.0/",
 }
 

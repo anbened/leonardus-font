@@ -1,5 +1,19 @@
 # Revisione della candidata Leonardus
 
+## Preparazione della distribuzione — 18 ottobre 2026
+
+La copia di distribuzione riduce i dettagli operativi del collaudo e usa
+collegamenti alla propria documentazione. Le ricevute di approvazione,
+i registri, i contorni e i TTF mantengono gli stessi byte. I testi rimandano
+alle ricevute senza duplicarne le frasi colloquiali.
+
+Il workflow usa permessi di lettura, Actions fissate a SHA e checkout senza
+credenziali persistenti. Le verifiche della build e dell’inventario restano
+attive. Queste modifiche non approvano la pubblicazione e non cancellano
+le versioni precedenti dalla cronologia Git.
+
+Le sezioni seguenti conservano i perimetri delle revisioni del font.
+
 La candidata corrente al 17 ottobre 2026 è **Leonardus Regular 1.270**:
 [TTF da installare](../fonts/Leonardus-Regular-1.270.ttf), famiglia **Leonardus**,
 stile **Regular**. La [denominazione finale](REGULAR_1_270_NAMING.md) conserva

@@ -111,21 +111,18 @@ quattro selezioni umane. [Esiti QA](QA_1_270.json).
 
 ## Installazione e uso
 
-Installata nell’account Windows corrente come **Leonardus 1270**, Regular.
-La selezione GDI restituisce esattamente i byte del TTF, anche da un processo
-nuovo. Durante l'integrazione del 16 ottobre erano conservati file e
-registrazione della 1.260. Il 17 ottobre l'installazione viene consolidata
-su richiesta dell'utente: rimossi 12 file precedenti e 11 registrazioni,
-rimane soltanto **Leonardus 1270 Regular**. I checkpoint del repository
-rimangono conservati. [Verifica dell'installazione unica](OFFICE_1_270.md).
-La
+Il collaudo Windows di **Leonardus 1270**, Regular, verifica per byte la
+selezione GDI del TTF anche da un processo nuovo. La
+[denominazione finale](REGULAR_1_270_NAMING.md) usa famiglia **Leonardus**;
+le [istruzioni di installazione](../INSTALL.md) indicano il file corrente.
+I checkpoint conservano il rispettivo ambito di verifica. La
 [pagina di prova](../specimen/Leonardus-1270-Trial.html) offre alfabeto, testo
 libero, parole e confronto con la versione precedente.
 
 Il [collaudo del 17 ottobre](OFFICE_1_270.md) verifica i quattro corpi
 12/18/36/72, salvataggio e riapertura in Word/PowerPoint e il PDF Word,
 con 115 contorni incorporati coincidenti con il TTF. Il PDF PowerPoint
-è prodotto con protezione aziendale e il suo contenuto è confermato
+è prodotto con protezione e il suo contenuto è confermato
 dall'utente il 17 ottobre; nessun confronto automatico dei suoi contorni
 è dichiarato. È pronto il [campionario A4](../specimen/Leonardus-1270-Print-Specimen.pdf).
 Stampa fisica e parere paleografico indipendente non sono eseguiti.

@@ -56,9 +56,9 @@ deploy key o ambienti di distribuzione. Wiki e Pages non sono attive.
 L'elenco dei collaboratori contiene soltanto il proprietario del progetto.
 Le superfici assenti non sono dichiarate sottoposte a un esame di contenuto.
 
-Il nuovo commit è sottoposto alla stessa CI, che riesamina la cronologia
-e il pacchetto. L'esito associato al commit è consultabile in
-[Actions](https://github.com/anbened/leonardus/actions).
+La CI di quella revisione riguarda il checkpoint descritto e non attesta
+l'edizione corrente. Le verifiche di questa edizione sono consultabili in
+[Actions](https://github.com/anbened/leonardus-font/actions).
 L'esportazione Git finale è confrontata con inventario e file locali;
 documenti Office, scansioni, prove locali e dump API sono esclusi.
 

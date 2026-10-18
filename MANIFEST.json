@@ -56,8 +56,8 @@
       "license": "MIT"
     },
     ".github/workflows/ci.yml": {
-      "bytes": 14538,
-      "sha256": "83d0ee5952141ef5f977d32cd686441de330895e3acf039b17c3cdd5925e859e",
+      "bytes": 14575,
+      "sha256": "88b5ca3f59a60255e0d00fcf4939968a2a6988b8726a8e23ae0aa995b58e9149",
       "license": "MIT"
     },
     ".gitignore": {
@@ -551,8 +551,8 @@
       "license": "MIT"
     },
     "docs/OFFICE_1_270.md": {
-      "bytes": 7633,
-      "sha256": "d1a4ad053f6f93b01c92cebef103adf518a6660fd830dc071ce2e88c0c90eb56",
+      "bytes": 6925,
+      "sha256": "2b02a300b15739de503651bdecd19c31de8bca38c064424bab980f8bec7c0e0e",
       "license": "MIT"
     },
     "docs/OPQR_VARIANT_STUDY.md": {
@@ -566,8 +566,8 @@
       "license": "MIT"
     },
     "docs/PREPUBLICATION_REVIEW.md": {
-      "bytes": 8475,
-      "sha256": "01958948e4d4ffed851cbdb772f5ab902f33bfdc9a84967c092455204f8beab2",
+      "bytes": 8490,
+      "sha256": "c35c66354280cfb8513770f472aaf34fe1f1669078f2862c235db1405bb496bd",
       "license": "MIT"
     },
     "docs/PROJECT.md": {
@@ -581,8 +581,8 @@
       "license": "MIT"
     },
     "docs/QA.md": {
-      "bytes": 23007,
-      "sha256": "fec0e7e1bb35cd00c4f499794f57195a766d43bd01078dee3bd2af26afbe014d",
+      "bytes": 22924,
+      "sha256": "4a64c2e42333880312c23fcec5a647e87f3740d75b787394d7dacc5c76e3a411",
       "license": "MIT"
     },
     "docs/QA_1_200.json": {
@@ -726,18 +726,18 @@
       "license": "MIT"
     },
     "docs/REGULAR_1_270.md": {
-      "bytes": 7012,
-      "sha256": "c08b75307c05aaa8d3333a5d79246184eb107faa9edec17e92ac0100daf603ad",
+      "bytes": 6817,
+      "sha256": "54acef31dfef7ab5f69395ff00149cedee46801b3b551408f3e7fdeb32b96a6c",
       "license": "MIT"
     },
     "docs/REGULAR_1_270_NAMING.md": {
-      "bytes": 4380,
-      "sha256": "f1c5c952a8373c23e0fd7ef9387deed796df6094bf6e8696c7fc67d5f1c85b01",
+      "bytes": 3951,
+      "sha256": "c36ef55f99c4aed4ed3a27fc959617d29f12afd5831492578882414936b673a6",
       "license": "MIT"
     },
     "docs/REVIEW.md": {
-      "bytes": 8359,
-      "sha256": "52ee132e58ba5cf2c1d41372bc0ec42a02ac30844e9bc42329ff26e17850c015",
+      "bytes": 9034,
+      "sha256": "1654db88a73223c014c122c5d2f24569b214d96fb9a20b44c9db57529e123402",
       "license": "MIT"
     },
     "docs/SEGMENTATION_CONSOLIDATED.md": {
@@ -2416,8 +2416,8 @@
       "license": "MIT"
     },
     "src/leonardus/proposal.py": {
-      "bytes": 6971,
-      "sha256": "0a2e63d062d238f272971f1235bb048deec10632884cd285a58b80afcea5ad3f",
+      "bytes": 6976,
+      "sha256": "78a2a707c3afbf3408526e2f7ff0248da71fe6d0ccee566e3d8d10cef6efc4be",
       "license": "MIT"
     },
     "src/leonardus/regular.py": {

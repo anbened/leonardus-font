@@ -20,18 +20,18 @@ slide PowerPoint sono ispezionate dopo la riapertura.
 |---|---|---|
 | Rendering dei quattro corpi | Verificato | Verificato |
 | Salvataggio nativo | DOCX verificato | PPTX verificato |
-| Chiusura e riapertura | Verificate | Verificate nella sessione autorizzata |
+| Chiusura e riapertura | Verificate | Verificate |
 | Pagine/slide riaperte ispezionate | 4 | 4 |
 | Comando di esportazione PDF standard | File prodotto | File prodotto, protetto |
 | Contenuto PDF finale | 4 pagine ispezionate dall'agente | Confermato dall'utente il 17 ottobre |
 | Contorni incorporati confrontati con il TTF | 115 distinti, tutti coincidenti | Non ispezionabili con gli strumenti PDF disponibili |
 
 **Il controllo del contenuto PDF PowerPoint è chiuso dalla revisione umana.** La
-protezione aziendale applicata automaticamente al PPTX viene ereditata dal
-PDF. Gli strumenti PDF ordinari leggono una pagina di avviso, che non è una
-slide del campione. L'utente ha successivamente comunicato: «Ho controllato
-io il contenuto pdf: peretto.». La [ricevuta](../data/human_office_pdf_review_2026-10-17.json)
-registra citazione, data e perimetro; il numero di pagine controllate e la
+protezione del PPTX viene ereditata dal PDF. Gli strumenti PDF ordinari
+leggono una pagina di avviso, che non è una slide del campione. La conferma
+umana del contenuto è conservata nella
+[ricevuta](../data/human_office_pdf_review_2026-10-17.json), con citazione,
+data e perimetro; il numero di pagine controllate e la
 procedura umana non sono specificati. Non viene modificata la protezione,
 non viene estratto il contenuto protetto e non si attribuiscono all'agente
 l'ispezione visiva o un confronto dei contorni del PDF PowerPoint.
@@ -81,21 +81,12 @@ rendering nativo Office e dal confronto dei sottoinsiemi PDF.
 
 ## Installazione unica consolidata
 
-Il 17 ottobre, dopo il collaudo e su richiesta dell'utente, sono rimossi
-12 file di versioni precedenti e 11 registrazioni per utente, incluse
-le alpha 0.200/0.201 e i checkpoint installati da 1.000 a 1.260.
-L'inventario delle cartelle font utente e sistema e delle registrazioni
-utente/sistema trova infine **un solo file Leonardus e una sola registrazione**:
-**Leonardus 1270 Regular**, versione 1.270, con SHA256 invariato.
-Nessun font del progetto risulta installato a livello di sistema.
-
-La registrazione 1.270 è riscritta e la risorsa ricaricata; Windows riceve
-la notifica di cambiamento dei font. Un processo nuovo conferma i byte
-esatti della 1.270 e non trova più le undici famiglie precedenti.
-Sorgenti e checkpoint nel repository rimangono conservati; i dettagli
-locali dell'operazione e le copie di ripristino rimangono ignorati.
-Le applicazioni già aperte possono mantenere la propria cache: riaprirle
-per aggiornare l'elenco e scegliere **Leonardus 1270** nei documenti.
+Il 17 ottobre l'installazione di prova è consolidata sulla sola
+**Leonardus 1270 Regular**, versione 1.270. Un processo Windows nuovo
+conferma i byte esatti del TTF previsto. Sorgenti e checkpoint sono
+conservati nel repository. La successiva
+[denominazione finale](REGULAR_1_270_NAMING.md) distingue questo collaudo
+dal font da installare oggi; per l'uso vedi la [guida](../INSTALL.md).
 
 ## Campionario da stampare
 

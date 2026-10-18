@@ -368,7 +368,7 @@ salvataggio nativo, chiusura e riapertura verificati. Ispezionati tutti i
 campioni riaperti, senza tagli o collisioni osservati. Il PDF Word ha quattro
 pagine ispezionate e due sottoinsiemi con 115 contorni Leonardus distinti
 ciascuno, tutti coincidenti con il TTF 1.270, comprese le ultime otto capitali
-e Ù. Il PDF PowerPoint è esportato con protezione aziendale e il suo
+e Ù. Il PDF PowerPoint è esportato con protezione e il suo
 contenuto è successivamente confermato dall'utente il 17 ottobre, nella
 [ricevuta umana](../data/human_office_pdf_review_2026-10-17.json).
 Non viene attribuita all'agente la revisione del PDF protetto o il confronto
@@ -384,11 +384,10 @@ storico invariati. [Rapporto](OFFICE_1_270.md), [esiti strutturati](QA_OFFICE_1_
 Gli artefatti Office rimangono ignorati sotto `build/`; il campionario
 distribuibile ha metadati generici. Stampa fisica non eseguita.
 
-Nella stessa data è consolidata l'installazione Windows sulla sola
-Leonardus 1270 Regular: rimossi 12 file precedenti e 11 registrazioni,
-senza errori; cartelle e registro utente/sistema ricontrollati. Un processo
-nuovo verifica i byte della 1.270 e l'indisponibilità delle undici famiglie
-precedenti. Sorgenti e checkpoint nel repository rimangono invariati.
+Nella stessa data l'installazione di prova è consolidata sulla sola
+Leonardus 1270 Regular. Un processo Windows nuovo verifica i byte della
+1.270. Sorgenti e checkpoint rimangono conservati; il collaudo e la
+[successiva denominazione](REGULAR_1_270_NAMING.md) mantengono ambiti distinti.
 
 ## Denominazione Leonardus / Regular — 17 ottobre 2026
 

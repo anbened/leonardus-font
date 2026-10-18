@@ -52,16 +52,10 @@ in download lo stesso file finale.
 
 ## Installazione Windows
 
-Installata e registrata per l'utente **Leonardus Regular**, versione interna
-1.270. Il file e la registrazione con famiglia Leonardus 1270 sono rimossi.
-L'inventario delle cartelle e dei registri font utente/sistema trova un solo
-file del progetto e una sola registrazione: Leonardus Regular. Nessuna
-installazione del progetto a livello di sistema.
-
-Un processo Windows nuovo richiede **Leonardus** e ottiene esattamente
-i byte del nuovo TTF; la vecchia famiglia Leonardus 1270 non è più selezionabile.
-Windows riceve la notifica del cambiamento. Riaprire le applicazioni già
-avviate per aggiornare l'elenco dei font e selezionare **Leonardus**, Regular.
+La selezione Windows di **Leonardus Regular**, versione 1.270, è verificata
+per byte da un processo nuovo. Le
+[istruzioni di installazione](../INSTALL.md) indicano il file corrente e
+la gestione di eventuali versioni precedenti.
 Il checkpoint 1.100 nel repository usa anch'esso famiglia Leonardus: è un
 riferimento conservato e non va installato insieme alla 1.270.
 
