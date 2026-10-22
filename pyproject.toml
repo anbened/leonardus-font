@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Reproducible engineering pipeline for research-based historical handwriting fonts."
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = ["fonttools>=4.50,<5", "Pillow>=10,<13"]
+dependencies = ["fonttools>=4.50,<5", "Pillow>=10,<14"]
 
 [project.optional-dependencies]
 dev = ["pytest>=8,<10", "uharfbuzz>=0.50,<1", "freetype-py>=2.5,<3", "reportlab>=4.4.9,<5", "pypdf>=6.19.0,<7"]
