@@ -1,5 +1,6 @@
 .gitattributes
 .github/workflows/ci.yml
+.github/workflows/dependabot-inventory.yml
 .gitignore
 AGENTS.md
 CHANGELOG.md
@@ -152,6 +153,7 @@ examples/cdegpt_study.py
 examples/check_privacy.py
 examples/completion_comparison.py
 examples/corpus_review.py
+examples/dependabot_inventory.py
 examples/finalize_regular_1270.py
 examples/guided_review.py
 examples/inventory.py
@@ -487,6 +489,7 @@ tests/test_cdegpt_integration.py
 tests/test_cdegpt_study.py
 tests/test_completion.py
 tests/test_corpus_review.py
+tests/test_dependabot_inventory.py
 tests/test_expansion_data.py
 tests/test_guided_review.py
 tests/test_jkuvwxyz_integration.py
