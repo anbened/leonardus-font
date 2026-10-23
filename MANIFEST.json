@@ -60,6 +60,11 @@
       "sha256": "88b5ca3f59a60255e0d00fcf4939968a2a6988b8726a8e23ae0aa995b58e9149",
       "license": "MIT"
     },
+    ".github/workflows/dependabot-inventory.yml": {
+      "bytes": 1040,
+      "sha256": "e471ee3183c957af3b0236ac4ca374355350be971f166e37484d9b2d491b5967",
+      "license": "MIT"
+    },
     ".gitignore": {
       "bytes": 104,
       "sha256": "b82ab082060fe73cb8d9fc6010f9e55efdc9715df02f81987aa10aad1a97618b",
@@ -441,8 +446,8 @@
       "license": "MIT"
     },
     "docs/BUILDING.md": {
-      "bytes": 11750,
-      "sha256": "d3f014d0b7be1655ae598f4f3e73faa3f009dc635d067662400c1aa85bf66ef9",
+      "bytes": 12913,
+      "sha256": "69a5b2426681749be6b084f255404a09dab82144fa1250499ee2a1054a41e200",
       "license": "MIT"
     },
     "docs/CAPITALS_VARIANT_STUDY.md": {
@@ -808,6 +813,11 @@
     "examples/corpus_review.py": {
       "bytes": 20738,
       "sha256": "f64b8c6997e3b59fc98e46a301035d458aaf7794f10411a2063e30a62a0d4f1a",
+      "license": "MIT"
+    },
+    "examples/dependabot_inventory.py": {
+      "bytes": 6265,
+      "sha256": "fbd511468d3b6fc7fbc67faa7a62d8318cfeeaacc800521023e7d0d021e06237",
       "license": "MIT"
     },
     "examples/finalize_regular_1270.py": {
@@ -2483,6 +2493,11 @@
     "tests/test_corpus_review.py": {
       "bytes": 12068,
       "sha256": "d01087ed7cd6237f6b7dd2560cca8e89f126e0c63799b6ebae522d807cc21613",
+      "license": "MIT"
+    },
+    "tests/test_dependabot_inventory.py": {
+      "bytes": 9600,
+      "sha256": "a4c5f0e13f11d1063d95ddc6b819b5eab2a80fedee7547afc7e50ce8b6913c1a",
       "license": "MIT"
     },
     "tests/test_expansion_data.py": {

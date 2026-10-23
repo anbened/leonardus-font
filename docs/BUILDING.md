@@ -25,10 +25,28 @@ Il finalizzatore legge il checkpoint distribuito, quindi i due confronti
 verificano separatamente compilazione e denominazione. Su altri sistemi
 usa il Python del virtualenv con gli stessi argomenti.
 
-Quando una modifica intenzionale aggiorna le dipendenze, anche tramite
-Dependabot, verificare il diff e rigenerare `MANIFEST.json` con
-`python examples/inventory.py`. Includere il manifesto aggiornato nella
-stessa PR ed eseguire `python examples/inventory.py --check` e la CI completa.
+Quando una modifica intenzionale aggiorna le dipendenze, verificare il diff
+e rigenerare `MANIFEST.json` con `python examples/inventory.py`. Includere il
+manifesto aggiornato nella stessa PR ed eseguire
+`python examples/inventory.py --check` e la CI completa.
+
+Per le PR di Dependabot verso `main`, il workflow **Dependabot inventory**
+interviene dopo una CI fallita se il diff modifica soltanto file esistenti
+tra `pyproject.toml`, `requirements-build.txt`, `requirements-dev.txt` e il
+manifesto. Aggiorna esclusivamente dimensioni e SHA256 dei file delle
+dipendenze modificati, aggiunge un commit a quella PR e avvia nuovamente
+**Leonardus checks** sul ramo aggiornato. Un inventario già coerente non
+produce commit o altre esecuzioni. Il controllo `verify` rimane obbligatorio
+e il merge richiede ancora la normale revisione del progetto.
+
+L'automazione usa il `GITHUB_TOKEN` temporaneo, senza credenziali aggiuntive.
+Il workflow e lo script provengono dal ramo predefinito; i file della PR
+vengono letti come dati tramite API, senza checkout o installazione delle
+sue dipendenze nel job con scrittura. L'automazione rifiuta PR di altri autori,
+fork, commit superati, file aggiunti/rimossi/rinominati, link simbolici e
+modifiche ad altri sorgenti, workflow o metadati del manifesto. Questi casi
+richiedono aggiornamento manuale dell'inventario. Nessuna modifica automatica
+a `main`, alle approvazioni, ai font o alle impostazioni di protezione.
 
 Per rigenerare la sola anteprima del README:
 
