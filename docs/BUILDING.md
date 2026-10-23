@@ -25,6 +25,11 @@ Il finalizzatore legge il checkpoint distribuito, quindi i due confronti
 verificano separatamente compilazione e denominazione. Su altri sistemi
 usa il Python del virtualenv con gli stessi argomenti.
 
+Quando una modifica intenzionale aggiorna le dipendenze, anche tramite
+Dependabot, verificare il diff e rigenerare `MANIFEST.json` con
+`python examples/inventory.py`. Includere il manifesto aggiornato nella
+stessa PR ed eseguire `python examples/inventory.py --check` e la CI completa.
+
 Per rigenerare la sola anteprima del README:
 
 ```powershell

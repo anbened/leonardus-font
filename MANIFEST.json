@@ -441,8 +441,8 @@
       "license": "MIT"
     },
     "docs/BUILDING.md": {
-      "bytes": 11463,
-      "sha256": "dd5c7827cf582ad25e4a88238f8876eb36f31376cd12afa22f1625e283bc8f65",
+      "bytes": 11750,
+      "sha256": "d3f014d0b7be1655ae598f4f3e73faa3f009dc635d067662400c1aa85bf66ef9",
       "license": "MIT"
     },
     "docs/CAPITALS_VARIANT_STUDY.md": {
@@ -2127,12 +2127,12 @@
     },
     "pyproject.toml": {
       "bytes": 644,
-      "sha256": "332ddc1fbb8b5d3ba2912ed7e59ecd20f0fcb8b1ec635e45136b23b32a8e14b4",
+      "sha256": "c47b670b85eb1780d4b323ce1a8371b21798c7a797378d2016443b182f4f0eab",
       "license": "MIT"
     },
     "requirements-build.txt": {
       "bytes": 33,
-      "sha256": "62bf5c01e64b58c92a6c01b8bc42f858b02d96d6322cd39f27009f662a7bf99e",
+      "sha256": "3ada33d4d663ac74469bfcee45ff477dcd777fb03956ef56f14ca750cdc2edf5",
       "license": "MIT"
     },
     "requirements-dev.txt": {
