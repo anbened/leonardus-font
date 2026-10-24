@@ -55,6 +55,59 @@ computer. Interrompi il server con `Ctrl+C` quando hai finito.
 GitHub mostra il sorgente HTML: la prova funziona nella copia scaricata
 o tramite il server locale.
 
+## Leonardus Specchio: prova e installazione
+
+[Leonardus Specchio](docs/SPECULAR_RTL.md) è la variante speculare opzionale
+della Regular 1.270. La famiglia da selezionare è **Leonardus Specchio**,
+lo stile **Regular** e la versione interna **1.270**.
+
+### Provare nel browser senza installare
+
+1. Dalla [pagina del repository](https://github.com/anbened/leonardus-font),
+   scegli **Code > Download ZIP**.
+2. Sullo ZIP scaricato scegli **Estrai tutto**. Mantieni le cartelle `fonts/`
+   e `specimen/` nella stessa cartella del progetto: la pagina carica il font
+   dalla cartella `fonts/`.
+3. Nella cartella estratta apri `specimen/Leonardus-Specchio-Trial.html`
+   con Edge o Chrome.
+4. Attendi il messaggio **Font caricato: Leonardus Specchio Regular 1.270.**,
+   poi scrivi nel riquadro e regola la dimensione con il cursore **Corpo**.
+
+La [pagina di prova](specimen/Leonardus-Specchio-Trial.html) imposta già
+la composizione da destra a sinistra, comprese le cifre. Il font viene
+caricato dal progetto scaricato; non occorre installarlo nel sistema.
+Il testo rimane nel browser e non viene inviato a un servizio.
+Aprendo il collegamento HTML su GitHub si vede il sorgente: la prova
+interattiva richiede la copia estratta sul computer.
+
+Se il font non viene caricato da file locale, avvia il server Python
+descritto sopra dalla cartella del progetto e apri
+`http://127.0.0.1:8000/specimen/Leonardus-Specchio-Trial.html`.
+Interrompi il server con `Ctrl+C` quando hai finito.
+
+### Installare su Windows
+
+1. Scarica [Leonardus-Specchio-RTL-1.270.ttf](fonts/Leonardus-Specchio-RTL-1.270.ttf)
+   scegliendo **Download raw file** su GitHub, oppure usa lo stesso file
+   nella cartella `fonts/` dello ZIP estratto.
+2. Apri il TTF e premi **Installa**.
+3. Chiudi e riapri Word, PowerPoint o l'applicazione in cui vuoi provarlo.
+4. Seleziona **Leonardus Specchio**, stile **Regular**, dall'elenco dei caratteri.
+
+Leonardus Specchio ha un nome di famiglia distinto e può essere installato
+insieme a Leonardus Regular.
+
+### Direzione del testo e limiti
+
+Selezionare il font rende speculari le lettere, ma non imposta da solo
+l'ordine del testo da destra a sinistra. Per una prima prova usa la pagina
+nel browser, che applica già l'impostazione necessaria. Per comporre il testo
+in altri contesti consulta [Come usarlo](docs/SPECULAR_RTL.md#come-usarlo).
+
+Il collaudo applicativo della Regular non si estende automaticamente a
+Specchio: per la variante non è documentato un collaudo in Word, PowerPoint,
+macOS o Linux. La [guida dedicata](docs/SPECULAR_RTL.md#limiti) descrive i limiti.
+
 ## Campionario e limiti
 
 Il [campionario A4](specimen/Leonardus-1270-Print-Specimen.pdf) contiene
