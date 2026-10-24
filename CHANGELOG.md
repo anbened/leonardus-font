@@ -26,6 +26,16 @@ checksum necessario, senza ridisegnare il font.
 [Denominazione](docs/REGULAR_1_270_NAMING.md) ·
 [Collaudo Office](docs/OFFICE_1_270.md).
 
+## Leonardus Specchio RTL 1.270
+
+Derivazione tecnica della Regular 1.270: immagine speculare di contorni e
+ancore, per comporre testo da destra a sinistra con direzione imposta. Famiglia
+**Leonardus Specchio**, repertorio, avanzamenti e metriche della 1.270;
+nessun nuovo disegno, lettura o approvazione. La Regular 1.270 resta il
+font corrente. Candidata di revisione, senza diffusione pubblica.
+
+[Documentazione](docs/SPECULAR_RTL.md).
+
 ## Checkpoint precedenti
 
 Le versioni dalla 1.000 alla 1.260 conservano le tappe del progetto e i
