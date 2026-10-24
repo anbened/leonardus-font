@@ -12,6 +12,7 @@ leggi [metodo e scelte](PROJECT.md).
 - [Derivazione per glifo 1.270](DERIVAZIONE_1_270.csv).
 - [Collaudo in Word e PowerPoint](OFFICE_1_270.md).
 - [Ricostruzione del font](BUILDING.md).
+- [Leonardus Specchio: versione speculare da destra a sinistra](SPECULAR_RTL.md).
 
 ## Ricerca, metodo e licenze
 

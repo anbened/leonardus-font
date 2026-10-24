@@ -142,10 +142,12 @@ docs/REVIEW.md
 docs/SEGMENTATION_CONSOLIDATED.md
 docs/SEGMENTATION_DESIGN_REVIEW.md
 docs/SOURCE_RIGHTS_REVIEW.md
+docs/SPECULAR_RTL.md
 examples/aemnu_selection_proof.py
 examples/aemnu_study.py
 examples/bfhioq_selection_proof.py
 examples/bfhioq_study.py
+examples/build_specular_rtl.py
 examples/capitals_selection_proof.py
 examples/capitals_study.py
 examples/cdegpt_selection_proof.py
@@ -171,6 +173,7 @@ examples/regular_spacing_check.py
 examples/regular_specimen.py
 examples/segmentation_consolidation.py
 examples/segmentation_review.py
+examples/specular_preview.py
 examples/windows_font_check.py
 fonts/Leonardus-1200-Regular.ttf
 fonts/Leonardus-1210-Regular.ttf
@@ -183,6 +186,7 @@ fonts/Leonardus-1260-Regular.ttf
 fonts/Leonardus-1270-Regular.ttf
 fonts/Leonardus-Regular-1.270.ttf
 fonts/Leonardus-Regular.ttf
+fonts/Leonardus-Specchio-RTL-1.270.ttf
 fonts/previous/Leonardus-Regular-1.000.ttf
 glyphs/proposals/2026-10-11-v3/README.md
 glyphs/proposals/2026-10-11-v3/a.svg
@@ -444,6 +448,8 @@ specimen/Leonardus-1260-Trial.html
 specimen/Leonardus-1270-Print-Specimen.pdf
 specimen/Leonardus-1270-Trial.html
 specimen/Leonardus-Preview.png
+specimen/Leonardus-Specchio-Preview.png
+specimen/Leonardus-Specchio-Trial.html
 specimen/Leonardus-Specimen.pdf
 specimen/Lowercase-Completion-1.200.svg
 specimen/Lowercase-Proposals-2026-10-15.svg
@@ -479,6 +485,7 @@ src/leonardus/proposal.py
 src/leonardus/regular.py
 src/leonardus/release.py
 src/leonardus/specimen.py
+src/leonardus/specular.py
 tests/test_aemnu_integration.py
 tests/test_aemnu_study.py
 tests/test_bfhioq_integration.py
@@ -506,3 +513,4 @@ tests/test_regular_1270_naming.py
 tests/test_segmentation_consolidation.py
 tests/test_segmentation_review.py
 tests/test_spacing_release.py
+tests/test_specular_rtl.py

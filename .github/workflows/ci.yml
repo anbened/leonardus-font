@@ -191,3 +191,8 @@ jobs:
           python examples/regular_specimen.py --font build/Leonardus-Regular-1.270.ttf --out build/proof-named-1270 --candidate
           python examples/print_specimen_1270.py --out build/Leonardus-1270-Print-Specimen.pdf
           cmp build/Leonardus-1270-Print-Specimen.pdf specimen/Leonardus-1270-Print-Specimen.pdf
+          python examples/build_specular_rtl.py --out build/Leonardus-Specchio-RTL-1.270.ttf
+          cmp build/Leonardus-Specchio-RTL-1.270.ttf fonts/Leonardus-Specchio-RTL-1.270.ttf
+          python -m leonardus.cli audit --font build/Leonardus-Specchio-RTL-1.270.ttf
+          python -m leonardus.cli charset --font build/Leonardus-Specchio-RTL-1.270.ttf
+          python examples/specular_preview.py --out build/Leonardus-Specchio-Preview.png

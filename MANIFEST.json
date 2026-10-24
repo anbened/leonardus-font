@@ -47,7 +47,8 @@
     "Separate unapproved JKUVWXYZ capital studies add sixteen original SVG proposals and compare six existing candidates, three case-unresolved K observations and four reviewed lowercase references without promotion; J and W remain declared modern completions; isolated words and mixed previews preserve installed Regular 1.260 and all advances; source images remain local",
     "Explicit all-B JKUVWXYZ selection integrated as Regular 1.270; J/W/Y/Z B override prior A suggestions; eight exact contours and U-grave/combining anchors updated, eighteen earlier capitals, lowercase forms and every advance preserved; all 26 capitals match four disjoint human selections, with E/I/N A and 23 B; historical candidate states and declared J/W completions retained; current-user installation and fresh-process GDI byte selection verified",
     "Native Word and PowerPoint 1.270 save/reopen checked at four point sizes; Word PDF outlines matched and protected PowerPoint PDF content confirmed by the project owner; reproducible A4 print specimen added without Office assets or manuscript images; physical print remains untested",
-    "Approved metadata-only naming of Regular 1.270 as family Leonardus and style Regular; version retained internally, all non-name tables and drawing preserved except the required head checksum; previous named integration checkpoint and native Office evidence retained, final download and Windows installation point to the newly named TTF"
+    "Approved metadata-only naming of Regular 1.270 as family Leonardus and style Regular; version retained internally, all non-name tables and drawing preserved except the required head checksum; previous named integration checkpoint and native Office evidence retained, final download and Windows installation point to the newly named TTF",
+    "Leonardus Specchio RTL 1.270 added as a reproducible mirror-image derivation of Regular 1.270 under a distinct family name; outlines and mark anchors reflected, Bidi_Mirrored glyphs left to bidi mirroring, advances and repertoire preserved; no new design, reading or approval, and Regular 1.270 and every checkpoint unchanged"
   ],
   "files": {
     ".gitattributes": {
@@ -56,8 +57,8 @@
       "license": "MIT"
     },
     ".github/workflows/ci.yml": {
-      "bytes": 14575,
-      "sha256": "88b5ca3f59a60255e0d00fcf4939968a2a6988b8726a8e23ae0aa995b58e9149",
+      "bytes": 15023,
+      "sha256": "6f999d39885ef1904c24c4bad3020a13b851d58d32249330f8f403d7f6ebf268",
       "license": "MIT"
     },
     ".github/workflows/dependabot-inventory.yml": {
@@ -76,8 +77,8 @@
       "license": "MIT"
     },
     "CHANGELOG.md": {
-      "bytes": 1457,
-      "sha256": "519065d8074a2ad2c773bbc3b065f3531f9f27cad97766acce4447a5cc6f10f3",
+      "bytes": 1896,
+      "sha256": "eb8191a288eb4fd06451865aef23054432625a531d4ac1ccafe4185c5cc96db1",
       "license": "MIT"
     },
     "CONTRIBUTING.md": {
@@ -106,8 +107,8 @@
       "license": "OFL-1.1"
     },
     "README.md": {
-      "bytes": 4857,
-      "sha256": "2d6b98ff94c45d6b2052893eb52ac0b09f4ebfe2efa7be37d3c29fd0bd4745b8",
+      "bytes": 5447,
+      "sha256": "0bfd1b9c83f8c7ec5d868205216d96a451817b1e993396b3468c135f9d9924a0",
       "license": "MIT"
     },
     "data/README.md": {
@@ -681,8 +682,8 @@
       "license": "MIT"
     },
     "docs/README.md": {
-      "bytes": 2175,
-      "sha256": "6e3129e1adb78e0397335c87e5aa97dcbc7955bf6aaf82e9a3669373711d3ed8",
+      "bytes": 2257,
+      "sha256": "c2e4ab6b987c3e68dceec8250a3703bf451cfee01e752632c59df495e5a66b26",
       "license": "MIT"
     },
     "docs/REGULAR_1_100.md": {
@@ -760,6 +761,11 @@
       "sha256": "927e2354dbe0164ddbb3e0c531a7ce857bcfedea25882192a2e85cca330b9aa2",
       "license": "MIT"
     },
+    "docs/SPECULAR_RTL.md": {
+      "bytes": 4436,
+      "sha256": "cf1c61cb5339ea8d06dd7e3392a51273b239d5ba95d7ee2f74aa94a571a50a03",
+      "license": "MIT"
+    },
     "examples/aemnu_selection_proof.py": {
       "bytes": 2064,
       "sha256": "c51a62913c9f2f9658a669f2aa305a07f7a90b1952f95d599b4088a68d7a6b99",
@@ -778,6 +784,11 @@
     "examples/bfhioq_study.py": {
       "bytes": 23574,
       "sha256": "d5249afb51031df7cdcf5c5903fc267cfa164b99adee19980b7b8dc8fc218583",
+      "license": "MIT"
+    },
+    "examples/build_specular_rtl.py": {
+      "bytes": 553,
+      "sha256": "3206efb5ccccd429f4fb8b46aab3cc3aade2b6bc8dd34239324d62c57eb203da",
       "license": "MIT"
     },
     "examples/capitals_selection_proof.py": {
@@ -831,8 +842,8 @@
       "license": "MIT"
     },
     "examples/inventory.py": {
-      "bytes": 12285,
-      "sha256": "1d43ffb927b13a68f20ca38e10bbe4816841dd802a4e9e607aea4c1edb61517e",
+      "bytes": 12638,
+      "sha256": "bc6d29974e493cfc9199525ab4cd80d2f55f46eb66abba7a248b0f82f0179e76",
       "license": "MIT"
     },
     "examples/jkuvwxyz_selection_proof.py": {
@@ -905,6 +916,11 @@
       "sha256": "ac9ee92b953af8014f1c3e5ba335b59e787bd0b8c79ae74c1178dd3508143482",
       "license": "MIT"
     },
+    "examples/specular_preview.py": {
+      "bytes": 3826,
+      "sha256": "15eff30ef1f9f8f77e65c19cd90d8f74c45a2ef1c3e4765004b59afe1f15a8db",
+      "license": "MIT"
+    },
     "examples/windows_font_check.py": {
       "bytes": 3225,
       "sha256": "a450fafe682257ef867a4f4f1edfa9cf68bf119899b151d10c47269f1339901f",
@@ -963,6 +979,11 @@
     "fonts/Leonardus-Regular.ttf": {
       "bytes": 26640,
       "sha256": "1f65d26ece4c8a0fe9c275fcdedfa037fab88a9687b0cd89a941d131eb899632",
+      "license": "OFL-1.1"
+    },
+    "fonts/Leonardus-Specchio-RTL-1.270.ttf": {
+      "bytes": 29924,
+      "sha256": "82bfee66b4771f5dde95aead11427f3528bf69e08d8a311e90b06c07028bab23",
       "license": "OFL-1.1"
     },
     "fonts/previous/Leonardus-Regular-1.000.ttf": {
@@ -2270,6 +2291,16 @@
       "sha256": "810ff4be09f4218f23f36e617b7f405ec02cce0f1728a63b7b55d25d48ac238d",
       "license": "MIT"
     },
+    "specimen/Leonardus-Specchio-Preview.png": {
+      "bytes": 212102,
+      "sha256": "931a5264c117d869d65c7521897c4bc11012d331aef787d068692ddf4e926cc6",
+      "license": "MIT"
+    },
+    "specimen/Leonardus-Specchio-Trial.html": {
+      "bytes": 2800,
+      "sha256": "640d93ef312d3845d50c5015a22037ff8584c17b4c203081fe0378d50669468b",
+      "license": "MIT"
+    },
     "specimen/Leonardus-Specimen.pdf": {
       "bytes": 84780,
       "sha256": "b5c5f42c9024bac121c3a04239a4fd4ee84b5fcc447270eb64210a909c1f8e5f",
@@ -2445,6 +2476,11 @@
       "sha256": "98018fb24a8a7db332be6b4dda03bf8e00210a647cc2ecca8171e5abb6cff3b1",
       "license": "MIT"
     },
+    "src/leonardus/specular.py": {
+      "bytes": 4272,
+      "sha256": "ef0888ab35f2c120ecaa1461f0ca958ad225456c1a4962856f6dd0d2437b6aef",
+      "license": "MIT"
+    },
     "tests/test_aemnu_integration.py": {
       "bytes": 5480,
       "sha256": "d33fedfb4c93f254dd41f521df7ad15065f0731c8c6424169a3be3dcc4998d35",
@@ -2578,6 +2614,11 @@
     "tests/test_spacing_release.py": {
       "bytes": 3381,
       "sha256": "3e972b111f3ac65754074892fd83341daaa454a8400303b72c93e0b338a95e06",
+      "license": "MIT"
+    },
+    "tests/test_specular_rtl.py": {
+      "bytes": 6032,
+      "sha256": "459b83159f9fcfeb76bb8c112bbdada939b9b21b714e5419edb39151ac51a3c1",
       "license": "MIT"
     }
   }

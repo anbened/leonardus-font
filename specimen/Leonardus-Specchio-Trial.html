@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="it">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Prova Leonardus Specchio RTL 1.270</title>
+<style>
+@font-face{font-family:LeonardusSpecchio;src:url('../fonts/Leonardus-Specchio-RTL-1.270.ttf') format('truetype');font-display:block}
+*{box-sizing:border-box}body{margin:0;background:#f7f4ec;color:#26312f;font:16px/1.5 system-ui,sans-serif}
+main{max-width:1210px;margin:50px auto;padding:0 28px}header{border-bottom:1px solid #c9ccc2;padding-bottom:24px}
+.eyebrow{color:#667368;font-size:13px;letter-spacing:.12em;text-transform:uppercase}h1{font-size:38px;line-height:1.15;margin:10px 0}
+p{max-width:780px}.controls{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin:22px 0}
+label{display:flex;align-items:center;gap:9px}a{color:#345e49}
+textarea{width:100%;min-height:430px;resize:vertical;border:1px solid #bac5b7;border-radius:9px;background:#fffdf7;color:#202925;padding:26px;font:36pt/1.5 LeonardusSpecchio;direction:rtl;unicode-bidi:bidi-override;text-align:right}
+#status{color:#4c6853;font-size:14px}footer{font-size:14px;color:#687165;margin:35px 0}
+@media(max-width:600px){main{margin:24px auto;padding:0 16px}h1{font-size:30px}textarea{padding:16px}}
+</style>
+<main>
+<header><div class="eyebrow">Leonardus · Specchio RTL · 1.270</div><h1>Scrivi allo specchio</h1>
+<p>Immagine speculare di Leonardus Regular 1.270, composta da destra a sinistra con direzione imposta (<code>unicode-bidi: bidi-override</code>). È una derivazione tecnica senza nuovo disegno, non una grafia autenticata di Leonardo. <a href="../docs/SPECULAR_RTL.md">Documentazione</a> · <a href="../INSTALL.md">Installazione</a></p></header>
+<div class="controls">
+<label>Corpo <input id="size" type="range" min="12" max="72" value="36"><output id="sizeLabel">36 pt</output></label>
+</div>
+<p id="status" role="status">Caricamento del font…</p>
+<textarea id="sample" dir="rtl" aria-label="Scrivi il tuo testo con Leonardus Specchio" spellcheck="false">Arte, scienza e immaginazione.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+à è é ì ò ù — 0123456789 € (1.234,56)</textarea>
+<footer>Contorni originali OFL 1.1 · Codice e documentazione MIT</footer>
+</main>
+<script>
+const sample=document.getElementById('sample'),size=document.getElementById('size'),label=document.getElementById('sizeLabel'),status=document.getElementById('status');
+size.addEventListener('input',()=>{sample.style.fontSize=size.value+'pt';label.textContent=size.value+' pt'});
+document.fonts.load('36pt LeonardusSpecchio').then(()=>{status.textContent='Font caricato: Leonardus Specchio Regular 1.270.'},()=>{status.textContent='Font non caricato: apri la pagina dal repository, con la cartella fonts/ accanto.'});
+</script>
+</html>

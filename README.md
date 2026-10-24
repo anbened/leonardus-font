@@ -39,6 +39,16 @@ su Windows, Word e PowerPoint nel perimetro del
 [rapporto di collaudo](docs/OFFICE_1_270.md); macOS e Linux non hanno qui
 un collaudo applicativo documentato.
 
+## Versione speculare da destra a sinistra
+
+[Leonardus Specchio](docs/SPECULAR_RTL.md) è l'immagine speculare della 1.270
+per comporre testo da destra a sinistra, come nelle annotazioni speculari
+dei manoscritti. È una derivazione tecnica, non una nuova scelta di
+disegno né una grafia autenticata, e non sostituisce Leonardus Regular.
+[TTF](fonts/Leonardus-Specchio-RTL-1.270.ttf) ·
+[Anteprima](specimen/Leonardus-Specchio-Preview.png) ·
+[Prova nel browser](specimen/Leonardus-Specchio-Trial.html).
+
 ## Dalle fonti al disegno
 
 La ricerca parte da campioni del **Codice Madrid I, Biblioteca Nacional de
@@ -64,7 +74,7 @@ il font; per installarlo basta il TTF indicato sopra.
 
 | Percorso | Contenuto |
 |---|---|
-| `fonts/` | TTF corrente e checkpoint per confronti e controlli. Per installare usa solo `Leonardus-Regular-1.270.ttf`. |
+| `fonts/` | TTF corrente e checkpoint per confronti e controlli. Per installare Leonardus usa solo `Leonardus-Regular-1.270.ttf`; `Leonardus-Specchio-RTL-1.270.ttf` è la derivazione speculare opzionale. |
 | `specimen/` | Campionario PDF, anteprima e prova HTML locale; tavole degli studi precedenti. |
 | `glyphs/` | Contorni SVG, manifesti e varianti di disegno. |
 | `data/` | Provenienza, classificazioni ed estratti delle decisioni. |
